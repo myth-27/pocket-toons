@@ -1,0 +1,16 @@
+webtoon_title,genre,absolute_quality_score,relative_priority_score,decision_label,behavior_score,emotion_score,risk_penalty,buzz_multiplier,genre_rank,overall_rank
+Solo Leveling,action,84.24,49.0,GREENLIGHT / MONITOR,0.5,0.5,0.15,1.2,1.0,4.0
+Lookism,drama,38.64,49.0,DO NOT GREENLIGHT,0.5,0.5,0.15,1.2,1.0,4.0
+Omniscient Reader,fantasy,100.0,32.67,GREENLIGHT / MONITOR,1.0,0.0,0.0,1.2,1.0,8.0
+Tower of God,fantasy,35.13,0.0,DO NOT GREENLIGHT,0.0,1.0,0.3,1.2,2.0,15.0
+True Beauty,romance,54.3,49.0,DO NOT GREENLIGHT,0.5,0.5,0.15,1.2,1.0,4.0
+Sweet Home,unknown,80.74,100.0,GREENLIGHT,0.8256,0.6241,0.0,1.2,1.0,1.0
+God of High School,unknown,82.1,79.54,GREENLIGHT,0.5751,0.8748,0.1732,1.2,2.0,2.0
+Lore Olympus,unknown,70.44,56.28,GREENLIGHT,0.6032,0.6397,0.2462,1.2,3.0,3.0
+SubZero,unknown,44.95,43.2,DO NOT GREENLIGHT,0.3868,0.4644,0.1189,1.2,4.0,7.0
+Unordinary,unknown,51.93,31.9,DO NOT GREENLIGHT,1.0,0.1215,0.1528,1.2,5.0,9.0
+The Boxer,unknown,41.47,25.03,DO NOT GREENLIGHT,0.5907,0.2843,0.2717,1.2,6.0,10.0
+Age Matters,unknown,19.22,21.84,DO NOT GREENLIGHT,0.5528,0.0,0.0995,1.2,7.0,11.0
+Noblesse,unknown,29.52,12.69,DO NOT GREENLIGHT,0.6434,0.0922,0.2547,1.2,8.0,12.0
+Bastard,unknown,57.76,12.33,DO NOT GREENLIGHT,0.0,1.0,0.1868,1.2,9.0,13.0
+I Love Yoo,unknown,0.0,1.42,DO NOT GREENLIGHT,0.049,0.2216,0.3,1.2,10.0,14.0

@@ -1,0 +1,1321 @@
+title,episode,comment_count,positive_sentiment,addiction_score,theory_crafting_score
+Solo Leveling,1,4510,0.81,0.84,0.11
+Solo Leveling,2,4471,0.88,0.73,0.58
+Solo Leveling,3,4373,0.73,0.78,0.46
+Solo Leveling,4,3657,0.9,0.89,0.56
+Solo Leveling,5,3773,0.84,0.79,0.33
+Solo Leveling,6,4481,0.7,0.76,0.39
+Solo Leveling,7,3233,0.72,1.0,0.55
+Solo Leveling,8,3733,0.77,0.85,0.27
+Solo Leveling,9,3401,0.84,0.95,0.4
+Solo Leveling,10,2336,0.8,0.87,0.57
+Solo Leveling,11,2310,0.8,0.85,0.38
+Solo Leveling,12,2108,0.84,0.91,0.52
+Solo Leveling,13,1866,0.74,1.0,0.38
+Solo Leveling,14,1890,0.82,0.75,0.57
+Solo Leveling,15,2946,0.8,0.91,0.2
+Solo Leveling,16,1844,0.94,1.0,0.33
+Solo Leveling,17,2365,0.77,1.0,0.27
+Solo Leveling,18,692,0.95,0.77,0.31
+Solo Leveling,19,1795,0.84,0.65,0.55
+Solo Leveling,20,2445,0.7,0.73,0.28
+Tower of God,1,4181,0.9,0.91,0.41
+Tower of God,2,3984,0.82,0.7,0.44
+Tower of God,3,3816,0.72,1.0,0.58
+Tower of God,4,3468,0.77,0.69,0.53
+Tower of God,5,3264,0.75,0.95,0.33
+Tower of God,6,3914,0.73,0.88,0.2
+Tower of God,7,3427,0.71,0.94,0.14
+Tower of God,8,3013,0.79,0.86,0.2
+Tower of God,9,2582,0.89,0.83,0.6
+Tower of God,10,3821,0.9,0.79,0.24
+Tower of God,11,3222,0.71,0.84,0.44
+Tower of God,12,2980,0.79,0.79,0.25
+Tower of God,13,2184,0.78,0.81,0.28
+Tower of God,14,1417,0.9,0.82,0.4
+Tower of God,15,1857,0.82,0.95,0.44
+Tower of God,16,1019,0.81,0.87,0.38
+Tower of God,17,2442,0.81,0.9,0.47
+Tower of God,18,1855,0.93,0.77,0.27
+Tower of God,19,1213,0.8,0.9,0.26
+Tower of God,20,960,0.82,0.73,0.26
+God of High School,1,3364,0.89,0.67,0.55
+God of High School,2,3230,0.81,0.88,0.51
+God of High School,3,3489,0.78,1.0,0.53
+God of High School,4,2890,0.89,0.83,0.31
+God of High School,5,2518,0.92,0.86,0.54
+God of High School,6,3086,0.84,0.81,0.5
+God of High School,7,2863,0.93,0.79,0.27
+God of High School,8,2449,0.87,0.8,0.48
+God of High School,9,2156,0.8,0.87,0.12
+God of High School,10,2499,0.8,0.88,0.51
+God of High School,11,2101,0.72,0.81,0.2
+God of High School,12,1884,0.84,0.56,0.14
+God of High School,13,1880,0.9,0.86,0.3
+God of High School,14,1886,0.86,0.92,0.32
+God of High School,15,1698,0.7,0.96,0.37
+God of High School,16,2695,0.76,0.9,0.36
+God of High School,17,1690,0.87,0.95,0.16
+God of High School,18,1055,0.85,0.98,0.13
+God of High School,19,971,0.93,0.9,0.42
+God of High School,20,2286,0.73,0.82,0.46
+Eleceed,1,4104,0.79,0.99,0.12
+Eleceed,2,4012,0.71,0.87,0.46
+Eleceed,3,3646,0.77,0.72,0.33
+Eleceed,4,3603,0.92,0.91,0.13
+Eleceed,5,3396,0.79,0.82,0.28
+Eleceed,6,2622,0.84,0.89,0.37
+Eleceed,7,2060,0.84,0.99,0.3
+Eleceed,8,2597,0.76,0.85,0.14
+Eleceed,9,1957,0.89,0.72,0.24
+Eleceed,10,2399,0.89,0.76,0.16
+Eleceed,11,2099,0.9,1.0,0.16
+Eleceed,12,1237,0.74,0.9,0.54
+Eleceed,13,2955,0.82,0.93,0.45
+Eleceed,14,2038,0.75,0.89,0.47
+Eleceed,15,1041,0.77,0.62,0.36
+Eleceed,16,1440,0.85,0.81,0.47
+Eleceed,17,1778,0.82,0.81,0.22
+Eleceed,18,2342,0.91,1.0,0.3
+Eleceed,19,1023,0.85,1.0,0.47
+Eleceed,20,3008,0.77,0.78,0.44
+Teenage Mercenary,1,3608,0.9,0.77,0.12
+Teenage Mercenary,2,3528,0.86,0.77,0.29
+Teenage Mercenary,3,3401,0.74,0.93,0.48
+Teenage Mercenary,4,3484,0.95,0.95,0.51
+Teenage Mercenary,5,2956,0.75,0.8,0.15
+Teenage Mercenary,6,3093,0.91,0.76,0.51
+Teenage Mercenary,7,3067,0.92,0.67,0.27
+Teenage Mercenary,8,1953,0.84,0.68,0.56
+Teenage Mercenary,9,2981,0.83,0.95,0.48
+Teenage Mercenary,10,2389,0.86,0.82,0.44
+Teenage Mercenary,11,1970,0.93,0.79,0.11
+Teenage Mercenary,12,1694,0.75,0.9,0.45
+Teenage Mercenary,13,2063,0.91,0.85,0.56
+Teenage Mercenary,14,1865,0.82,0.71,0.12
+Teenage Mercenary,15,3281,0.93,0.82,0.47
+Teenage Mercenary,16,1469,0.92,0.94,0.37
+Teenage Mercenary,17,1745,0.9,0.86,0.25
+Teenage Mercenary,18,1766,0.93,0.81,0.18
+Teenage Mercenary,19,1874,0.82,0.94,0.18
+Teenage Mercenary,20,1454,0.81,1.0,0.36
+Lookism,1,2902,0.95,0.93,0.32
+Lookism,2,2723,0.81,0.88,0.59
+Lookism,3,2795,0.9,0.69,0.56
+Lookism,4,2789,0.78,0.8,0.5
+Lookism,5,2394,0.92,0.8,0.23
+Lookism,6,2586,0.76,0.78,0.58
+Lookism,7,2294,0.74,1.0,0.56
+Lookism,8,1928,0.81,0.89,0.41
+Lookism,9,2083,0.91,0.94,0.55
+Lookism,10,1398,0.71,0.93,0.29
+Lookism,11,2600,0.89,0.84,0.4
+Lookism,12,1490,0.82,1.0,0.19
+Lookism,13,2096,0.71,0.81,0.36
+Lookism,14,1459,0.85,0.7,0.12
+Lookism,15,1124,0.91,0.88,0.4
+Lookism,16,1297,0.92,0.92,0.45
+Lookism,17,819,0.89,0.8,0.29
+Lookism,18,718,0.95,0.93,0.49
+Lookism,19,912,0.84,0.75,0.58
+Lookism,20,638,0.87,0.91,0.28
+Viral Hit,1,3151,0.88,0.97,0.53
+Viral Hit,2,2701,0.78,0.85,0.25
+Viral Hit,3,3010,0.75,0.88,0.24
+Viral Hit,4,2492,0.81,0.68,0.58
+Viral Hit,5,2595,0.91,0.75,0.25
+Viral Hit,6,2845,0.77,0.91,0.3
+Viral Hit,7,2638,0.73,0.83,0.51
+Viral Hit,8,1700,0.87,0.7,0.43
+Viral Hit,9,1645,0.87,0.89,0.41
+Viral Hit,10,2249,0.76,0.74,0.39
+Viral Hit,11,1867,0.79,0.76,0.24
+Viral Hit,12,1982,0.85,1.0,0.3
+Viral Hit,13,1661,0.84,0.91,0.51
+Viral Hit,14,3263,0.81,0.7,0.17
+Viral Hit,15,1236,0.91,0.99,0.49
+Viral Hit,16,1087,0.95,0.9,0.59
+Viral Hit,17,2359,0.71,0.89,0.13
+Viral Hit,18,1689,0.79,0.87,0.2
+Viral Hit,19,2818,0.76,0.96,0.17
+Viral Hit,20,1898,0.85,0.82,0.39
+Weak Hero,1,3261,0.77,0.78,0.13
+Weak Hero,2,3282,0.81,0.88,0.29
+Weak Hero,3,3519,0.81,1.0,0.41
+Weak Hero,4,2829,0.89,0.9,0.46
+Weak Hero,5,2901,0.94,1.0,0.6
+Weak Hero,6,2476,0.72,1.0,0.49
+Weak Hero,7,2499,0.88,0.79,0.11
+Weak Hero,8,2624,0.77,0.81,0.17
+Weak Hero,9,3022,0.85,0.85,0.28
+Weak Hero,10,2462,0.9,0.97,0.28
+Weak Hero,11,1711,0.85,0.87,0.35
+Weak Hero,12,1774,0.73,0.84,0.39
+Weak Hero,13,2562,0.9,0.86,0.19
+Weak Hero,14,1470,0.88,0.72,0.28
+Weak Hero,15,1774,0.73,0.93,0.14
+Weak Hero,16,1121,0.72,0.89,0.56
+Weak Hero,17,1054,0.86,0.91,0.27
+Weak Hero,18,1333,0.76,0.81,0.4
+Weak Hero,19,2159,0.72,0.82,0.41
+Weak Hero,20,880,0.74,0.89,0.41
+Omniscient Reader,1,4408,0.94,0.96,0.2
+Omniscient Reader,2,4244,0.89,0.69,0.55
+Omniscient Reader,3,4632,0.86,0.73,0.36
+Omniscient Reader,4,3631,0.81,0.74,0.17
+Omniscient Reader,5,4041,0.78,0.84,0.11
+Omniscient Reader,6,2514,0.8,0.85,0.25
+Omniscient Reader,7,3846,0.92,0.86,0.52
+Omniscient Reader,8,3336,0.85,0.61,0.4
+Omniscient Reader,9,2745,0.76,0.84,0.35
+Omniscient Reader,10,2426,0.71,0.71,0.21
+Omniscient Reader,11,3070,0.93,0.9,0.4
+Omniscient Reader,12,2361,0.81,0.81,0.13
+Omniscient Reader,13,2838,0.83,0.85,0.46
+Omniscient Reader,14,2809,0.83,0.77,0.27
+Omniscient Reader,15,2358,0.73,0.77,0.23
+Omniscient Reader,16,3011,0.85,0.95,0.4
+Omniscient Reader,17,1717,0.74,0.82,0.25
+Omniscient Reader,18,1729,0.85,0.8,0.54
+Omniscient Reader,19,3240,0.94,1.0,0.34
+Omniscient Reader,20,1374,0.84,1.0,0.3
+Lore Olympus,1,5335,0.78,0.49,0.2
+Lore Olympus,2,5269,0.92,0.83,0.24
+Lore Olympus,3,5103,0.91,0.66,0.22
+Lore Olympus,4,4745,0.83,1.0,0.22
+Lore Olympus,5,4799,0.73,0.71,0.47
+Lore Olympus,6,4445,0.89,0.62,0.42
+Lore Olympus,7,4345,0.86,0.93,0.16
+Lore Olympus,8,4261,0.78,0.65,0.12
+Lore Olympus,9,4082,0.94,0.82,0.26
+Lore Olympus,10,4018,0.7,0.54,0.37
+Lore Olympus,11,3733,0.73,1.0,0.44
+Lore Olympus,12,3534,0.84,0.81,0.46
+Lore Olympus,13,4020,0.74,0.61,0.35
+Lore Olympus,14,3908,0.81,0.6,0.28
+Lore Olympus,15,3274,0.91,0.85,0.48
+Lore Olympus,16,3996,0.94,0.6,0.37
+Lore Olympus,17,3178,0.76,0.59,0.32
+Lore Olympus,18,2599,0.8,0.84,0.17
+Lore Olympus,19,3403,0.86,0.66,0.23
+Lore Olympus,20,3069,0.87,0.73,0.17
+True Beauty,1,4610,0.85,0.64,0.28
+True Beauty,2,4451,0.9,0.37,0.27
+True Beauty,3,4352,0.77,0.91,0.53
+True Beauty,4,4795,0.81,0.75,0.42
+True Beauty,5,4170,0.89,0.53,0.57
+True Beauty,6,4076,0.78,0.72,0.59
+True Beauty,7,3752,0.73,0.89,0.24
+True Beauty,8,3665,0.81,0.65,0.15
+True Beauty,9,2997,0.74,0.97,0.21
+True Beauty,10,3611,0.82,0.62,0.22
+True Beauty,11,3939,0.74,0.64,0.45
+True Beauty,12,2890,0.9,1.0,0.51
+True Beauty,13,3896,0.86,1.0,0.52
+True Beauty,14,2851,0.83,0.88,0.47
+True Beauty,15,3139,0.82,0.81,0.57
+True Beauty,16,2261,0.7,0.61,0.45
+True Beauty,17,1959,0.73,0.86,0.45
+True Beauty,18,2485,0.94,0.86,0.26
+True Beauty,19,2865,0.94,1.0,0.25
+True Beauty,20,2443,0.93,0.85,0.5
+Let's Play,1,4164,0.79,0.74,0.19
+Let's Play,2,4066,0.86,0.82,0.42
+Let's Play,3,4089,0.76,0.76,0.36
+Let's Play,4,3359,0.8,0.62,0.58
+Let's Play,5,3564,0.71,0.72,0.41
+Let's Play,6,3505,0.82,1.0,0.42
+Let's Play,7,3392,0.7,0.44,0.23
+Let's Play,8,2859,0.93,0.77,0.16
+Let's Play,9,2934,0.83,0.58,0.51
+Let's Play,10,3226,0.86,0.73,0.48
+Let's Play,11,2338,0.93,0.56,0.17
+Let's Play,12,3131,0.95,0.67,0.34
+Let's Play,13,3396,0.9,0.8,0.13
+Let's Play,14,2401,0.82,0.44,0.41
+Let's Play,15,2106,0.9,0.88,0.36
+Let's Play,16,3096,0.91,0.81,0.26
+Let's Play,17,3140,0.79,0.66,0.26
+Let's Play,18,2596,0.79,0.15,0.13
+Let's Play,19,2943,0.88,0.92,0.18
+Let's Play,20,2371,0.89,0.91,0.19
+I Love Yoo,1,3652,0.81,0.75,0.44
+I Love Yoo,2,3274,0.71,0.77,0.5
+I Love Yoo,3,2850,0.9,0.72,0.16
+I Love Yoo,4,3294,0.92,0.51,0.41
+I Love Yoo,5,3164,0.86,0.75,0.2
+I Love Yoo,6,2470,0.71,0.56,0.18
+I Love Yoo,7,2530,0.79,0.61,0.24
+I Love Yoo,8,1679,0.84,0.65,0.17
+I Love Yoo,9,1109,0.92,0.8,0.25
+I Love Yoo,10,3173,0.76,0.66,0.58
+I Love Yoo,11,1970,0.74,0.81,0.44
+I Love Yoo,12,3035,0.81,0.84,0.59
+I Love Yoo,13,1523,0.75,0.88,0.43
+I Love Yoo,14,1702,0.7,0.77,0.52
+I Love Yoo,15,2467,0.8,0.62,0.22
+I Love Yoo,16,1622,0.74,0.65,0.25
+I Love Yoo,17,1966,0.91,0.7,0.2
+I Love Yoo,18,2463,0.93,0.72,0.48
+I Love Yoo,19,2369,0.79,0.64,0.31
+I Love Yoo,20,787,0.7,0.8,0.28
+UnOrdinary,1,4664,0.91,0.92,0.17
+UnOrdinary,2,4886,0.89,0.88,0.28
+UnOrdinary,3,4714,0.84,0.79,0.42
+UnOrdinary,4,4614,0.85,0.96,0.39
+UnOrdinary,5,3552,0.76,0.92,0.48
+UnOrdinary,6,3459,0.79,0.89,0.47
+UnOrdinary,7,3396,0.78,0.97,0.32
+UnOrdinary,8,3482,0.95,0.85,0.31
+UnOrdinary,9,2578,0.87,0.94,0.46
+UnOrdinary,10,3021,0.89,0.72,0.53
+UnOrdinary,11,2191,0.88,0.98,0.16
+UnOrdinary,12,3882,0.7,0.85,0.42
+UnOrdinary,13,2154,0.83,0.84,0.56
+UnOrdinary,14,2284,0.87,0.73,0.14
+UnOrdinary,15,1553,0.71,0.88,0.16
+UnOrdinary,16,2474,0.74,0.93,0.23
+UnOrdinary,17,1646,0.72,1.0,0.16
+UnOrdinary,18,2161,0.92,0.82,0.18
+UnOrdinary,19,1981,0.95,0.93,0.18
+UnOrdinary,20,947,0.91,0.88,0.35
+The Remarried Empress,1,4282,0.92,0.64,0.14
+The Remarried Empress,2,4420,0.88,0.82,0.29
+The Remarried Empress,3,3972,0.86,0.92,0.32
+The Remarried Empress,4,3745,0.9,0.87,0.57
+The Remarried Empress,5,3424,0.8,0.81,0.43
+The Remarried Empress,6,3445,0.94,0.78,0.33
+The Remarried Empress,7,2958,0.79,0.75,0.19
+The Remarried Empress,8,4496,0.72,0.57,0.53
+The Remarried Empress,9,3352,0.86,0.89,0.3
+The Remarried Empress,10,2527,0.8,0.69,0.37
+The Remarried Empress,11,2726,0.89,0.8,0.33
+The Remarried Empress,12,2272,0.88,0.88,0.25
+The Remarried Empress,13,2495,0.86,0.77,0.46
+The Remarried Empress,14,2871,0.7,0.8,0.24
+The Remarried Empress,15,2653,0.72,0.68,0.19
+The Remarried Empress,16,2093,0.88,0.68,0.14
+The Remarried Empress,17,2864,0.73,0.78,0.47
+The Remarried Empress,18,2683,0.76,0.85,0.57
+The Remarried Empress,19,4587,0.75,0.72,0.33
+The Remarried Empress,20,1105,0.9,0.92,0.29
+SubZero,1,3571,0.73,0.83,0.48
+SubZero,2,3301,0.89,0.98,0.12
+SubZero,3,3118,0.88,0.83,0.28
+SubZero,4,3493,0.84,1.0,0.54
+SubZero,5,2693,0.91,0.76,0.22
+SubZero,6,2482,0.87,0.63,0.35
+SubZero,7,2003,0.89,0.7,0.46
+SubZero,8,3491,0.78,0.8,0.21
+SubZero,9,2717,0.76,0.77,0.55
+SubZero,10,3209,0.76,0.83,0.36
+SubZero,11,2644,0.94,0.71,0.3
+SubZero,12,1910,0.88,0.67,0.2
+SubZero,13,3071,0.87,0.77,0.32
+SubZero,14,1272,0.89,0.68,0.37
+SubZero,15,1702,0.78,0.88,0.18
+SubZero,16,1513,0.91,0.68,0.25
+SubZero,17,2869,0.94,0.77,0.14
+SubZero,18,950,0.72,0.57,0.59
+SubZero,19,2312,0.8,0.87,0.47
+SubZero,20,1777,0.87,0.77,0.56
+Cursed Princess Club,1,3137,0.93,0.78,0.16
+Cursed Princess Club,2,3244,0.83,0.87,0.56
+Cursed Princess Club,3,2891,0.85,0.9,0.25
+Cursed Princess Club,4,2750,0.78,0.85,0.13
+Cursed Princess Club,5,2396,0.75,0.81,0.47
+Cursed Princess Club,6,2629,0.76,0.84,0.34
+Cursed Princess Club,7,1992,0.95,0.81,0.38
+Cursed Princess Club,8,2790,0.77,0.84,0.11
+Cursed Princess Club,9,2211,0.88,0.88,0.57
+Cursed Princess Club,10,1930,0.88,0.8,0.13
+Cursed Princess Club,11,2727,0.94,0.91,0.18
+Cursed Princess Club,12,1923,0.94,0.8,0.16
+Cursed Princess Club,13,1399,0.77,0.95,0.36
+Cursed Princess Club,14,1880,0.83,0.79,0.27
+Cursed Princess Club,15,968,0.84,0.76,0.36
+Cursed Princess Club,16,1130,0.7,0.8,0.34
+Cursed Princess Club,17,1858,0.75,1.0,0.56
+Cursed Princess Club,18,725,0.8,0.91,0.35
+Cursed Princess Club,19,1986,0.75,0.94,0.25
+Cursed Princess Club,20,749,0.73,0.84,0.46
+Boyfriends,1,3468,0.76,0.73,0.58
+Boyfriends,2,3335,0.86,0.79,0.32
+Boyfriends,3,3266,0.74,0.85,0.18
+Boyfriends,4,3121,0.72,1.0,0.36
+Boyfriends,5,2879,0.85,0.88,0.54
+Boyfriends,6,2828,0.76,0.72,0.58
+Boyfriends,7,2957,0.88,1.0,0.44
+Boyfriends,8,2632,0.78,0.74,0.54
+Boyfriends,9,2508,0.7,0.9,0.49
+Boyfriends,10,2441,0.88,0.85,0.18
+Boyfriends,11,2578,0.78,0.8,0.36
+Boyfriends,12,2252,0.87,0.46,0.4
+Boyfriends,13,2735,0.79,0.66,0.26
+Boyfriends,14,1965,0.89,0.9,0.4
+Boyfriends,15,1958,0.81,1.0,0.5
+Boyfriends,16,1673,0.72,0.93,0.58
+Boyfriends,17,2542,0.8,0.79,0.23
+Boyfriends,18,1960,0.85,1.0,0.53
+Boyfriends,19,2382,0.77,0.64,0.11
+Boyfriends,20,2423,0.93,0.97,0.57
+Down to Earth,1,3336,0.87,0.67,0.2
+Down to Earth,2,3172,0.87,0.54,0.36
+Down to Earth,3,3024,0.7,0.68,0.15
+Down to Earth,4,2710,0.88,0.66,0.37
+Down to Earth,5,2859,0.75,0.72,0.11
+Down to Earth,6,2587,0.77,0.62,0.14
+Down to Earth,7,2956,0.71,0.83,0.4
+Down to Earth,8,2623,0.92,0.71,0.46
+Down to Earth,9,2798,0.71,0.61,0.27
+Down to Earth,10,2719,0.86,0.76,0.57
+Down to Earth,11,2219,0.92,0.57,0.55
+Down to Earth,12,2422,0.89,0.82,0.57
+Down to Earth,13,2540,0.91,0.62,0.16
+Down to Earth,14,2444,0.95,0.57,0.57
+Down to Earth,15,2032,0.81,0.82,0.57
+Down to Earth,16,1796,0.87,0.7,0.48
+Down to Earth,17,1869,0.84,0.83,0.15
+Down to Earth,18,1703,0.75,0.86,0.33
+Down to Earth,19,1910,0.88,0.81,0.3
+Down to Earth,20,2102,0.81,0.65,0.46
+The Boxer,1,3560,0.88,0.63,0.17
+The Boxer,2,3671,0.74,0.76,0.37
+The Boxer,3,3580,0.83,0.91,0.17
+The Boxer,4,3070,0.82,0.92,0.43
+The Boxer,5,3510,0.71,0.77,0.15
+The Boxer,6,2578,0.75,0.64,0.34
+The Boxer,7,2824,0.8,0.81,0.32
+The Boxer,8,2760,0.78,0.76,0.38
+The Boxer,9,2530,0.76,0.95,0.46
+The Boxer,10,2576,0.84,0.78,0.27
+The Boxer,11,1733,0.92,0.84,0.27
+The Boxer,12,1988,0.94,0.75,0.15
+The Boxer,13,1857,0.79,0.87,0.6
+The Boxer,14,1613,0.87,0.94,0.1
+The Boxer,15,1634,0.75,0.93,0.26
+The Boxer,16,2670,0.82,0.85,0.42
+The Boxer,17,2001,0.76,0.83,0.17
+The Boxer,18,1653,0.77,0.88,0.25
+The Boxer,19,1066,0.75,0.78,0.18
+The Boxer,20,1106,0.79,0.84,0.46
+Bastard,1,4110,0.73,0.92,0.41
+Bastard,2,3833,0.77,0.99,0.12
+Bastard,3,4010,0.91,0.96,0.5
+Bastard,4,3859,0.9,0.9,0.24
+Bastard,5,3489,0.87,0.95,0.31
+Bastard,6,3879,0.86,0.91,0.33
+Bastard,7,3875,0.85,0.92,0.2
+Bastard,8,4086,0.92,0.87,0.43
+Bastard,9,3805,0.74,0.98,0.33
+Bastard,10,3389,0.88,0.88,0.5
+Bastard,11,2755,0.81,0.91,0.3
+Bastard,12,2744,0.86,0.86,0.24
+Bastard,13,3247,0.71,0.87,0.52
+Bastard,14,3377,0.79,0.93,0.36
+Bastard,15,2674,0.92,0.91,0.26
+Bastard,16,3545,0.9,0.91,0.14
+Bastard,17,3438,0.88,0.95,0.29
+Bastard,18,3341,0.86,0.87,0.27
+Bastard,19,3274,0.87,0.82,0.36
+Bastard,20,4257,0.8,0.89,0.2
+Sweet Home,1,4244,0.72,0.92,0.42
+Sweet Home,2,4225,0.92,0.94,0.32
+Sweet Home,3,3961,0.7,0.92,0.57
+Sweet Home,4,4023,0.87,0.91,0.27
+Sweet Home,5,4013,0.73,0.9,0.49
+Sweet Home,6,3848,0.93,1.0,0.29
+Sweet Home,7,4208,0.92,0.86,0.36
+Sweet Home,8,3870,0.94,0.9,0.6
+Sweet Home,9,4053,0.94,0.83,0.5
+Sweet Home,10,3388,0.72,1.0,0.56
+Sweet Home,11,3568,0.92,0.93,0.47
+Sweet Home,12,3612,0.83,0.93,0.32
+Sweet Home,13,4086,0.79,0.89,0.35
+Sweet Home,14,3081,0.84,0.8,0.26
+Sweet Home,15,3889,0.94,0.86,0.1
+Sweet Home,16,2479,0.75,0.9,0.54
+Sweet Home,17,2667,0.78,0.87,0.43
+Sweet Home,18,3295,0.86,0.87,0.51
+Sweet Home,19,3373,0.84,0.89,0.6
+Sweet Home,20,2479,0.94,0.97,0.25
+See You in My 19th Life,1,3112,0.89,0.83,0.57
+See You in My 19th Life,2,3020,0.75,0.78,0.35
+See You in My 19th Life,3,2812,0.76,0.83,0.23
+See You in My 19th Life,4,2963,0.83,0.66,0.49
+See You in My 19th Life,5,2874,0.74,0.64,0.34
+See You in My 19th Life,6,2492,0.76,0.73,0.43
+See You in My 19th Life,7,2514,0.73,0.81,0.27
+See You in My 19th Life,8,2514,0.84,0.97,0.42
+See You in My 19th Life,9,2683,0.94,0.76,0.11
+See You in My 19th Life,10,2754,0.74,0.85,0.4
+See You in My 19th Life,11,2722,0.93,0.88,0.6
+See You in My 19th Life,12,2921,0.9,0.45,0.55
+See You in My 19th Life,13,1772,0.76,0.92,0.23
+See You in My 19th Life,14,2194,0.82,0.63,0.28
+See You in My 19th Life,15,2400,0.94,1.0,0.15
+See You in My 19th Life,16,2228,0.9,0.86,0.55
+See You in My 19th Life,17,2026,0.74,0.9,0.21
+See You in My 19th Life,18,2042,0.86,0.89,0.34
+See You in My 19th Life,19,1707,0.8,0.71,0.3
+See You in My 19th Life,20,1978,0.76,0.72,0.21
+Business Proposal,1,2999,0.83,0.7,0.41
+Business Proposal,2,2929,0.94,0.62,0.24
+Business Proposal,3,2832,0.8,0.88,0.58
+Business Proposal,4,2979,0.84,0.77,0.27
+Business Proposal,5,2544,0.73,0.92,0.59
+Business Proposal,6,2627,0.8,0.62,0.26
+Business Proposal,7,2308,0.79,1.0,0.2
+Business Proposal,8,2215,0.73,0.52,0.27
+Business Proposal,9,2836,0.82,0.82,0.29
+Business Proposal,10,2192,0.94,0.93,0.58
+Business Proposal,11,1907,0.93,0.74,0.33
+Business Proposal,12,2450,0.82,0.57,0.17
+Business Proposal,13,2242,0.76,0.82,0.26
+Business Proposal,14,2005,0.76,0.95,0.17
+Business Proposal,15,2054,0.94,0.7,0.53
+Business Proposal,16,2006,0.84,0.52,0.42
+Business Proposal,17,1805,0.75,0.65,0.34
+Business Proposal,18,2316,0.8,0.52,0.42
+Business Proposal,19,1534,0.85,0.77,0.11
+Business Proposal,20,1553,0.84,0.86,0.29
+Navillera,1,2515,0.79,0.61,0.16
+Navillera,2,2533,0.92,0.65,0.47
+Navillera,3,2271,0.82,0.49,0.15
+Navillera,4,1934,0.78,0.74,0.56
+Navillera,5,1973,0.73,0.64,0.37
+Navillera,6,2006,0.71,0.64,0.27
+Navillera,7,1543,0.72,0.74,0.11
+Navillera,8,2227,0.76,0.43,0.58
+Navillera,9,1415,0.77,0.71,0.46
+Navillera,10,1126,0.92,0.85,0.2
+Navillera,11,945,0.7,0.62,0.59
+Navillera,12,2378,0.79,0.58,0.14
+Navillera,13,1053,0.84,0.64,0.46
+Navillera,14,1645,0.91,0.68,0.54
+Navillera,15,1145,0.82,0.77,0.47
+Navillera,16,564,0.81,0.63,0.4
+Navillera,17,551,0.8,0.72,0.36
+Navillera,18,942,0.84,0.64,0.23
+Navillera,19,615,0.93,0.88,0.49
+Navillera,20,355,0.89,0.65,0.37
+Your Throne,1,3402,0.81,0.88,0.15
+Your Throne,2,3153,0.88,0.91,0.57
+Your Throne,3,3081,0.91,0.99,0.44
+Your Throne,4,2824,0.94,0.82,0.31
+Your Throne,5,2675,0.78,0.6,0.17
+Your Throne,6,2565,0.86,0.79,0.44
+Your Throne,7,2225,0.92,0.95,0.19
+Your Throne,8,2668,0.9,0.77,0.58
+Your Throne,9,2919,0.8,0.74,0.12
+Your Throne,10,3150,0.93,0.86,0.46
+Your Throne,11,2260,0.72,0.82,0.19
+Your Throne,12,2480,0.73,0.86,0.54
+Your Throne,13,1243,0.72,0.8,0.17
+Your Throne,14,2719,0.8,0.71,0.25
+Your Throne,15,1062,0.84,0.65,0.12
+Your Throne,16,2425,0.78,0.71,0.34
+Your Throne,17,1975,0.87,0.86,0.42
+Your Throne,18,1471,0.81,0.87,0.55
+Your Throne,19,986,0.79,0.92,0.17
+Your Throne,20,2469,0.89,0.69,0.13
+Men of the Harem,1,2960,0.77,0.71,0.55
+Men of the Harem,2,2760,0.91,1.0,0.54
+Men of the Harem,3,3065,0.8,0.82,0.14
+Men of the Harem,4,2399,0.81,0.69,0.46
+Men of the Harem,5,2575,0.73,0.67,0.33
+Men of the Harem,6,2391,0.78,0.77,0.37
+Men of the Harem,7,2790,0.88,0.85,0.56
+Men of the Harem,8,1660,0.93,1.0,0.22
+Men of the Harem,9,2386,0.92,0.76,0.14
+Men of the Harem,10,2329,0.89,0.88,0.39
+Men of the Harem,11,1595,0.81,0.61,0.58
+Men of the Harem,12,1350,0.73,0.58,0.53
+Men of the Harem,13,1962,0.79,0.85,0.49
+Men of the Harem,14,2023,0.91,0.88,0.28
+Men of the Harem,15,1652,0.92,0.92,0.29
+Men of the Harem,16,1729,0.92,1.0,0.52
+Men of the Harem,17,1067,0.89,0.68,0.59
+Men of the Harem,18,4719,0.81,0.77,0.32
+Men of the Harem,19,1759,0.76,0.83,0.23
+Men of the Harem,20,1217,0.72,0.69,0.34
+Suitor Armor,1,2872,0.72,0.6,0.1
+Suitor Armor,2,2539,0.75,0.7,0.54
+Suitor Armor,3,2873,0.75,1.0,0.54
+Suitor Armor,4,2444,0.89,0.75,0.19
+Suitor Armor,5,2447,0.87,0.7,0.32
+Suitor Armor,6,2536,0.91,0.7,0.19
+Suitor Armor,7,2332,0.92,0.78,0.48
+Suitor Armor,8,1503,0.88,0.84,0.27
+Suitor Armor,9,1800,0.81,0.73,0.32
+Suitor Armor,10,3282,0.71,0.91,0.3
+Suitor Armor,11,2265,0.89,0.74,0.33
+Suitor Armor,12,1521,0.87,0.65,0.16
+Suitor Armor,13,2472,0.74,0.93,0.37
+Suitor Armor,14,1565,0.85,0.95,0.5
+Suitor Armor,15,954,0.81,0.84,0.39
+Suitor Armor,16,1094,0.9,0.7,0.12
+Suitor Armor,17,1373,0.88,0.74,0.18
+Suitor Armor,18,1539,0.88,0.77,0.43
+Suitor Armor,19,2205,0.89,0.81,0.19
+Suitor Armor,20,2107,0.8,0.62,0.48
+Eaternal Nocturnal,1,3129,0.79,0.76,0.12
+Eaternal Nocturnal,2,2975,0.73,0.57,0.44
+Eaternal Nocturnal,3,2742,0.84,1.0,0.46
+Eaternal Nocturnal,4,2799,0.9,0.69,0.47
+Eaternal Nocturnal,5,2748,0.88,0.71,0.59
+Eaternal Nocturnal,6,2337,0.78,0.42,0.57
+Eaternal Nocturnal,7,2611,0.87,0.65,0.21
+Eaternal Nocturnal,8,2314,0.89,0.64,0.19
+Eaternal Nocturnal,9,2414,0.89,0.82,0.19
+Eaternal Nocturnal,10,2139,0.94,0.98,0.48
+Eaternal Nocturnal,11,2355,0.73,0.87,0.38
+Eaternal Nocturnal,12,2111,0.71,0.85,0.58
+Eaternal Nocturnal,13,2551,0.85,0.65,0.4
+Eaternal Nocturnal,14,1594,0.74,0.8,0.12
+Eaternal Nocturnal,15,2521,0.83,0.83,0.45
+Eaternal Nocturnal,16,1984,0.79,0.62,0.23
+Eaternal Nocturnal,17,1471,0.8,0.66,0.49
+Eaternal Nocturnal,18,1735,0.82,0.71,0.17
+Eaternal Nocturnal,19,1634,0.83,0.64,0.35
+Eaternal Nocturnal,20,1677,0.71,0.98,0.53
+Operation: True Love,1,2709,0.81,0.65,0.36
+Operation: True Love,2,2587,0.9,0.76,0.37
+Operation: True Love,3,2372,0.93,0.59,0.41
+Operation: True Love,4,2387,0.91,0.69,0.49
+Operation: True Love,5,2133,0.91,0.47,0.26
+Operation: True Love,6,2423,0.9,0.51,0.45
+Operation: True Love,7,2179,0.86,0.62,0.53
+Operation: True Love,8,2308,0.8,0.88,0.23
+Operation: True Love,9,1772,0.73,0.83,0.44
+Operation: True Love,10,1899,0.76,0.82,0.11
+Operation: True Love,11,2129,0.91,0.9,0.28
+Operation: True Love,12,1791,0.86,0.83,0.57
+Operation: True Love,13,1579,0.8,0.82,0.24
+Operation: True Love,14,1655,0.81,0.61,0.6
+Operation: True Love,15,1725,0.76,0.81,0.43
+Operation: True Love,16,1227,0.77,0.86,0.5
+Operation: True Love,17,1486,0.92,0.59,0.21
+Operation: True Love,18,1469,0.79,0.58,0.6
+Operation: True Love,19,1790,0.75,0.73,0.34
+Operation: True Love,20,1818,0.84,0.56,0.53
+Maybe Meant to Be,1,2804,0.91,0.48,0.24
+Maybe Meant to Be,2,2704,0.7,0.77,0.31
+Maybe Meant to Be,3,2624,0.81,0.74,0.41
+Maybe Meant to Be,4,2706,0.92,0.68,0.16
+Maybe Meant to Be,5,2320,0.88,0.76,0.25
+Maybe Meant to Be,6,2697,0.79,0.79,0.3
+Maybe Meant to Be,7,2189,0.92,0.77,0.15
+Maybe Meant to Be,8,2146,0.72,0.79,0.23
+Maybe Meant to Be,9,2232,0.83,0.73,0.3
+Maybe Meant to Be,10,2057,0.79,0.84,0.26
+Maybe Meant to Be,11,2527,0.74,0.77,0.41
+Maybe Meant to Be,12,1746,0.8,0.62,0.22
+Maybe Meant to Be,13,2603,0.7,0.67,0.28
+Maybe Meant to Be,14,1889,0.84,0.74,0.58
+Maybe Meant to Be,15,1754,0.91,0.47,0.13
+Maybe Meant to Be,16,1752,0.7,0.68,0.38
+Maybe Meant to Be,17,2111,0.92,0.86,0.16
+Maybe Meant to Be,18,2107,0.81,0.57,0.37
+Maybe Meant to Be,19,1523,0.73,0.98,0.47
+Maybe Meant to Be,20,1634,0.95,0.67,0.49
+Marry My Husband,1,3109,0.82,0.72,0.2
+Marry My Husband,2,3025,0.92,0.71,0.38
+Marry My Husband,3,3054,0.92,0.88,0.6
+Marry My Husband,4,3038,0.75,0.8,0.21
+Marry My Husband,5,2963,0.74,0.62,0.53
+Marry My Husband,6,2677,0.84,0.8,0.44
+Marry My Husband,7,2521,0.74,0.65,0.12
+Marry My Husband,8,2817,0.76,0.83,0.2
+Marry My Husband,9,2115,0.81,0.46,0.38
+Marry My Husband,10,2047,0.73,0.8,0.44
+Marry My Husband,11,2095,0.79,0.76,0.56
+Marry My Husband,12,2115,0.79,0.73,0.14
+Marry My Husband,13,2238,0.85,0.9,0.42
+Marry My Husband,14,2394,0.71,0.95,0.52
+Marry My Husband,15,2492,0.95,0.68,0.51
+Marry My Husband,16,1765,0.86,1.0,0.47
+Marry My Husband,17,2310,0.89,0.63,0.41
+Marry My Husband,18,1839,0.91,0.54,0.3
+Marry My Husband,19,2477,0.91,0.67,0.26
+Marry My Husband,20,1818,0.83,0.88,0.41
+Doom Breaker,1,3452,0.92,0.87,0.47
+Doom Breaker,2,3105,0.94,0.9,0.28
+Doom Breaker,3,2909,0.94,0.73,0.33
+Doom Breaker,4,2621,0.7,1.0,0.18
+Doom Breaker,5,2697,0.84,0.96,0.42
+Doom Breaker,6,2537,0.87,0.82,0.52
+Doom Breaker,7,2406,0.89,0.94,0.5
+Doom Breaker,8,3122,0.93,0.89,0.14
+Doom Breaker,9,2250,0.89,0.87,0.3
+Doom Breaker,10,1953,0.89,0.99,0.15
+Doom Breaker,11,2342,0.94,0.82,0.27
+Doom Breaker,12,1835,0.94,0.84,0.4
+Doom Breaker,13,2434,0.91,1.0,0.48
+Doom Breaker,14,2071,0.8,0.79,0.59
+Doom Breaker,15,1736,0.78,0.81,0.22
+Doom Breaker,16,1399,0.84,0.85,0.5
+Doom Breaker,17,1291,0.86,0.85,0.55
+Doom Breaker,18,2401,0.85,0.85,0.11
+Doom Breaker,19,1908,0.81,0.87,0.39
+Doom Breaker,20,622,0.77,0.82,0.12
+66666 Years: Advent of the Dark Mage,1,2678,0.87,0.86,0.34
+66666 Years: Advent of the Dark Mage,2,2581,0.74,0.78,0.31
+66666 Years: Advent of the Dark Mage,3,2554,0.75,0.88,0.54
+66666 Years: Advent of the Dark Mage,4,2046,0.7,0.97,0.42
+66666 Years: Advent of the Dark Mage,5,2115,0.8,0.81,0.33
+66666 Years: Advent of the Dark Mage,6,2644,0.93,0.62,0.38
+66666 Years: Advent of the Dark Mage,7,2490,0.88,0.67,0.53
+66666 Years: Advent of the Dark Mage,8,2043,0.75,0.92,0.46
+66666 Years: Advent of the Dark Mage,9,1485,0.79,0.88,0.28
+66666 Years: Advent of the Dark Mage,10,1617,0.87,0.86,0.25
+66666 Years: Advent of the Dark Mage,11,2510,0.7,0.73,0.15
+66666 Years: Advent of the Dark Mage,12,1516,0.77,0.89,0.12
+66666 Years: Advent of the Dark Mage,13,1351,0.88,0.89,0.31
+66666 Years: Advent of the Dark Mage,14,1881,0.87,0.82,0.19
+66666 Years: Advent of the Dark Mage,15,1428,0.79,0.87,0.21
+66666 Years: Advent of the Dark Mage,16,2341,0.9,0.91,0.56
+66666 Years: Advent of the Dark Mage,17,1186,0.79,0.83,0.49
+66666 Years: Advent of the Dark Mage,18,1766,0.92,0.85,0.16
+66666 Years: Advent of the Dark Mage,19,739,0.86,0.85,0.58
+66666 Years: Advent of the Dark Mage,20,1432,0.91,0.88,0.32
+The Advanced Player of the Tutorial Tower,1,2993,0.85,1.0,0.25
+The Advanced Player of the Tutorial Tower,2,2759,0.78,0.64,0.35
+The Advanced Player of the Tutorial Tower,3,2848,0.85,0.91,0.57
+The Advanced Player of the Tutorial Tower,4,2624,0.86,0.8,0.39
+The Advanced Player of the Tutorial Tower,5,2481,0.91,0.85,0.13
+The Advanced Player of the Tutorial Tower,6,1665,0.8,0.7,0.45
+The Advanced Player of the Tutorial Tower,7,1752,0.71,0.79,0.55
+The Advanced Player of the Tutorial Tower,8,2257,0.76,0.88,0.56
+The Advanced Player of the Tutorial Tower,9,2507,0.72,0.68,0.16
+The Advanced Player of the Tutorial Tower,10,2081,0.92,0.86,0.58
+The Advanced Player of the Tutorial Tower,11,1790,0.89,0.92,0.23
+The Advanced Player of the Tutorial Tower,12,1261,0.89,0.98,0.54
+The Advanced Player of the Tutorial Tower,13,1300,0.87,0.84,0.58
+The Advanced Player of the Tutorial Tower,14,1186,0.91,0.71,0.35
+The Advanced Player of the Tutorial Tower,15,1286,0.87,0.83,0.32
+The Advanced Player of the Tutorial Tower,16,1398,0.87,0.95,0.47
+The Advanced Player of the Tutorial Tower,17,1219,0.9,0.96,0.24
+The Advanced Player of the Tutorial Tower,18,588,0.95,0.89,0.44
+The Advanced Player of the Tutorial Tower,19,1390,0.72,0.75,0.25
+The Advanced Player of the Tutorial Tower,20,824,0.77,0.69,0.31
+Return of the Blossoming Blade,1,3308,0.7,0.94,0.52
+Return of the Blossoming Blade,2,3255,0.79,0.8,0.19
+Return of the Blossoming Blade,3,2830,0.76,0.83,0.26
+Return of the Blossoming Blade,4,2579,0.94,0.71,0.28
+Return of the Blossoming Blade,5,2673,0.94,0.92,0.24
+Return of the Blossoming Blade,6,2743,0.93,0.9,0.39
+Return of the Blossoming Blade,7,2569,0.92,0.73,0.27
+Return of the Blossoming Blade,8,1866,0.89,0.76,0.32
+Return of the Blossoming Blade,9,3190,0.7,0.78,0.15
+Return of the Blossoming Blade,10,2382,0.87,1.0,0.24
+Return of the Blossoming Blade,11,2388,0.83,0.54,0.35
+Return of the Blossoming Blade,12,2572,0.95,0.8,0.33
+Return of the Blossoming Blade,13,2313,0.91,0.93,0.58
+Return of the Blossoming Blade,14,1864,0.9,0.82,0.6
+Return of the Blossoming Blade,15,1049,0.83,0.94,0.26
+Return of the Blossoming Blade,16,1449,0.8,0.67,0.59
+Return of the Blossoming Blade,17,1351,0.92,0.88,0.54
+Return of the Blossoming Blade,18,2609,0.93,0.8,0.19
+Return of the Blossoming Blade,19,478,0.73,1.0,0.6
+Return of the Blossoming Blade,20,1473,0.82,0.94,0.2
+Leveling Up with the Gods,1,2920,0.71,0.95,0.54
+Leveling Up with the Gods,2,2852,0.77,0.87,0.56
+Leveling Up with the Gods,3,2873,0.91,0.88,0.53
+Leveling Up with the Gods,4,2073,0.91,0.86,0.37
+Leveling Up with the Gods,5,1941,0.73,0.95,0.23
+Leveling Up with the Gods,6,1870,0.7,0.96,0.28
+Leveling Up with the Gods,7,1799,0.7,0.72,0.34
+Leveling Up with the Gods,8,1887,0.75,0.87,0.25
+Leveling Up with the Gods,9,1778,0.86,0.97,0.2
+Leveling Up with the Gods,10,1743,0.81,1.0,0.47
+Leveling Up with the Gods,11,1425,0.81,0.96,0.22
+Leveling Up with the Gods,12,1702,0.78,0.91,0.49
+Leveling Up with the Gods,13,2348,0.7,0.82,0.49
+Leveling Up with the Gods,14,1981,0.95,0.69,0.36
+Leveling Up with the Gods,15,1106,0.87,0.88,0.17
+Leveling Up with the Gods,16,1639,0.85,0.71,0.28
+Leveling Up with the Gods,17,2230,0.7,1.0,0.41
+Leveling Up with the Gods,18,1933,0.89,0.8,0.43
+Leveling Up with the Gods,19,1236,0.92,0.88,0.47
+Leveling Up with the Gods,20,485,0.91,0.86,0.12
+Nano Machine,1,3377,0.94,0.88,0.24
+Nano Machine,2,3113,0.76,0.82,0.19
+Nano Machine,3,2837,0.72,0.65,0.18
+Nano Machine,4,3142,0.76,0.88,0.12
+Nano Machine,5,2782,0.91,0.87,0.48
+Nano Machine,6,2441,0.76,0.88,0.53
+Nano Machine,7,2648,0.76,0.72,0.14
+Nano Machine,8,1812,0.73,0.86,0.29
+Nano Machine,9,2842,0.89,0.94,0.2
+Nano Machine,10,3178,0.77,0.96,0.54
+Nano Machine,11,1676,0.95,0.75,0.57
+Nano Machine,12,1005,0.9,0.88,0.24
+Nano Machine,13,2106,0.71,0.92,0.24
+Nano Machine,14,1497,0.72,0.8,0.34
+Nano Machine,15,2418,0.76,0.86,0.6
+Nano Machine,16,1442,0.71,0.71,0.58
+Nano Machine,17,2256,0.87,0.92,0.12
+Nano Machine,18,2001,0.79,0.93,0.17
+Nano Machine,19,1089,0.94,0.83,0.1
+Nano Machine,20,600,0.89,0.89,0.23
+Designated Bully,1,2488,0.92,0.91,0.36
+Designated Bully,2,2472,0.8,0.85,0.33
+Designated Bully,3,2504,0.86,0.88,0.3
+Designated Bully,4,2259,0.92,0.84,0.24
+Designated Bully,5,1932,0.91,0.85,0.35
+Designated Bully,6,1771,0.87,1.0,0.58
+Designated Bully,7,2089,0.77,0.93,0.3
+Designated Bully,8,1877,0.89,0.89,0.17
+Designated Bully,9,1325,0.73,0.95,0.11
+Designated Bully,10,1388,0.75,0.99,0.54
+Designated Bully,11,1007,0.91,0.7,0.47
+Designated Bully,12,851,0.75,0.94,0.49
+Designated Bully,13,1198,0.85,0.85,0.33
+Designated Bully,14,1044,0.83,0.79,0.6
+Designated Bully,15,1153,0.71,0.9,0.17
+Designated Bully,16,888,0.8,0.71,0.57
+Designated Bully,17,1505,0.89,0.8,0.42
+Designated Bully,18,534,0.9,0.75,0.2
+Designated Bully,19,1028,0.95,0.88,0.25
+Designated Bully,20,1455,0.74,0.84,0.41
+Get Schooled,1,3241,0.81,0.93,0.2
+Get Schooled,2,3257,0.89,0.83,0.21
+Get Schooled,3,2753,0.86,0.94,0.55
+Get Schooled,4,2519,0.93,0.86,0.55
+Get Schooled,5,1939,0.84,0.9,0.55
+Get Schooled,6,2620,0.86,0.8,0.45
+Get Schooled,7,2384,0.85,0.69,0.36
+Get Schooled,8,2526,0.88,1.0,0.38
+Get Schooled,9,1993,0.73,0.93,0.31
+Get Schooled,10,2443,0.86,0.79,0.53
+Get Schooled,11,1454,0.78,0.71,0.37
+Get Schooled,12,2097,0.79,0.81,0.51
+Get Schooled,13,2253,0.94,0.84,0.47
+Get Schooled,14,1532,0.85,1.0,0.26
+Get Schooled,15,2370,0.7,0.74,0.25
+Get Schooled,16,1022,0.94,0.93,0.4
+Get Schooled,17,1407,0.75,1.0,0.33
+Get Schooled,18,1115,0.77,0.78,0.36
+Get Schooled,19,712,0.93,0.86,0.49
+Get Schooled,20,690,0.88,0.91,0.41
+Reality Quest,1,2599,0.72,0.95,0.49
+Reality Quest,2,2393,0.74,0.86,0.45
+Reality Quest,3,2482,0.87,0.76,0.24
+Reality Quest,4,1944,0.74,0.94,0.42
+Reality Quest,5,2084,0.77,0.76,0.11
+Reality Quest,6,1765,0.79,0.74,0.48
+Reality Quest,7,1714,0.8,0.96,0.51
+Reality Quest,8,1001,0.83,0.87,0.27
+Reality Quest,9,2037,0.8,1.0,0.34
+Reality Quest,10,1888,0.76,1.0,0.54
+Reality Quest,11,1566,0.86,0.93,0.35
+Reality Quest,12,1474,0.74,1.0,0.24
+Reality Quest,13,1251,0.78,0.75,0.14
+Reality Quest,14,1474,0.87,0.75,0.24
+Reality Quest,15,926,0.88,0.94,0.37
+Reality Quest,16,1123,0.87,0.93,0.1
+Reality Quest,17,1271,0.89,0.78,0.21
+Reality Quest,18,1515,0.75,0.96,0.46
+Reality Quest,19,380,0.83,1.0,0.12
+Reality Quest,20,884,0.78,0.91,0.14
+Questism,1,2769,0.84,0.93,0.33
+Questism,2,2474,0.94,0.87,0.19
+Questism,3,2510,0.82,0.88,0.1
+Questism,4,2139,0.87,0.71,0.49
+Questism,5,1991,0.81,0.91,0.29
+Questism,6,2414,0.79,0.97,0.47
+Questism,7,2095,0.93,0.8,0.27
+Questism,8,1985,0.81,0.78,0.22
+Questism,9,1842,0.75,0.88,0.52
+Questism,10,1473,0.86,0.84,0.44
+Questism,11,2304,0.79,0.86,0.47
+Questism,12,1952,0.79,1.0,0.44
+Questism,13,1193,0.84,0.98,0.18
+Questism,14,1295,0.71,0.88,0.21
+Questism,15,1469,0.84,0.94,0.24
+Questism,16,1236,0.78,0.94,0.29
+Questism,17,1191,0.84,0.88,0.51
+Questism,18,893,0.79,0.69,0.19
+Questism,19,1460,0.92,0.99,0.56
+Questism,20,887,0.72,0.89,0.54
+My Dear Cold-Blooded King,1,3344,0.72,0.57,0.42
+My Dear Cold-Blooded King,2,3306,0.76,0.73,0.15
+My Dear Cold-Blooded King,3,3290,0.94,0.8,0.16
+My Dear Cold-Blooded King,4,3061,0.79,0.69,0.43
+My Dear Cold-Blooded King,5,2862,0.84,0.66,0.28
+My Dear Cold-Blooded King,6,3267,0.75,0.88,0.13
+My Dear Cold-Blooded King,7,2926,0.87,0.5,0.22
+My Dear Cold-Blooded King,8,2717,0.74,0.92,0.28
+My Dear Cold-Blooded King,9,2392,0.89,0.65,0.2
+My Dear Cold-Blooded King,10,2202,0.81,0.89,0.48
+My Dear Cold-Blooded King,11,2284,0.9,0.78,0.39
+My Dear Cold-Blooded King,12,2362,0.84,0.53,0.51
+My Dear Cold-Blooded King,13,2359,0.94,0.73,0.37
+My Dear Cold-Blooded King,14,2351,0.75,0.64,0.31
+My Dear Cold-Blooded King,15,2212,0.75,0.71,0.15
+My Dear Cold-Blooded King,16,1904,0.94,0.78,0.38
+My Dear Cold-Blooded King,17,2681,0.74,0.82,0.1
+My Dear Cold-Blooded King,18,1480,0.79,0.77,0.45
+My Dear Cold-Blooded King,19,1109,0.76,0.57,0.23
+My Dear Cold-Blooded King,20,1741,0.89,0.82,0.42
+Midnight Poppy Land,1,3625,0.72,0.73,0.28
+Midnight Poppy Land,2,3466,0.73,0.9,0.11
+Midnight Poppy Land,3,3461,0.88,0.66,0.41
+Midnight Poppy Land,4,3168,0.93,0.77,0.26
+Midnight Poppy Land,5,3231,0.95,0.67,0.27
+Midnight Poppy Land,6,3399,0.79,0.82,0.2
+Midnight Poppy Land,7,3114,0.81,0.81,0.6
+Midnight Poppy Land,8,2759,0.87,0.55,0.24
+Midnight Poppy Land,9,3285,0.89,0.85,0.32
+Midnight Poppy Land,10,3374,0.86,0.9,0.2
+Midnight Poppy Land,11,2902,0.89,0.64,0.27
+Midnight Poppy Land,12,2458,0.87,0.72,0.31
+Midnight Poppy Land,13,2744,0.71,0.79,0.48
+Midnight Poppy Land,14,3048,0.8,0.82,0.18
+Midnight Poppy Land,15,2185,0.85,0.76,0.51
+Midnight Poppy Land,16,1929,0.78,0.69,0.38
+Midnight Poppy Land,17,2112,0.74,0.91,0.3
+Midnight Poppy Land,18,2085,0.92,0.76,0.24
+Midnight Poppy Land,19,2204,0.93,0.64,0.37
+Midnight Poppy Land,20,2354,0.8,0.91,0.26
+Age Matters,1,3298,0.84,0.62,0.37
+Age Matters,2,3146,0.91,0.87,0.2
+Age Matters,3,3044,0.92,0.73,0.16
+Age Matters,4,3297,0.8,0.66,0.57
+Age Matters,5,3205,0.71,0.67,0.14
+Age Matters,6,2757,0.87,0.55,0.13
+Age Matters,7,2437,0.76,0.46,0.38
+Age Matters,8,2828,0.79,0.8,0.3
+Age Matters,9,2350,0.72,0.98,0.38
+Age Matters,10,2601,0.77,0.53,0.51
+Age Matters,11,2827,0.93,0.82,0.28
+Age Matters,12,2547,0.92,0.72,0.1
+Age Matters,13,2201,0.81,0.82,0.48
+Age Matters,14,2096,0.7,0.87,0.11
+Age Matters,15,1826,0.73,0.67,0.52
+Age Matters,16,2518,0.83,0.58,0.21
+Age Matters,17,2658,0.88,0.52,0.3
+Age Matters,18,1889,0.73,0.9,0.54
+Age Matters,19,2314,0.95,0.61,0.42
+Age Matters,20,1491,0.79,0.51,0.32
+Edith,1,2684,0.75,0.76,0.26
+Edith,2,2555,0.71,0.73,0.3
+Edith,3,2439,0.78,1.0,0.25
+Edith,4,2557,0.8,0.76,0.48
+Edith,5,2394,0.92,0.67,0.55
+Edith,6,2154,0.86,0.74,0.34
+Edith,7,2810,0.93,0.86,0.12
+Edith,8,2456,0.79,0.77,0.3
+Edith,9,2062,0.85,0.68,0.48
+Edith,10,1906,0.87,0.66,0.36
+Edith,11,1867,0.7,0.86,0.44
+Edith,12,2069,0.76,0.75,0.4
+Edith,13,1723,0.92,0.74,0.46
+Edith,14,1785,0.87,0.69,0.31
+Edith,15,2117,0.87,0.8,0.41
+Edith,16,1591,0.92,0.44,0.55
+Edith,17,1469,0.86,0.73,0.36
+Edith,18,1316,0.71,0.8,0.47
+Edith,19,2099,0.83,0.62,0.39
+Edith,20,1281,0.82,0.66,0.39
+Purple Hyacinth,1,4338,0.94,0.86,0.39
+Purple Hyacinth,2,4259,0.82,0.89,0.36
+Purple Hyacinth,3,4096,0.94,0.88,0.2
+Purple Hyacinth,4,4063,0.72,0.9,0.59
+Purple Hyacinth,5,4342,0.93,0.92,0.41
+Purple Hyacinth,6,3684,0.91,0.94,0.54
+Purple Hyacinth,7,3553,0.93,0.86,0.32
+Purple Hyacinth,8,4217,0.84,0.86,0.46
+Purple Hyacinth,9,3403,0.95,0.93,0.19
+Purple Hyacinth,10,3348,0.88,0.94,0.24
+Purple Hyacinth,11,3031,0.83,0.88,0.49
+Purple Hyacinth,12,4305,0.71,0.88,0.34
+Purple Hyacinth,13,3023,0.74,0.85,0.26
+Purple Hyacinth,14,3303,0.83,0.96,0.11
+Purple Hyacinth,15,3493,0.73,0.86,0.41
+Purple Hyacinth,16,3001,0.82,0.94,0.25
+Purple Hyacinth,17,3371,0.89,0.98,0.17
+Purple Hyacinth,18,2904,0.84,0.97,0.12
+Purple Hyacinth,19,2230,0.86,0.91,0.48
+Purple Hyacinth,20,3936,0.92,0.92,0.4
+Not Even Bones,1,3066,0.83,0.94,0.13
+Not Even Bones,2,2990,0.79,0.89,0.3
+Not Even Bones,3,2975,0.79,0.92,0.47
+Not Even Bones,4,3037,0.8,0.9,0.27
+Not Even Bones,5,2892,0.8,0.91,0.51
+Not Even Bones,6,3015,0.88,0.85,0.21
+Not Even Bones,7,2801,0.71,0.93,0.54
+Not Even Bones,8,2535,0.86,0.87,0.18
+Not Even Bones,9,2934,0.92,0.97,0.35
+Not Even Bones,10,2275,0.93,0.83,0.34
+Not Even Bones,11,2137,0.73,0.96,0.1
+Not Even Bones,12,1953,0.8,0.92,0.17
+Not Even Bones,13,2328,0.87,0.87,0.57
+Not Even Bones,14,2527,0.92,0.92,0.57
+Not Even Bones,15,2382,0.76,0.94,0.38
+Not Even Bones,16,2626,0.82,0.9,0.37
+Not Even Bones,17,2213,0.89,0.95,0.26
+Not Even Bones,18,2195,0.86,0.88,0.19
+Not Even Bones,19,1941,0.91,0.86,0.24
+Not Even Bones,20,1762,0.85,0.93,0.42
+Everything is Fine,1,2472,0.92,0.82,0.13
+Everything is Fine,2,2549,0.87,0.92,0.32
+Everything is Fine,3,2519,0.87,0.91,0.48
+Everything is Fine,4,2301,0.82,0.89,0.58
+Everything is Fine,5,2470,0.82,0.93,0.19
+Everything is Fine,6,2279,0.84,0.88,0.41
+Everything is Fine,7,1947,0.78,0.98,0.51
+Everything is Fine,8,2313,0.86,0.86,0.23
+Everything is Fine,9,2159,0.7,0.91,0.26
+Everything is Fine,10,2230,0.86,0.96,0.45
+Everything is Fine,11,1761,0.83,0.88,0.26
+Everything is Fine,12,1721,0.93,0.98,0.24
+Everything is Fine,13,2034,0.89,0.95,0.29
+Everything is Fine,14,2111,0.74,0.96,0.37
+Everything is Fine,15,1638,0.8,0.95,0.13
+Everything is Fine,16,1588,0.83,0.91,0.53
+Everything is Fine,17,3261,0.84,0.89,0.52
+Everything is Fine,18,1589,0.87,0.85,0.16
+Everything is Fine,19,1551,0.8,0.96,0.57
+Everything is Fine,20,2540,0.75,0.92,0.37
+Homesick,1,2284,0.88,0.89,0.51
+Homesick,2,2311,0.71,0.9,0.56
+Homesick,3,2084,0.85,0.92,0.3
+Homesick,4,2104,0.77,0.8,0.49
+Homesick,5,2122,0.92,0.91,0.33
+Homesick,6,1955,0.93,0.88,0.5
+Homesick,7,2040,0.81,0.93,0.44
+Homesick,8,2176,0.93,0.89,0.38
+Homesick,9,1872,0.73,0.93,0.42
+Homesick,10,2043,0.89,0.88,0.27
+Homesick,11,1702,0.72,0.89,0.56
+Homesick,12,1878,0.72,0.91,0.18
+Homesick,13,1566,0.73,0.88,0.3
+Homesick,14,1711,0.82,0.98,0.23
+Homesick,15,1881,0.74,1.0,0.14
+Homesick,16,2014,0.83,0.9,0.13
+Homesick,17,1342,0.9,0.89,0.47
+Homesick,18,1784,0.74,0.96,0.12
+Homesick,19,1471,0.75,0.92,0.17
+Homesick,20,1985,0.89,0.84,0.21
+Stagtown,1,2137,0.93,0.98,0.47
+Stagtown,2,2131,0.94,0.92,0.55
+Stagtown,3,2013,0.76,0.99,0.4
+Stagtown,4,1994,0.77,0.92,0.56
+Stagtown,5,1965,0.86,0.93,0.31
+Stagtown,6,1856,0.83,0.97,0.3
+Stagtown,7,1801,0.95,0.82,0.26
+Stagtown,8,1753,0.93,0.91,0.24
+Stagtown,9,1799,0.72,0.93,0.36
+Stagtown,10,1755,0.78,0.94,0.42
+Stagtown,11,1712,0.72,0.92,0.54
+Stagtown,12,2106,0.89,0.9,0.18
+Stagtown,13,1834,0.81,0.82,0.14
+Stagtown,14,1733,0.9,0.94,0.48
+Stagtown,15,1400,0.84,0.87,0.38
+Stagtown,16,1915,0.81,0.92,0.17
+Stagtown,17,1358,0.73,0.96,0.49
+Stagtown,18,1110,0.72,0.89,0.38
+Stagtown,19,1508,0.79,0.95,0.11
+Stagtown,20,1651,0.81,0.98,0.34
+GremoryLand,1,2047,0.94,0.94,0.24
+GremoryLand,2,2009,0.76,0.86,0.31
+GremoryLand,3,2001,0.79,0.95,0.28
+GremoryLand,4,2026,0.87,0.89,0.37
+GremoryLand,5,1874,0.73,0.93,0.31
+GremoryLand,6,1780,0.88,0.95,0.14
+GremoryLand,7,1885,0.82,0.87,0.2
+GremoryLand,8,1762,0.92,0.94,0.55
+GremoryLand,9,1922,0.82,0.91,0.47
+GremoryLand,10,1411,0.85,0.87,0.27
+GremoryLand,11,1570,0.88,0.85,0.3
+GremoryLand,12,1991,0.87,0.96,0.28
+GremoryLand,13,2068,0.87,0.86,0.55
+GremoryLand,14,1579,0.84,0.95,0.22
+GremoryLand,15,1554,0.7,0.91,0.11
+GremoryLand,16,1391,0.87,0.96,0.52
+GremoryLand,17,1514,0.87,0.93,0.36
+GremoryLand,18,1338,0.94,0.92,0.33
+GremoryLand,19,1080,0.84,0.88,0.27
+GremoryLand,20,1389,0.77,0.9,0.12
+Ghost Teller,1,2945,0.94,0.91,0.11
+Ghost Teller,2,2974,0.9,0.97,0.59
+Ghost Teller,3,2784,0.85,0.87,0.42
+Ghost Teller,4,2750,0.95,0.94,0.33
+Ghost Teller,5,2687,0.88,0.85,0.33
+Ghost Teller,6,2587,0.92,0.91,0.17
+Ghost Teller,7,2644,0.82,0.9,0.39
+Ghost Teller,8,2633,0.84,0.91,0.52
+Ghost Teller,9,2430,0.95,1.0,0.41
+Ghost Teller,10,2352,0.74,0.9,0.59
+Ghost Teller,11,2370,0.82,0.98,0.24
+Ghost Teller,12,2508,0.83,0.86,0.15
+Ghost Teller,13,2620,0.89,0.95,0.32
+Ghost Teller,14,2225,0.79,0.92,0.29
+Ghost Teller,15,2578,0.86,0.88,0.12
+Ghost Teller,16,2129,0.81,0.9,0.26
+Ghost Teller,17,2431,0.76,0.92,0.27
+Ghost Teller,18,2002,0.85,0.96,0.44
+Ghost Teller,19,2395,0.95,0.83,0.26
+Ghost Teller,20,1953,0.89,0.87,0.15
+Hell Is Other People,1,2853,0.85,0.88,0.42
+Hell Is Other People,2,2784,0.84,0.92,0.34
+Hell Is Other People,3,2719,0.85,0.84,0.24
+Hell Is Other People,4,2741,0.76,0.85,0.26
+Hell Is Other People,5,2474,0.88,0.96,0.52
+Hell Is Other People,6,2442,0.78,0.92,0.34
+Hell Is Other People,7,2475,0.81,0.86,0.39
+Hell Is Other People,8,2324,0.73,0.98,0.54
+Hell Is Other People,9,2337,0.75,0.86,0.28
+Hell Is Other People,10,2549,0.73,0.93,0.33
+Hell Is Other People,11,1726,0.91,0.87,0.38
+Hell Is Other People,12,1838,0.89,1.0,0.24
+Hell Is Other People,13,2492,0.78,0.92,0.22
+Hell Is Other People,14,2043,0.73,0.91,0.58
+Hell Is Other People,15,2286,0.87,0.83,0.34
+Hell Is Other People,16,1938,0.84,0.91,0.51
+Hell Is Other People,17,1903,0.7,0.91,0.18
+Hell Is Other People,18,2059,0.94,0.81,0.55
+Hell Is Other People,19,1615,0.7,0.91,0.49
+Hell Is Other People,20,2011,0.95,0.9,0.39
+Acception,1,2222,0.94,0.67,0.4
+Acception,2,2268,0.78,0.71,0.32
+Acception,3,1904,0.71,0.75,0.2
+Acception,4,1679,0.85,0.69,0.26
+Acception,5,2317,0.86,0.75,0.43
+Acception,6,2221,0.79,0.79,0.36
+Acception,7,1536,0.9,0.56,0.56
+Acception,8,946,0.88,0.76,0.22
+Acception,9,1496,0.84,0.62,0.17
+Acception,10,1074,0.76,0.83,0.26
+Acception,11,1648,0.84,0.82,0.13
+Acception,12,993,0.9,0.64,0.28
+Acception,13,1246,0.92,0.79,0.22
+Acception,14,801,0.88,0.59,0.16
+Acception,15,835,0.72,0.82,0.23
+Acception,16,3341,0.82,0.89,0.47
+Acception,17,575,0.94,0.82,0.56
+Acception,18,1069,0.87,0.73,0.32
+Acception,19,329,0.93,0.86,0.28
+Acception,20,590,0.92,0.65,0.35
+Odd Girl Out,1,2997,0.84,0.74,0.55
+Odd Girl Out,2,2636,0.92,0.54,0.34
+Odd Girl Out,3,3048,0.8,0.63,0.32
+Odd Girl Out,4,2538,0.77,0.82,0.37
+Odd Girl Out,5,1744,0.88,0.58,0.48
+Odd Girl Out,6,2464,0.77,0.76,0.46
+Odd Girl Out,7,2090,0.8,0.83,0.31
+Odd Girl Out,8,1907,0.79,0.72,0.38
+Odd Girl Out,9,1783,0.73,0.52,0.53
+Odd Girl Out,10,1089,0.78,0.98,0.36
+Odd Girl Out,11,2356,0.79,0.59,0.12
+Odd Girl Out,12,1664,0.75,0.66,0.45
+Odd Girl Out,13,1164,0.74,0.62,0.26
+Odd Girl Out,14,1743,0.7,0.66,0.14
+Odd Girl Out,15,1030,0.84,0.48,0.26
+Odd Girl Out,16,1611,0.77,0.72,0.33
+Odd Girl Out,17,784,0.84,0.74,0.16
+Odd Girl Out,18,2325,0.9,0.66,0.24
+Odd Girl Out,19,252,0.8,0.74,0.29
+Odd Girl Out,20,910,0.89,0.76,0.36
+Lookism,1,3027,0.79,0.74,0.58
+Lookism,2,3330,0.83,0.68,0.45
+Lookism,3,2984,0.87,0.55,0.49
+Lookism,4,2899,0.89,0.86,0.32
+Lookism,5,2877,0.83,0.52,0.28
+Lookism,6,2063,0.83,0.58,0.52
+Lookism,7,2630,0.82,0.73,0.45
+Lookism,8,2837,0.71,0.75,0.45
+Lookism,9,1812,0.73,0.58,0.35
+Lookism,10,1766,0.93,0.59,0.21
+Lookism,11,2348,0.88,0.61,0.48
+Lookism,12,2766,0.86,0.75,0.6
+Lookism,13,1332,0.77,0.45,0.47
+Lookism,14,1028,0.9,0.6,0.3
+Lookism,15,488,0.95,0.62,0.15
+Lookism,16,2576,0.94,0.68,0.35
+Lookism,17,1276,0.91,0.78,0.24
+Lookism,18,1467,0.92,0.72,0.56
+Lookism,19,850,0.93,0.68,0.51
+Lookism,20,2643,0.72,0.58,0.19
+Weak Hero,1,3633,0.86,0.79,0.14
+Weak Hero,2,3627,0.89,0.89,0.27
+Weak Hero,3,3056,0.72,0.85,0.29
+Weak Hero,4,3252,0.74,0.84,0.58
+Weak Hero,5,3282,0.73,0.81,0.5
+Weak Hero,6,3335,0.76,0.87,0.39
+Weak Hero,7,2343,0.81,0.75,0.4
+Weak Hero,8,1635,0.79,0.96,0.4
+Weak Hero,9,2826,0.82,1.0,0.59
+Weak Hero,10,2273,0.93,0.95,0.53
+Weak Hero,11,2738,0.74,0.95,0.51
+Weak Hero,12,2416,0.83,1.0,0.57
+Weak Hero,13,2953,0.82,1.0,0.47
+Weak Hero,14,1018,0.76,0.92,0.11
+Weak Hero,15,1463,0.74,0.9,0.45
+Weak Hero,16,2946,0.84,0.82,0.16
+Weak Hero,17,625,0.93,0.66,0.4
+Weak Hero,18,2359,0.91,0.85,0.55
+Weak Hero,19,932,0.85,0.96,0.31
+Weak Hero,20,1140,0.86,0.91,0.48
+Wind Breaker,1,3307,0.84,0.77,0.51
+Wind Breaker,2,3163,0.89,0.61,0.41
+Wind Breaker,3,2930,0.76,0.82,0.27
+Wind Breaker,4,2665,0.84,0.76,0.5
+Wind Breaker,5,2721,0.83,0.64,0.58
+Wind Breaker,6,2540,0.93,0.74,0.21
+Wind Breaker,7,3233,0.9,0.76,0.33
+Wind Breaker,8,2589,0.85,0.94,0.21
+Wind Breaker,9,1975,0.79,0.61,0.48
+Wind Breaker,10,1990,0.81,0.84,0.2
+Wind Breaker,11,1828,0.94,0.7,0.42
+Wind Breaker,12,1733,0.89,0.55,0.16
+Wind Breaker,13,2449,0.75,0.66,0.16
+Wind Breaker,14,970,0.9,0.67,0.24
+Wind Breaker,15,1878,0.77,0.9,0.47
+Wind Breaker,16,1282,0.95,0.66,0.56
+Wind Breaker,17,2966,0.88,0.83,0.54
+Wind Breaker,18,2448,0.88,0.8,0.42
+Wind Breaker,19,2732,0.89,0.7,0.37
+Wind Breaker,20,1060,0.78,0.67,0.54
+Pyramid Game,1,2550,0.71,0.57,0.54
+Pyramid Game,2,2348,0.85,0.78,0.44
+Pyramid Game,3,2497,0.84,0.9,0.28
+Pyramid Game,4,1786,0.81,0.45,0.59
+Pyramid Game,5,1900,0.8,0.67,0.34
+Pyramid Game,6,2055,0.74,0.62,0.24
+Pyramid Game,7,1638,0.88,0.57,0.36
+Pyramid Game,8,1002,0.81,0.67,0.43
+Pyramid Game,9,1856,0.9,0.72,0.44
+Pyramid Game,10,1627,0.77,0.7,0.42
+Pyramid Game,11,1630,0.73,0.66,0.35
+Pyramid Game,12,2499,0.88,0.75,0.21
+Pyramid Game,13,559,0.85,0.53,0.44
+Pyramid Game,14,780,0.84,0.63,0.29
+Pyramid Game,15,1047,0.94,0.84,0.2
+Pyramid Game,16,1412,0.74,0.73,0.5
+Pyramid Game,17,2067,0.76,0.68,0.19
+Pyramid Game,18,876,0.79,0.69,0.11
+Pyramid Game,19,889,0.76,0.9,0.6
+Pyramid Game,20,580,0.7,0.74,0.17
+Spirit Fingers,1,2105,0.73,0.58,0.42
+Spirit Fingers,2,2121,0.91,0.78,0.13
+Spirit Fingers,3,1745,0.86,0.75,0.33
+Spirit Fingers,4,2142,0.85,0.49,0.22
+Spirit Fingers,5,1533,0.93,0.67,0.43
+Spirit Fingers,6,1567,0.94,0.66,0.12
+Spirit Fingers,7,1630,0.92,0.65,0.36
+Spirit Fingers,8,995,0.93,0.75,0.22
+Spirit Fingers,9,1995,0.83,0.83,0.39
+Spirit Fingers,10,2408,0.71,0.53,0.52
+Spirit Fingers,11,1213,0.88,0.73,0.38
+Spirit Fingers,12,1308,0.79,0.8,0.19
+Spirit Fingers,13,1006,0.89,0.67,0.43
+Spirit Fingers,14,920,0.81,0.64,0.26
+Spirit Fingers,15,597,0.74,0.61,0.57
+Spirit Fingers,16,641,0.91,0.98,0.13
+Spirit Fingers,17,2060,0.73,0.57,0.59
+Spirit Fingers,18,577,0.86,0.85,0.15
+Spirit Fingers,19,538,0.77,0.82,0.47
+Spirit Fingers,20,816,0.84,0.64,0.12
+Gourmet Hound,1,2523,0.92,0.82,0.57
+Gourmet Hound,2,2036,0.93,0.48,0.35
+Gourmet Hound,3,2195,0.88,0.47,0.14
+Gourmet Hound,4,1933,0.95,0.65,0.26
+Gourmet Hound,5,1646,0.79,0.81,0.13
+Gourmet Hound,6,2007,0.79,0.6,0.22
+Gourmet Hound,7,1195,0.7,0.75,0.52
+Gourmet Hound,8,1673,0.85,0.82,0.48
+Gourmet Hound,9,2530,0.85,0.78,0.38
+Gourmet Hound,10,1807,0.88,0.55,0.46
+Gourmet Hound,11,1332,0.81,0.79,0.54
+Gourmet Hound,12,1066,0.71,0.78,0.23
+Gourmet Hound,13,1777,0.83,0.64,0.44
+Gourmet Hound,14,1178,0.93,0.62,0.54
+Gourmet Hound,15,1067,0.75,0.73,0.19
+Gourmet Hound,16,1195,0.76,0.49,0.19
+Gourmet Hound,17,693,0.86,0.54,0.13
+Gourmet Hound,18,2174,0.77,0.82,0.53
+Gourmet Hound,19,1032,0.87,0.64,0.24
+Gourmet Hound,20,244,0.71,0.64,0.2
+Space Boy,1,2280,0.73,0.84,0.39
+Space Boy,2,2103,0.9,0.54,0.52
+Space Boy,3,1839,0.75,0.49,0.21
+Space Boy,4,1996,0.79,0.65,0.15
+Space Boy,5,1807,0.94,0.63,0.58
+Space Boy,6,1506,0.8,0.8,0.32
+Space Boy,7,1839,0.78,0.71,0.31
+Space Boy,8,1057,0.85,0.88,0.22
+Space Boy,9,815,0.9,0.54,0.12
+Space Boy,10,1452,0.71,0.72,0.45
+Space Boy,11,1276,0.76,0.63,0.56
+Space Boy,12,1150,0.72,0.89,0.27
+Space Boy,13,576,0.94,0.74,0.59
+Space Boy,14,1105,0.81,0.87,0.49
+Space Boy,15,2390,0.87,0.69,0.37
+Space Boy,16,425,0.89,0.55,0.51
+Space Boy,17,584,0.73,0.8,0.51
+Space Boy,18,826,0.91,0.67,0.12
+Space Boy,19,418,0.73,0.96,0.22
+Space Boy,20,513,0.83,0.64,0.23
+Seed,1,1975,0.81,0.84,0.53
+Seed,2,1748,0.84,0.66,0.41
+Seed,3,1681,0.82,0.72,0.22
+Seed,4,1970,0.86,0.63,0.56
+Seed,5,1266,0.79,0.55,0.3
+Seed,6,1672,0.93,0.99,0.47
+Seed,7,1605,0.93,0.76,0.32
+Seed,8,1418,0.87,0.68,0.47
+Seed,9,959,0.9,0.64,0.25
+Seed,10,1080,0.72,0.76,0.15
+Seed,11,2441,0.95,0.34,0.25
+Seed,12,690,0.94,0.72,0.16
+Seed,13,524,0.8,0.8,0.41
+Seed,14,1056,0.81,0.69,0.5
+Seed,15,490,0.83,0.71,0.57
+Seed,16,482,0.8,0.8,0.42
+Seed,17,628,0.75,0.66,0.41
+Seed,18,277,0.89,0.67,0.52
+Seed,19,693,0.94,0.79,0.57
+Seed,20,518,0.89,0.74,0.28
+In the Bleak Midwinter,1,2082,0.75,0.71,0.19
+In the Bleak Midwinter,2,2057,0.71,0.63,0.29
+In the Bleak Midwinter,3,1909,0.86,0.56,0.33
+In the Bleak Midwinter,4,1503,0.8,0.93,0.39
+In the Bleak Midwinter,5,1584,0.9,0.63,0.16
+In the Bleak Midwinter,6,2106,0.85,0.4,0.25
+In the Bleak Midwinter,7,1263,0.92,0.69,0.41
+In the Bleak Midwinter,8,1099,0.92,1.0,0.33
+In the Bleak Midwinter,9,1543,0.71,0.81,0.33
+In the Bleak Midwinter,10,1051,0.94,1.0,0.16
+In the Bleak Midwinter,11,1185,0.91,0.75,0.43
+In the Bleak Midwinter,12,2351,0.93,0.84,0.25
+In the Bleak Midwinter,13,685,0.9,1.0,0.42
+In the Bleak Midwinter,14,576,0.91,0.56,0.51
+In the Bleak Midwinter,15,793,0.71,0.75,0.55
+In the Bleak Midwinter,16,153,0.82,0.92,0.16
+In the Bleak Midwinter,17,779,0.87,0.62,0.44
+In the Bleak Midwinter,18,190,0.92,0.75,0.16
+In the Bleak Midwinter,19,389,0.73,0.8,0.37
+In the Bleak Midwinter,20,318,0.71,0.57,0.37
+Parallel City,1,1790,0.84,0.84,0.56
+Parallel City,2,1717,0.9,0.77,0.48
+Parallel City,3,1732,0.72,0.38,0.22
+Parallel City,4,1744,0.7,0.84,0.11
+Parallel City,5,1502,0.73,0.8,0.25
+Parallel City,6,1327,0.76,0.69,0.44
+Parallel City,7,1309,0.86,0.76,0.16
+Parallel City,8,1394,0.94,0.83,0.23
+Parallel City,9,903,0.93,0.63,0.55
+Parallel City,10,822,0.79,0.72,0.24
+Parallel City,11,1952,0.94,0.66,0.32
+Parallel City,12,1163,0.89,0.65,0.45
+Parallel City,13,583,0.81,0.81,0.42
+Parallel City,14,854,0.75,0.64,0.21
+Parallel City,15,891,0.85,0.7,0.57
+Parallel City,16,1098,0.87,0.69,0.43
+Parallel City,17,937,0.8,0.64,0.19
+Parallel City,18,224,0.9,0.91,0.54
+Parallel City,19,1388,0.77,0.99,0.4
+Parallel City,20,730,0.81,0.6,0.53

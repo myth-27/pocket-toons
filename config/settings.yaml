@@ -1,0 +1,25 @@
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  external_data_dir: "data/external"
+
+scraping:
+  webtoon_base_url: "https://www.webtoons.com"
+  user_agent: "GreenlightIntelligenceBot/0.1"
+  request_timeout_seconds: 10
+
+youtube:
+  language: "en"
+  include_auto_generated: true
+  # Optional: you can also set this via the YOUTUBE_API_KEY environment variable
+  api_key: "AIzaSyCwprGah9FcMrnrlbB_15iVC1Psh28C4PM"
+
+nlp:
+  language: "en"
+  sentiment_model: "textblob"
+
+scoring:
+  title_length_weight: 0.2
+  sentiment_weight: 0.4
+  engagement_weight: 0.4
+

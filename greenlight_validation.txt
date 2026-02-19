@@ -1,0 +1,9 @@
+--- Top 5 Titles by Greenlight Score ---
+ rank webtoon_title  greenlight_score
+    1  Tower of God              50.0
+
+--- Bottom 3 Titles ---
+Rank 1: Tower of God (50.0) - General Low Performance
+
+--- Top Title Explanation ---
+"Strong hooks, moderate addiction language, low risk, neutral buzz."
