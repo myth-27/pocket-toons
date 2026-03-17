@@ -1,0 +1,515 @@
+{
+  "title_header": "Episode 8: Someone That People Need (1)",
+  "dialogue": [
+    {
+      "speaker": "PROTAGONIST",
+      "line": "TRAINING MYSELF TO GET USED TO BLOOD?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YEAH. WE HEARD FROM HAJIN ABOUT YOUR HYPERSENSITIVE REACTION TO BLOOD. MORE SPECIFICALLY, YOUR RAMPAGES.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "IT COULD BE CAUSED BY SOMETHING PSYCHOLOGICAL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THAT'S WHY WE DECIDED TO TRY SOME THERAPY TRAINING FIRST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "AH. SO, WHAT DO I HAVE TO DO? HOW DOES THIS TRAINING WORK?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SO AT FIRST, WE'RE GOING TO HAVE YOU USE YOUR IMAGINATION.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THEN LITTLE BY LITTLE, WE'LL INCREASE THE INTENSITY OVER TIME, UNTIL YOU GET USED TO THE STIMULUS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "FIRST OF ALL, HOW DO YOU FEEL WHEN YOU IMAGINE THE COLOR RED OR JUST THE WORD BLOOD?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "NOTHING REALLY. THAT KIND OF THING DOESN'T BOTHER ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I'VE EVEN DRAWN PICTURES IN RED.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HMM, I SEE. THEN THIS TIME, WE'LL START BY SHOWING YOU OTHER PEOPLE'S BLOOD.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SEE YOU AGAIN NEXT TIME! SEE YOU!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "HOW WAS IT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HMM, I'M NOT SURE IF THIS KIND OF THING WILL HELP ME.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "AW, IT'S TOO EARLY TO TELL FOR SURE. LET'S JUST GIVE IT A CHANCE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "OKAY. OH, RIGHT. HERE, TAKE THIS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WHAT'S THAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "IT'S KIND OF A SEDATIVE. USE THIS WHEN YOU FEEL LIKE YOU'RE ABOUT TO GO ON A RAMPAGE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "YOU'RE NOT SUPPOSED TO USE IT REGULARLY, OF COURSE! IT'S ONLY FOR EMERGENCIES.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "PLUS, JUST KNOWING THAT YOU HAVE SOMETHING LIKE THIS CAN PROVIDE SOME PSYCHOLOGICAL RELIEF.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I SEE. THANKS, I'LL HOLD ON TO IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE TRAINING WENT ON LIKE THAT FOR THE NEXT COUPLE OF DAYS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "SOMETIMES I FEEL LIKE I'M MAKING PROGRESS.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "BUT I STILL LOSE CONTROL WHEN I SEE MY OWN BLOOD.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "IT FEELS LIKE I'M MISSING SOMETHING IMPORTANT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "BUT I WONDER... WHAT COULD IT BE?",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WHY AM I AFRAID OF MY OWN BLOOD?",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "SEEING OTHER PEOPLE'S BLOOD DOESN'T BOTHER ME AT ALL.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "DID I SUFFER SOME KIND OF SHOCK WHEN I WAS LITTLE THAT I CAN'T REMEMBER? OR AM I JUST AFRAID OF LOSING CONTROL WHEN I BLEED?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OR MAYBE IT'S-- YOU'RE AFRAID... OF ME. BUT I'M JUST A PART OF YOU.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HUH?",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WHAT WAS THAT? WHY DID I SUDDENLY THINK THAT?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWA",
+      "line": "LET'S PLAY CARDS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "A-AGAIN? YOU'RE BUSY RIGHT NOW, AREN'T YOU?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "AFTER STAYING HERE FOR A FEW DAYS, I'VE NOTICED THAT ALL HE SEEMS TO DO IS PLAY CARDS, EAT, AND SLEEP.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "MAEHWA, WANT TO PLAY POKER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "WHAT ARE YOU THINKING ABOUT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "SIGH. ALL RIGHT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I'VE BEEN TRAINING FOR A FEW DAYS NOW, BUT I DON'T FEEL LIKE I MADE MUCH PROGRESS AGAIN TODAY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I'M JUST EXHAUSTED. AM I EVER GOING TO GET BETTER?",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I'M STARTING TO WORRY. I PROMISED TO BECOME SOMEONE THEY ABSOLUTELY NEED.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I'M BACK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "THE PLACE IS A MESS AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "TIME TO GO WASH UP.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WHOOPS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "HEY, WHAT WAS THAT SOUND?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "OH NO, I'M BLEEDING!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "WHAT HAPPENED? DID YOU BREAK THE MIRROR?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "CRAP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "W-WHERE'S THE SEDATIVE? I HAVE TO FIND IT!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "REMEMBER, I AM YOU.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "HEY, ARE YOU OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "STRANGE, I HEARD THAT WEIRD VOICE AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "HOLD ON. I'LL GET SOME MEDICINE AND A BANDAGE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "IT FELT ALMOST LIKE SOMEONE ELSE'S THOUGHTS SLIPPED INTO MY MIND.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "GIVE ME YOUR ARM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HUH? AH... THANK YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "MAN, YOU REALLY SURPRISED ME THERE. AND WHAT HAPPENED TO THE MIRROR?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "STILL, AT LEAST YOU'RE NOT HURT TOO BADLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "HUH? WAIT A MINUTE. WHY ARE YOU SO CALM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "YOU'RE BLEEDING! NORMALLY, YOUR HEART WOULD START RACING AND YOU'D WANT TO STRANGLE SOMEONE, RIGHT?! LOOK, THIS IS YOUR BLOOD!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HUH?",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WAIT, HE'S RIGHT. IT DOESN'T BOTHER ME AT ALL.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I JUST SAW MY OWN BLOOD. BUT I'VE SUDDENLY CALMED DOWN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "LOOKS LIKE ALL THAT TRAINING IS STARTING TO PAY OFF!",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I GUESS THOSE RESEARCHERS AREN'T JUST GOOFING AROUND ALL DAY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HMM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HAHA, YEAH. ALTHOUGH YOU PROBABLY GOOF AROUND MORE THAN ANYONE HERE, HAJIN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "COULD IT REALLY BE BECAUSE OF THE TRAINING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I'M NOT TOTALLY SURE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "BUT I'M SO RELIEVED. I'M DEFINITELY DOING BETTER THAN BEFORE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WHEN I WAS LIVING WITH JUHEE, WE NEVER HAD ANY GLASS BOTTLES OR MIRRORS LIKE THAT IN THE HOUSE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I GUESS THIS IS WHAT HAPPENS WHEN I LIVE WITH OTHER PEOPLE. I'D BETTER BE MORE CAREFUL.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "OH, HEY JAYEONG. YOU LOOK COMPLETELY EXHAUSTED AS USUAL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "SIGH. WHAT ARE YOU TWO DOING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "GOD, THIS PLACE JUST KEEPS GETTING MESSIER. YOU AREN'T THE ONLY TWO LIVING HERE, YOU KNOW.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "AHAHA, WE HAD A BIT OF AN ACCIDENT. IT WAS JUST AS MESSY BEFORE YOUR LITTLE ACCIDENT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "DON'T GET ANGRY. YOU MUST BE TIRED. WANT TO HAVE A BEER WITH MAEHWA AND ME TO RELAX?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "THIS ONE ISN'T BROKEN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "WHAT? NO WAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "HAJIN, WE HAVE TO FINISH CLEANING THIS UP FIRST!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "I'M SUPER TIRED RIGHT NOW. JUST LEAVE ME ALONE AND HANG OUT WITH YOUR NEW FRIEND MAEHWA, WHO SEEMS TO THINK ALL THIS IS JUST A GAME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAJIN",
+      "line": "HMPH. SOMEONE SURE IS GRUMPY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "UGH, I HATE CLEANING. IT'S SUCH A NUISANCE TODAY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "AH, GOOD MORNING, MAEHWA. YOU'RE UP EARLY TODAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWA",
+      "line": "I SLEPT SO MUCH YESTERDAY THAT I COULDN'T FALL ASLEEP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "HAHA. OH, SO YOU HAVEN'T SLEPT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "BY THE WAY, IS IT OKAY FOR YOU TO NOT GO ON ANY MISSIONS AND HANG OUT HERE ALL DAY? JAYEONG GAVE YOU AN EARFUL ABOUT IT YESTERDAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWA",
+      "line": "HUH? ME? MY POWER ISN'T FOR ATTACKING. ALL I CAN DO IS SUPPORT OTHERS, SO I CAN'T GO ON MISSIONS BY MYSELF.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWA",
+      "line": "BESIDES, EVEN IF I OFFERED TO HELP JAYEONG, SHE WOULD PROBABLY JUST TELL ME TO STAY OUT OF HER WAY. STAYING PUT IS THE BEST WAY FOR ME TO HELP. DON'T WORRY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "OH, HEY JAYEONG. YOU'RE LEAVING FOR WORK EARLY AGAIN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWA",
+      "line": "WE'RE ALL COUNTING ON YOU! GOOD LUCK! HAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "WHEW, I'M SO TIRED.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "WAIT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "LET ME COME WITH YOU... ON A MISSION.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEONG",
+      "line": "WHAT?",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "BUZZ",
+    "RUSTLE",
+    "DRIP DRIP",
+    "DRIP",
+    "GLANCE",
+    "BEAM",
+    "SNORE",
+    "CREAK",
+    "SLIDE",
+    "SNOOZE",
+    "BUMP",
+    "STUMBLE",
+    "CLANG",
+    "BA-BUMP",
+    "TREMBLE",
+    "TREMORS",
+    "JOLT",
+    "BANG",
+    "CHIRP",
+    "ROLL"
+  ],
+  "summary": "The protagonist undergoes therapy training to overcome his hypersensitivity to blood. After several days, he accidentally cuts himself but remains calm, realizing the training is working. He interacts with his housemates, Hajin and Maehwa, and eventually offers to join Jayeong on a mission.",
+  "word_count": 1024,
+  "confidence": "high"
+}

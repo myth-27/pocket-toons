@@ -1,0 +1,303 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Eunjang High. A school like any other, filled with the usual hierarchy. The strong rule, the weak obey. Or so they thought.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And then there was Gray Yeon. The quietest kid in class. The one who always had his nose in a book. The one everyone overlooked.",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT 1",
+      "line": "Hey, isn't that Gray Yeon? He's always so quiet.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT 2",
+      "line": "Yeah, barely speaks. Probably scared of his own shadow.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(They always talk. They always assume. It's fine. Let them.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "After class, the hallways emptied quickly. But some lingered. Like Min-jun and his crew, a group known for preying on the 'weak'.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS ECHO",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "Well, well, well. Look what we have here. The little bookworm, all alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(Min-jun. Known for his short temper and even shorter fuse. Predictable.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "What's wrong, nerd? Cat got your tongue? Or are you just too busy calculating how many punches it'll take to knock you out?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Min-jun's Crony 1",
+      "line": "Heh, one good hit and he'll crumble.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "I'm not interested in your games. Just leave me alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "Oh, a tough guy now? You think you can just walk away from us?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAB (Min-jun grabs Gray's arm)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(His grip is tight. Standard. But his stance is off-balance. Predictable.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "Let's teach this little punk a lesson about respect.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (Gray ducks under Min-jun's swing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "Huh?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(Too slow. Too wide.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK (Gray slams his textbook into Min-jun's temple)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "AGH! What the—?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(A textbook. Hardcover. Enough force. Now, create distance.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUSH (Gray shoves Min-jun, sending him stumbling)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun's Crony 2",
+      "line": "Boss! You okay?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "You little rat! I'm gonna break every bone in your body!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ROAR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(Anger makes him sloppy. Good.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Min-jun charged, a wild, unrefined punch aimed at Gray's head. But Gray wasn't fighting fair.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG (Gray yanks a fire extinguisher off the wall)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "What are you—?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HISS (Gray sprays Min-jun directly in the face)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "GAH! MY EYES! I CAN'T SEE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Min-jun's Crony 1",
+      "line": "Boss!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(Disorientation. Temporary blindness. Perfect.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHUMP (Gray uses the extinguisher to slam Min-jun against the wall)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "Ugh...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(He's dazed. Now, the finish.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Gray didn't hesitate. He pulled a pen from his pocket. Not just any pen. A heavy, metal-cased one.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (Pen cap removed)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun's Crony 2",
+      "line": "Hey! What are you doing?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(Pressure points. Temples, neck, back of the hand. Small targets, big impact.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "JAB! (Gray jabs the pen into Min-jun's pressure point on the neck)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun",
+      "line": "A-ACK! Ngh...!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Min-jun's eyes rolled back. His body went limp, sliding down the wall. Unconscious.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Min-jun's Crony 1",
+      "line": "Boss! He... he knocked him out with a pen!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Min-jun's Crony 2",
+      "line": "You psycho!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(Two left. They're scared. Good.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "Do you want to end up like him?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GULP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Min-jun's Crony 1",
+      "line": "N-no! We're leaving!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAMBLE (Cronies drag Min-jun away, panicking)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(They never learn. The strong aren't always the biggest. Or the loudest.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gray Yeon",
+      "line": "(They just haven't figured out my rules yet.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Gray Yeon calmly picked up his fallen textbook, dusted it off, and walked away, leaving the lingering scent of extinguisher foam and fear in his wake.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "FOOTSTEPS ECHO",
+    "GRAB",
+    "SWISH",
+    "THWACK",
+    "PUSH",
+    "ROAR",
+    "CLANG",
+    "HISS",
+    "WHUMP",
+    "CLICK",
+    "JAB!",
+    "GULP",
+    "SCRAMBLE"
+  ],
+  "summary": "Gray Yeon, an unassuming student, is confronted by a bully named Min-jun and his cronies after school. Using his intelligence and unconventional tactics, Gray swiftly and brutally takes down Min-jun, leaving his friends terrified and the bully unconscious.",
+  "word_count": 765,
+  "confidence": "high"
+}

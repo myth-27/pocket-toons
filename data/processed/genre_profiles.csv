@@ -1,8 +1,13 @@
-genre,title_count,confidence_level,median_pacing,median_cliffhanger_density,median_emotional_intensity,median_addiction_language,pacing_q1,pacing_q3,emotion_q1,emotion_q3
-Fantasy,7,Medium,0.6,0.75,0.59,0.8,0.59,0.63,0.57,0.6
-Drama,9,Medium,0.51,0.64,0.84,0.7,0.48,0.52,0.84,0.86
-Romance,15,High,0.4,0.6,0.9,0.74,0.38,0.41,0.9,0.91
-Thriller,10,Medium,0.65,0.9,0.7,0.91,0.63,0.67,0.68,0.71
-Comedy,1,Low,0.72,0.8,0.48,0.85,0.72,0.72,0.48,0.48
-Action,20,High,0.69,0.81,0.49,0.86,0.69,0.71,0.48,0.51
-Sci-fi,4,Low,0.62,0.7,0.5,0.72,0.6,0.62,0.48,0.52
+genre,title_count,confidence_level,median_emotional_intensity,median_addiction_language,median_hype_score,median_risk_score,emotion_q3,hype_q3,acceptable_risk_min,acceptable_risk_max,median_pacing,median_cliffhanger_density
+fantasy,10,High,0.83,0.8,0.68,6.85,0.84,0.81,4.3,11.3,0.5,0.79
+action,20,High,0.82,0.84,0.55,7.5,0.83,0.7,1.9,14.2,0.5,0.76
+drama,10,High,0.82,0.7,0.72,11.05,0.83,0.8,1.2,15.2,0.5,0.67375
+romance,15,High,0.83,0.73,0.58,4.7,0.84,0.73,1.3,14.7,0.5,0.75075
+comedy,1,Low,0.82,0.84,0.89,10.9,0.82,0.89,10.9,10.9,0.5,0.8532500000000001
+thriller,12,High,0.82,0.9,0.68,7.9,0.83,0.79,2.4,13.9,0.5,0.94475
+sci-fi,4,High,0.82,0.73,0.48,4.4,0.84,0.54,1.2,9.2,0.5,0.5955
+horror,6,High,0.84,0.79,0.62,7.9,0.84,0.64,3.7,9.9,0.5,0.6859999999999999
+slice of life,4,High,0.84,0.86,0.39,5.95,0.84,0.45,2.8,10.5,0.5,0.7865
+mystery,4,High,0.82,0.9,0.67,8.9,0.84,0.8,1.7,9.5,0.5,0.615
+superhero,4,High,0.83,0.78,0.65,8.15,0.84,0.7,6.2,14.3,0.5,0.7015
+sports,3,High,0.83,0.83,0.79,13.4,0.84,0.8,10.9,14.0,0.5,0.90175

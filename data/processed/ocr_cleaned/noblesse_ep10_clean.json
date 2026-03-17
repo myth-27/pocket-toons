@@ -1,0 +1,177 @@
+{
+  "title_header": "Noblesse, Episode 10",
+  "dialogue": [
+    {
+      "speaker": "Frankenstein",
+      "line": "I checked out the place where you woke up, Master.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "The building was newly built and purchased only recently.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "It seems as though the owner of the building is someone who does not exist.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "I believe that this person wanted to remain anonymous and purchased the building for a specific purpose.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "The only thing that stood out was the coffin you were in.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "No one should have known that you were in a slumber in there. Since you chose the holy site of your slumber right before you entered it, none of 'them' could have been related to this situation from the very beginning.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "However, it would be an entirely different matter if even one of them was involved.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "They must have gone through many changes during my slumber.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "They have all grown much larger and more secretive.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "But the faction that has changed the most is that of the humans.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Though they were once the weakest, they now seem to be stronger than all others.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "The faction that has always been overshadowed by the others, have overcome their limits numerous times.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "And since they are systematically incorporated into society itself, their influence is quite impressive.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Humans have always been the fastest to change and adapt.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "I did not return to that place after you disappeared, and so I am unfamiliar with the details of their development.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "However, since you are awake, I will now begin keeping a closer eye on their movements.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "I also plan to get to the bottom of this incident as well.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Master has not changed, not even that nonchalant attitude of his.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "How was class?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "It was a new experience.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I am glad it didn't seem to be too bad for you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Frankenstein.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "It seems I have a problem with my power.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Co-could it be that you were asleep for too long after all?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Master can connect with the minds of others. He may not understand foreign words immediately, but his ability allows him to understand what they mean and pick up other languages incredibly quickly.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "A problem with that ability.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "It was in math class. Math.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Complicated arithmetic and mathematical formulas. Not even connecting with other minds could help you learn those easily.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "But!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "The Gatekeeper was the one teaching this math.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "How can I explain this to him?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "I am truly impressed with the Gatekeeper.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "From the moment I saw him, I knew he wasn't ordinary.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CLATTER",
+    "FLINCH"
+  ],
+  "summary": "Frankenstein reports to his Master about the mysterious circumstances of his awakening and the significant changes in the world, particularly the rise of humans. He also mentions a problem with his own power, which became apparent during a math class taught by the impressive Gatekeeper.",
+  "word_count": 461,
+  "confidence": "high"
+}

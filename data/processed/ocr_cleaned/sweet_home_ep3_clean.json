@@ -1,0 +1,714 @@
+{
+  "title_header": "Sweet Home, Episode: 3",
+  "dialogue": [
+    {
+      "speaker": "Hyun",
+      "line": "Yeah, I can hear you. So, when are you gonna be here? Hello? Hello? What?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Why that late? Damn it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "How can I get through the entire day without internet?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "RUMMAGING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SLICE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PRESS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHIRRRR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIDICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WI-FI: LOOKING FOR NETWORKS. PM 3:23",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "This sucks.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "So, what are you gonna do about it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "JUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TURN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "What was that? Someone's at the door?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Yes?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CREEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "What is it? Hey there! Remember when I asked you to stop by the office earlier today?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Oh. Yeah. So. What is this about?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Oh, not much. Just wanted to let you know there's a legal problem with a construction company because of some bad maintenance. If someone comes by and asks you to sign an agreement, please don't.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Won't sign anything. I'm not interested.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Oh. Well then. That's good, I guess.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "I'm a bit tired. Would you please leave me alone?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Sure, sure. Sorry for bugging you. Oh, here! I got you something.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "What's it for?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "It's a welcome gift. Nothing special.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Ahh.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Something feels... off.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CREEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "Okay, Mom!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jina",
+      "line": "I'll return if this audition doesn't work out. I said I'll do it, okay?! How many times do I have to tell you? This'll be the last time!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "Please just trust me for once. And you don't get to ask for anything if I make it, you hear? I have a really good feeling about this one. Male sponsor? You mean a... C'mon! I'd never do something that dirty! Geez, Mom! What's wrong with you?! I'm hanging up now!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "Hmph.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "Shit, I'm starving. Doing all of this to survive and still might actually starve to death.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "What is this!? Nosebleed?? Damn it, this fucking diet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Is she an actress? Bet she's had plastic surgery.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SIGH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "HOME SWEET HOME CARNBY KIM YOUNGCHAN HWANG",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Could it be? I wonder... Would I be different if I had not ignored my hand?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Don't want to think about that shitty memory.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jina's Mother",
+      "line": "Honey? What are you doing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jina (child)",
+      "line": "Mom! Let's play together! This is so boring. Mom?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina's Mother",
+      "line": "What's that? Jina! Darling!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "The girl next door... No! Please, don't hurt her!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "She's back? From where?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEEP BEEP BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CREEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "GULP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "Damn, gained some weight. How long do I have to starve? That talent agent didn't say it would be this hard.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "The walls are so thin.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SHHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TA-THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TA-THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TA-THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MEOW",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "RATTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jina",
+      "line": "Yes, my kitty, rattle while your owner starves. You get to eat whatever you want, huh? I envy you. Look at how spoiled you are.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "RATTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "She has a cat.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jina",
+      "line": "I'm going to jump in the shower, pretty kitty.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Hah. Well, what should I do now?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AWKWARD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN (TV Character 1)",
+      "line": "I love you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN (TV Character 2)",
+      "line": "Oh yeah? If you really love me, please die for me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN (TV Character 1)",
+      "line": "If that's what you really want, I'll do it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN (TV Character 2)",
+      "line": "Ahh, no!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SWISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SWISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Just jump into like that!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PEW",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Next door is a pretty girl who wants to be famous. Well, this place isn't all bad.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "What the?! That sounds like... Bass guitar?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "VUUMM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIKN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIENI",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DTFN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BBLN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Yeah! Seriously?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AGGGHHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SMT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DIRNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DM MV",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "This place sucks.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "TAK",
+    "RUMMAGING",
+    "SLICE",
+    "PRESS",
+    "WHIRRRR",
+    "DIDICK",
+    "TICK",
+    "THUD",
+    "JUMP",
+    "TURN",
+    "BEEP BEEP",
+    "BEEP",
+    "CREEAK",
+    "THUMP",
+    "CLICK",
+    "CLACK",
+    "SIGH",
+    "BANG",
+    "BEEP BEEP BEEP",
+    "TANG",
+    "GULP",
+    "SHHH",
+    "TA-THUMP",
+    "MEOW",
+    "RATTLE",
+    "AH",
+    "AWKWARD",
+    "SWISH",
+    "PEW",
+    "DIRNT",
+    "VUUMM",
+    "PIKN",
+    "PIENI",
+    "DTFN",
+    "BBLN",
+    "AGGGHHH",
+    "SMT",
+    "PM",
+    "DM MV"
+  ],
+  "summary": "Hyun is frustrated by a lack of internet and receives an unsettling visit from a neighbor warning him about a legal issue. He then overhears his female neighbor, Jina, arguing with her mother about her acting career and diet, revealing her struggles and aspirations. Hyun also reflects on a past traumatic memory involving Jina as a child, before getting annoyed by loud bass guitar music from another apartment.",
+  "word_count": 606,
+  "confidence": "medium"
+}

@@ -1,0 +1,81 @@
+{
+  "title_header": "4 # 23 YE RAN HIGH SCHOOL",
+  "dialogue": [
+    {
+      "speaker": "BLANCE",
+      "line": "Wh-who is that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELANCE",
+      "line": "Whisper.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Now is not the time to be so carefree, Bloody.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Fedop is the gladine today, mate.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wh-who... this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Shoot, look at the time!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I'm the one that should hurry up!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You're going to be late if you don't hurry!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Was there someone that handsome at old school?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Someone so eye-catching should be very popular.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "To be late on a day that I am guarding the gate...",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I can't let you off easy, especially since you're in my class.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "TING",
+    "WHISPER",
+    "STEP",
+    "TAP",
+    "SWISH",
+    "PUSH",
+    "FLINCH",
+    "DASH",
+    "TRICKLE",
+    "KQQRRR",
+    "DA-DLI"
+  ],
+  "summary": "Blance and Elance notice a handsome individual. Someone is urged to hurry to avoid being late, while another character reflects on the handsome person's popularity. A teacher or authority figure warns a student about being late for class.",
+  "word_count": 94,
+  "confidence": "medium"
+}

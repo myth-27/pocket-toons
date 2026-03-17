@@ -1,0 +1,143 @@
+{
+  "title_header": "Noblesse, Episode: 8",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "NOTICED THAT HE WAS SPEAKING TO ME SO INFORMALLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "He's been living abroad and unfamiliar with Korean culture. Please be generous with any misunderstandings that might arise, as he absolutely does not have any bad intentions.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "There's that favor Chairman asked me of me personally, and I didn't even catch it in the first place, so I can't be harsh on him.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "He probably didn't know since he's from another country.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "I think it is a misunderstanding that anyone who is new to our culture would make.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wow~ Shinwoo! Oooh~ Shinwoo!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Taking that into consideration... I think 5 seconds of your legendary armbar should suffice. Your guillotine isn't bad either.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "I knew it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "Serious, Shinwoo.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Sir?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "You will take it for him.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "I would very much like to use those techniques on you.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "H...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "In Korea, we use honorifics and formal speech to show respect. This applies in various situations. I won't go into the details right now for the sake of time, but for now, just know that this applies for people who are older than you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "People who are older than you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "Seeing the look on his face, he doesn't get it. Let's let it go this time. I can't get mad when even Shinwoo is being so understanding.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "We'll discuss this later. I'm sure you are all curious about the transfer student, but save that for after class.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "You can take the empty seat behind Shinwoo.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Shinwoo was the one who was babbling just now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "H-Hey, why did Mr. Park have to explain like that? And why did he understand?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "Let's begin; everyone open your books.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "Hm, why are you guys sitting like that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "The transfer student didn't bring his books, so we are sharing, sir.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. PARK",
+      "line": "I see; but why are there three of you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I didn't bring my textbook either, sir.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "GULP",
+    "SIRLL!",
+    "SLIDE",
+    "GLANCE",
+    "GEIT",
+    "STEP",
+    "DNG DONG DING DONG",
+    "SCRATCH"
+  ],
+  "summary": "Mr. Park explains the new transfer student's informal speech due to unfamiliarity with Korean culture, while students joke about Shinwoo's fighting skills. Later, Mr. Park begins class and questions why three students are sharing books, discovering one student also forgot their textbook.",
+  "word_count": 300,
+  "confidence": "medium"
+}

@@ -1,0 +1,289 @@
+{
+  "title_header": "Sweet Home, Episode: 6",
+  "dialogue": [
+    {
+      "speaker": "MONSTER",
+      "line": "You probably have no idea why this is happening to you, but... I have a good reason for it. You... you...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "Wow, Hyun, you still got that fierce look in your eyes.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "I'm really going to beat the shit out of you this time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "Hey, Four Eyes!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S FRIEND",
+      "line": "Huh? M-Me???",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "Yeah, man, it's your turn now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "What's wrong? Have you got too close?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "This little shit is your best friend now?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "Well, they were all his friends too. All friends with this douchebag.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "Don't do it if you don't feel like it. I'm not going to force you, okay?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "By the way, who do you hang out with?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S FRIEND",
+      "line": "Sorry.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Damn it. Still don't know my place...",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "I know I'm not a hero myself.",
+      "type": "thought"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Damn, the elevator's not working again. One damn thing after another!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "What the hell are you doing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Sorry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Did Mr. Kim send you? I've said this over and over but I'll say it again, I don't work with thugs.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Uh, what? No!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Haha, I'm just fooling around. You're that new kid from Apartment 1410, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "What's that for? Has someone tried to rob you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "No, this is just...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Blood stains?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "What the fuck is this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Well, well... what happened was... it's not what you think.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "What the hell did you do?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Huh? Well, it was...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Quit mumbling and speak up!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Have you seen a monster?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "What?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Yes, a mon... monster. I saw it headed for the stairways. I mean, have you not seen it?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "A monster??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Yes, that thing. It looked just like the girl next door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Are you goddamn kidding me?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "What the...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "I haven't even hit you yet.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESIDENT WOMAN",
+      "line": "Hey, Apartment 1410. Hey! You! Hey! Hey!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INNER HYUN",
+      "line": "Hey, Hyun. I won't tell anyone. So, I hope you could be a little bit more honest with me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INNER HYUN",
+      "line": "I'm another you that exists within yourself. You and I are the same but different, and different but also the same.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INNER HYUN",
+      "line": "One thing that is for sure is, I'm on your side.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INNER HYUN",
+      "line": "So, please tell me. What is it you want?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "That was one hell of a dream.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Ahh...",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "What the...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Did they all go on a strike together? This is ridiculous.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "No games. What am I going to do now?",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "The internet's working though. But why is it so slow? Huh?",
+      "type": "thought"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Aww.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Eighteen-year-old high school student Hyun Cha lost all his family. Here, alone, at the end of the world.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "It wasn't a dream?",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "COUGH",
+    "HUFF",
+    "SHAKING",
+    "CLAP",
+    "FLINCH",
+    "TOCK",
+    "WHAM",
+    "THUMP",
+    "STEP",
+    "GLARE",
+    "THREATENING",
+    "TRICKLE",
+    "FALTER",
+    "SIGH",
+    "TING",
+    "POURING",
+    "DISHEVELED",
+    "SCRATCHING",
+    "CLICK",
+    "PSST",
+    "DRIP DRIP",
+    "PURR",
+    "YELPS",
+    "DRAGGING"
+  ],
+  "summary": "Hyun is bullied by a monster-like figure, then encounters a resident woman who questions him about bloodstains. He tries to explain he saw a monster, but she dismisses him. Later, Hyun has a dream-like conversation with his inner self, who claims to be on his side. Waking up, he finds the internet is slow and news about 'early symptoms of monsterization' is trending, realizing the world is ending and his earlier encounter was real.",
+  "word_count": 505,
+  "confidence": "high"
+}

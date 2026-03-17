@@ -1,0 +1,148 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In my previous life, I was known as King Grey. A monarch whose strength was unmatched, whose wisdom was revered.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But behind the impenetrable facade of power, I was nothing more than a puppet, a weapon forged by circumstance.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I lived a life of solitude, constantly wary, constantly fighting. There was no warmth, no genuine connection, only the cold weight of a crown.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My reign was long, my battles countless. Each victory hollow, each loss a further chip at my humanity.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And then, it ended.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The final confrontation was a blur of steel and magic. A culmination of a life spent in conflict.",
+      "type": "narration"
+    },
+    {
+      "speaker": "King Grey",
+      "line": "(Gasping) Is this... finally it?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My body, once an instrument of absolute power, now felt like a shattered vessel. The world faded to black, a silence I had never known engulfing me.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I expected oblivion. Peace, perhaps. But what I got was... this.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A blinding light. Muffled sounds. A crushing weight, then an unbearable pressure, pushing me forward.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The air was cold, sharp, burning my lungs. My body was small, weak, utterly helpless.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What in the blazes...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Alice Leywin",
+      "line": "He's here! Oh, my baby!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Reynolds Leywin",
+      "line": "Alice, you did it! He's beautiful!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Warmth enveloped me. A soft, gentle touch I'd never experienced. A woman's voice, full of overwhelming affection.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My eyes, still blurry, tried to focus. Two enormous faces loomed over me, their expressions radiating pure joy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Wait... enormous? And why do I feel like I weigh less than a loaf of bread?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A sudden, horrifying realization struck me. My limbs were tiny, my movements uncoordinated. I was crying, not from sadness, but from pure, unadulterated shock.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I... I'm a baby?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Alice Leywin",
+      "line": "Shhh, it's okay, my little one. Mommy's here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her voice was like a lullaby, soothing a part of me I didn't know existed. A part that had been starved for affection for decades.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Reynolds Leywin",
+      "line": "What should we name him, my love? Our little hero.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Alice Leywin",
+      "line": "Arthur. Arthur Leywin. It's perfect.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Arthur Leywin. A new name. A new body. A new life. The King Grey was dead. And I, Arthur, was just beginning.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The irony wasn't lost on me. A man who ruled an entire continent, now utterly dependent, unable to even control his own bladder.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "This was not the afterlife I expected. But perhaps... perhaps it was the one I needed.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLASH",
+    "CRACKLE",
+    "THUD",
+    "GASP",
+    "WHOOSH",
+    "WAAAH",
+    "GURGLE",
+    "PITTER-PATTER"
+  ],
+  "summary": "King Grey, a powerful but lonely monarch, reflects on his past life and eventual death. He then experiences a disorienting rebirth, realizing he has been reincarnated as an infant named Arthur Leywin, a shocking new beginning.",
+  "word_count": 605,
+  "confidence": "high"
+}

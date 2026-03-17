@@ -1,0 +1,228 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The fluorescent lights of the classroom hummed, a dull, constant drone that mirrored my existence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "Another day. Another blur of faces that don't see me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "CLASSMATE A",
+      "line": "Hey, Siyoon. Can I borrow your notes? I missed class yesterday.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "Oh, uh, sure.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "They only ever talk to me when they need something. Am I just a walking textbook?",
+      "type": "thought"
+    },
+    {
+      "speaker": "CLASSMATE A",
+      "line": "Thanks! You're a lifesaver!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "(Muttering) A lifesaver for your grades, maybe.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lunch break. The cafeteria was a cacophony of laughter and chatter, none of it directed at me.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "Just me and my half-eaten sandwich, a monument to social awkwardness.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The day dragged on, a monotonous cycle of invisibility and quiet despair. But there was always an escape.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "Home. Finally. The only place I can truly be myself. Or, rather, become someone else.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I changed into my pajamas, the soft fabric a familiar comfort. The world outside could wait.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "Just a few more hours until I can truly live.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHEETS RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Darkness enveloped me, a gentle embrace. And then, the shift.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "(Dreaming) The air is different here. Crisp. Alive. And I... I'm different.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I stood on a towering skyscraper, the city lights twinkling below like scattered diamonds. My hair whipped around me, not limp and dull, but vibrant, free.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "No one can touch me here. No one can ignore me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND WHISTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MYSTERIOUS FIGURE",
+      "line": "Enjoying the view, Siyoon?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "(Startled, but not afraid) You... You're here again.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He emerged from the shadows, a silhouette against the moon. Tall, impossibly handsome, with eyes that held a dangerous glint.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MYSTERIOUS FIGURE",
+      "line": "Where else would I be? This is your stage, isn't it? Your freedom.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "It is. And you're... a part of it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MYSTERIOUS FIGURE",
+      "line": "Tell me, Siyoon. What do you truly desire in this world of yours?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "To be seen. To be powerful. To make them regret.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A slow, predatory smile spread across his face. He reached out, his fingers brushing my cheek, sending a jolt through me.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MYSTERIOUS FIGURE",
+      "line": "Then let's make it happen. Together.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "(Gasp) Yes...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ALARM BLARE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The harsh reality of my alarm clock shattered the illusion. The vibrant city faded, replaced by my faded wallpaper.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "No... Not yet. Just a little longer...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But the dream was gone, leaving behind only a lingering warmth on my cheek where his hand had been.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "It felt so real. He felt so real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As I got ready for school, the world seemed duller, colder. The memory of his eyes, however, stayed with me.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SIYOON",
+      "line": "Who is he? And why does he only exist when I close my eyes?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Little did I know, the lines between my two worlds were about to blur in ways I couldn't possibly imagine.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLATTER",
+    "DOOR CREAK",
+    "SHEETS RUSTLE",
+    "WHOOSH",
+    "WIND WHISTLE",
+    "THUMP-THUMP",
+    "ALARM BLARE",
+    "GROAN"
+  ],
+  "summary": "Siyoon endures another day of being invisible and bullied at school, finding her only escape and true self in vivid dreams where she is powerful and meets a mysterious, alluring figure. Waking up, she longs for her dream world, unaware that the boundaries between her reality and dreams are about to collapse.",
+  "word_count": 705,
+  "confidence": "high"
+}

@@ -1,0 +1,194 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world changed ten years ago. Towers, gates to other dimensions, appeared, filled with monsters and untold treasures.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And with them, 'Players' awakened. Individuals blessed with unique skills and the ability to level up, growing stronger with each monster slain.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They climbed the towers, protecting humanity, becoming heroes... and gods.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "Ten years. Ten years since the first tower appeared. Ten years since I awakened.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "And ten years of being stuck at level 1.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "Damn it! Another Grolak Goblin.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! (rusty sword scraping against thick hide)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "My rusty sword barely scratches its hide. This is all I can do. Swing, parry, dodge.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "No flashy skills, no powerful attacks. Just the same old grind in this F-rank dungeon.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK! (Gi-Gyu kicks the goblin, it stumbles)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "My 'skill'... [Absorption]. It lets me absorb the properties of anything I touch.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "But what good is absorbing the 'hardness' of a rock when I can't even swing a sword properly? Or the 'sharpness' of a dull blade?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "I've tried everything. Absorbing monster parts, dungeon walls, even other players' equipment (they didn't like that).",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "It just... changes my body slightly. Never enough to make a difference. Never enough to level up.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK! (Gi-Gyu finally lands a solid hit, goblin falls)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "One down. Only a hundred more to go before I can even think about buying a decent meal.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "Status window... don't even bother.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "[Kim Gi-Gyu, Lv. 1]... Always Lv. 1. No experience gained. No skill points. Nothing.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (distant, confident)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "Sounds like a party. Better hide. Don't want to get in their way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Player A",
+      "line": "Hey, isn't that the 'Eternal Novice'?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Player B",
+      "line": "Oh, him? Still trying to clear the F-rank dungeon? Pathetic.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Player A",
+      "line": "He's been at it for years. What a waste of an awakening.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (as they pass, uncaring)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "Pathetic, huh? Maybe. But what else am I supposed to do?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "I can't level up. My 'skill' is useless. Everyone says so. But... I have to try. There has to be a way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "If I can't level up, then I'll find another path. Even if it means going to places no Level 1 should ever go.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (a distant, deeper tremor)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "The whispers... of a new gate opening. A C-rank. Far too dangerous for me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "But... what if? What if my 'Absorption' skill isn't useless? What if it's just... misunderstood?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "I've been stuck in the shallow end for too long. It's time to dive into the deep.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (Gi-Gyu's fist hitting his palm, resolute)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Gi-Gyu",
+      "line": "Fine. Let's see what a Level 1 can do in a C-rank dungeon.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "GROWL",
+    "CLANG",
+    "THWACK",
+    "CRACK",
+    "DING",
+    "FOOTSTEPS",
+    "WHOOSH",
+    "RUMBLE",
+    "THUMP"
+  ],
+  "summary": "Kim Gi-Gyu, a 'Player' stuck at Level 1 for ten years, struggles in a low-rank dungeon, constantly mocked by others for his useless 'Absorption' skill. Frustrated but determined, he decides to challenge a dangerous C-rank dungeon, hoping to find an unconventional path to power.",
+  "word_count": 637,
+  "confidence": "high"
+}

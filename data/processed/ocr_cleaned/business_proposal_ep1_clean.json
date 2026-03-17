@@ -1,0 +1,204 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Shin Ha-ri. My life motto? Work hard, eat well, and pay off the family debt.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Ugh, another month, another mountain of bills. Our fried chicken restaurant isn't exactly a goldmine.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) If only I could win the lottery... or marry rich... but who am I kidding? I'm just an ordinary food researcher.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PHONE VIBRATE",
+      "line": "",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "Hello? Young-seo, what's up?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Young-seo",
+      "line": "Ha-ri! My dearest, most beautiful, most amazing best friend! I need your help! Desperately!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Oh no, that tone... She's in trouble again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "What is it this time? Another blind date your dad set up?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Young-seo",
+      "line": "Exactly! He's trying to marry me off! And this one... this one is a real catch. My dad will kill me if I mess it up, but I just can't!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Young-seo",
+      "line": "Please, Ha-ri! Just one more time! Pretend to be me, go on the date, and scare him off! Make him reject me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "Young-seo, we agreed no more! Last time I had to pretend to be a cult leader!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Young-seo",
+      "line": "I'll give you a brand new luxury bag! The one you've been eyeing! And all the money you need for your family's restaurant!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) A luxury bag... and money for the restaurant... My resolve is weakening. Damn you, Young-seo, you know my weaknesses!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "Fine! But this is the last time! What's the plan?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Young-seo",
+      "line": "You're the best! Okay, here's the info: Tonight, 7 PM, 'La Belle' restaurant. His name is Kang Tae-mu. Make him run for the hills!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later that evening, at the upscale restaurant 'La Belle'.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Alright, Ha-ri, time to put on your ultimate 'scare-him-off' persona. Operation: Reject Me! is a go!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) I'll be loud, obnoxious, obsessed with money, and maybe a little unhinged. No man in his right mind would want to marry *that*.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DOOR CHIME",
+      "line": "",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Here he comes. Deep breaths. Prepare for battle!",
+      "type": "thought"
+    },
+    {
+      "speaker": "FOOTSTEPS",
+      "line": "",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "Ms. Jin Young-seo? I am Kang Tae-mu.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Wait... Kang Tae-mu? That name sounds familiar... No, it can't be...!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) The CEO of GOFOOD! The one who just took over our company! The infamous 'God of Work'!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Oh no, oh no, oh no! This is a disaster! I'm going to get fired! Or worse, he'll recognize me! My life is over!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "Is something wrong, Ms. Jin? You look a little... pale.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "P-pale? Me? Ha! Never! I'm just... overwhelmed by your blinding handsomeness, Mr. Kang! (Thought: Keep it together, Ha-ri! Act normal! No, act crazy!)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "So, Mr. Kang! What's your annual income? Do you own multiple buildings? Are you a chaebol heir with a private jet? Because I only date men who can buy me a new luxury car every month!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "(Thought) A luxury car every month? This is... unexpected. Jin Young-seo's profile said she was refined and elegant.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "I see. You seem to have a very... direct approach.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "Directness is my middle name! And my first name is 'Money'! So, spill the beans, Mr. Kang! How rich are you, really?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) This is it! He's definitely going to be disgusted. He'll reject me on the spot! Mission accomplished!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "Very well. Since you're so direct, I'll be direct too.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "Ms. Jin Young-seo. I have decided.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "(Thought) Yes! The rejection! Freedom!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Tae-mu",
+      "line": "I will marry you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CRASH",
+      "line": "(Ha-ri drops her water glass)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ha-ri",
+      "line": "WHAAAAT?!",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "PHONE VIBRATE",
+    "DOOR CHIME",
+    "FOOTSTEPS",
+    "CRASH"
+  ],
+  "summary": "Shin Ha-ri, burdened by family debt, reluctantly agrees to impersonate her wealthy best friend, Jin Young-seo, on a blind date to scare off a potential suitor. Her plan goes awry when she discovers the date is Kang Tae-mu, the CEO of her own company, and despite her outrageous act, he proposes marriage.",
+  "word_count": 765,
+  "confidence": "high"
+}

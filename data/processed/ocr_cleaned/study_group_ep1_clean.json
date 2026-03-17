@@ -1,0 +1,191 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Yonggang High. A name that strikes fear into the hearts of students across the city. Not for its academic prowess, but for its… unique student body.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "This is it. Yonggang High.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "My last chance. My only chance.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MURMURS. JEERS. DISTANT SHOUTS.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "(Looking around at the intimidating students) The rumors weren't exaggerated. Every single person here looks like they could snap me in half.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "But I can't back down. Not now. I promised Mom. I promised myself.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Yoon Gamin. A scrawny, unassuming boy with one goal: to get into university. A goal that seems laughably impossible in a place like Yonggang.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "Okay, first things first. Find a quiet spot. Somewhere I can actually… study.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP! CRASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Hey, watch it, nerd!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "(Stumbling back as a desk is violently overturned) S-sorry!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Look at this guy. Fresh meat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "What's with the glasses, four-eyes? You think you're smart or something?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "N-no! I just… I was looking for the library.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "The library? Hah! What's that, some kind of club for losers?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "You hear that, Minho? He wants to read books! In Yonggang!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LAUGHTER. SNICKERS.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "(My heart is pounding. This is exactly what I was afraid of. But I can't fight them. I can't afford to get expelled.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Let's see what kind of books you're into, huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RIP! PAGES TEAR.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "Hey! My textbook!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Oops. Guess you won't be needing that anymore.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "(Rage flares inside me. This is my future they're tearing apart. But I have to hold it in. I have to.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "Please… just leave me alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "And what if we don't, huh? What are you gonna do about it, little study bug?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOVE! Gamin stumbles.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "(My hands are clenched. My knuckles are white. This isn't how it's supposed to be. I just want to study.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Look at him, shaking like a leaf. Pathetic.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Let's go. He's not even worth the effort.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS RECEDE. LAUGHTER FADES.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "(Collapsing against the wall, picking up the torn pages) Damn it… damn it all!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "This is Yonggang. This is my reality now. But I won't let them win.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yoon Gamin",
+      "line": "I came here to study, and I will study. No matter what it takes. No matter who stands in my way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With a torn textbook and a burning resolve, Yoon Gamin's journey at Yonggang High had just begun. A journey where 'study' might mean more than just books.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "MURMURS",
+    "JEERS",
+    "DISTANT SHOUTS",
+    "THUMP",
+    "CRASH",
+    "LAUGHTER",
+    "SNICKERS",
+    "RIP",
+    "PAGES TEAR",
+    "SHOVE",
+    "FOOTSTEPS RECEDE"
+  ],
+  "summary": "Yoon Gamin arrives at Yonggang High, a school notorious for its delinquents, with the sole goal of studying for university. He immediately faces the school's harsh reality when bullies destroy his textbook, but Gamin's resolve to achieve his dream only strengthens.",
+  "word_count": 654,
+  "confidence": "high"
+}

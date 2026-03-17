@@ -1,0 +1,193 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The city lights blurred into a watercolor painting outside Lee Hana's window. Another night, another shift, another empty plate on the table.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "Ugh... My feet are killing me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her small apartment, barely more than a single room, offered little comfort. The air was thick with the smell of instant noodles and damp, old wallpaper.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP... DRIP...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "Still raining, huh? Just like my life.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hana slumped onto her worn mattress, the weight of her grandmother's medical bills pressing down on her more than the fatigue. She closed her eyes, wishing for a miracle, or at least a moment of peace.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "What was that?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A heavy thud against her door startled her. It wasn't the usual hurried knock of the landlord. This felt... deliberate.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "Hello? Is anyone there?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Silence. Only the relentless drumming of rain against the windowpane answered her. Cautiously, Hana approached the door, peering through the peephole. Nothing. Just the dim, flickering hallway light.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then she noticed it. A single, ornate envelope lying on her doormat. It wasn't standard mail. The paper was thick, almost like vellum, and sealed with a dark, unfamiliar wax stamp.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "What is this? I didn't order anything...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her fingers trembled slightly as she picked it up. The wax seal depicted a stylized, thorny rose. A strange chill ran down her spine.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She broke the seal, the paper feeling oddly cold beneath her touch. Inside, a single card, black as midnight, with silver calligraphy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "An invitation... to a wedding?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes scanned the elegant script.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "'You are cordially invited to celebrate the union of... Lee Hana... and... The Groom.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "What? My name? And 'The Groom'? Who is this? This has to be a prank.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She flipped the card over, searching for a sender, an explanation. Instead, a single line of text, stark and unsettling, gleamed back at her.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "'Your presence is not merely requested, but required. On the eve of the Blood Moon, at the Manor of Whispers. Refusal is not an option.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "Blood Moon? Manor of Whispers? What kind of sick joke is this?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A sudden, inexplicable chill permeated the room, raising goosebumps on her arms. The air grew heavy, like a presence had entered. She clutched the card, its elegant beauty now twisted into something menacing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "This isn't funny. I don't know anyone named 'The Groom'. And I certainly didn't agree to marry anyone!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As if in response, a faint, almost imperceptible whisper seemed to drift from the card itself, a sound like dry leaves rustling in a forgotten tomb.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHISPER... (faint, guttural)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "No... no, no, no. I'm just tired. Overworked. My imagination.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But the whisper lingered, a promise of something ancient and terrible. And etched into the silver calligraphy, almost invisible until now, was a single, additional word beneath 'The Groom': 'Yours.'",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Hana",
+      "line": "Mine?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP-THUMP (heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The rain outside intensified, mirroring the frantic pounding of her heart. Hana was no longer just tired; she was terrified. Her life, already a struggle, had just taken a turn into an unknown nightmare.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "DRIP",
+    "THUMP",
+    "CREAK",
+    "RUSTLE",
+    "CRACKLE",
+    "GASP",
+    "WHISPER",
+    "THUMP-THUMP-THUMP"
+  ],
+  "summary": "Exhausted and struggling financially, Lee Hana receives a mysterious, unsettling wedding invitation addressed to her, with an unknown 'Groom' and a chilling demand for her presence at a 'Manor of Whispers', hinting at a terrifying, unavoidable fate.",
+  "word_count": 705,
+  "confidence": "high"
+}

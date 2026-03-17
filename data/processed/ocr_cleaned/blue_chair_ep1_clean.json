@@ -1,0 +1,190 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The first rays of morning sunlight, soft and hesitant, stretched across Mina's small apartment.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ALARM BEEP (faint, then louder)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Groans softly)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Just five more minutes... No, ten. Ten glorious minutes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (hand hitting snooze button)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The familiar morning ritual. A dance between the desire for rest and the quiet insistence of a new day.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Ugh. The sun is already judging me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STRETCH (long, satisfying)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Eventually, the pull of caffeine proved stronger than the lure of the duvet. Mina shuffled into her tiny kitchen.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WATER RUNNING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "COFFEE GRINDER WHIRR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "The smell of fresh coffee... the only thing that makes mornings tolerable.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "COFFEE DRIP (steady rhythm)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Another day, another blank canvas. Both literally and figuratively, I suppose.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Mina, a freelance illustrator, lived by her own rhythm. A rhythm often dictated by deadlines, inspiration, and the comforting presence of her workspace.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (mug on counter)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She carried her steaming mug to her desk, a corner of her living room dedicated to her craft.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And there it was. Her anchor. Her confidante. The Blue Chair.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Good morning, old friend.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (softly, as she sits)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "It's seen more of my triumphs and failures than anyone else. More coffee stains, too.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The chair, a slightly faded but still vibrant blue, molded perfectly to her form. It was a gift from her grandmother years ago, a piece of furniture that had somehow absorbed years of her dreams and anxieties.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Alright, Mina. Let's do this.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She powered on her drawing tablet. The screen glowed to life, displaying a half-finished illustration of a whimsical cityscape.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Still stuck on this rooftop garden. Needs... something.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (stylus picking up)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PENCIL SCRATCH (digital, light)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Some days, the ideas flow like a river. Other days, it feels like trying to squeeze water from a stone. Today feels... like a gentle trickle.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She leaned back slightly, the blue chair supporting her, its familiar contours a comforting embrace.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(A soft sigh)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Just gotta start somewhere. Even if it's just a single line, a tiny detail.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The world outside could be chaotic, demanding, or simply indifferent. But within the comforting embrace of her blue chair, Mina found her own quiet universe. A place where creativity could bloom, even on the most reluctant of mornings.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "You always know how to make me feel better, don't you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The blue chair, silent and steadfast, held her as she began to draw, one small stroke at a time.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "ALARM BEEP",
+    "THUMP",
+    "STRETCH",
+    "WATER RUNNING",
+    "COFFEE GRINDER WHIRR",
+    "COFFEE DRIP",
+    "CLINK",
+    "CREAK",
+    "CLICK",
+    "PENCIL SCRATCH"
+  ],
+  "summary": "Mina, a freelance illustrator, begins her day with the familiar ritual of coffee and the comforting presence of her beloved blue chair, as she faces a new creative challenge.",
+  "word_count": 655,
+  "confidence": "high"
+}

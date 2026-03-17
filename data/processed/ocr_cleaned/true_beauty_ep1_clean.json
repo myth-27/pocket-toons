@@ -1,0 +1,297 @@
+{
+  "title_header": "TRUE BEAUTY",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, DID YOU SEE",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "PEOPLE LOOK OVER THEIR SHOULDERS:",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FEEL THEIR GAZES:",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, THAT GIRL IS SO PRETTY. SHE HAS SUCH A PERFECT BODY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "I'M SO USED TO PEOPLE WHISPERING ABOUT ME.",
+      "type": "thought"
+    },
+    {
+      "speaker": "STRANGER",
+      "line": "EXCUSE ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "YES?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STRANGER",
+      "line": "I'VE BEEN WATCHING YOU FOR A BIT AND I LIKE YOUR STYLE. COULD I HAVE YOUR NUMBER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "AH, NO, SORRY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "HOW MANY TIMES HAVE GUYS ASKED ME FOR MY NUMBER TODAY?",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "WHO AM I, YOU ASK?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A UNIVERSALLY RECOGNIZED GODDESS",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH, SHE'S BACK!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "I'LL HAVE A CHOCOLATE FRAPPUCCINO WITH WHIPPED CREAM, PLEASE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARISTA",
+      "line": "SURE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARISTA",
+      "line": "THE GODDESS IS HERE! YOUR DRINK IS READY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARISTA",
+      "line": "IS THIS ENOUGH WHIPPED CREAM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "THANK YOU! HAVE A NICE DAY~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARISTA",
+      "line": "COME AGAIN! I MEAN, HAVE A NICE DAY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "I'M KIND OF USED TO PEOPLE BEING FRIENDLY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "FRIEND",
+      "line": "OH, OVER HERE, JUGYEONG!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "AW, WOONGI, THANKS FOR SAVING ME A SEAT~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FRIEND",
+      "line": "LOOK AT ALL THAT WHIPPED CREAM! THAT GUY WORKING AT THE CAFE DEFINITELY WANTS TO GO OUT WITH YOU!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "NO WAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FRIEND",
+      "line": "OH RIGHT, THAT PICTURE YOU POSTED TODAY IS INSANE. I CAN'T BELIEVE HOW MANY LIKES YOU GOT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "AH, THAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FAN",
+      "line": "SO PRETTY",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FAN",
+      "line": "WHAT GODDESS..",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FRIEND",
+      "line": "I CAN'T BELIEVE MY FRIEND IS AN INSTA-STAR~ WHAT DOES IT FEEL LIKE TO BE A PRETTY GIRL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "AWW, YOU SILLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FAN",
+      "line": "DO YOU HAVE A BOYFRIEND?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "ACTUALLY, I CHECKED MY INBOX YESTERDAY AND THERE WAS A MESSAGE FROM XX HAN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FRIEND",
+      "line": "REALLY?! OH MY GOD! OH, THE LIFE OF A POPULAR GIRL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "IT FEELS WEIRD. I GUESS YOU COULD SAY THAT I'M USED TO BEING POPULAR.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "WHAT'S THIS? THE DEPARTMENT REPRESENTATIVE WANTS EVERYONE TO GET TOGETHER AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "WHAT A CREEP~ WHY DOES IT SEEM LIKE HE MAKES UP SOMETHING JUST SO WE CAN GATHER EVERY WEEK? JUST LET ME FIND A WAY TO SLIP AWAY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DRUNK GUY",
+      "line": "HEY~ JUGYEONG~! HAVE ANOTHER GLASS~~~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DRUNK GUY",
+      "line": "YOU HAVEN'T EVEN BEEN ANSWERING MY TEXTS LATELY~ YOU'VE CHANGED~ YOU'VE CHANGED~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THERE HE GOES AGAIN WITH JUGYEONG. ALWAYS LIKE THE FIRST TIME.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "YOU'VE HAD TOO MUCH DRINK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DRUNK GUY",
+      "line": "I'M OKAY~~ I'M SO SOBER NOW THAT I'M NEXT TO YOU, JUGYEONG~~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "OF COURSE, BEING PRETTY ISN'T ALWAYS NECESSARILY A GOOD THING.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH MY GOODNESS, YOU'RE SO PRETTY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "I KNOW I'M SO PRETTY! IT ALWAYS FEELS NEW. BEING PRETTY IS THE BEST! BUT I DON'T EXACTLY HATE PEOPLE COMPLIMENTING ME EITHER.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "MOM, I'M HOME~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "I NEED TO TAKE A SHOWER.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "OH, I DIDN'T UPDATE MY SOCIAL MEDIA TODAY. I BETTER DO IT NOW. I ALMOST FELL ASLEEP.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "THIS CAFE BATHROOM IS LIKE MY OWN PHOTO ZONE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FAN",
+      "line": "SO PRETTY",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FAN",
+      "line": "INSANELY PRETTY",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "WOW, 700 LIKES AS SOON AS I POSTED IT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "YOU KNOW, BEING ME, IT'S PRETTY SWEET.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "BUT ONLY UNTIL I WASH OFF MY MAKEUP. AHH, THAT FEELS BETTER!",
+      "type": "thought"
+    },
+    {
+      "speaker": "JUGYEONG",
+      "line": "HI THERE, I'M JUGYEONG, 21 YEARS OLD.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WHISPER",
+    "MURMUR",
+    "GLANCE",
+    "CLICK",
+    "WHISH",
+    "DENG",
+    "SMILE",
+    "DING",
+    "SNEAK",
+    "HEHE",
+    "TICK TOCK",
+    "UGH",
+    "DRAG",
+    "PLOP",
+    "FLA",
+    "PSSHH",
+    "WEW"
+  ],
+  "summary": "JUGYEONG is introduced as a popular 'goddess' who constantly receives compliments and attention, especially on social media, even getting a message from a K-Pop idol. She enjoys the perks of her beauty but reveals that her 'true beauty' is only maintained with makeup, which she washes off at the end of the day.",
+  "word_count": 605,
+  "confidence": "medium"
+}

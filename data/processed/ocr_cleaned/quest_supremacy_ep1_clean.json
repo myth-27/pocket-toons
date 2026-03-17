@@ -1,0 +1,237 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The alarm blared, a harsh siren signaling the start of another day, another cycle of dread.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP BEEP BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "Ugh... already?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "My stomach already feels like it's tied in knots. Just thinking about school...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kim Su-hyeon, a second-year high school student, dragged himself out of bed. His reflection in the mirror showed a boy with tired eyes and slumped shoulders. A perfect target.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (faint)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He tried to be invisible, hugging the walls of the school hallway, but it was always futile.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "Well, well, well. Look what the cat dragged in.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "N-no...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully Minion",
+      "line": "Hey, Su-hyeon! Did you bring our 'tribute' today? Or are you planning on being a cheapskate again?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "I-I don't have any money today. I really don't...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "What was that? Did you just talk back, you worm?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAB!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "Agh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He was dragged into a secluded alleyway behind the school, a familiar ritual.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bully Minion",
+      "line": "You think you can just show up empty-handed? We've got to teach you a lesson.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK! (Punch to the gut)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "H-huh...!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "Why... why is this always me? Why can't I ever fight back?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "That's for being late. And this...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KICK! (To the leg)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "A-ah! P-please... stop...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "I hate this. I hate being weak. I hate myself for letting this happen every single day.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "That's enough for today. Don't forget tomorrow, worm. And bring double.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS RECEDING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Slumped against the cold brick wall, Su-hyeon felt the familiar ache spread through his body. His head throbbed, his vision blurred.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "If only... if only I could be stronger. Just once. Strong enough to make them regret it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A translucent blue window flickered into existence before Kim Su-hyeon's eyes, shimmering with an ethereal glow.",
+      "type": "narration"
+    },
+    {
+      "speaker": "System",
+      "line": "[NEW QUEST AVAILABLE!]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "What... what is this? A game screen? Am I dreaming?",
+      "type": "thought"
+    },
+    {
+      "speaker": "System",
+      "line": "[QUEST: The First Step]",
+      "type": "narration"
+    },
+    {
+      "speaker": "System",
+      "line": "[Description: Overcome your fear and confront the bullies who torment you.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "System",
+      "line": "[Conditions: Successfully land a punch on the Bully Leader.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "System",
+      "line": "[Reward: Stat increase (random), Skill Card (random), Quest Points (10)]",
+      "type": "narration"
+    },
+    {
+      "speaker": "System",
+      "line": "[Failure Penalty: Permanent 'Coward' debuff, -5 to all stats]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "A permanent debuff?! This isn't a game! This is real!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "But... a stat increase? A skill card? Could this be... my chance?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "Confront them? Land a punch? They just beat me to a pulp! How am I supposed to do that?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "But if I fail... a 'Coward' debuff... and -5 to all stats. That would make my life even more hellish than it already is.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "This is it. This is my only chance to change. To stop being the weakling everyone steps on.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLENCH (fist)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Su-hyeon",
+      "line": "No more. I won't be a punching bag anymore. I have to do this.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "BEEP BEEP BEEP",
+    "FOOTSTEPS",
+    "GRAB!",
+    "THWACK!",
+    "KICK!",
+    "DING!",
+    "CLENCH"
+  ],
+  "summary": "Kim Su-hyeon, a perpetually bullied high schooler, endures another brutal beating from his tormentors. In his despair, a mysterious game-like 'Quest' system suddenly appears, offering him a chance to gain power but threatening a permanent debuff if he fails his first daunting task: to punch his bully leader.",
+  "word_count": 725,
+  "confidence": "high"
+}

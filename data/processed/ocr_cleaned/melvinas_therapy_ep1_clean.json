@@ -1,0 +1,191 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The address was etched into my memory, a final, desperate plea from a friend who swore this was the only way. 'Melvina's Therapy.' The name itself felt like a whisper in a dark room.",
+      "type": "narration"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Thought) Another sleepless night. Another cold sweat. It's been weeks since I've felt truly awake. The dreams... they're always there, waiting.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND WHISTLING faintly",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The house stood alone, a skeletal silhouette against the bruised evening sky. Overgrown ivy clawed at the brickwork, like grasping fingers. No cheerful sign, no welcoming light. Just a heavy, ornate door.",
+      "type": "narration"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Thought) This is it. The last resort. I can't keep living like this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KNOCK KNOCK (faint, hesitant)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Thought) No answer? Maybe she's not here... or maybe I should just leave.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAKS OPEN (slowly, without a hand visible)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Startled gasp) Hello? Is anyone there?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The hallway was a cavern of shadows, the air thick with the scent of old wood and something else... something metallic, like rain on rust. A single, bare bulb hung precariously, casting long, dancing specters.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Come in, Elara. I've been expecting you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She emerged from the deepest shadow, a woman of striking, severe elegance. Her dark hair was pulled back tightly, her eyes, sharp and knowing, seemed to pierce through the gloom, straight into my most guarded thoughts. A faint, almost imperceptible smile played on her lips.",
+      "type": "narration"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "You... you were expecting me? How did you know my name?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "My clients are rarely a surprise, Elara. Especially those who have wandered so far into the darkness. Please, follow me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (soft, deliberate)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Thought) Her voice... it's like silk and sandpaper at once. So calm, yet it makes my skin crawl.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She led me into a room that was stark, almost clinical, yet deeply unsettling. A single armchair sat opposite a heavy, antique desk. No windows. Just a large, ornate mirror on the far wall, reflecting the dim light and our distorted figures.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Sit. Tell me, Elara. What brings you to my humble practice?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "The dreams... they won't stop. It's always the same thing. The forest. The whispers. And... the eyes.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Ah, the eyes. A common symptom of a soul in distress. Tell me about the incident, Elara. The one that truly began this spiral.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Hesitantly) I... I was hiking with friends. We got lost. And then... I saw something. Just for a moment. In the trees. It wasn't human. And then... my friend, Liam. He just... vanished.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Vanished. A convenient word. Did you search for him?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "Of course! For days! The police... they found nothing. They said he probably just wandered off, or fell. But I know what I saw. I know what happened.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Voice trembling) And now, in my dreams, I see him. Or what's left of him. And the eyes are always there, watching me. Judging me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Judging you. Indeed. Guilt is a heavy burden, isn't it? But fear... fear is a cage. My therapy, Elara, is about breaking those cages. Not with words, but with experience.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "Experience? What kind of experience?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "We will confront your fears, Elara. We will walk into the forest of your mind, together. We will find what you saw, and we will face it. Only then can you truly be free.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Thought) Face it? Go back there? The thought alone makes my stomach churn. But her eyes... they hold a strange promise. A desperate hope. What choice do I have left?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Are you ready to begin, Elara? Are you ready to truly see?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLOCK TICKING (loud, rhythmic)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Whispering) Yes. I'm ready.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A slow, knowing smile spread across Melvina's face. The mirror on the wall seemed to ripple, its reflection momentarily swirling like dark water. I felt a chill that had nothing to do with the room's temperature.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MELVINA",
+      "line": "Excellent. Our first session will be... immersive.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (faint, from behind the mirror)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "ELARA",
+      "line": "(Thought) What have I gotten myself into?",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "WIND WHISTLING",
+    "KNOCK KNOCK",
+    "DOOR CREAKS OPEN",
+    "FOOTSTEPS",
+    "CLOCK TICKING",
+    "RUSTLE"
+  ],
+  "summary": "A haunted woman named Elara, plagued by nightmares and a friend's mysterious disappearance, seeks out the enigmatic Melvina. Elara recounts her traumatic experience in a forest, and Melvina proposes an unconventional, 'immersive' therapy to confront her fears.",
+  "word_count": 730,
+  "confidence": "high"
+}

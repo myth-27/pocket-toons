@@ -1,0 +1,180 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "They say true love is a miracle. A serendipitous encounter, a spark that ignites into an everlasting flame.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But from where I stand, it looks more like a meticulously crafted performance.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "(thought) Exhibit A: Han Eun-hye and Lee Jin-woo. The 'it' couple of Seoyeon High. Always perfectly coordinated, always perfectly affectionate.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Eun-hye",
+      "line": "Jin-woo, your hair is a little messy here. Let me fix it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin-woo",
+      "line": "Ah, you're always so attentive, Eun-hye. What would I do without you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHIRP CHIRP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "(thought) See? Textbook. Every gesture, every word, perfectly optimized for maximum romantic impact. Probably for the benefit of the other students watching.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Eun-hye",
+      "line": "Su-ae! Stop lurking in the shadows!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "W-what? I wasn't lurking! I was... observing local wildlife.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin-woo",
+      "line": "(chuckles) Su-ae, always the eccentric one.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Eun-hye",
+      "line": "Don't mind her. She just doesn't understand true love yet. She's too busy analyzing everything.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "I understand it perfectly. It's a complex algorithm of social cues, emotional manipulation, and a dash of genuine affection to keep things interesting.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Eun-hye",
+      "line": "You're impossible! Come on, let's get to class.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later, in the bustling hallway, my 'observations' continued. Not of couples, but of the general chaos that is high school life.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "(thought) Another day, another wave of hormonal teenagers crashing into each other. Truly a spectacle.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "Oof!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Do-hwa",
+      "line": "Ah, sorry! My bad. Didn't see you there.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "(thought) Oh, great. The 'Prince of Seoyeon High', Go Do-hwa. Just what I needed. His fan club is probably already glaring at me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Do-hwa",
+      "line": "Wait, you're... Su-ae, right? Han Su-ae?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "That's me. What do you want, Prince Charming?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Do-hwa",
+      "line": "(leans in conspiratorially) I heard you're the best at this kind of thing. The 'Love Doctor' of our school, they call you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "Who calls me that? Eun-hye? She's exaggerating.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Do-hwa",
+      "line": "No, no. Everyone knows you're secretly a genius at understanding people's hearts. Even if you act like you don't care.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "(thought) My heart just did a weird little flutter. Why? Because the most popular guy in school is saying I'm a 'genius'? No, it's just the surprise.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Do-hwa",
+      "line": "Look, I need your help. Desperately.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "Help with what?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Do-hwa",
+      "line": "I... I want to fall in love. And I need you to orchestrate it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Su-ae",
+      "line": "(thought) He wants me to... what?! Orchestrate his love life? This is a new level of absurd. And yet... the challenge. The sheer, ridiculous, fascinating challenge.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And just like that, my perfectly cynical, perfectly detached world of observation was about to be turned upside down. Operation: True Love had officially begun.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CHIRP",
+    "SWISH",
+    "THUMP",
+    "GASP",
+    "RUMBLE"
+  ],
+  "summary": "Su-ae, a cynical observer of high school romance, finds her detached world disrupted when the popular Go Do-hwa approaches her with an outrageous request: to orchestrate his love life.",
+  "word_count": 702,
+  "confidence": "high"
+}

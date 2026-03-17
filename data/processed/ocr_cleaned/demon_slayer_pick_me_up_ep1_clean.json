@@ -1,0 +1,213 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "For ten years, I was 'Loki'. The undisputed top player of 'Pick Me Up!'. A master strategist, a gacha god, a legend.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Another S-rank clear. Pathetic. Do these noobs even try?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "My team composition was flawless. My resource management, impeccable. Who else could clear 'Hell's Gate' with a single 1-star unit?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "The only thing left to do is… grind for more stars. Or maybe finally touch grass. Nah, who am I kidding? There's always another challenge.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But then, something... unexpected happened.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ZZZZZZZZT!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE! WHIRRRRR...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "What the—? My screen's going haywire! Is this a new event? A bug?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BRIGHT FLASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! ZAP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "My head... it feels like it's being ripped apart. What is this sensation?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Ugh... Where am I? This isn't my room. This isn't even... a room.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Stone walls, flickering torchlight, the smell of damp earth and... monster guts? This looks exactly like the 'Slime Caverns' dungeon.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Wait. Why do I feel so... heavy? And stiff? I can barely move my neck.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANK! SCRAPE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "What was that sound? It came from me. My hands... they're not hands. They're crude, rock-like appendages. And my body... it's made of stone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "No. No, no, no. This can't be happening. I'm a Golem. A basic, 1-star Golem. The lowest of the low-tier summons!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Me? Loki? The man who commanded entire legions of S-rank heroes? Reduced to this pathetic form? This is a nightmare!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "System. Status window. Anything! Show me my stats!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "[STATUS WINDOW APPEARS]",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Name: Golem (Han Seol). Rank: 1-star. Level: 1. HP: 100/100. Attack: 5. Defense: 10. Skills: None. Passive: Stone Body (Reduces physical damage by 10%).",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "This is a joke, right? My attack is 5? A slime could probably take me down!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "And who's this 'Han Seol'? That's my real name! So I'm not just a Golem, I'm *me* inside a Golem. This is beyond messed up.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Summoner (off-screen)",
+      "line": "Finally! A Golem! Took you long enough, you useless gacha system!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "That voice... so whiny. And that mana signature... weak. Pathetically weak. This must be my summoner.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Through the gaps in the other summoned units, Han Seol saw her. A young girl, maybe in her early twenties, clutching a staff, her face streaked with dirt and despair.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Summoner",
+      "line": "Alright, Golem! Front line! Protect the others! We're almost out of here!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Front line? With these stats? Is she trying to get me killed? What kind of incompetent summoner is this?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SQUELCH! GROWL!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From the shadows, a monstrous, multi-eyed creature with razor-sharp claws lunged forward.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "A Cave Lurker! Level 5, high agility, decent attack. A single hit would probably shatter me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "This is bad. Very bad. I'm a 1-star Golem, stuck with a clueless summoner, facing an enemy that outclasses me by a mile.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "But... I'm Loki. The 'King of Pick Me Up'. I didn't get to the top by panicking. I got there by strategizing. Even as a Golem, I'm still me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "First, assess the situation. Second, identify weaknesses. Third, survive. This isn't a game anymore. This is reality. And I refuse to be fodder.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ROAR!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Summoner",
+      "line": "Golem! Block it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Han Seol (Loki)",
+      "line": "Block it, she says. Fine. Let's see what this 'Stone Body' can really do.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "ZZZZZZZZT",
+    "CRACKLE",
+    "WHIRRRRR",
+    "BRIGHT FLASH",
+    "WHOOSH",
+    "ZAP",
+    "THUD",
+    "CLANK",
+    "SCRAPE",
+    "SQUELCH",
+    "GROWL",
+    "ROAR",
+    "[STATUS WINDOW APPEARS]"
+  ],
+  "summary": "Han Seol, the legendary 'Loki' of the mobile game 'Pick Me Up!', finds himself unexpectedly transmigrated into the game world as a weak 1-star Golem. Faced with his pathetic stats and an incompetent summoner, he must quickly adapt to survive his first encounter with a dangerous dungeon monster.",
+  "word_count": 765,
+  "confidence": "high"
+}

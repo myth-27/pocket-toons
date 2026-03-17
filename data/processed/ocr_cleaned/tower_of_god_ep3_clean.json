@@ -1,0 +1,942 @@
+{
+  "title_header": "Episode: 3",
+  "dialogue": [
+    {
+      "speaker": "Yuri",
+      "line": "MY LADY! LADY YURI!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "LADY YURI! My LADY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WHAT ARE YOU TRYING TO DO ON THE FIRST FLOOR?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "LADY YURI! WOULD YOU PLEASE ANSWER ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TAP TAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Evan",
+      "line": "AN IRREGULAR HAS STEPPED INTO THE TOWER! HE HAS OPENED THE GATE HIMSELF!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WHAAAT?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "AOF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Evan",
+      "line": "YEAH! SOMEONE REALLY DID OPEN THE DOOR!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "IF THAT'S TRUE, IT'S GAME-CHANGING NEWS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "I CAN'T BELIEVE AN IRREGULAR IS ON THE FIRST FLOOR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "OF COURSE IT'S A BIG DEAL! IT'S A BIG EVENT, EVAN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "BUT, MY LADY, HE'S NOW WITH HEADON ON THE FIRST FLOOR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "DON'T TELL ME THAT YOU'RE GOING DOWN TO WATCH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "IN A FEW MINUTES, THE TEST WILL BEGIN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WHY SHOULDN'T I?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "AHA! NOT A BIG EVENT? WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "NO WAY! WHY WOULD YOU WANT TO WATCH THAT? DON'T YOU THINK IT'LL BE FUN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "NOT AT ALL! IT'S DANGEROUS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "AHAHA, YOU COWARD!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "WHAT IF HEADON FINDS OUT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "STOP WORRYING, YOU BABY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "Sigh, HERE WE ARE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "I HOPE HEADON DOESN'T SEE US.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "EVAN! LOOK OVER THERE! IT'S THE NEW GUY AND HEADON!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "OH! W-WHERE?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "Hehe, YOU REALLY WANTED TO SEE TOO, HUH?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WELL, SINCE WE ARE HERE... HMPH. HE DOESN'T LOOK SPECIAL AT ALL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "I THOUGHT HE WOULD BE A MONSTER, LIKE UPEK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "THIS IS A BIT DISAPPOINTING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY EVAN! WHAT DO YOU THINK OF HIM AS A GUIDE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "DO YOU THINK HE HAS A SECRET POWER? MAYBE HE'LL METAMORPHOSE OUT OF NOWHERE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "HM, HE LOOKS AGILE BUT HIS BODY IS SMALL, AND HE DOESN'T LOOK LIKE A CROSS-SPECIES HYBRID.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "I DON'T FEEL THE UNUSUAL 'STRENGTH' THAT I FELT FROM THE PREVIOUS IRREGULARS. HE'S JUST AN ORDINARY HUMAN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WHAT?! REALLY?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "DON'T ALL IRREGULARS HAVE A BEAM SHOOTING OUT FROM BETWEEN THEIR LEGS LIKE UPEK?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "UPEK DOESN'T HAVE SOMETHING LIKE THAT EITHER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "I DO THINK SOMETHING COULD SHOOT OUT, BUT NOT A BEAM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "Sigh, WHAT A WASTE OF TIME. I WAS EXPECTING MORE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "IT IS A BIT WEIRD THOUGH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "THE IRREGULARS TILL NOW HAVE ALL BEEN EXTREMELY STRONG LIKE PHANTAMINUM OR UREK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "BUT IT SEEMS LIKE THAT GUY WON'T EVEN QUALIFY FOR THE TEST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "IT WOULD BE IMPOSSIBLE. WELL, I AGREE. FOR AN ORDINARY GUY LIKE HIM TO TAKE THE TEST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "LOOK! IT'S THE BALL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "ISN'T IT HARSH TO PUT THE WHITE STEEL EEL? SOMETHING THAT STRONG IS USUALLY USED ON TESTS ABOVE THE 20TH FLOOR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "IS IT TO MAKE HIM GIVE UP?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "HEADON DOESN'T LIKE IT WHEN IRREGULARS ARRIVE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "LET'S SEE. SO MAYBE HE'S TRYING TO SCARE THE BOY TO MAKE HIM GIVE UP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "BUT ANYWAYS, WHETHER HE TAKES THE TEST OR NOT, THERE IS NO CHANCE THAT BOY WILL MAKE IT UP INTO THE INNER TOWER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "EVEN IF HE TAKES THE TEST, HE'LL EVENTUALLY DIE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "POOR KID. SHOULD WE GIVE HIM A HAND?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "WHAT?! W-WHY SHOULD WE?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "FOR A LITTLE EXCITEMENT, IRREGULARS HAVE ALWAYS BROUGHT CHAOS TO THE TOWER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "WE DON'T NEED ANY CHAOS! IRREGULARS ARE NOT WELCOMED HERE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HM...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "I MEAN IT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "NO! YOU SHOULDN'T HELP HIM! IF THE KING FINDS OUT, WE'RE ALL DEAD! DEAD, YOU KNOW?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HM. BESIDES! HE WON'T TAKE THE TEST ANYWAY, SO IT DOESN'T MATTER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "BUT LOOK AT HIM! HE'S RUNNING! WHAAAT?! WHY, WHY IS HE RUNNING?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WHY? WHY ARE YOU RUNNING?! A BEAM SHOOTING OUT FROM BETWEEN YOUR LEGS WON'T HELP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "IS HE TAKING THE TEST? IS HE NUTS?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "AHAHAHAHA! I KNEW HE WOULDN'T DISAPPOINT ME! NOW THIS IS FUN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "EVAN! I'LL BE BACK SOON!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "WHAAAT?! LADY YURI! DON'T! MY LADY! PLEASE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "DON'T WORRY, EVAN! She's LOST HER MIND AGAIN. I'M WORRIED IT'LL BE OFF WITH MY HEAD, NOT YOURS, MY LADY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "JUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "STAH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PO",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WHAT? IT'S A GIANT EEL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Evan",
+      "line": "OH, SHE IS...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PHEW",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY, NEW GUY, YOU GOT A DEATHWISH? HUH?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY, ANSWER ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "Ooh, WHO'S THIS GIRL?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "DO YOU UNDERSTAND WHAT I'M SAYING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WHAT IS SHE SAYING?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY, HEADON, DON'T TELL ME THAT YOU DIDN'T EVEN GIVE HIM A POCKET YET.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "OH! COME TO THINK OF IT, I FORGOT TO GIVE HIM ONE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "YOU FORGOT? YOU'RE THE OLDEST GUARDIAN IN THE TOWER, AREN'T YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "I THINK IT WAS ON PURPOSE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "NO WAY. I, TOO, MAKE MISTAKES SOMETIMES.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY! EVAN! DON'T JUST STAND THERE, COME DOWN HERE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "OH COME ON... WHY IS SHE CALLING ME WHEN HEADON'S STANDING RIGHT THERE?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY! EVAN! COME DOWN! QUICK! DAMN IT! WHATEVER! EVAN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "I KNEW YOU WERE HERE, BOY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "EVAN EDROCK! HA, HAHA, HA! YOU STILL LOOK VERY YOUNG AND HEALTHY! HAHA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "L-LONG TIME NO SEE, MR. HEADON!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "CUT THE CRAP. YOU HAVE EXTRA POCKETS, DON'T YOU? GIVE ONE TO THIS BOY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEADON DIDN'T EVEN GIVE A POCKET TO THE POOR KID.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "OKAY, OKAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "THIS IS WHY YOU CALLED ME DOWN HERE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "LET'S SEE, WHERE ARE MY EXTRA POCKETS? OH! HERE'S ONE! FOR YOU, NEW GUY. AN 'A-GRADE' POCKET IS TOO GENEROUS SINCE YOU'RE NEW, BUT THIS IS ALL I'VE GOT FOR NOW.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "KISS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SEARCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WHAT'S THAT MARBLE? IS THAT FOR ME?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHIR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Evan",
+      "line": "PRETTY GOOD, RIGHT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "WHAT'S YOUR FIRST IMPRESSION OF THE POCKET?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "YOU CAN UNDERSTAND WHAT I'M SAYING NOW, RIGHT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "HUH? THE LANGUAGE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "APEH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HOVQ",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Evan",
+      "line": "THAT POCKET IS RANKED WAY TOO HIGH FOR YOU! SAY THANK YOU, KID!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HOW IS IT? DO YOU UNDERSTAND WHAT I'M SAYING NOW?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I CAN UNDERSTAND THEIR LANGUAGE NOW.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "IS IT THIS MARBLE? IS IT BECAUSE OF THIS MARBLE? DOES THE MARBLE ALLOW ME TO UNDERSTAND YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "BINGO! THAT'S RIGHT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "T-THAT'S IMPOSSIBLE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "IT'S NOTHING TO BE SURPRISED AT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "LET ME INTRODUCE MYSELF. I'M EVAN EDROCK, AN 'A-RANK GUIDE' AND A 'RANKER' OF THE TOWER. THAT LADY OVER THERE IS LADY YURI, ALSO A 'RANKER' OF THE TOWER. WHAT I GAVE YOU IS WHAT'S CALLED A 'Pocket'. IT IS ESSENTIAL WHEN GOING UP THE TOWER. THERE ARE A LOT OF FUNCTIONS, BUT FIRST OF ALL, IT TRANSLATES EVERY LANGUAGE OF THE TOWER TO MACSETHIAN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "AND ONE MORE THING, SAY 'INVISIBLE MODE' TO THE POCKET.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "S",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bam",
+      "line": "INVISIBLE MODE! OH! THE MARBLE DISAPPEARED!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "DON'T PANIC, IT IS JUST INVISIBLE. SAY 'VISIBLE MODE' AND IT WILL APPEAR AGAIN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "OH, THANK YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEADON, ARE YOU REALLY GOING TO GO SO FAR TO FORCE HIM OUT JUST BECAUSE HE'S AN IRREGULAR?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TADA!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Headon",
+      "line": "YOU MISUNDERSTAND, PRINCESS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "I AM CARRYING OUT THE TEST LEGITIMATELY. I WOULD NEVER TRY TO JUST KICK HIM OUT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "BE REASONABLE, HEADON. THE TEST SUITS FLOORS ABOVE 20.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "PRINCESS YURI, HAVE YOU FORGOTTEN THAT HE'S AN IRREGULAR? THE IRREGULARS WHO HAVE ENTERED THE TOWER ALL HAD EXTRAORDINARY POWERS. THIS IS AN APPROPRIATE TEST FOR AN IRREGULAR, BECAUSE THEY ARE SPECIAL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "UM, SORRY TO INTERRUPT, YOU KEEP SAYING THAT I AM AN IRREGULAR. WHAT IS THAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "IT'S THE NAME FOR THOSE WHO OPEN THE GATE AND ENTER THE TOWER ON THEIR OWN. IRREGULARS AREN'T CHOSEN TO ENTER THE TOWER. THIS TOWER IS ONLY MEANT FOR THE CHOSEN, BUT ON RARE OCCASIONS, IRREGULARS LIKE YOU WHO WEREN'T CHOSEN FIND THEIR WAY IN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "SINCE ANCIENT TIMES, THE IRREGULARS HAVE BROUGHT CHAOS AND CHANGE BECAUSE THEY HAVE EXTRAORDINARY STRENGTH. THEY ARE FEARED BY OTHERS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "BUT, LOOK! THIS ONE IS DIFFERENT FROM THE OTHER IRREGULARS! WHAT? HE'S SMALL! HE DOESN'T HAVE ANY SPECIAL ABILITIES. WELL, HE DOES LOOK LIKE HE'LL GROW HANDSOME IN THE FUTURE, BUT EVEN EVAN, OUR A-RANKED GUIDE HERE, ADMITTED HE'S JUST AN ORDINARY BOY! HA HA! HE'S LIKE A BABY NEXT TO THE OTHER IRREGULARS! SO WHAT I MEAN IS, MR. HEADON... WOULDN'T IT BE FAIR TO LOWER THE TEST LEVEL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PAT PAT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Headon",
+      "line": "PRINCESS, YOU REALLY WANT HIM TO GO UP THE TOWER, DON'T YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "HMM, THEN VERY WELL, I'LL CHANGE THE RULES SLIGHTLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "OH! REALLY?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "HOW ABOUT THIS? YOU LEND HIM ONE OF THE WEAPONS THAT YOU OWN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "LEND HIM MY WEAPON?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "YES. YOUR WEAPONS ARE ONLY FOR HIGH RANKERS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "IF YOU LEND HIM ONE, IT WILL BE A HUGE ADVANTAGE FOR HIM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "HM, BY THE WAY, DON'T YOU HAVE THE 'BLACK MARCH' BESTOWED BY THE KING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "BLACK MARCH? ACTUALLY, LENDING WEAPONS IS AGAINST THE RULES.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "HM. BUT IF YOU SAY THAT YOU'LL LEND HIM THE BLACK MARCH, I WILL ALLOW IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "THE BLACK MARCH IS TOO... DO YOU THINK IT'S TOO MUCH?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "SO YOU WANT TO SEND THE BOY UP, BUT YOU DON'T WANT TO LEND SOMETHING OF YOURS TO HIM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "BASTARD. YOU KNOW WHAT KIND OF WEAPON THE BLACK MARCH IS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "WELL, IF YOU SAY IT'S TOO MUCH TO SPARE FOR HIM, HE WILL HAVE TO TAKE THE TEST WITH HIS BARE HANDS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "FINE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "HEY, NEW BOY! WHAT'S YOUR NAME?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "HUH?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I'M BAM. TWENTY-FIFTH BAM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "ALRIGHT, BAM! WANNA GO UP THE TOWER? OR GIVE UP?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I... I CAN'T GIVE UP! I NEED TO FIND SOMEONE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "FIND SOMEONE? YOU LITTLE PLAYER! ARE YOU ALREADY DATING SOMEONE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WOW. IT'S NOT LIKE THAT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "YOU MIGHT DIE. THERE'S A HIGH POSSIBILITY THAT YOU'LL DIE BEFORE YOU FIND WHAT YOU SEEK. STILL WANNA GO?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "IT DOESN'T MATTER, I'LL GO ANYWAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "WELL, OKAY! ARMS INVENTORY, VISIBLE MODE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GWYZ",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "TAKE THIS. THIS IS THE BLACK MARCH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WHAT?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "I'LL LEND IT TO YOU FOR A WHILE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PASS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Evan",
+      "line": "LADY YURI! YOU CAN'T DO THAT! HOW CAN YOU LEND SOMETHING LIKE THE BLACK MARCH?! YOU MUSTN'T! NEVER! YOU'LL BE KILLED IF THE KING FINDS OUT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "IT... IT'S OKAY. YOU SHOULDN'T LEND ME SUCH A PRECIOUS THING, FOR MY SAKE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "TAKE IT. DIDN'T YOU WANT TO GO UP NO MATTER WHAT? THEN TAKE THIS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GRAB",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "THE NAME OF THE WEAPON IS BLACK MARCH. IT IS A 'NEEDLE', A BASIC WEAPON OF THE TOWER. A NEEDLE IS USED TO STAB AND PIERCE. THE BLACK MARCH IS THE GREATEST OF THE NEEDLES. IT'S ONE OF THE 13 MONTH SERIES THAT ASKLL EDWARL CREATED. IT'S LIKE A HALF-LIVING THING, SO ONCE YOU IGNITE IT, IT SHOWS EXTREME POWER. OF COURSE, EVEN IF YOU TAKE THIS NEEDLE, THERE IS LITTLE CHANCE OF YOU WINNING. THE WEAPON'S STRENGTH DEPENDS ON THE WIELDER, NO MATTER HOW GOOD IT IS. BUT IF YOU STILL WANT TO TAKE THIS TEST, I WILL LEND IT TO YOU, SO TRY IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "LADY! NOT THE BLACK MARCH! PLEASE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "SHUT UP, I'LL DO AS I PLEASE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "THANK YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUMP THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Headon",
+      "line": "YURI, PROMISE TO GIVE THIS BACK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "LADY YURI, WHY ARE YOU HELPING THAT BOY BY GIVING HIM THE BLACK MARCH?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "PERHAPS YOU FELL IN LOVE AT FIRST SIGHT? OR...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "SHUT UP, YOU IDIOT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "OUCH! LADY, DO YOU REALLY THINK...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Evan",
+      "line": "THAT IRREGULARS WILL CHANGE THE TOWER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yuri",
+      "line": "I DON'T HAVE TIME FOR IDLE FANCIES. I'VE JUST TAKEN A LIKING TO HIM, THAT'S ALL.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "TAP",
+    "AOF",
+    "JUMP",
+    "STAH",
+    "PO",
+    "WHOOSH",
+    "HUMP",
+    "PHEW",
+    "THUMP",
+    "KISS",
+    "SEARCH",
+    "WHIR",
+    "APEH",
+    "HOVQ",
+    "S",
+    "TADA!",
+    "PAT PAT",
+    "FINE",
+    "SH",
+    "GWYZ",
+    "PASS",
+    "GRAB"
+  ],
+  "summary": "Princess Yuri discovers an Irregular, Bam, has entered the Tower and insists on watching his first test. Despite Bam appearing ordinary and struggling with Headon's difficult challenge, Yuri intervenes by lending him the legendary Black March, a powerful weapon, against her guide Evan's strong objections and Headon's initial rules. Bam accepts the weapon, determined to climb the Tower to find someone important to him.",
+  "word_count": 1709,
+  "confidence": "high"
+}

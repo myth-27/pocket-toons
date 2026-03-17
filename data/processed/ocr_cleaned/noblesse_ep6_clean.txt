@@ -1,0 +1,37 @@
+=== Noblesse, Episode: 6 ===
+
+SUMMARY: The Master awakens after 820 years of slumber and learns about the vast changes in the world from his loyal subordinate, Frankenstein. Frankenstein introduces him to 'tea' and 'school', while the Master expresses a desire to learn about the modern world.
+
+──────────────────────────────────────────────────
+
+  Frankenstein: You may stand.
+  Master: Yes, Sir.
+  Frankenstein: Master, how have you been?
+  Master: I awoke only recently. What? How long have I slumbered?
+  Frankenstein: We don't know when you began your slumber, but it has been 820 years since we last saw you.
+  Master: 820 years.
+  Frankenstein: It was due to our incompetence that we were unable to locate you after you disappeared. My deepest apologies, Sir.
+  Master (thinking): I have been asleep for a long time.
+  Master (thinking): 820 years.
+  Frankenstein (thinking): To think that he has been slumbering for so long ever since he went missing, to awaken only now.
+  Frankenstein (thinking): Not just a few, but hundreds of years. I must investigate everything, down to how he ended up awakening here.
+  Frankenstein: This is called 'tea'.
+  Frankenstein: How are you adjusting to the language here? I cannot help but be concerned, since you have been asleep for so long.
+  Master: Sir, there are no problems regarding my abilities. As always, I will adjust soon enough.
+  Frankenstein: That is a relief to hear, Sir.
+  [HM?]
+  Frankenstein (thinking): He must have chosen the most common attire in order to avoid any attention after his slumber. But of all things...
+  Frankenstein: I brought a transfer student.
+  Master: Transfer student?
+  Master: The Gatekeeper was quite impressive.
+  Frankenstein: Gatekeeper???
+  Master: Have you been leading a new family since we have last seen each other? Kek.
+  Frankenstein: No, Sir. This is a place called 'school' where we teach various things to children and guide them.
+  Master: School?
+  Master: I also have many things to learn about this modern world, which seems to have changed much.
+  [CLATTER]
+  Frankenstein: I shall prepare so that you experience no difficulties in your adjustment, Master.
+
+─── SFX: HM?, CLATTER ───
+
+[Words: 362 | Confidence: medium]

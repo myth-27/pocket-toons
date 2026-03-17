@@ -1,0 +1,474 @@
+{
+  "title_header": "Episode 4",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, CAN YOU STILL STAND UP?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU MUST BE HONORED, 'CAUSE I'LL BE USING MY FEET NOW.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AH. YOU...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MY GRANDPA SAID YOU LEARNED TAEKWONDO. HE ASKED ME TO USE THEM ONLY FOR STRONG PEOPLE; WHICH MEANS I ACKNOWLEDGE YOU AS A STRONG MAN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BE READY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "KUK?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THANK YOU FOR YOUR WORDS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Subordinate",
+      "line": "I AM BACK, SIR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Subordinate",
+      "line": "ALL INVITATIONS WERE DELIVERED TO THE PARTICIPANTS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Superior",
+      "line": "YOU MAY LEAVE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Superior",
+      "line": "YOUR ARM...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Superior",
+      "line": "IS THE PERSON WHO BROKE YOUR ARM ONE OF THE PARTICIPANTS?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Subordinate",
+      "line": "YES, HE IS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Superior",
+      "line": "INTERESTING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NO ONE KNOWS WHY HE CRIED OUT THAT NAME.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "JENNIFER LOPEZ!!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "SHOOT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "THE STADIUM IS 30 SUBWAY STATIONS AWAY. WITH MY CALVES AND BICYCLE PUT TOGETHER, I CAN GET THERE IN 30 MINUTES!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "MY LEGS ARE FASTER THAN THE TRAIN! MY SHOULDERS ARE STRONGER THAN CAST IRON!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "EH?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "MY BABY'S MONEY FOR THE SURGERY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CATCH THE THIEF!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IN THIS MOMENT, MANY THOUGHTS PASSED THROUGH MORI JIN'S MIND.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "I SHOULD BUY NEW CLOTHES FOR MY GRANDSON.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "PLEASE BUY KIMBAP! KIMBAP!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "WHAT KIND OF KIMBAP IS THIS?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "(0.05 SECONDS)",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "OH!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "(0.08 SECONDS)",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "GRANDSON HAS BRAIN TUMOR.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "OH, MY!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "(0.25 SECONDS)",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "CACKLE! THIS IS A PIECE OF CAKE!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "SINCE I WAS YOUNG, MY FAMILY WAS POOR.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "WE'VE NEVER BEEN OUT TO EAT LIKE THE OTHERS.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "WHAT'S THIS SOUND?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "MOM SAID WHERE IS THIS SOUND COMING FROM? IT MAKES ME SAD.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "THAT SHE HATES JAJANGMYEON.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "MOM SAID THAT SHE HATES JAJANGMYEON.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "WE LOVE THAT, BUT WE REGRET WE SMILE LIKE THAT AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THOUGH THEY LOOK NOTHING ALIKE, THIS IS GOD (THE K-POP GROUP WHO SINGS THIS SONG).",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "WHAT THE?! YOU DAMN THIEF WHO APPEARED FOR THE SAKE OF THE STORY! DARN IT!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thief",
+      "line": "EXCUSE ME. I'M SORRY, BUT COULD YOU HELP ME WITH DIRECTIONS? I'M TRYING TO GO HERE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "STOP THERE! YOU BAD THIEF!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "YOU BASTARDS, I'LL MAKE YOU REPAY ME IN DOUBLE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MOONLIGHT SWORD STYLE NO. 14 DANCE: BOOMERANG",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "I FINALLY GOT YOU! YOU PECKLESS GANGSTER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "FOOL! I'M CHASING A THIEF RIGHT NOW!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "OH GOSH, I SEE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "THE TRUTH PREVAILS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "THEN, I'LL HELP YOU AS AN APOLOGY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "LA CUCARACHA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WHAT SCENES WERE CUT FROM THE MIDDLE FOR THIS TO HAPPEN?! I KNOW! HAHAHAHA! THIS IS A COMIC, BUT... HAHAHAHA!",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "LET'S TAKE ANOTHER SLOW LOOK FOR THE READERS WHO DIDN'T GET IT!",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "FOOL, I'M TRYING TO CATCH A THIEF RIGHT NOW!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "LA CUCARACHA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "OH GOSH, I SEE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE END.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "TODAY'S LESSON: THE TRUTH ALWAYS PREVAILS!",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "LET'S MAKE THIS WORLD BETTER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "THEY SURE ARE LAME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "OK!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "I'LL CREATE SOME DISTANCE WITH MY CORNERING SKILLS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Helper",
+      "line": "LEAVE IT TO ME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "COUNTING ON YOU!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "IT CAN'T BE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WOLGWANG SWORDMANSHIP METHOD NO. 28",
+      "type": "narration"
+    },
+    {
+      "speaker": "Thief",
+      "line": "YOU, COME HERE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thief's Mother",
+      "line": "MOM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thief",
+      "line": "NOW IT'S SINK OR SWIM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thief",
+      "line": "IT'S ALL MINE! ALL MINE! YIPPEE! MONEY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thief",
+      "line": "HA! MONEY! MONEY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "SHOW ME THE MONEY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "HEH. A PRETTY PENNY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MOONLIGHT SWORD STYLE NO.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BAEKSEOK MAD!",
+      "type": "narration"
+    },
+    {
+      "speaker": "Superior",
+      "line": "HA! HAHA HAHA! MAY GOD PROTECT US! OUR LAND PROSPERS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Mori",
+      "line": "FINALLY CAUGHT UP TO YOU,",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "LATER, THERE WAS HEARTWARMING NEWS IN THE EVENING PAPER.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NEWSPAPER ARTICLE: The thief caught. Victim's pet stolen, $100. To the hospital. In the Friday afternoon, a long chase. Thief robbed citizen. People shouted. A 17-year-old caught himself after a chase. Old lady said help. Thief on when embossed shock. For $100, all he was. Police arrested. Citizen not make sense. Culprit underpaid. Damage costing $45,000. How could this happen?",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT HAPPENED TO THOSE THREE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "OVERCOMING THE LIMITATIONS OF THE HUMAN BODY, THEY ARRIVED SAFE AND SOUND.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "ABOUT US",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FUN FACT",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "?!",
+    "SWISH",
+    "GEAR",
+    "FLINCH",
+    "HEH HEH",
+    "THROB",
+    "GOD",
+    "SNORE",
+    "BEEP",
+    "WOOSH",
+    "LOUD",
+    "APEH",
+    "VROOM",
+    "WHIP",
+    "BANG",
+    "GRIP",
+    "TWIRL",
+    "CRASH",
+    "POW",
+    "THUMP",
+    "WHUMP",
+    "KA-TA",
+    "COIN",
+    "JUMP",
+    "WINK",
+    "TADA",
+    "CRACKLE",
+    "SCREECH",
+    "PAT PAT",
+    "MUUUU",
+    "SCREEEEECH",
+    "PANT",
+    "DEAD MASK",
+    "SWOOOSH"
+  ],
+  "summary": "The episode opens with a martial arts match, followed by Jin Mori's frantic rush to a stadium, filled with internal monologues about his past and family. He gets sidetracked by a thief, leading to a chaotic chase with the unexpected help of a mysterious individual, culminating in the thief's capture and a humorous newspaper report.",
+  "word_count": 701,
+  "confidence": "medium"
+}

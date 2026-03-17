@@ -92,8 +92,15 @@ def parse_episode_content(episode_url: str, html: str) -> EpisodeContent:
         imgs = soup.select(selector)
         if imgs:
             for img in imgs:
-                src = img.get("src") or img.get("data-src") or img.get("data-url")
+                # Prioritize data-url/data-src as they usually contain the real content
+                # src is often a low-res placeholder or transparency gif
+                src = img.get("data-url") or img.get("data-src") or img.get("src")
+                
                 if src:
+                    # Filter out known placeholders
+                    if "bg_transparency.png" in src or "blank.gif" in src:
+                        continue
+                        
                     # Handle relative URLs
                     if src.startswith("//"):
                         src = "https:" + src
@@ -101,7 +108,8 @@ def parse_episode_content(episode_url: str, html: str) -> EpisodeContent:
                         from urllib.parse import urljoin
                         src = urljoin(episode_url, src)
                     images.append(src)
-            break
+            if images: # Only break if we actually found real images
+                break
     
     # Extract text content (dialogue, narration, etc.)
     text_content = ""

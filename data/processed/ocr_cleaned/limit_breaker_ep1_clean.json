@@ -1,0 +1,216 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world changed ten years ago. Gates appeared, monsters poured out, and humanity fought back with awakened abilities. Hunters became the new elite. I… was not one of them.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "Another D-rank dungeon. Another day of barely surviving.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "(Panting) Just a few more… Goblins…",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH! CLANG!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Team Leader Park",
+      "line": "Suho! Keep up! We don't have all day for these weaklings!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "I’m trying, hyung!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "My rusty sword barely cuts through their hide. My 'awakened' strength is a joke compared to theirs. Always the weakest link. Always the one holding them back.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Team Member Lee",
+      "line": "Leader! A Goblin Shaman! This wasn't on the intel!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Team Leader Park",
+      "line": "Damn it! Suho, distract it! We'll flank!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "Distract?! With what?! My life savings?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! ZAP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "AGH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "The shaman's magic bolt hit my shoulder. It burns! They're already retreating. Cowards! They’re leaving me!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Team Leader Park",
+      "line": "Sorry, Suho! We'll send help!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! THUD! (Footsteps receding)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "No… not again. This is how it ends? Eaten by a glorified goblin?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ROAR! (The Shaman raises its staff)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "My vision blurs. My body screams. Is this all I am? A stepping stone for others? A weakling who dies alone in a forgotten dungeon?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE! (Magic gathers)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Just as the final blow descended, a blinding light erupted, not from the shaman, but from within Suho.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[ERROR: System Overload Detected. Recalibrating…]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "What… is this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[Limit Breaker System Activated. Welcome, Player Kim Suho.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "A… system? Like in the novels? But… I was dying!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[Current Status: Critical. Emergency Protocol Initiated. Skill: 'Overdrive' unlocked. Use now?]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "Yes! Use it! Anything!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! (A surge of power)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "My body… it feels like it's burning, but also… alive? Stronger? The pain is still there, but it’s distant. I can move!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLASH! CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "The shaman’s staff… I just shattered it with a single swing! My rusty sword… it feels like an extension of my will!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ROAR! (The Shaman charges in desperation)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "You want to play, Shaman? Let’s play.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH! CHOP! THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The Goblin Shaman fell, its life extinguished in a single, decisive strike. Suho stood over it, his chest heaving, a strange new power coursing through his veins.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Suho",
+      "line": "This… this is what it feels like. Power. Real power. No more being weak. No more being left behind. From now on… I break every limit.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[Goblin Shaman defeated. Experience gained. Level Up!]",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "SWISH",
+    "CLANG",
+    "GROWL",
+    "WHOOSH",
+    "ZAP",
+    "THUD",
+    "ROAR",
+    "CRACKLE",
+    "DING",
+    "CRACK",
+    "CHOP"
+  ],
+  "summary": "Kim Suho, a perpetually weak hunter, is abandoned and nearly killed by a Goblin Shaman in a low-level dungeon. At the brink of death, a mysterious 'Limit Breaker System' activates, granting him sudden, overwhelming power, which he uses to decisively defeat the monster and vow to transcend his past limitations.",
+  "word_count": 765,
+  "confidence": "high"
+}

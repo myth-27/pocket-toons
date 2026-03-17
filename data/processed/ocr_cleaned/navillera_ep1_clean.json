@@ -1,0 +1,182 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Seventy years. A lifetime, they say. But what does a lifetime truly mean?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For seventy years, Shim Deok-chul lived. He worked, he married, he raised children. He did what was expected.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But sometimes, in the quiet moments, a forgotten dream would stir. A whisper from a past self.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND CHIMES JINGLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) The wind is getting colder. Autumn is truly here.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (of leaves)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "One afternoon, while walking through the park, a sight caught his eye. A young man, barely out of his teens, was dancing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (of fabric)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TAP-TAP (of ballet shoes on pavement)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) Ballet... So light. So free. Like a bird taking flight.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He watched, mesmerized. The world around him faded, leaving only the dancer's elegant movements.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) I remember... when I was a boy. I saw a performance on a small black and white TV. I wanted to try. Just once.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But life had other plans. Work. Family. Responsibilities. The dream was tucked away, forgotten under layers of practicality.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAKS OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hae-nam",
+      "line": "Deok-chul? You're home late. Dinner's getting cold.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "Ah, Hae-nam. Sorry. I was just... walking.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hae-nam",
+      "line": "Walking? You've been doing a lot of 'walking' lately. Is something on your mind? You're not getting sick, are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "No, no. Just enjoying the autumn air.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) How could I tell her? My wife, who has spent her life worrying about my health, my pension, our children. She'd think I've lost my mind.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hae-nam",
+      "line": "Well, come eat. The children called. Our daughter, Eun-ho, got a promotion. And our son, Seong-san, is thinking of investing in a new business.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "That's good news. Our children are doing well.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hae-nam",
+      "line": "Yes. They're all grown up now. We've done our part. Now it's time for us to rest.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) Rest. Is that all there is left? Just... rest?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRICKETS CHIRP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later that night, unable to sleep, Deok-chul found himself staring at the ceiling. The dancer's image replayed in his mind.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) Seventy. Too old, they'd say. Too frail. What's the point?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(thought) But... what if? What if there's still time for just one more thing? One thing, just for me?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (of newspaper)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next morning, with a trembling hand, he picked up the community newspaper. His eyes scanned the classifieds.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(reading aloud softly) 'Ballet Studio... beginner classes available...'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A single phone number. A small, almost imperceptible tremor of hope.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DIAL TONE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Deok-chul",
+      "line": "(clears throat) Hello? Is this... the Simok Ballet Studio?",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "WIND CHIMES JINGLE",
+    "RUSTLE",
+    "SWISH",
+    "TAP-TAP",
+    "DOOR CREAKS OPEN",
+    "CRICKETS CHIRP",
+    "DIAL TONE"
+  ],
+  "summary": "Shim Deok-chul, a 70-year-old man, finds himself unexpectedly drawn to ballet after witnessing a young dancer in a park. Despite his wife's practical concerns and his own internal doubts about his age, he takes the first hesitant step towards pursuing his long-forgotten dream.",
+  "word_count": 705,
+  "confidence": "high"
+}

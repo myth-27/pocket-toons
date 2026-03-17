@@ -71,8 +71,16 @@ class GenreComparator:
         strengths = []
         weaknesses = []
         missing = []
+        historical_risks = []
         
         profile = self.profiles.get(genre.lower(), {})
+        
+        # Historical Reddit Risk
+        risk_score = profile.get('median_risk_score', 0)
+        max_risk = profile.get('acceptable_risk_max', 0)
+        
+        if risk_score > 0.5 or max_risk > 0.8:
+            historical_risks.append("High Genre Risk Penalty (Reddit Signals)")
         
         # Emotion
         if comparison.get('emotional_intensity') == "Top Quartile (Strong)":
@@ -99,5 +107,6 @@ class GenreComparator:
         return {
             "strengths_vs_genre": strengths,
             "weaknesses_vs_genre": weaknesses,
-            "missing_common_traits": missing
+            "missing_common_traits": missing,
+            "historical_risks": historical_risks
         }

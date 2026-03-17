@@ -15,7 +15,7 @@ def generate_synthetic_data():
         df_titles = pd.read_csv(titles_path)
     else:
         # Fallback if CSV missing
-        print("⚠ Warning: webtoon_titles.csv not found. Using dummy data.")
+        print("Warning: webtoon_titles.csv not found. Using dummy data.")
         df_titles = pd.DataFrame({"title": ["Test Toon"], "genre": ["Action"], "episodes": [10], "likes_base": [1000]})
 
     print(f"Generating data for {len(df_titles)} titles...")
@@ -49,6 +49,26 @@ def generate_synthetic_data():
         "Sci-fi": {
             "pacing": (0.6, 0.15), "cliffhanger": (0.7, 0.15), "emotion": (0.5, 0.15),
             "addiction": (0.75, 0.15), "drop_off_rate": (0.07, 0.03)
+        },
+        "Horror": {
+            "pacing": (0.45, 0.1), "cliffhanger": (0.85, 0.1), "emotion": (0.75, 0.2), 
+            "addiction": (0.8, 0.1), "drop_off_rate": (0.08, 0.04)
+        },
+        "Slice of Life": {
+            "pacing": (0.3, 0.05), "cliffhanger": (0.2, 0.1), "emotion": (0.6, 0.2), 
+            "addiction": (0.65, 0.2), "drop_off_rate": (0.02, 0.01)
+        },
+        "Mystery": {
+            "pacing": (0.55, 0.1), "cliffhanger": (0.95, 0.03), "emotion": (0.65, 0.1), 
+            "addiction": (0.9, 0.05), "drop_off_rate": (0.03, 0.01)
+        },
+        "Superhero": {
+            "pacing": (0.75, 0.1), "cliffhanger": (0.7, 0.1), "emotion": (0.55, 0.1), 
+            "addiction": (0.8, 0.1), "drop_off_rate": (0.05, 0.02)
+        },
+        "Sports": {
+            "pacing": (0.8, 0.1), "cliffhanger": (0.6, 0.15), "emotion": (0.7, 0.1), 
+            "addiction": (0.85, 0.1), "drop_off_rate": (0.04, 0.02)
         }
     }
 
@@ -100,19 +120,51 @@ def generate_synthetic_data():
 
     # Save to CSV
     Path("data/processed").mkdir(parents=True, exist_ok=True)
-    
+    registry_file = Path("data/registry/content_registry.csv")
+    df_reg = pd.read_csv(registry_file)
+    title_to_cid = {row['canonical_title']: row['content_id'] for _, row in df_reg.iterrows()}
+
+    # 1. Episode Signals
     df_ep = pd.DataFrame(episode_data)
     df_ep.to_csv("data/processed/episode_signals.csv", index=False)
     
+    # 2. Comment Signals (Title Level)
     df_cm = pd.DataFrame(comment_data)
-    df_cm.to_csv("data/processed/comment_signals.csv", index=False)
+    df_cm_title = df_cm.groupby('title').agg(
+        avg_emotional_intensity=('positive_sentiment', 'mean'),
+        avg_addiction_language=('addiction_score', 'mean')
+    ).reset_index()
+    df_cm_title.rename(columns={'title': 'webtoon_title'}, inplace=True)
+    df_cm_title.to_csv("data/processed/comment_signals_title.csv", index=False)
     
-    # Create valid transcript signals file too
-    df_tr = pd.DataFrame(episode_data)
-    df_tr['external_emotion_score'] = df_tr['emotional_intensity'] # Reuse for consistency
+    # 3. YouTube Signals
+    yt_signals = []
+    for title, cid in title_to_cid.items():
+        yt_signals.append({
+            "content_id": cid,
+            "youtube_hype_score": round(random.uniform(0.3, 0.9), 2),
+            "youtube_confusion_score": round(random.uniform(0.05, 0.3), 2)
+        })
+    pd.DataFrame(yt_signals).to_csv("data/processed/youtube_signals.csv", index=False)
+
+    # 4. Reddit Risks
+    rd_signals = []
+    for title, cid in title_to_cid.items():
+        num_risks = random.randint(1, 4)
+        for _ in range(num_risks):
+            rd_signals.append({
+                "content_id": cid,
+                "severity": round(random.uniform(1.0, 5.0), 1),
+                "risk_type": random.choice(["Pacing", "Character Fatigue", "Plot Hole", "Art Quality"])
+            })
+    pd.DataFrame(rd_signals).to_csv("data/processed/reddit_risks.csv", index=False)
+
+    # 5. Transcript Signals (compatibility)
+    df_tr = df_ep.copy()
+    df_tr['external_emotion_score'] = df_tr['emotional_intensity']
     df_tr.to_csv("data/processed/transcript_signals.csv", index=False)
 
-    print(f"✅ Generated enriched signals for {len(df_titles)} titles ({len(df_ep)} episodes).")
+    print(f"DONE: Generated enriched signals for {len(df_titles)} titles.")
 
 if __name__ == "__main__":
     generate_synthetic_data()

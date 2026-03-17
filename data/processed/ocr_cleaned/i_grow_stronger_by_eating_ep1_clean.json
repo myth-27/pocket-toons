@@ -1,0 +1,233 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In a world ravaged by dimensional rifts, humanity clung to survival. But for those like Lee Jinwoo, survival was a daily struggle, not a victory.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Another day, another empty stomach. This 'safe zone' is a joke.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Huh? What was that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SQUEAK! SCRATCH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Just a Scavenger Rat. Good. Maybe I can at least get some protein...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH! THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Damn it! Even a rat is too fast for me. My 'E-rank' status is practically a death sentence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "No, no, no... Not a Goblin. Not here!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A scrawny Goblin, its eyes glinting with malice, emerged from the shadows. For Jinwoo, even this low-level monster was an insurmountable wall.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! SLASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Ugh! My arm! It's too fast!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK! CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "This is it, isn't it? After all this struggling, I'm going to die to a Goblin in some forgotten alley.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As the Goblin raised its crude club for a finishing blow, a primal instinct surged through Jinwoo. He wasn't ready to die.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BITE! RIP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "What... what am I doing?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "In a desperate, animalistic frenzy, Jinwoo bit into the Goblin's arm, tearing away a piece of its flesh. A strange, metallic taste filled his mouth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GULP! CHOMP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "It's... disgusting. But... I feel something.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING! SHIMMER!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have consumed a portion of 'Low-Grade Goblin Flesh'.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Your unique skill, 'Assimilation', has activated!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Strength +1]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Endurance +1]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "What is this? A System message? I've never seen one before...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The Goblin, momentarily stunned, roared and lunged again.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "It's still coming! But... I feel lighter. Stronger, even!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUNCH! CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Did... did I just punch it? And it actually stumbled?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With newfound, albeit slight, power, Jinwoo fought back. He didn't know how, but eating the monster had changed him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! SPLATTER!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "It's dead... I actually killed it. And I'm not even that tired.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have defeated 'Low-Grade Goblin'.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Experience Gained!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "This isn't just about survival anymore. If I can get stronger by eating... then I'll eat everything.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Every monster, every core, every piece of flesh. I will grow stronger, no matter what.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH! GULP!",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "SQUEAK",
+    "SCRATCH",
+    "SWISH",
+    "THUD",
+    "GROWL",
+    "CLANG",
+    "SLASH",
+    "THWACK",
+    "CRACK",
+    "BITE",
+    "RIP",
+    "GULP",
+    "CHOMP",
+    "DING",
+    "SHIMMER",
+    "PUNCH",
+    "SPLATTER"
+  ],
+  "summary": "Lee Jinwoo, a weak E-ranker, struggles for survival in a dangerous world. After nearly dying to a Goblin, he instinctively bites and eats a piece of its flesh, triggering a mysterious 'Assimilation' skill that grants him stat boosts. Realizing his newfound power, he resolves to grow stronger by eating monsters.",
+  "word_count": 622,
+  "confidence": "high"
+}

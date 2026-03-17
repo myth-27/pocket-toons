@@ -1,0 +1,287 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Every school has its pecking order. A silent, brutal hierarchy that dictates who eats, who starves, and who gets to breathe without fear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For Kang Minho, Class 2-3, the bottom rung was a familiar, painful place.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Another day. Another empty lunchbox. Another set of eyes looking through me, or worse, at me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Just get through it. Head down. Don't make eye contact. Don't exist.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Well, well, if it isn't our resident ghost, Kang Minho.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Dojin",
+      "line": "Heard you got some new sneakers, Minho. Pretty flashy for someone who's supposed to be invisible.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "They're... they're old. My mom bought them.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Mommy's boy, huh? Pathetic. You know the drill, Minho. Lunch money. Now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "I... I don't have any today. I spent it on bus fare.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Bus fare? What, are you too good to walk? You think you can just lie to me, Minho?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAB!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Hey! Let go!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Check his pockets, Dojin. He's probably hiding it. Little rat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Dojin",
+      "line": "Got it, Jihun. Let's see what treasures our little Minho is hoarding.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RIP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "My... my textbook! You ripped it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Oops. Guess you'll have to buy a new one. With what, though? Oh, right. Nothing.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "That's... that's my sister's textbook. She needs it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "And that's my problem how? You should've just coughed up the cash. Now, about those sneakers...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "No. Not the sneakers. My mom worked overtime for those.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Oh? Suddenly you're brave? What are you gonna do, cry? Or are you gonna fight, Designated Bully?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Designated Bully... That's what they call me. The one everyone can pick on. The one who never fights back.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "But not today. Not for this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRIT!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Get your hands off me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "What was that, worm? Did you just talk back?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOVE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "I said, get your hands off me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHAM!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Dojin",
+      "line": "Agh! My nose!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "You little punk! You actually hit him!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "My sister's textbook. My mom's sneakers. You don't touch them.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "This feeling... it's been buried for so long. The adrenaline. The clarity. The urge to protect.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "They think I'm weak. They think I'm just a target. But they don't know what I used to be. What I *can* be.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "You're going to regret that, Minho! Get him, guys!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DUCK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Ugh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Too slow.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KICK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "My gut!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "What the hell? Since when could you fight like that?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "You don't want to know.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "The fear is gone. Replaced by something cold and sharp. This is what it feels like to finally push back.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUNCH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jihun",
+      "line": "Gah!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Seulgi",
+      "line": "Minho...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "Silence.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minho",
+      "line": "The 'Designated Bully' just found his designation.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GRAB",
+    "RIP",
+    "GRIT",
+    "SHOVE",
+    "WHAM",
+    "SWING",
+    "DUCK",
+    "CRACK",
+    "KICK",
+    "THUD",
+    "PUNCH",
+    "CRASH"
+  ],
+  "summary": "Kang Minho, the school's 'Designated Bully' and constant target of Lee Jihun's gang, reaches his breaking point when his sister's textbook is destroyed and his mother's gift is threatened. He snaps, revealing a surprising and brutal fighting ability that turns the tables on his tormentors.",
+  "word_count": 765,
+  "confidence": "high"
+}

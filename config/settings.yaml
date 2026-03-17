@@ -23,3 +23,11 @@ scoring:
   sentiment_weight: 0.4
   engagement_weight: 0.4
 
+vision:
+  # Path to Google Cloud Service Account JSON
+  credentials_path: "config/google_vision_creds.json"
+  # Optional: API Key as fallback (some features)
+  api_key: "AIzaSyDjTbMfOBG4XyDvItY2OGGKzgZBoCWAzFI"
+  # Output path for OCR scripts
+  script_output_dir: "data/processed/ocr_scripts"
+

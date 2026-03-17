@@ -1,0 +1,159 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Marquisate of Valois was once a name whispered with reverence, a beacon of prosperity. Now, it was a name synonymous with ruin.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "Another dawn. Another day closer to my fate. My father's debts... my family's last hope. All resting on my shoulders, a sacrificial lamb offered to the beast of the North.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "They call him the 'Beast of the North,' Duke Erden. A man so disfigured, so cruel, that even the bravest knights refuse to serve in his court. Whispers say he wears a mask not for dignity, but to spare others the horror of his visage. A monster, they say. My husband.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "I've steeled myself for this. I expect nothing but a cold, lonely existence. Perhaps that's for the best. No grand illusions to be shattered, no expectations to be disappointed. If he truly is a monster, then I will simply exist, a shadow in his shadow, and find my own quiet peace.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The journey to the Duchy of Erden was long, arduous, and filled with a silence heavier than the leaden skies above. The Valois carriage, once grand, now rattled along a desolate path, carrying its most precious, and most desperate, cargo.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "The landscape grows more desolate with every mile. No flowers, no vibrant greens. Only stark, skeletal trees and an endless, grey horizon. It mirrors the emptiness in my chest.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAID",
+      "line": "My Lady, are you not afraid? They say the Duke... he has eyes that burn like embers, and a voice that chills to the bone. No one has seen his true face and lived to tell the tale without nightmares.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "Afraid? Of course, I am. But what good would fear do now? I've already accepted my lot. All I ask for is a quiet corner, a small measure of peace, even in this 'monster's' keep.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CARRIAGE WHEELS GRIND TO A HALT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEAVY CASTLE GATES GROAN OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Erden Castle loomed like a jagged scar against the twilight sky. Its stone walls, dark and ancient, seemed to absorb all light and warmth, casting long, menacing shadows.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "It's even more formidable than the rumors described. A fortress, not a home. This is where I am to spend the rest of my days.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HEAD BUTLER",
+      "line": "Welcome, Lady Leticia. The Duke awaits you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "His voice is as cold as the stone around us. No warmth, no welcome. Just a duty to be performed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She was led through echoing halls, each step a drumbeat against the oppressive silence, until she reached a vast, dimly lit study. The air was heavy, thick with an unspoken tension.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEAVY OAK DOORS CREAK OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "There he is.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Seated at a massive desk, shrouded in shadow, was a figure draped in dark velvet. A heavy, ornate mask, intricately carved with swirling, almost predatory patterns, obscured his entire face. Only two narrow slits for eyes, from which no light seemed to escape, were visible.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "The mask... it was not a simple covering. It was a work of art, crafted from dark metal. It covered his entire face. It was designed to intimidate, to conceal, to terrify. And it succeeded.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DUKE ERDEN",
+      "line": "You are late.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "His voice. Deep. Resonant. Not a growl, but a low rumble that vibrated through the floorboards, through my very bones. It wasn't harsh or guttural, as I'd imagined. It was... controlled. Powerful. Commanding.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "My apologies, Your Grace. The journey was... extensive.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DUKE ERDEN",
+      "line": "Indeed. You may take your leave. The arrangements for your stay have been made. My steward will brief you on your duties.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "Duties? Not 'our' duties, not 'as my wife'. Just 'your' duties. He truly sees me as nothing more than a transaction. A burden.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "As you wish, Your Grace.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As she curtsied, preparing to retreat, a sudden draft swept through the room, making the heavy tapestries billow. For a fleeting instant, the candlelight flickered, and a shadow shifted across the Duke's form.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LETICIA",
+      "line": "Just beneath the edge of his mask, where his jawline should have been, I caught a glimpse. A sliver of skin. Not scarred, not grotesque, but... smooth. Impossibly pale. It was gone before I could even register it, swallowed by the returning shadows. My heart gave a strange jolt. A trick of the light, surely. My mind playing games.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (Leticia's heart)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But the shadows quickly reclaimed him, and the monstrous mask was all that remained. Leticia exited the room, her mind reeling, a tiny seed of doubt planted amidst the fear.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CARRIAGE WHEELS GRIND TO A HALT",
+    "HEAVY CASTLE GATES GROAN OPEN",
+    "HEAVY OAK DOORS CREAK OPEN",
+    "THUMP-THUMP"
+  ],
+  "summary": "Lady Leticia Valois, facing her family's ruin, is forced into an arranged marriage with the infamous 'Beast of the North,' Duke Erden. She arrives at his desolate castle, resigned to a life with a monstrous husband, only to catch a fleeting, unsettling glimpse of something unexpected beneath his mask during their first, chilling encounter.",
+  "word_count": 785,
+  "confidence": "high"
+}

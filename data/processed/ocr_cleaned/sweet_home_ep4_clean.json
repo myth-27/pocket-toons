@@ -1,0 +1,429 @@
+{
+  "title_header": "Sweet Home, Episode: 4",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "It's been a week since I moved here.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Pizza.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I don't feel too well because I've been eating fast-food all week, but that didn't really matter.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It's not like I wanted to live long.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[KINGSHIT] I'LL COME BACK AFTER TAKING SHIT. [GONG] EVERYONE HERE IS ALL ADDICTED. [POTATO] BUY 1200 GOLD. ANY GOOD OFFER?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hmm.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hasn't this guy been sitting there for five days?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Level 78. Is this lady? And she's been standing still since last week.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Did they get a stroke while playing this video game?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She moved a little bit.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Keyboard macro to not get kicked off?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Huh??",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[SHOUT][POTATO] BUYING 1200 GOLD, MSG ME PLZ. [PUBLIC][GAYDREE] GUYS, I'VE BEEN HEARING VOICES IN MY HEAD AND BEEN NOSEBLEEDING EVERYDAY. SHOULD I GO SEE A DOCTOR? CAN IT BE A TUMOR?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[SHOUT][POTATO] BUYING 1200 GOLD, MSG ME PLZ. [PUBLIC][GAYDREE] GUYS, I'VE BEEN HEARING VOICES IN MY HEAD AND BEEN NOSEBLEEDING EVERYDAY. SHOULD I GO SEE A DOCTOR? CAN IT BE A TUMOR? [SHOUT][POTATO] BUYING 1200 GOLD, MSG ME PLZ. [PUBLIC][GAYDREE] THE VOICE KEEPS TELLING ME TO KILL MOM AND POPS. IT KEEPS RINGING IN MY EARS. IT'S DRIVING ME CRAZY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IT'S DRIVING ME CRAZY. [SHOUT][POTATO] BUYING 1200 GOLD, MSG ME PLZ. [SHOUT][RZAVCF] SELLING ARTISAN ARMOR DESIGN FOR 200 GOLD. [SHOUT][BASTARD] RECRUITING TANKERS TO RAID DUNGEONS OF LOST ISLAND ARTIFACTS. [PUBLIC][GAYDREE] ANSWER ME, YOU F***ING NUTS! I THINK I CAN KILL MY PARENTS ASLEEP IN THEIR BEDROOM IF I RAID ON THEM WITH A KITCHEN KNIFE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BEDROOM IF I RAID ON THEM WITH A KITCHEN KNIFE. [SHOUT][SABEL] STFU, YOU ATTENTION WHORE. GET SOME NEW EQUIPMENT OR GO DO AN INSTANCE. [SHOUT][ZZPTD] MY CONDOLENCES FOR HIS PARENTS FOR RAISING SUCH F***TARD.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[SHOUT][ZZPTD] MY CONDOLENCES FOR HIS PARENTS FOR RAISING SUCH F***TARD. [PUBLIC][GAYDREE] I'LL KILL YOU! [SHOUT][TASTYCRAB] IS HE TRYING TO TYPE WITH HIS D***? WHAT A DUMBASS, LOL.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WHAT A DUMBASS, LOL. [PUBLIC][GAYDREE] ASDFJKPQKJFPQVKQJDQQQQ QJQPNPPPPPPPPPPPPPPQOIVQVQLLLLI LLLLLLLLL LLLLLLL LLLLLLE LLLLLLL LLLLLLE LLLLLLE LLLLLLLLLE LLLLLLLLLLLL LLLLLLLLLLLLLE LLLLLLLLLLLLLL LLLLLLLLLLLLLLE LLLLLLLLLLLLLLLLLI LLLLLLE LLLLLLLLLLLLLLLL",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[SHOUT][PONGPONG] STOP FLOODING THE CHAT, YOU PSYCHO. [SHOUT][ZODOLLARCHICKEN] MAYBE IT'S A CAT. [SHOUT][IMLOOKINGFORLOVERIMSERIOUS] OH, THE ENDLESS POSSIBILITIES OF DISCOVERING NEW IDIOTS EVERYDAY IN THIS VAST UNIVERSE. [SHOUT][UOLKING] WHAT A MENTAL CASE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "F***ing losers.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "No.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Seriously?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I can't stand this shit anymore.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Great.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "There's no one at the office.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What the... why did they lock this door?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Well, f*** it then.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Your fault for locking the roof.",
+      "type": "thought"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Excuse me, this is a non-smoking building.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "I was wondering who's been leaving their cigarette butts everyday.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "And it was you, Mr. Mobster.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Me?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Everyday? I've never smoked inside before--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "And wait a minute, I'm not a thug?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Then what are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Hmm, a goodfella?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "So lame.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Okay, Mr. Mobster. If you want to smoke, please smoke on the roof.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "They even put an ashtray there for you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Just take three more steps!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "The entire corridor below smells like your cigarette!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Hey, brat! Don't you see that cage door is locked?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Can't go up, even if I wanted to!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Huh? Really?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Why did they lock that door?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "How should I know?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "By the way, what are you doing up here?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Eh, you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Wait a minute.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "You underage brat! Who are you to preach about smoking?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "How old are you, huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN",
+      "line": "Mind your own business!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "I'm telling your brother!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Pardon me, good sir: may I offer you a burger?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOBSTER",
+      "line": "Too late, kid.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOBSTER",
+      "line": "By the way, I'll have to ask the security guard to unlock this door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD LADY",
+      "line": "Not today. No one is at the security office today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOBSTER",
+      "line": "Yeah?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOBSTER",
+      "line": "What's up with that old man?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S MOTHER",
+      "line": "What the hell did you just say?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S MOTHER",
+      "line": "Settlement??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S MOTHER",
+      "line": "Who... who did this to my son?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S MOTHER",
+      "line": "You pathetic fool!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S MOTHER",
+      "line": "Get him here right now!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S FATHER",
+      "line": "What did you expect?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYUN'S FATHER",
+      "line": "No one will protect you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A dream again?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What time is it now?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "PM 4:34.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MESSAGE: NUMBER UNKNOWN. YOUR PACKAGE WAS LEFT BY THE DOOR. SINCE NO ONE ANSWERED, THE SECURITY OFFICE IS EMPTY TOO.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Oh, that must be ramen.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What the?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Just perfect.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Are these nosebleeds?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "No. Seems too much to be nosebleeds.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What in the world--?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Why is she eating my ramen?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "MONSTER",
+      "line": "Something to eat...",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "TADADAK",
+    "TAKTAK",
+    "KEYBOARD CLACK",
+    "BEEP",
+    "CREAK",
+    "FOOTSTEPS",
+    "SWISH",
+    "RUSTLE",
+    "STRUGGLE",
+    "FREEZE",
+    "IMPACT",
+    "RUMBLE",
+    "WHOOSH",
+    "THUMP",
+    "SLURP",
+    "CHOMP",
+    "GULP",
+    "TOK",
+    "DROOP",
+    "GROAN",
+    "HUFF",
+    "CLICK",
+    "CLACK",
+    "DOORBELL"
+  ],
+  "summary": "Hyun reflects on his isolated life and observes disturbing online game chat. He then has an encounter with an old lady about smoking and a locked roof door, followed by a flashback of his parents arguing. Later, he discovers a monster in his apartment eating his ramen.",
+  "word_count": 964,
+  "confidence": "high"
+}

@@ -1,0 +1,157 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Ardhalis. A city perpetually cloaked in shadow, both literal and metaphorical. Rain was its constant companion, washing away the grime, but never the sin. The air itself felt heavy, thick with unspoken truths and desperate lies.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "Another one. The city bleeds, and we just... mop it up. Each drop of blood, each whispered alibi, it all hums with a frequency only I can perceive. A discordant symphony of deception.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kym",
+      "line": "Still at it, Sinclair? Captain wants us on the Beaumont case first thing. Said it's top priority.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "Beaumont? The councilman? I thought that was an open-and-shut. Robbery gone wrong, wasn't it? That's what the initial report said.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kym",
+      "line": "That's what they *want* it to be. But the forensics are messy. And the Captain has a bad feeling. You know how he gets when the official story doesn't quite... sit right.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "A bad feeling. Or a lie he can't quite pinpoint. Unlike me. The Beaumont file, even from a distance, radiated a low, steady hum. A deep-seated, carefully constructed lie. It was like a dull ache behind my eyes, a constant pressure that intensified with proximity to falsehoods.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lauren traced the lines of the report with a gloved finger. A man, dead in his lavish penthouse, a single stab wound. The official story was a break-in, a struggle. But the silence emanating from the words... the subtle, almost imperceptible tremor in the air around them... it screamed deception.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "What's the official statement from the witnesses? The security guards, the house staff?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kym",
+      "line": "All checked out. Ironclad alibis, no prior records. They all told the exact same story, word for word. 'He was alone. We heard a struggle. By the time we got there, it was too late.' Their faces were pale, their voices shaken. Seemed genuine enough to me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "Genuine. To you, maybe. But to me, it's a perfectly orchestrated chorus of falsehoods. The uniformity of their stories, the precise timing... it's almost *too* perfect. A well-rehearsed symphony of deception, each note hitting the exact same pitch, creating a flat, unnatural resonance. The lie pulsed, a dull, persistent throb.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RAIN LASHING AGAINST THE GRIMY WINDOWS. DISTANT SIRENS WAIL.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Captain",
+      "line": "Sinclair, Kym. My office. Now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS ON LINOLEUM. DOOR CREAKS OPEN, THEN SHUTS WITH A SOFT THUD.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Captain",
+      "line": "Beaumont wasn't just a councilman. He was... connected. Deeply. And this wasn't a random hit. This was professional. Highly professional.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "Professional. The word hung in the air, thick with unspoken implications. Ardhalis had a new kind of professional. One who operated in the shadows, leaving only fear. A ghost story for the city's elite.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kym",
+      "line": "Sir, we've reviewed every inch of the security footage. Nothing. No forced entry. No strange faces. It's like the killer just... vanished into thin air.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Captain",
+      "line": "Exactly. Which means it was someone *inside*. Someone who knew the routine. Or someone who could bypass it entirely. There are whispers, Sinclair. Whispers of a ghost. Someone who leaves no trace. Only... a message.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "A message. A signature. I've heard the whispers too. They call him... the Purple Hyacinth. A myth, a boogeyman for the corrupt, whispered in hushed tones. But myths often have roots in reality. And the hum around the Captain's words... it's not a lie. It's fear. Raw, unadulterated fear.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "What kind of message, Captain?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Captain",
+      "line": "The kind that chills you to the bone. A single purple hyacinth, left on the body. Untouched by forensics. Impossible to trace. It's been happening more frequently. Each time, the target is someone powerful, someone untouchable.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUNDER RUMBLES, CLOSER THIS TIME, SHAKING THE BUILDING FAINTLY.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "A purple hyacinth. Symbol of sorrow. Of apology. Or perhaps... a warning. My gift... my curse... it's never been more vital. Or more dangerous. The hum of the city's lies is growing louder, coalescing around this elusive truth. This isn't just a case. This is a hunt. I'm the only one who can hear the lies that hide the truth.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kym",
+      "line": "A flower? That's... theatrical. And disturbing.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Captain",
+      "line": "Theatrical or not, Kym, it's a statement. And it means we're dealing with something far beyond street thugs. Sinclair, I need you on this. Your... unique perspective... it might be our only shot at catching this phantom.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "I understand, Captain. I'll start with the security detail. Their stories are too clean.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lauren",
+      "line": "Ardhalis is a city of lies. I am its unwilling confessor. The truth is fragile, easily broken, easily hidden. But I can hear its whispers. And this time, those whispers are leading me into the heart of the city's darkness. The Purple Hyacinth. I'm coming for you.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "POLICE RADIO CHATTER FADES IN AND OUT SOFTLY, A CONSTANT BACKGROUND HUM OF THE CITY'S STRUGGLE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RAIN CONTINUES TO FALL STEADILY, A DRUMBEAT AGAINST THE WINDOWS.",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "RAIN LASHING",
+    "SIRENS WAIL",
+    "FOOTSTEPS",
+    "DOOR CREAKS",
+    "DOOR SHUTS",
+    "THUNDER RUMBLES",
+    "POLICE RADIO CHATTER"
+  ],
+  "summary": "Detective Lauren Sinclair, burdened by her ability to detect lies, is introduced to the mysterious Beaumont murder case. The Captain reveals a chilling signature: a single purple hyacinth, hinting at the rise of a notorious, untraceable assassin known only as the Purple Hyacinth, setting Lauren on a dangerous path.",
+  "word_count": 765,
+  "confidence": "high"
+}

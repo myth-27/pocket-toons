@@ -1,0 +1,65 @@
+=== Omniscient Reader, Episode: 10 ===
+
+SUMMARY: The group attempts to open a subway door, with Dokja guiding Hyeonseong to use his skill to break it. They escape the train car just as a new scenario begins, requiring them to cross a collapsing bridge to Oksu Station. However, a mysterious entity intervenes, raising zombies and increasing the scenario's difficulty, forcing them to fight their way into the station.
+
+──────────────────────────────────────────────────
+
+  UNKNOWN: DOKJA, OVER HERE!
+  UNKNOWN: Okay, I'm going to open it.
+  NARRATOR (thinking): THIS ONE IS BROKEN TOO.
+  NARRATOR (thinking): BUT IT IS STILL THE ONLY ONE WE HAVE A CHANCE AT OPENING.
+  NARRATOR (thinking): 4,700 coins possessed. I could use my coins again and increase my strength this time. But who knows what will happen? Recklessly using my coins so early on could be dangerous.
+  DOKJA: Hyeonseong, use your skill.
+  HYEONSEONG: What?
+  ([PERSONAL SKILL CHARACTER PROFILE ACTIVATED])
+  HYEONSEONG: By skill, you mean...?
+  ([CHARACTER PROFILE] NAME: HYEONSEONG LEE AGE: 28 SUPPORTING CONSTELLATION: MASTER OF STEEL PERSONAL ATTRIBUTE: SOLDIER WHO TURNED A BLIND EYE TO INJUSTICE (GENERAL) SKILLS: [CAMOUFLAGE LV.2], [PATIENCE LV.2] STIGMA: [GREAT MOUNTAIN PUSH LV.1] OVERALL STATS: [STAMINA LV. 8], [STRENGTH LV. 8] [AGILITY LV. 7], [MANA LV. 5] GENERAL EVALUATION: HYEONSEONG LEE HAS VERY GOOD OVERALL STATS. ALTHOUGH HOW READILY HE TURNED A BLIND EYE TO INJUSTICE WAS SURPRISING, A CONSTELLATION STILL SELECTED HIM. THIS IS ANOTHER OPPORTUNITY FOR HIM.)
+  NARRATOR (thinking): Thankfully, his supporting constellation and attribute are the same as the novel.
+  DOKJA: You probably checked your skills when you opened your attributes window earlier. You're in the army, so there must be a skill you can use right now.
+  HYEONSEONG: Well... I do have one, but I don't know how to use it.
+  DOKJA: Just imagine yourself using it.
+  HYEONSEONG: That is all it takes?
+  UNKNOWN: It worked! It really worked!
+  ([HYEONSEONG LEE HAS BEGUN TO TRUST YOU])
+  ([YOUR UNDERSTANDING OF HYEONSEONG LEE HAS INCREASED])
+  NARRATOR (thinking): Looks like the stigma, [GREAT MOUNTAIN PUSH], successfully activated. He's so simple-minded.
+  UNKNOWN: The steel door connected to subway cabin 3707 will break soon. Run!
+  NARRATOR (thinking): But if my memory serves me right... the steel door isn't the problem.
+  UNKNOWN: Gosh, I knew this would happen!
+  UNKNOWN: I told you earlier... to stay put!
+  UNKNOWN: Damn it! I'm not done preparing the next scenario!
+  UNKNOWN: Ahh! I knew it! I told you we should stay inside! M-My head!
+  UNKNOWN: Sigh... Well, I guess I have no choice.
+  UNKNOWN: You're very lucky human beings.
+  ([THE SECOND SCENARIO HAS ARRIVED])
+  (<SUB SCENARIO ESCAPE> CATEGORY: SUB DIFFICULTY: E CLEAR CONDITIONS: GET ACROSS THE COLLAPSED BRIDGE AND ENTER OKSU STATION. TIME LIMIT: 20 MINUTES REWARD: 200 COINS PENALTY FOR FAILURE: ???)
+  NARRATOR (thinking): I knew it.
+  SANGAH: Dokja, something doesn't feel right. It says 'collapsed bridge,' but the bridge isn't...
+  DOKJA: Don't worry about it and just run! Hurry!
+  NARRATOR (thinking): Sangah is right. The bridge is still intact because we got off the train too early. In other words, the bridge definitely will collapse. Current Location: Oksu Station.
+  NARRATOR (thinking): It might seem underhanded, but it is impossible to clear this scenario without going around the rules.
+  UNKNOWN: We're cutting it close, but I think we'll make it!
+  UNKNOWN: Ah! What the hell is that?
+  UNKNOWN: It is an Ichthyosaur! No, a Sea Serpent! Or maybe a Sea Commander from... its size?
+  UNKNOWN: I-It is coming! The bridge is going to collapse!
+  UNKNOWN: Run? We can make it across if we run!
+  NARRATOR (thinking): The Ichthyosaur doesn't go after incarnations early on in the story. It probably showed up to destroy the bridge.
+  UNKNOWN: We only have about 200 yards left!
+  UNKNOWN: At this speed, we'll be able to cross the bridge before it collapses!
+  UNKNOWN: It is no fun if the game is too easy, is it?
+  UNKNOWN: Oh no...
+  UNKNOWN: What's the fun in you getting away safely? Let's shake things up a bit!
+  ([THE DIFFICULTY OF THE SCENARIO HAS BEEN ADJUSTED] DIFFICULTY: E -> D)
+  ([THE EVIL THOUGHTS OF THE DEAD HAVE RETURNED])
+  ([BLACK ETHER IS RISING FROM THE SURROUNDING EARTH])
+  UNKNOWN: Huh? Z-Zombies?
+  ([DEMONIC BEINGS HAVE BEEN RESURRECTED!])
+  UNKNOWN: Ahh! Y-You bastards!
+  UNKNOWN: Dokja!
+  ([YOU HAVE ENTERED OKSU STATION])
+  UNKNOWN: Damn it! Everyone get down!
+  UNKNOWN: Dokja!
+
+─── SFX: SLAM, BREAK, CRACK, HAAAAAA, RATTLE RATTLE, AHHH, SNAR, DING, SNAP, VNG ───
+
+[Words: 700 | Confidence: high]

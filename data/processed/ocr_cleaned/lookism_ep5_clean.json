@@ -1,0 +1,904 @@
+{
+  "title_header": "Lookism, Episode: 5",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "WARNING THIS EPISODE CONTAINS STRONG LANGUAGE THAT MAY NOT BE SUITABLE FOR SOME READERS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THAT'LL BE 0.7 DOLLARS. YOU NEED A BAG?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "NOPE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "GOOD BYE. PLEASE SAY THANK YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I got a night job at a convenience store, yesterday after school.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hiring PART TIME Nights 6PM-7AM WAGES NEGOTIABLE",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Are you still hiring for the night shift?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "OH, HELLO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "OOOOH WOW!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I could work all night.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BINGO! The sign's on the door.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "JACKPOT! Handsome part-timer. Lots of girl customers. Sales skyrocket.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I've never worked at a convenience store before.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Do you need a resume?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I struck gold!",
+      "type": "thought"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "Can a first-timer... You're hired.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Sorry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "Well, can you start right away?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Um, how much are you looking to earn?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "I'll give you the max.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "That is... Wow, he's really cool.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "No, I mean not for me, for a friend of mine.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "What?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "STAFF UNIFORM",
+      "type": "narration"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "So you're the friend.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Yes.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "Did something bad happen to him?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "Sorry, but this won't work. I don't hire high schoolers.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "But my friend said I can-",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Come to think of it, students don't have a clue about the names of cigarette brands.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "So many brand names to memorize: Philip Morris, Camel, Marlboro, Kent, Red, Dunhill, Kool, Reall.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Huh?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Who is this guy?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "PROFICIENT CIGARETTE SERVANT",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I managed to get hired but, why the salary difference?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "Bring your friend later!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I have two bodies, so I need expenses for two persons.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Day body is currently sleeping.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "New body for daytime, old body at night.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "School during the day, work during the night.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "8AM-8PM New body is active.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "8PM-8AM Old body is active.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I was living 12 hours per body to protect each's health.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Why does this happen to me? What if my new body disappears?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "If only this body would go.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The daytime is like a beautiful dream.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "At night I come back to the cold reality.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And the reality is still like a dream; a horrible dream.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MANAGER",
+      "line": "Welcome.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Another customer.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Give me four packs of Marlboro Lights.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They're my classmates!",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Wussy part-timer, here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What should I do? I can't sell them smokes!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Can I see your ID, please??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Huh? Jeez.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Hey, why are we dressed like this? We should look old enough to get smokes.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Here you go.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WOW, BORN IN '84.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHERE DID HE GET THIS OLD MAN'S ID?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Um, that doesn't look like you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Huh?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "I'VE GAINED WEIGHT, OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "THIS LITTLE BASTARD.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "NO, SORRY. THIS IS MY ID.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I DON'T THINK SO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "The jig's up. Let's bounce here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "THEN HOW OLD ARE YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHAT? WHY? WHYYY??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Sorry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I CAN'T GET FIRED!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Hey! LET'S JUST GO SOMEWHERE ELSE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "STOP MESSING AROUND!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "ZACK, ZACK LEE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Eh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "THAT FATSO LOOKS FAMILIAR.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HE'S THAT TURD.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "WHO DO WE HAVE HERE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Hey, we're good here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "GET A BUNCH OF BOOZE TOO, hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "YOU KNOW THIS GUY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "OH NOOOOO NOOOOO WAY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "YOU KNOW WE'RE THE SAME AGE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "Hey, let's forgive and forget.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "Ring this up in honor of our truce.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "AND DID I SAY I'M NOT F***ING PAYING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "YOU DON'T WANNA BE RECONCILED?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "IT'S NOT THAT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Why's he in such a bad mood today?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Don't you get it? He's usually like that.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Mira has eyes for the transfer student, hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Zack asked her out but she turned him down, hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Right, maybe he's pissed because of the new guy.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Geez, they went on a date, now it's over?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "I HATE ALL OF THEM! THOSE A**HOLES!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Quiet!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "He's gonna blow his stack.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "THE NEW D***HEAD SUCKS. HE'S WORKING ON MY MIRA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "DISTORTED MEMORY",
+      "type": "narration"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "AND THIS TUB OF LARD, SINCE I COULD GET FIRED, SORRY, WAS HITTING ON MIRA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Hey!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "TRUCE IS OFF.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "HE FLIPPED!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "STOP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I GOT HIT AGAIN! I'M PISSED!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "HEY! WHY ARE YOU HITTING HIM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "STOP HIM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And I got beat up by Zack again like that.",
+      "type": "narration"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Sorry, sorry, we're going.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "He's got a bad temper, what can ya do?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "LET ME GO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "STOP IT, YOU A**!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "I hope you can understand. This is insurance. If you report us, we will spread this photo. Got it?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "HEAD UP, HEAD UP, HANDS BACK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I was forced to agree on forgetting the whole thing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Phew.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "At least I didn't sell them the smokes. I would've been fired on my first day.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I can't rely on just Mom.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Shall I call her?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MOM",
+      "line": "OH! WHO'S THIS? MY SON~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM-",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She's in a good mood, hehe.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MOM",
+      "line": "SON, WHAT ARE YOU DOING UP THIS LATE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "UM, JUST TAKING A WALK, THE NIGHT AIR'S SO FRESH, hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOM",
+      "line": "AMAZING! I'M OUT FOR A STROLL TOO! WE'RE ON THE SAME PAGE, hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOM",
+      "line": "SON, HOW'S SCHOOL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SCHOOL? DON'T WORRY! I'M REALLY POPULAR. I WAS JUST WITH A FEW CLASSMATES!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But only during the day, they beat me up though.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM, HOW HAVE YOU BEEN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOM",
+      "line": "YOU KNOW, I'M DOING FINE, BECAUSE YOU'RE AWAY. I'M TAKING THIS NIGHT STROLL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOM",
+      "line": "SON, DON'T YOU NEED MORE MONEY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "NO, MOM, I'M FINE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOM",
+      "line": "JUST TRUST YOUR MOM AND STUDY HARD. DON'T WORRY ABOUT MONEY. OKAY, SON?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOM",
+      "line": "hehe. ALL RIGHT, OKAY, I'M GONNA WALK A BIT MORE AND HEAD HOME. I LOVE YOU, SON.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Like that the evening nightmare ended.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And it was day again.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I feel so light!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I returned to the dreamlike reality.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "So much power!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "LIGHT BODY!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "So this is what it's like to be buff.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "When you're tall, the world seems tiny.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I think I can fly.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Hey, there he is!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH DAMN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "He's like a cartoon hero.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Look at his figure! Damn hot.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "He must be so happy to come to school with that face.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I hate coming to school.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I already got hit.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They don't know it was me though.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "When I entered the class in this new body, suddenly this prick beat him up!",
+      "type": "narration"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "He flipped his lid.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "I took a picture to ensure he stays silent.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "WHAT PICTURE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "YOU STOP IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "WANNA SEE OR NOT? hehe. LOL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "YOU THINK I'M PROUD OF HITTING THAT PIG?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "THEY WERE TALKING ABOUT ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "OOH HI, DANIEL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "COME HERE! HE HAS SOMETHING FUNNY TO SHOW US!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "YEP, YOU WANNA SEE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "SO WHAT IS IT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "YESTERDAY ZACK BEAT UP A PIG AND... IF HE SEES IT, HE MIGHT BE SCARED OF ME, hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK'S FRIEND",
+      "line": "IT'S A NUDE PIC OF THE PIGGY, haha.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Nude?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They were making fun of me.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "Phew",
+    "RING",
+    "Agh",
+    "shake",
+    "DIG",
+    "Burp",
+    "Glare",
+    "OOOH",
+    "Gppp",
+    "Whack",
+    "CLICK",
+    "Hmph",
+    "Ech",
+    "Goof",
+    "HULK",
+    "MUSCLE",
+    "Hek",
+    "Haha",
+    "Elah"
+  ],
+  "summary": "Daniel gets a night job at a convenience store to help with his two-body expenses. He encounters his bullies, Zack and his friends, who try to buy cigarettes illegally and then beat him up, threatening him with a humiliating photo. The next day, in his new body at school, Daniel overhears Zack and his friends discussing the previous night's events and the photo they took of his old body.",
+  "word_count": 1205,
+  "confidence": "medium"
+}

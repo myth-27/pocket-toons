@@ -1,0 +1,175 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "66666 years. A blink of an eye for the cosmos, an eternity for a soul imprisoned.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "The darkness… it was finally gone. That suffocating void, the endless silence…",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "My eyes fluttered open, not to the familiar sight of my obsidian throne room, nor the blood-soaked battlefields where I reigned supreme.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Instead, a soft, unfamiliar ceiling. And this body… so small. So utterly, pathetically weak.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MAID (OFF-PANEL)",
+      "line": "Young Master Jamie, are you awake? You'll be late for your lessons again!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Jamie. Right. That's what they call me now. Jamie Welton. A name befitting a pampered, sickly noble child.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Me, Penzegar, the Dark Mage King, terror of the continent, master of forbidden arts… reduced to this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MAID",
+      "line": "Young Master, please! Your tutor will be cross. Lady Welton will be displeased.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAMIE",
+      "line": "Hmph.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Displeased? The thought of that woman's 'displeasure' is laughable. She barely acknowledges my existence, preferring her 'talented' elder son.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jamie Welton, the second son of the prestigious Welton Duchy, was known for his frail health and lack of magical aptitude. A disappointment in a family of powerful mages.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Lack of aptitude? They wouldn't know true aptitude if it bit them. Their 'mana' feels like a trickle compared to the raging torrent I once commanded.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (subtle, internal)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Still, this body… it's a blank slate. Weak, yes, but uncorrupted. A vessel. And the mana in this era… it's different. Denser, perhaps? Or simply less refined.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAID",
+      "line": "Young Master, are you feeling unwell? You're staring at the ceiling again.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAMIE",
+      "line": "I'm fine, Lily. Just... contemplating.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "Contemplating how to regain my lost power. How to reclaim my throne. How to make those who sealed me away regret their very existence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "66666 years. The world must have changed beyond recognition. New heroes, new villains, new empires.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "But magic… magic remains. And the fundamental laws of the arcane do not bend to the whims of time.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jamie slowly sat up, his small hands clenching into fists. A spark, faint but undeniable, flickered deep within his eyes.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "My previous life was cut short by betrayal. This time… there will be no such weakness.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "I will master this body. I will re-learn the magic of this era, and then I will surpass it. I will forge a path of darkness that will make my previous reign seem like a mere shadow.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE (very faint, almost imperceptible)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAMIE",
+      "line": "Lily, bring me a book on basic mana theory. The most rudimentary one you can find.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAID",
+      "line": "A book, Young Master? But your tutor is waiting for your sword lessons...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAMIE",
+      "line": "Sword lessons are for those who lack true power. My path lies elsewhere. Now, go.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAID",
+      "line": "Y-yes, Young Master.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The maid, Lily, hurried out, a flicker of surprise on her face. It was the first time the frail Young Master Jamie had ever spoken with such authority.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAMIE (THOUGHT)",
+      "line": "66666 years. A long nap. But now, the Dark Mage King has awakened. And this world… it will soon learn to tremble once more.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (Jamie's fist hitting the bed lightly)",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "CREAK",
+    "RUSTLE",
+    "WHOOSH",
+    "CRACKLE",
+    "THUMP"
+  ],
+  "summary": "The Dark Mage King Penzegar awakens after 66666 years, reincarnated into the frail body of a noble child named Jamie Welton. He quickly dismisses his current weak state and the mundane expectations of his new family, immediately setting his sights on regaining his immense power and reclaiming his forgotten legacy.",
+  "word_count": 622,
+  "confidence": "high"
+}

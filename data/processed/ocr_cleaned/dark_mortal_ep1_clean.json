@@ -1,0 +1,234 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The stench of ozone and stale synth-ale clung to Sector 7 like a second skin. Here, the sun was a rumor, a distant memory filtered through layers of smog and corporate towers that clawed at the sky, indifferent to the squalor below. Kael navigated the cramped, perpetually shadowed alleyways, the low drone of his battered hover-scooter barely audible over the distant rumble of the rail-lines that crisscrossed the city's upper echelons. Another delivery, another anonymous package for an anonymous client in this forgotten corner of the metropolis.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Another day. Another delivery. Another step closer to… what? Nothing. Just another cycle of trying to forget what I am, what I can do. Trying to be just… Kael.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He rounded a corner, the flickering neon sign of a dilapidated noodle stand casting sickly green light onto the grimy pavement. Then, the sound cut through the urban hum – a sharp, desperate cry, followed by the jeering laughter of multiple voices. It was the kind of noise he’d learned to ignore, the kind of trouble that always found him if he lingered.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Not my problem. Keep moving. Just keep moving. Don't look. Don't engage.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP. CRASH.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Damn it. Too close.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Iron Fang Leader",
+      "line": "Hey, look what we got here, boys! A little rat trying to scamper away with our goods!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Iron Fang 2",
+      "line": "Think you can just walk through Syndicate territory, huh, punk? This ain't no free pass zone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Three hulking figures, their coarse, synthetic leather jackets emblazoned with the snarling wolf emblem of the 'Iron Fangs', had cornered a scrawny kid, no older than fifteen. They were kicking at a flimsy crate, its contents – packets of cheap nutrient paste and synth-grain – spilling onto the grime-slicked ground. The kid was curled into a ball, trying to protect his head, his small frame trembling.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Just a kid. And a crate of nutrient paste. Not worth it. Not for me. Not for the trouble it brings. I made a promise to myself.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kael",
+      "line": "But… the look in his eyes. That raw, hopeless fear. That’s how it starts. That’s how *they* started, feeding on the weak, growing stronger on the despair. I can’t… I can’t just watch.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Leave him alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Iron Fang Leader",
+      "line": "Well, well, what do we have here? A hero? Or just another fool looking for trouble in the wrong place?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Iron Fang 2",
+      "line": "Get lost, old man. This ain't your fight. Or maybe you want a piece of the action?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kael",
+      "line": "It is now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH. CRACK.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kael moved. Not with explosive speed, not with flashy theatrics, but with an economy of motion that belied his casual stance. The first Iron Fang barely registered the blur before Kael's open palm connected with his jaw, a precise, devastating strike.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Iron Fang 1",
+      "line": "UGH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He crumpled, unconscious before he even hit the ground, his heavy frame collapsing like a sack of synth-rice.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Iron Fang Leader",
+      "line": "You bastard! Get him! Tear him apart!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Iron Fang 2",
+      "line": "I'll rip you apart!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The second one lunged, a rusty, serrated pipe swinging in a wide, wild arc, aiming for Kael's head. Kael ducked under it with practiced ease, his hand shooting out, not to strike, but to grasp. He seized the man's wrist, twisting it with impossible, bone-jarring force.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SNAP. CRUNCH.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Iron Fang 2",
+      "line": "AARRGGHH! My arm! You broke my arm, you psycho!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A sickening crack echoed in the alley as the bone fractured, the sound chillingly clear in the sudden silence. The man dropped the pipe, clutching his mangled limb, tears streaming down his face as he collapsed, screaming.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Iron Fang Leader",
+      "line": "What… what the hell are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kael's eyes flickered, the pupils seeming to deepen, to absorb the dim light. A faint, almost imperceptible dark aura shimmered around his fists, a subtle distortion in the air. The atmosphere grew heavy, static, like before a storm. The leader, despite his bulk, took another shaky step back, his eyes wide with dawning horror.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Iron Fang Leader",
+      "line": "You… you're one of *them*. A Dark Mortal.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Don't ever call me that.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kael closed the distance in an instant, a dark energy coalescing around his fist, not a physical blow, but a surge of raw, concussive force. It wasn't a punch, not really. It was a release, a controlled explosion.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP. RUMBLE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The leader flew backward, slamming into the brick wall with a wet, sickening thud that shook the entire alley. He slid to the ground, unconscious, a faint wisp of dark energy dissipating from his chest. The dark aura around Kael vanished as quickly as it appeared, leaving only the lingering chill in the air.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Too much. Always too much. I promised myself I wouldn't use *that*. It only brings more trouble.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Silence descended, broken only by the whimpering of the saved kid and the distant, uncaring city hum. Kael stood over the fallen gang members, his chest heaving slightly, the residue of power tingling in his veins.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kid",
+      "line": "Wh-who are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kael",
+      "line": "No one. Forget you saw anything. Go.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He retrieved his hover-scooter, ignoring the kid's wide, terrified eyes. As he started to leave, a figure emerged from the deeper shadows of a nearby doorway. A woman, cloaked and hooded, watched him with an unsettling intensity, her face obscured, but her gaze palpable.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Woman",
+      "line": "A Dark Mortal, indeed. You cannot hide forever, Kael. The Syndicate will find you. And so will the others.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kael",
+      "line": "Damn it. She saw. She *knows*.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kael",
+      "line": "I told you, I'm not one of them. I'm just… Kael.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Woman",
+      "line": "Deny it all you want. The darkness within you sings a different tune. A powerful one. And soon, it will demand to be heard. The world is changing, Kael. And you are a part of its unraveling.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kael didn't respond. He just accelerated his scooter, the engine whining, and disappeared into the maze of alleys, leaving the woman and the unconscious bodies behind. The city lights seemed to mock his desperate attempt at anonymity.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kael",
+      "line": "The others. She knows. It's starting again. The hunt. For me.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "THUMP",
+    "CRASH",
+    "WHOOSH",
+    "CRACK",
+    "SNAP",
+    "CRUNCH",
+    "RUMBLE",
+    "UGH",
+    "AARRGGHH"
+  ],
+  "summary": "Kael, a man trying to live an anonymous life in a gritty, dystopian city, is forced to reveal a fraction of his hidden, dark power when he intervenes to save a kid from a street gang. His actions attract the attention of a mysterious woman who hints at his true nature as a \"Dark Mortal\" and warns him that he cannot escape his past or the forces seeking him.",
+  "word_count": 701,
+  "confidence": "high"
+}

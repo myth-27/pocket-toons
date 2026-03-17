@@ -1,0 +1,198 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "For centuries, the Azure and Crimson Dragon Clans have been locked in a bitter war. A war that has ravaged our lands, claimed countless lives, and brought both empires to the brink.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My clan, the Azure Dragons, once mighty and revered, now stands on the precipice of annihilation. Our forces dwindle, our resources are depleted, and hope itself feels like a forgotten dream.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) The carriage sways with every jolt, a rhythm that mirrors the tumultuous beat of my own heart. Each turn of the wheel carries me further from everything I've ever known.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) My mother's tear-streaked face, my father's grim resolve... their images are burned into my mind. They tried to hide their despair, but I saw it. I felt it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) I am Princess Clove of the Azure Dragon Clan, the last remaining royal heir. And I am being sent to marry the Crimson Dragon Prince.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) A political marriage. A sacrifice. The only path to peace, they said. The only way to save our people from utter destruction.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) How can one person bear the weight of an entire nation's survival? How can I, a mere princess, be the key to ending centuries of bloodshed?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) They call him Prince Kyro. The Crimson Dragon Prince. A ruthless warrior, a cold-blooded killer. The very embodiment of our enemy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) I've heard the whispers, the legends. His eyes are said to burn like embers, his scales as red as freshly spilled blood. He is a monster, a tyrant.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) And I am to be his wife. His property. A hostage in all but name, bound by a treaty I didn't choose.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The journey was long, arduous, and filled with a silence heavier than any storm. Days bled into nights, and the familiar blue hues of the Azure territory slowly gave way.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The landscape transformed, becoming starker, harsher, painted in the crimson-tinted hues of the enemy's domain. Each mile felt like a step deeper into a lion's den.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) My hand instinctively goes to the pendant around my neck – a small, polished azure scale. A piece of home. A reminder of who I am, and what I'm fighting for.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) I must be strong. For them. For my clan. Even if it means sacrificing my own happiness, my own life, my very soul.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Guard",
+      "line": "Princess, we are approaching the Crimson capital.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Clove",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) My breath catches in my throat. This is it. The point of no return. The beginning of my end, or perhaps, a new beginning for my people.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The carriage door opened, revealing a sight that stole her breath and solidified her dread.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Before her stood the formidable walls of the Crimson Citadel, towering and imposing, bathed in the fiery glow of the setting sun. Crimson banners, emblazoned with the fearsome dragon insignia, fluttered defiantly in the wind.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FLAP FLAP (banners)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) It's even grander, more terrifying than the stories. A fortress built on centuries of conquest and blood, radiating an oppressive power.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A line of Crimson guards, clad in their distinctive red and black armor, stood at attention, their gazes sharp, unwelcoming, and filled with cold scrutiny.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And then, she saw him. The air itself seemed to thicken around his presence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Standing at the very front, taller than the rest, with an aura of undeniable power, was the Crimson Dragon Prince.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) His hair, dark as midnight, framed a face carved from stone. His eyes... they weren't just embers. They were molten gold, burning with an intensity that pierced through me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) He wasn't a monster of myth, but a man. A dangerously handsome man, whose presence alone commanded the air around him, chilling me to the bone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) And those eyes... they held no warmth, no welcome. Only a chilling, predatory assessment, as if I were merely a new acquisition.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kyro",
+      "line": "Welcome, Princess Clove.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kyro",
+      "line": "You're late.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) His voice was deep, resonant, like a growl. It sent a shiver down my spine, not entirely of fear, but of something else... something unsettlingly potent.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "Prince Kyro. My apologies. The journey was... extensive.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kyro",
+      "line": "Indeed. Let us not waste any more time. The peace treaty awaits.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His gaze was unwavering, his expression unreadable. Clove felt a cold dread settle in her stomach, a premonition of the trials to come.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) This is my new reality. A gilded cage, a political pawn. Married to a man who looks at me as if I'm just another conquest, another piece of territory.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Clove",
+      "line": "(Thought) But I will not break. I cannot. Not when the fate of my entire clan rests on my shoulders. Let the games begin, Prince Kyro.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CREAK",
+    "FLAP FLAP",
+    "THUMP-THUMP"
+  ],
+  "summary": "Princess Clove of the Azure Dragon Clan embarks on a solemn journey to the Crimson territory for an arranged marriage with Prince Kyro, a sacrifice meant to end centuries of war. Upon her arrival at the formidable Crimson Citadel, she confronts the daunting reality of her new life and meets her imposing, unreadable fiancé.",
+  "word_count": 768,
+  "confidence": "high"
+}

@@ -1,0 +1,215 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world ended.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ten years. Ten long years trapped within the Shadow Labyrinth. We fought, we bled, we sacrificed everything to clear the final stage.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But in the end, it was all for naught. The Labyrinth consumed us, and then, the world.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "Gasp...!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(My head... it's pounding. What is this place?)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "The ceiling... it's intact. The walls... not crumbling. This isn't the Labyrinth. This isn't the ruined world.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "A bed? A proper bed? I haven't slept in one of these in a decade.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(My hands... they're small. My body... it's young.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "No, this can't be... Is this a dream? A hallucination before death?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He rushed to a nearby mirror, his heart hammering against his ribs. Reflected back was the face of his sixteen-year-old self.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "It's real. I'm back. I've returned to the past.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "The day before Hebrion Academy's entrance ceremony. The day before everything began.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The memories of the Shadow Labyrinth, the faces of his comrades who fell one by one, the despair of the final battle—they were all vivid, excruciatingly clear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(Romantica, Pram, Azest... everyone. You won't have to die this time.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(I'll change it. I'll prevent the Shadow Labyrinth from ever consuming the world.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next morning, the grand gates of Hebrion Academy stood before him, just as they had ten years ago. But this time, his gaze was different.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Instructor",
+      "line": "Welcome, new students, to Hebrion Academy! The pinnacle of magic education on the continent!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Instructor",
+      "line": "Today, you will undergo a basic aptitude test. This will determine your initial class placement: Alpha or Beta.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(Alpha Class. That's where the future heroes are. The ones who will stand at the forefront against the Shadow Labyrinth.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(My magic aptitude is low. In my past life, I barely scraped by into Beta Class. But now... I have ten years of battle experience and knowledge.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Instructor",
+      "line": "For the first part, we will assess your understanding of basic magic theory. Please answer the questions on your slate.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Student A",
+      "line": "Ugh, 'Principles of Mana Circulation'? This is so hard!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Student B",
+      "line": "I can't even remember the third principle of elemental affinity...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(These questions are child's play. They're based on the standard curriculum, which I've seen countless times in the Labyrinth's archives.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRIBBLE SCRIBBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(The true challenge isn't just knowing the answers, but applying them. And I've applied them in life-or-death situations for a decade.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Instructor",
+      "line": "Time's up! Please submit your slates.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Desir submitted his slate, a faint smirk playing on his lips. His answers were concise, precise, and utterly correct.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Instructor",
+      "line": "Next, a practical assessment. Form a simple fire orb. We'll measure mana output and stability.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FWOOSH FWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Student C",
+      "line": "Mine's so small...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Student D",
+      "line": "Mine just fizzled out!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(My raw mana capacity is still low, but my control... it's on a different level.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A perfectly spherical, stable fire orb materialized in Desir's palm, glowing with a steady intensity that belied his young appearance.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Instructor",
+      "line": "Impressive... for a first-year.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(This is just the beginning. I need to get into Alpha Class. I need to find them. Romantica, Pram, Azest... and more.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Desir Arman",
+      "line": "(I'll gather the strongest, train them, and prepare them for the true war to come. This time, we will win.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With a renewed sense of purpose, Desir Arman stepped forward, ready to rewrite the future.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "GASP",
+    "RUSTLE RUSTLE",
+    "SCRIBBLE SCRIBBLE",
+    "FWOOSH FWOOSH",
+    "CRACKLE"
+  ],
+  "summary": "Desir Arman awakens in his past self, ten years before the world's destruction by the Shadow Labyrinth. Armed with future knowledge, he resolves to change history, starting with excelling at Hebrion Academy's entrance exam.",
+  "word_count": 750,
+  "confidence": "high"
+}

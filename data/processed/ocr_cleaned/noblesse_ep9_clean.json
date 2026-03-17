@@ -1,0 +1,140 @@
+{
+  "title_header": "Noblesse, Episode: 9",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "HM?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THIS GUY HASN'T CHANGED POSTURES OR EXPRESSIONS SINCE CLASS STARTED; ISN'T HE BORED?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THE ONLY THING HE'S BEEN DOING IS GLIMPSE OVER OCCASIONALLY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SPEAKING OF, IK-HAN, WHY'S HE GOING SO CRAZY WITH THE MOUSE WHEN HE'S TAKING NOTES?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "IS HE TYPING WITH HIS MOUSE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I SEE THAT EVERYDAY BUT CAN NEVER GET USED TO IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THERE'S DEFINITELY A STRANGE VIBE ABOUT THE NEW GUY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "KIDS FROM OTHER CLASSES CAME OVER DURING RECESS, BUT COULDN'T TALK TO HIM BECAUSE OF THE VIBE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SHIT, HE REALLY IS HANDSOME.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BUT NO MATTER HOW HANDSOME HE IS,",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "JUST BECAUSE I'M SITTING BESIDE HIM...",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHY DO I HAVE TO RECEIVE SUCH GLARES FROM THE GIRLS OF OLD CLASS? SOMETHING IS NOT FAIR; I COULD GRIN AND BEAR IT ALL, BUT,",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DAMN IT!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "KHH KHH YUNA~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YUNA",
+      "line": "NO NO",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SHINOO THIS PLINKOOO",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "SINCE THERE'S A NEW GUY AND IT'S BEGINNING OF WEEKENDS, I WILL LET HIM OFF.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE BUILDING WAS BUILT JUST 4 MONTHS AGO, AND PURCHASED BY SOMEONE LAST MONTH; NO ONE LIVES IN THIS BUILDING.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE \"SOMEONE\" DIDN'T EXIST FROM THE FIRST PLACE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "EVERYTHING WAS PLANNED OUT THOROUGHLY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BUT NO ONE WOULD HAVE KNOWN THE MASTER WAS ASLEEP IN HERE; THAT GOES FOR ME AS WELL.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "HOW MUCH WAS COINCIDENCE AND HOW MUCH WAS PLANNED,",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IF, EVEN ONE OF THEM WAS INVOLVED,",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "TAK",
+    "SCRITCH",
+    "YAWN",
+    "PA-PA-PAK",
+    "SHSHSH",
+    "CLICK",
+    "COFF",
+    "DRRR",
+    "KHHPOOO",
+    "DRIP",
+    "GRRR",
+    "SOB",
+    "FLUTTER",
+    "UTTER",
+    "PLINKOOO"
+  ],
+  "summary": "Students observe a new, mysterious, and handsome transfer student who shows no expression and has a strange vibe. One student, Yuna, laments receiving glares from other girls because she sits next to him. The episode also includes narration about a recently purchased, empty building where a \"master\" is asleep, hinting at a larger plan.",
+  "word_count": 300,
+  "confidence": "high"
+}

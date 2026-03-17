@@ -1,0 +1,184 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The city of Neo-Seoul hummed with a restless energy, a constant symphony of ambition and anxiety. For most, it was just home. For me, it was a cage.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "Another day. Another year of trying to blend in. Of pretending I don't feel… this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MIN-JI",
+      "line": "Jae-hyun! You okay? You almost dropped your tray again.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAE-HYUN",
+      "line": "Ah, Min-ji. Yeah, just… lost in thought.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIN-JI",
+      "line": "You're always lost in thought. What's on your mind today? The upcoming history exam? Or that new 'Awakened' incident downtown?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "The Awakened. They're everywhere now. People with powers, heroes, villains… I just want to be normal.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAE-HYUN",
+      "line": "Just… the usual. Nothing exciting.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIN-JI",
+      "line": "Well, try to focus. Mr. Kim's pop quiz is no joke.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (distant)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "That tremor… it's not normal. Not for a city this stable.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRASH (closer, louder)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "STUDENT 1",
+      "line": "What was that?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT 2",
+      "line": "It sounded like it came from the street!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCREAMS (outside)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "The tingling… it's back. Stronger this time. Like my blood is boiling.",
+      "type": "thought"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Everyone, stay calm! Stay inside!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "EXPLOSION (shaking the building)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MIN-JI",
+      "line": "The windows! They're cracking!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A monstrous figure, cloaked in jagged shadows, hovered outside, tearing chunks from the adjacent building. Debris rained down, threatening to shatter the classroom's reinforced glass.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "No. Not here. Not Min-ji. Not them.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHATTER (glass beginning to give)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAE-HYUN",
+      "line": "GET DOWN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "My hands… they moved on their own. A warmth, then a searing heat. A light.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! (intense, golden energy)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From Jae-hyun's outstretched palms, a blinding, golden energy shield erupted, slamming into the incoming debris and deflecting it with impossible force.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE (energy dissipating)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MIN-JI",
+      "line": "J-Jae-hyun? What was that…?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "My entire body aches, but… it worked. I did that. This isn't just a tingling anymore. This is… real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ROGUE AWAKENED",
+      "line": "Hmph. A new nuisance? You think a little light can stop me?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAE-HYUN (thought)",
+      "line": "The 'Golden Child'… that old legend my grandmother used to whisper about. It can't be… can it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (Jae-hyun's racing heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As the monstrous Awakened prepared another attack, Jae-hyun stared at his hands, a golden aura still faintly shimmering around them. His life of blending in was over. His true nature had just been violently awakened.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLATTER",
+    "RUMBLE",
+    "CRASH",
+    "SCREAMS",
+    "EXPLOSION",
+    "SHATTER",
+    "WHOOSH",
+    "CRACKLE",
+    "THUMP"
+  ],
+  "summary": "Jae-hyun, a seemingly ordinary high school student, struggles with a mysterious inner sensation. During a sudden attack by a rogue 'Awakened' villain, his hidden powers manifest as a golden energy shield, saving his classmates and revealing his true, extraordinary nature.",
+  "word_count": 628,
+  "confidence": "high"
+}

@@ -1,0 +1,259 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Year 20XX. The virtual reality game 'Satisfy' had taken the world by storm. With a 99% synchronization rate and an advanced AI system, it was more than just a game; it was a second reality. For some, it was a path to glory, fame, and fortune. For others...",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Ugh... another Horned Rabbit? This is all I can manage?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Come on, just die already!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWING! THWACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRIT!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[You have defeated Horned Rabbit. Experience +120]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Only 120 experience? Are you kidding me?! I'm Level 17, for crying out loud! Everyone else is already past 200!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Grid",
+      "line": "This is my only hope... my only chance to pay off my debt. But I'm just so... unlucky. Even in a virtual world, I'm a loser.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Player 1 (Whisper)",
+      "line": "Hey, isn't that Grid? The guy who got scammed out of his unique item?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Player 2 (Whisper)",
+      "line": "Shh! Yeah, the one with the legendary bad luck. He's still Level 17? Pathetic.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Grid",
+      "line": "I heard that! Damn it, why do I always have to be the joke?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Grid",
+      "line": "I need money. Badly. My landlord is threatening to kick me out. I need something... anything.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MENU OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[Quest Log]",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[Quest: Find the Lost Pickaxe of Khan]\nDifficulty: E\nReward: 50 Silver, 300 Experience\nDescription: The legendary blacksmith, Khan, has lost his favorite pickaxe in the Northern Mine. Retrieve it for him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "50 silver? That's barely anything! But... it's better than nothing. And the Northern Mine is usually empty. Maybe I can avoid monsters.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ACCEPT QUEST",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Grid made his way to the Northern Mine, a place notorious for its low-level monsters and even lower-level rewards. He hoped for an easy retrieve, but luck, as always, had other plans.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP... DRIP...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Grid",
+      "line": "It's so dark in here. And... what's that smell?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Grid",
+      "line": "A Cave Goblin?! Damn it! These guys are tougher than Horned Rabbits!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! SWISH! GRUNT!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Almost... got it! Just... one... more... hit!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[You have defeated Cave Goblin. Experience +250]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Huff... huff... that was too close. My health is almost gone. I need to find that pickaxe and get out of here.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS ECHO",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Wait, what's this? A hidden path?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUMBLE! WHOOSH! THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Agh! I fell! Where am I now?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Grid",
+      "line": "It's a small cavern... and something's glowing.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHIMMER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Grid",
+      "line": "An old book? What's a book doing in a place like this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[You have discovered 'Pagma's Rare Book']",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Pagma? Who's Pagma? Is this... a quest item?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PAGE TURN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[Do you wish to learn the hidden legendary class 'Pagma's Descendant'?]\n[Warning: Once learned, this class cannot be changed.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "A legendary class?! Impossible! This has to be a bug! Or a trap!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Grid",
+      "line": "But... a legendary class... This could change everything. My debt... my life...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Grid",
+      "line": "Screw it! What do I have to lose? I'm already at rock bottom!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK! SHINE! WHOOSH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[You have learned the legendary class 'Pagma's Descendant'!] \n[All stats have increased significantly!]\n[You have acquired the passive skill 'Mastery of All Production'!] \n[You have acquired the passive skill 'Pagma's Swordsmanship'!] \n[You have acquired the passive skill 'Item Creation'!] \n[You have acquired the passive skill 'Blacksmith's Eyes'!] \n[Title 'First Legendary Class Holder' has been acquired!]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grid",
+      "line": "What... what just happened?! Legendary... class? All these skills?! This isn't a dream, is it?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Grid",
+      "line": "HAHAHAHAHA! I'M RICH! I'M FINALLY RICH!",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "SWING",
+    "THWACK",
+    "CRIT",
+    "DING",
+    "MENU OPEN",
+    "ACCEPT QUEST",
+    "DRIP",
+    "GROWL",
+    "CLANG",
+    "SWISH",
+    "GRUNT",
+    "THUD",
+    "FOOTSTEPS ECHO",
+    "CRUMBLE",
+    "WHOOSH",
+    "SHIMMER",
+    "PAGE TURN",
+    "CLICK",
+    "SHINE"
+  ],
+  "summary": "Grid, a notoriously unlucky and low-level player in the VR game Satisfy, struggles with debt and the disdain of others. During a desperate attempt to earn money by taking a low-paying quest in a dangerous mine, he stumbles upon a hidden cavern and discovers 'Pagma's Rare Book', leading him to acquire the legendary class 'Pagma's Descendant'.",
+  "word_count": 756,
+  "confidence": "high"
+}

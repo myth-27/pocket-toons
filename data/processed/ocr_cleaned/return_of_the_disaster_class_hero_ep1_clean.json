@@ -1,0 +1,166 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The void. A place where time and space cease to exist. A prison for the strongest, or perhaps, a tomb.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "Ugh... my head.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "So, I'm finally out.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A rift tore open in the middle of a bustling city square, spitting out a man who looked like he'd just walked out of a forgotten legend.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bystander 1",
+      "line": "What in the world?! Is that a gate?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bystander 2",
+      "line": "No, it closed! And... who's that guy?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "Twenty years. It felt like an eternity, yet nothing at all.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "The air... it's different. Weaker.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Suddenly, the ground trembled. A grotesque creature, a low-tier Calamity, burst from a nearby alley, its eyes glowing with malevolence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Soldier 1",
+      "line": "Monster alert! Everyone, evacuate! Get back!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Soldier 2",
+      "line": "Damn it, a Level 3! Where are the Saints?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "A Level 3? This is what passes for a threat now?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "Pathetic.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Before anyone could react, Lee Geon moved. A blur of motion, a flicker of power that left the soldiers stunned.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The monster, mid-roar, froze. Its head, cleanly severed, tumbled to the ground with a wet thud.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Soldier 1",
+      "line": "W-what just happened?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Soldier 2",
+      "line": "Did... did he just kill it with his bare hands?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "This world has gotten soft. The 'heroes' must be even softer.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "The Twelve Zodiac Saints... they left me to rot in that void.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "They took everything. My glory, my power, my life.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "And now, they're probably living like kings, basking in the false praise of a world they barely protect.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "Well, the Disaster-Class Hero is back.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "And this time, I'm not here to save anyone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Geon",
+      "line": "I'm here to reclaim what's mine... and make them pay.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GLARE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes, once filled with the weariness of an endless prison, now burned with a cold, terrifying resolve. The world was about to remember the true meaning of disaster.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CRACKLE",
+    "RUMBLE",
+    "WHOOSH",
+    "CRUNCH",
+    "THUD",
+    "GLARE"
+  ],
+  "summary": "After twenty years trapped in a void, the legendary 'Disaster-Class Hero' Lee Geon finally returns to a drastically changed world, immediately demonstrating his overwhelming power by effortlessly dispatching a monster. He vows to exact revenge on the Twelve Zodiac Saints who betrayed him.",
+  "word_count": 628,
+  "confidence": "high"
+}

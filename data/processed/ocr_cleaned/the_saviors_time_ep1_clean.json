@@ -1,0 +1,165 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The metallic tang of blood filled my mouth, the screech of tires still echoing in my ears. Then, nothing. Just the familiar, suffocating darkness.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "GASP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "My eyes snapped open. The fluorescent lights of the classroom hummed above me. The scent of dust and old textbooks filled my nostrils. This again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "My heart hammered against my ribs, a frantic drumbeat against the silence of the early morning classroom. The clock on the wall read 7:58 AM. Two minutes before the bell.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Another rewind. Another failure. This time, it was the crosswalk. Minjun, distracted, stepping out right as the delivery truck rounded the corner. A blur of red, then…",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "I clenched my fists, nails digging into my palms. How many times? How many deaths would it take before I could save him?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "I pushed myself up from my desk, my movements stiff. My gaze immediately swept across the room, searching. He wasn't here yet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "FOOTSTEPS (distant)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Minjun",
+      "line": "Hey, Jinwoo! You're early today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Minjun. His smile, bright and carefree, was a dagger to my chest. He had no idea. No idea of the loops, the deaths, the burden.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Just… trying to get a head start on homework.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minjun",
+      "line": "Seriously? You're such a goodie-two-shoes. Come on, let's grab some coffee from the vending machine before class starts. My treat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "No! Not the vending machine. That’s where… no, that was a different loop. But still, the hallway is always a risk.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Uh, actually, I forgot my wallet. I'll just… stay here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minjun",
+      "line": "Don't be silly, I said my treat! Come on, it'll only take a minute. I saw some new flavors.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Minjun grabbed my arm, pulling me towards the door. My heart pounded. I had to keep him safe, but how? Every time I tried to change something, another variable emerged.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "We walked down the bustling hallway. Students laughed, chatted, oblivious. I scanned every face, every corner, every loose tile. The crosswalk, the rooftop, the chemistry lab… all places he'd died before.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Minjun was already at the vending machine, excitedly pointing at a new drink. I stood a few feet back, my eyes darting around.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "CREAK (from above)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "My head snapped up. A maintenance panel in the ceiling directly above Minjun was loose. It swayed precariously.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Minjun! Get back!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minjun",
+      "line": "Huh? What are you—",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "THUD! CRASH!",
+      "line": "The panel ripped free, plummeting towards Minjun. Time seemed to slow. I lunged forward, shoving him with all my might.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Minjun",
+      "line": "Oof! Jinwoo, what the hell?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "The panel smashed onto the floor where Minjun had been standing a split second before, scattering dust and debris. A collective gasp rippled through the hallway.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "Are you okay?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Minjun",
+      "line": "Yeah, I think so… What was that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "My hands were shaking. I'd saved him, just barely. But this wasn't how he died last time. This wasn't the truck. It was always something new, something unexpected. The killer wasn't a person, or an event. It was… fate itself.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "My gaze fell on a small, intricately carved wooden charm lying amidst the debris near the fallen panel. It wasn't there before. A chill ran down my spine.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Jinwoo",
+      "line": "No, I'm not giving up. I'll find out what's doing this. I have to.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GASP",
+    "FOOTSTEPS",
+    "CREAK",
+    "THUD",
+    "CRASH"
+  ],
+  "summary": "Lee Jinwoo wakes up from another time loop, haunted by his friend Minjun's latest death. He tries to subtly protect Minjun, only for a new, unexpected danger to emerge, barely averted, hinting at a deeper, more insidious threat.",
+  "word_count": 701,
+  "confidence": "high"
+}

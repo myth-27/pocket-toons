@@ -1,0 +1,227 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world had ended, not with a bang, but with a whimper. And then, a scream. A thousand screams, echoing across a landscape scarred by human madness.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Another day. Another empty stomach. The sun, a cold eye in a sky that refused to cry.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH (of dry leaves underfoot)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He moved like a shadow, a ghost among the ruins. Every rustle, every distant shout, a potential executioner. His name, a forgotten whisper. His purpose, to simply exist.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "The others… they’re always looking. For food. For anything. For a reason to take.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT SHOUTS. A THUD.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He pressed himself against the crumbling wall of what was once a supermarket, the smell of decay thick in the air. The sounds were getting closer. The hunters.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Don’t move. Don’t breathe. Just… disappear.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE (of a heavy boot on concrete)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MAN 1",
+      "line": "See anything, you old dog?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAN 2",
+      "line": "Just dust, boss. And the ghosts of what used to be.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAN 1",
+      "line": "Ghosts don’t fill bellies. Keep looking.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Boy",
+      "line": "They’ll pass. They always do. Eventually.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS RECEDING SLIGHTLY.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He waited, heart hammering against his ribs, a frantic bird trapped in a cage of bone. Then, a different sound. A soft whimper. Not animal. Human.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "No. Not again. Don’t look. Don’t get involved. That’s how you die.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIMPER (faint, desperate)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The sound pulled at him, a fragile thread in a world of broken ropes. Against his better judgment, he peered around the corner of the collapsed aisle.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A girl. Smaller than him, maybe six or seven. Curled into a ball, clutching a tattered teddy bear, her face streaked with dirt and tears. A fresh cut bled sluggishly on her arm. She was hiding behind a stack of rusted cans, barely concealed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "She’s alone. Like me. But… she’s hurt. And they’re still close.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT LAUGHTER (from the men)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Boy",
+      "line": "If they find her…",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He knew what happened to children found alone. He’d seen it. He’d run from it.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Run. Just run. She’s not your problem.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Girl",
+      "line": "M-Mommy…",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Mommy isn’t coming. Nobody is.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His legs felt heavy, rooted to the spot. The whimpers grew more frequent, more desperate, threatening to draw attention.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "She’s going to get us both killed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He took a breath, the stench of dust and despair filling his lungs. A decision, made in the space between heartbeats.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Hey.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Girl",
+      "line": "!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes, wide and terrified, met his. They were the color of a stormy sky, full of rain that wouldn’t fall.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Don’t make a sound. Come with me. Now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He didn’t wait for an answer. He reached out, his hand hesitant, then firm, grasping her small, trembling wrist.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Girl",
+      "line": "Where…?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Boy",
+      "line": "Away.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (as they move quickly but quietly)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He pulled her, gently but urgently, through the debris, away from the fading laughter of the men. They moved through the skeletal remains of the city, a silent pact forged in fear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "What have I done? I was alone. That was safe. Now…",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He glanced back at her. She stumbled, but kept pace, her grip on the teddy bear unwavering. Her eyes, still wide, now held a flicker of something else. Not hope, not yet. But perhaps… a question.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Boy",
+      "line": "The horizon. That’s where we’re going. Even if I don’t know what’s there. It has to be better than this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And so, two children, strangers bound by a shared terror, began to walk. Towards nothing. Towards everything. Towards the horizon.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CRUNCH",
+    "DISTANT SHOUTS",
+    "THUD",
+    "SCRAPE",
+    "WHIMPER",
+    "DISTANT LAUGHTER",
+    "RUSTLE"
+  ],
+  "summary": "In a desolate, dangerous post-apocalyptic world, a solitary boy struggles to survive, constantly evading violent scavengers. He reluctantly decides to help a terrified, injured young girl he discovers hiding, leading them to flee together towards an uncertain future.",
+  "word_count": 746,
+  "confidence": "high"
+}

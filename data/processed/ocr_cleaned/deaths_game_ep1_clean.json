@@ -1,0 +1,179 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Another rejection. Another email telling me I’m not good enough. Seven years. Seven years since college, and what do I have to show for it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "A mountain of debt. A landlord breathing down my neck. My girlfriend left me for a 'more stable future.' My friends… they don’t even answer my calls anymore.",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Pathetic. That’s what I am. A pathetic excuse for a human being.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Choi Yi-Jae stood on the rooftop, the wind whipping at his threadbare jacket. Below, the city lights blurred into an indifferent tapestry.",
+      "type": "narration"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "There’s nothing left. No hope. No future. Just… an endless, suffocating void.",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Maybe… maybe it’s better this way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GUST OF WIND",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Darkness. Then… a blinding white light. A throbbing headache. And a voice.",
+      "type": "narration"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Ugh… where am I? Did I… survive?",
+      "type": "thought"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "Survive? No, Choi Yi-Jae. You most certainly did not.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Who… who are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A figure emerged from the light. Tall, elegant, with eyes that seemed to hold the weight of eternity. She wore a simple black dress, yet exuded an aura of absolute power.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "I am Death. The one you so casually dismissed. The one you tried to cheat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Cheat? I… I just wanted to end it all. I was tired.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "Tired? You called me to your side because you were 'tired'? Do you know how many souls desperately cling to life, even in their final moments? How many beg for just one more second?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "And you, Choi Yi-Jae, you threw it away. You treated life, my domain, with utter contempt.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "I… I didn’t mean to disrespect you. I just… I couldn’t endure it anymore.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "Endure? Life is a privilege, not a burden to be discarded at a whim. For your arrogance, for your dismissive attitude towards the sacred gift of existence, you will be punished.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Punished? What kind of punishment?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "You will experience death, over and over again. Twelve times. You will inhabit the bodies of twelve different people on the verge of death. And you will die their deaths.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Twelve… different people? Die their deaths? What is this, some kind of sick game?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "Indeed. It is my game. And there is one rule: if you manage to survive any of these twelve deaths, you will be granted the right to live out that person's remaining life.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "But fail, and you will simply move on to the next. Until all twelve chances are exhausted. Then, your soul will be cast into the deepest pit of hell, never to reincarnate, never to find peace.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "Survive… death? That’s impossible!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "That is your challenge, Choi Yi-Jae. To truly understand the value of life, you must first truly understand the terror of death.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DEATH",
+      "line": "Your first life… awaits.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "No! Wait! I don’t want this! I just wanted it to end!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI YI-JAE",
+      "line": "This isn’t what I wanted! This is worse!",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "WHOOSH",
+    "GUST OF WIND",
+    "CRACK",
+    "THUD"
+  ],
+  "summary": "Desperate and jobless, Choi Yi-Jae ends his life by jumping from a building. He awakens in a mysterious limbo where he encounters Death, who punishes him for his casual disregard for life by forcing him to experience death twelve more times.",
+  "word_count": 725,
+  "confidence": "high"
+}

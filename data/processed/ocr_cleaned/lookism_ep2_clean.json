@@ -1,0 +1,986 @@
+{
+  "title_header": "",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "DANIEL, Are YOU OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT IS SHE DOING HERE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "M-MOM...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "YOU DUNCE! HEY? WHY WERE YOU HITTING MY DANIEL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "OH GOD! YOU'VE GOT A MARK!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'M SO SCREWED.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "M-MOM, please stop.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HIS MOM? I guess...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wow, what's that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Did he call his mommy?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MA'AM, WE WERE JUST PLAYING A GAME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "GAME?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "YOU CALL SLAPPING SOMEONE A GAME?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "YOU LITTLE PUNK!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "SHALL WE PUT THIS ON FACEBOOK?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "LET'S GO SEE THE HOMEROOM TEACHER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM, STOP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "HOW COULD YOU DO THAT TO DANIEL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "WHAT'S YOUR NAME?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM, I SAID STOP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "YOU'RE F***ING EMBARRASSING ME.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I SAID SOME AWFUL THINGS TO MY ONE AND ONLY MOM.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "SORRY, LOGAN.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "AND SUPPORTED THE ENEMY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "JUST LEAVE, MOM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I AM THE WORLD'S BIGGEST PIECE OF TRASH.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "LIGHTS ARE ON; I CAN'T GO IN.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BUT I'M HUNGRY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE BILLS ARE PILED UP AGAIN.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "DON'T WANNA BOTHER WITH THEM.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MOM SAVED UP FOR THESE GLASSES.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I'LL JUST SLIP INTO MY ROOM AND EAT A SNACK.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "DANIEL, YOU'RE HOME?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "DAMN! MOM!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "DID YOU EAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "WE NEED TO TALK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHAT IS THERE TO SAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "DANIEL... Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "I HAVEN'T TAKEN GOOD ENOUGH CARE OF YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "I CAN'T COME WITH YOU BECAUSE OF WORK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "BUT YOU'LL BE OKAY BY YOURSELF, RIGHT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHY ALL OF A SUDDEN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "STUDYING, and who cares about friends, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "SHE KNEW! SHE KNEW ALL ALONG, BUT SHE PRETENDED NOT TO.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "I'LL TAKE CARE OF YOUR EXPENSES, JUST TRUST ME AND GO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "HEARING THOSE WORDS...",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM'LL BE LONELY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHAT ABOUT EXPENSES?",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WANNA ESCAPE!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SORRY, MOM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WE HAVE NO MONEY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WANNA BOWL? NO MORE LOGAN!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "ALL OF MY MIXED EMOTIONS TANGLED UP.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "AND THE TEARS CAME POURING OUT.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM, MY GLASSES, SORRY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "MY BOY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I HATED THAT I WAS RUNNING AWAY AND IGNORING MY MOM'S BURDEN.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MOM, REALLY, YOU DON'T HAVE TO FOLLOW ME. YOU ALREADY CLEANED THE PLACE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'LL EAT WELL AND STUDY HARD.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "YEP, I CAN REALLY GO ALONE; I'M GOING~ THANKS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "YEAH, MOM, I'M GETTING ON NOW.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL'S MOM",
+      "line": "OH, DON'T WORRY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'LL CALL, BYE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IT'S A LOW-LEVEL VOCATIONAL SCHOOL.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BUT ANYWHERE IS BETTER THAN HERE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I WANNA START FRESH.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I'LL MAKE LOTS OF FRIENDS THIS TIME.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I CHOSE TO RUN AWAY LIKE THIS INSTEAD OF FIGHT.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I DON'T MIND MOUNTAINOUS NEIGHBORHOODS! SO THIS IS IT!",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I DON'T MIND AN OLD SHACK!",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I'M HAPPY, SWEET FREEDOM.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "HELLO, NEIGHBOR LADY! HELLO, MAKE LOVE ALL DAY!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE UPHILL IS TASTEFUL. NO ONE KNOWS ME HERE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I DON'T HAVE TO FEAR TOMORROW ANY MORE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "GOTTA BE RE-BORN.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "LIKE A LARVA THAT WAITS SEVEN YEARS TO BE BORN AS A CICADA.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IT'S MY TURN TO BE THAT CICADA.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I WILL CHANGE! HAIR!",
+      "type": "narration"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "WELCOME! YOU'VE COME FOR A CUT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "UM, YEAH, CUT, YES.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WOW, NICE SHOP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "HAVE A SEAT HERE~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "THE DARKEST SEAT IN THE CORNER. AH, IT'S A GREAT SPOT. SATISFIED.",
+      "type": "thought"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "SHALL WE DO THE 'TWO BLOCK' STYLE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHAT'S THAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "THE SIDES AND LOWER BACK OF THE HAIR IS SHAVED. LOTS OF CELEBRITIES HAVE IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "UH, SURE. OKAY, LET'S GO WITH THAT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "HE SEEMS TO HAVE A LONG STORY. CELEBRITIES? Keke.",
+      "type": "narration"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "OKAY, I'M GONNA DO MY BEST!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "SIR, WHY DON'T YOU TAKE OFF YOUR GLASSES? MY EYES AREN'T SO GOOD. YOU HAVE GREAT EYES, YOU SHOULD WEAR CONTACT LENSES. ALL DONE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WOW... HOLY... EVERYTHING'S FUZZY WITHOUT. IS THIS REALLY ME?",
+      "type": "thought"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "I DID MY BEST; I HOPE YOU LIKE IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "DO I LOOK COOL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BARBER",
+      "line": "YOU MIGHT FEEL AWKWARD AT FIRST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SHOULD I REPORT HIM?",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "AWESOME! FIRST TIME I'VE FELT THIS! THEIR EYES ON ME! MOM, NORTH KOREA- HUSH! THRILLING! HOO HOO! STOP TALKING ABOUT ME!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "EH?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "DO I REALLY LOOK THAT DIFFERENT? I LOOK A LITTLE TOUGHER.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WANNA FIGHT WITH ME? YOU WANNA DIE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WOW, I LOOK LIKE I CAN FIGHT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY PUNK, YOU KNOW WHO I AM? COME HERE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "OH! I LOOK REALLY TOUGH!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "LOWER YOUR EY-",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "HUH? AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "DID SHE SEE EVERYTHING? DON'T BE SCARED, I'M A CICADA NOW. JUST LET IT GO LIKE A MAN, THIS IS NOTHING.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HAS HE LOST IT?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A MANLY SMILE!",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "IS SHE SHY?",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "MIRA, YOU WAITED LONG?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "OH, ZACK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "BOY, BOYFRIEND?",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "WHO'S THIS GUY? YOU KNOW HIM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "NO, LET'S JUST GO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "JUST A SECOND.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "WHY'S HE SMILING AT YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "IT'S NOTHING. NOT THIS TIME AGAIN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "NOTHING?! LET ME GO FOR A SEC.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "HERE COMES TROUBLE!",
+      "type": "narration"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HEY! HOW OLD ARE YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "I SAID LET'S GO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SEVENTEEN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "SAME AGE! HAH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SCARY! COME ON! LET'S GO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "FINE, YOU ARE DAMN LUCKY TODAY, PAL. DON'T BE LIKE THAT IN PUBLIC.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "I WON'T FORGET YOUR FACE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SORRY, GOD. SMILE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "AH, I SURVIVED. SYMPATHY ALWAYS COMES FROM GIRLS IN THIS LIFE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "HOLD ON! BUT I'M A NEW MAN!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "YEAH! SHE SMILED AT ME! SHE WAS INTERESTED IN ME!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "HE WAS JUST PRETENDING TO BE TOUGH IN FRONT OF HER! IF I JUST STEP BACK NOW, I CAN'T CHANGE ONE BIT!",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HEY!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HAHA, FOUND YA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "LET'S TRY AND CLEAR UP THE MISUNDERSTANDING, SHALL WE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "LOOKING COOL! HOW ABOUT THE THREE OF US GRAB SOME COFFEE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "SHOULD WE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "GUILTY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "ZACK, DON'T! LET GO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "I WON'T TOUCH HIM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "IT'S, WORKING!",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "THE THREE OF US? COFFEE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "Y-YEAH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, HE'S A GIANT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HUH? PISS OFF! OHHH! FIGHT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "I TOLD YOU NOT TO SHOW YOURSELF AGAIN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "ZACK! STOP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH WOW, WHAT'S GOING ON?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HUH? HUH? OH MY GOD! CALL THE POLICE! TAKE THIS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "ALTHOUGH THE FIST WAS SCARY,",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I WAS MORE WORRIED ABOUT THE SOUND OF PHONES RECORDING.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "OH MY GOD.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FEATURED CONTENT: CAUGHT THIS PIG IN THE HONGDAE AREA. WHO HAS A FRIEND LIKE THIS?",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I WANNA DIE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HAHA! WHAT? WHACK! AWESOME! YOU SHOULDN'T WE HELP HIM? FILMING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SO I'M A FACEBOOK STAR NOW.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I AM A WASTE OF SPACE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "ALL OF MY CONFIDENCE AND DETERMINATION THAT I TRIED SO HARD TO GET... I'M F***ING GARBAGE! I'M SCREWED!",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "DISAPPEARED JUST LIKE THAT.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FEATURED CONTENT: CAUGHT THIS PIG IN THE HONGDAE AREA. WHO HAS A FRIEND LIKE THIS? www.facebook.com/starucc WITH TAEJCON PARK.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NOTHING BUT MOCKERY ON MY PHONE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NO FRIENDS THERE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WHAT HAD BEEN MY COMFY LITTLE NEST WAS NOW FILLED WITH AN APPALLING LONELINESS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'M HERE!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'M HERE!",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'M HUMAN TOO!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "TO OVERCOME IT, I BEGAN TO SOB ENDLESSLY AND I WAS SO EXHAUSTED FROM BAWLING, I GUESS I FELL ASLEEP.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "AH, I GUESS I NODDED OFF.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "GOTTA PEE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "BATHROOM, BATHROOM~~ WAS I WEARING CONTACTS?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "AFTER A BIT OF SLEEP, I FEEL LIGHTER.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WAS THE CEILING ALWAYS THIS LOW?",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I GUESS I'M NOT USED TO IT HERE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "SINK LOOKS LOWER TOO.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "MAYBE MY EYES ARE SWOLLEN FROM CRYING?",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "GOTTA WASH MY HANDS. HOW SWOLLEN ARE THEY?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MY EYES WERE NOT AS SWOLLEN AS I THOUGHT. THEY SEEMED PERFECTLY FINE. SO HOW SHOULD I EXPLAIN THIS?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THIS MAN WHO WAS PERFECT EVERYWHERE!",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I WAS SO SHOCKED I COULDN'T MAKE A SOUND.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IT WAS LIKE SOMEONE PRESSED PAUSE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WORD BARELY CAME OUT.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "OH,",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHAT IS THIS? A DREAM? BUT IT HURTS. MY BODY?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "CONFUSION AND DOUBT POURED OUT SUDDENLY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "CALL THE POLICE? 911?",
+      "type": "thought"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "NOPE, FIRST, MOM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WHILE DEALING WITH THE PANIC ALONE, I SAW SOMETHING EVEN MORE SHOCKING.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THERE WAS 'ME' STILL SLEEPING.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "BEEZ",
+    "Keke",
+    "HAHA",
+    "Flare",
+    "Slap",
+    "Push",
+    "Blip",
+    "Gulp",
+    "Jump",
+    "SNIFFLE",
+    "SOB",
+    "SNIFF",
+    "Drip",
+    "CHOKE",
+    "WAAA",
+    "Thump",
+    "FLASH",
+    "Pnet",
+    "Press",
+    "BAN",
+    "CHIPP",
+    "Shake",
+    "WIIK",
+    "Slide",
+    "Hupp",
+    "SKK",
+    "Grip",
+    "CLICK",
+    "CUICB",
+    "SkT",
+    "BbR",
+    "AHH",
+    "SKR",
+    "Huh?",
+    "Thump",
+    "GooF"
+  ],
+  "summary": "Daniel's mom intervenes when he's being bullied, embarrassing him further. Feeling like a burden, Daniel decides to run away to a vocational school to start fresh. After getting a new haircut, he feels confident but quickly gets into another confrontation with a bully named Zack, which ends with him being humiliated on social media. Later, Daniel wakes up to find himself in a new, perfect body, only to discover his original body is still sleeping beside him.",
+  "word_count": 1205,
+  "confidence": "medium"
+}

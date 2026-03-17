@@ -1,0 +1,269 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Another morning. Another day.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ALARM RING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARI",
+      "line": "(Groan) Already?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "I drag myself out of bed, the same routine every day. School, homework, repeat.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARI",
+      "line": "And then there’s… this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIGH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARI",
+      "line": "My reflection. Plain. Average. Nothing special. Just… me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARI",
+      "line": "At least my uniform hides most of it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHIRP CHIRP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The school gate is already bustling. And there they are. My friends.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MIRAE",
+      "line": "Nari! Over here!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Mirae, Yuri, Ryun. They shine. Literally. Even in school uniforms, they stand out like celebrities.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MURMUR MURMUR (students whispering)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "STUDENT A",
+      "line": "Wow, there’s Mirae again. So pretty.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT B",
+      "line": "Yuri’s so cute! And Ryun’s style is always on point.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "And then there’s me, trailing behind them, practically invisible.",
+      "type": "thought"
+    },
+    {
+      "speaker": "YURI",
+      "line": "Good morning, Nari! You’re just in time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Morning, guys.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RYUN",
+      "line": "Did you finish the math homework? I barely got through it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Yeah, it was tough. But I managed.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRAE",
+      "line": "See? Nari’s always so diligent. Unlike some people.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RYUN",
+      "line": "Hey! I try!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RINGGGG (school bell)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Class passes by in a blur. My gaze keeps drifting to them. Mirae, confidently answering a question. Yuri, diligently taking notes with her neat handwriting. Ryun, sketching something cool in her notebook during a break.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARI",
+      "line": "They're all so talented, so captivating.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLATTER (lunch trays)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lunchtime. The loudest part of the day.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MIRAE",
+      "line": "Ugh, this kimchi stew is spicier than usual today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YURI",
+      "line": "Really? I think it’s just right! Here, Nari, try some of my fish cakes.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Oh, thanks, Yuri.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHEW CHEW",
+      "type": "sfx"
+    },
+    {
+      "speaker": "RYUN",
+      "line": "Did you guys see that new café that opened near the station? Their pastries look amazing on Instagram.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRAE",
+      "line": "Oh, I saw that! We should totally go after school tomorrow.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YURI",
+      "line": "Sounds fun! What do you think, Nari?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Uh, yeah, sounds good.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "I probably won't have anything stylish enough to wear, or know how to pose for their 'aesthetic' photos. I'll just be… there.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHATTER CHATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "After school. The girls are gathered, making plans.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MIRAE",
+      "line": "So, Saturday night, my place. We can watch a movie.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YURI",
+      "line": "Ooh, a horror movie? I'll bring snacks!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RYUN",
+      "line": "I’m in. Nari, you coming?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Oh, um… I’m not sure. I might have plans with my family.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "It's a lie. I just don't want to be the one who screams at every jump scare while they're all cool and composed. Or the one who doesn't know what to say.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MIRAE",
+      "line": "Aw, too bad. Well, next time then!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARI",
+      "line": "Yeah… next time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (fading)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARI",
+      "line": "I watch them walk away, laughing, their voices carrying in the evening air. They're a perfect, dazzling trio.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARI",
+      "line": "And I'm just… the odd girl out.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIGH",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "ALARM RING",
+    "SIGH",
+    "CHIRP CHIRP",
+    "FOOTSTEPS",
+    "MURMUR MURMUR",
+    "RINGGGG",
+    "CLATTER",
+    "CHEW CHEW",
+    "CHATTER CHATTER"
+  ],
+  "summary": "Nari, an average high school student, navigates her first day back at school, constantly feeling overshadowed and insecure when compared to her three beautiful and popular best friends, Mirae, Yuri, and Ryun, solidifying her feeling of being the 'odd girl out'.",
+  "word_count": 725,
+  "confidence": "high"
+}

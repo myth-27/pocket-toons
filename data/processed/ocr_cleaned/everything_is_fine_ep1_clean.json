@@ -1,0 +1,210 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "Jihye",
+      "line": "Good morning, world. Or whatever you are.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Kim",
+      "line": "Jihye! Good morning! Such a beautiful day, isn't it? The best kind of day!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Mr. Kim. Yes, it is. Always.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ms. Lee",
+      "line": "Jihye, dear! You look absolutely lovely today! So radiant! Everything is fine, isn't it? Perfectly, wonderfully fine!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Ms. Lee. Yes, everything is fine.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "What was that sound?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Hello? Is anyone there?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Is anyone... there?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Everything... isn't fine.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The city hummed with a gentle, rhythmic pulse. A perfect symphony of order. Another perfect dawn.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Another day. The same gentle hum. It's supposed to be comforting. It used to be. Now it just feels... insistent.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She stretched, the sterile white sheets cool against her skin. Her apartment, a minimalist haven of chrome and glass, was always spotless. Everything was in its place. Always. Too much in its place.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The hallway was always spotless. Not a speck of dust, not a scuff mark. Not a shadow that lingered too long.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "His smile. It never quite reaches his eyes. Like a mask perfectly molded, but with empty spaces behind it. And his eyes... they're always a little too wide.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "\"Everything is fine.\" They all say it. Every single day. Like a mantra, a programmed response. Or a command. A constant, low-frequency hum in the back of my mind, telling me to believe it. But what if it's not?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Inside the elevator, the air was thick with a synthetic floral scent. Too sweet. Too cloying. It felt like it was trying to mask something.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The plaza was bustling with people, all moving with a synchronized, effortless grace. Their steps were uniform, their expressions serene. Smiling. Always smiling.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Why do I feel like I'm watching a perfectly choreographed play? And I'm the only one who's forgotten her lines, or perhaps, the only one who realizes it's all just a performance.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She paused, straining her ears, her gaze sweeping across the unnervingly cheerful crowd. The whispers faded, replaced by the omnipresent, gentle hum of the city. A hum that seemed to vibrate directly inside her skull.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "My head must be playing tricks on me. Lack of sleep. Or too much sleep. I can't remember the last time I felt truly rested. Or truly... real. There's a blank space where memories should be. A smooth, polished void.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I ordered my usual synth-coffee. It tasted exactly the same every time. Perfectly balanced. Perfectly bland. Perfectly... forgettable.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "I need to check the news. Real news. Not the sanitized feeds that only show smiling faces and rising stock prices. I need something raw. Something that feels dangerous.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The public terminals only displayed cheerful headlines. \"Productivity at an all-time high!\" \"Community Harmony Flourishes!\" \"New Happiness Index Reaches Peak!\"",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "No... not this. This isn't right. I need something else. Something... real. Something that tells me what's really happening beyond this perfect bubble.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She tried to access an older archive, a forgotten corner of the network, a place she vaguely remembered existing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Of course. Blocked. Or perhaps, it never existed at all. Am I just imagining things? Am I going crazy?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A woman at the next table, impeccably dressed, her hair perfectly coiffed, turned her head slightly. Her smile seemed to widen just a fraction, her eyes lingering on Jihye's tablet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Is she watching me? Am I being paranoid? Or is there something to be paranoid about? The air suddenly felt heavier, thicker.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The sunset painted the pristine cityscape in hues of orange and pink. Another perfect day drawing to a close. Another day where nothing felt quite right.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "I can't shake this feeling. This gnawing emptiness. Like a piece of me is missing. Or was taken. A vital part, surgically removed without my consent.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Silence. The hum of the city, which had briefly seemed to fade, returned with renewed intensity.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "Just the building settling. Old pipes. Everything is fine. It has to be fine.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She walked towards the closet, her heart pounding a little faster than it should, a cold dread seeping into her bones.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She slowly reached for the handle. Her fingers brushed against the cool, polished metal. It felt unnaturally cold.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "No. Don't open it. What if there's nothing there? Or worse... what if there's something? Something I'm not supposed to see.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A memory, sharp and cold, pierced through her carefully constructed calm. A faint, metallic smell, like rust and old blood. The taste of dust and fear. A hand, reaching out from the darkness, gripping her arm. A whisper, \"Don't forget.\"",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jihye",
+      "line": "I remember. I remember something. Not a dream. A memory. It was real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes widened, fixed on the closet door, which now seemed to pulse with a dark, unseen energy. The reflection of her own terrified face stared back, distorted by the polished surface.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "BEEP",
+    "CLICK",
+    "DING",
+    "DISTANT, FAINT WHISPERS",
+    "CLICK-CLACK",
+    "ERROR",
+    "CREAK",
+    "THUMP",
+    "GASP",
+    "SILENCE"
+  ],
+  "summary": "Jihye navigates another unnervingly perfect day in her city, surrounded by perpetually cheerful neighbors. Her growing unease and fragmented memories lead her to question the facade of \"everything is fine,\" culminating in a terrifying realization linked to her own apartment.",
+  "word_count": 800,
+  "confidence": "high"
+}

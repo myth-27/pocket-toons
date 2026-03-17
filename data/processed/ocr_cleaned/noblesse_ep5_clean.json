@@ -1,0 +1,161 @@
+{
+  "title_header": "Noblesse, Episode 5",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU'RE JUST GOING TO LEAVE, Sir?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DON'T PRETEND YOU CAN'T HEAR ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DAMN~ Kay, LET'S GO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "STEP STEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "CHAIRMAN'S OFFICE",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "CLINK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "KNOCK KNOCK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "COME IN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "AH, MR. SHINWOO. WHAT BRINGS YOU HERE? ARE YOU IN TROUBLE AGAIN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "SQUEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "HAHA, NO SIR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "I BROUGHT A TRANSFER STUDENT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "A TRANSFER STUDENT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "MR. PARK TOLD ME TO BRING HIM OVER TO YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "I SEE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "THANK YOU. YOU MAY GO TO CLASS BEFORE IT'S TOO LATE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "YES, SIR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "GO INSIDE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "I'M OFF TO CLASS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "SQUEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "HM, A TRANSFER STUDENT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FLIP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "THAT'S ODD.",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "THERE'S NO DOCUMENT ABOUT IT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "SLIDE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "BUT...",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "C-COULD IT BE...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "IT'S BEEN A WHILE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "CHAIRMAN",
+      "line": "FRANKENSTEIN.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "STEP STEP",
+    "CLINK",
+    "KNOCK KNOCK",
+    "SQUEAK",
+    "FLIP",
+    "SLIDE"
+  ],
+  "summary": "An unknown character is urged to leave. Later, in the Chairman's office, Shinwoo brings a transfer student as instructed by Mr. Park. After Shinwoo leaves, the Chairman realizes there's no documentation for the student and wonders if it could be Frankenstein, indicating a significant past connection.",
+  "word_count": 108,
+  "confidence": "high"
+}

@@ -1,0 +1,494 @@
+{
+  "title_header": "Episode 2: 6 Years Earlier",
+  "dialogue": [
+    {
+      "speaker": "Jugyeong",
+      "line": "I don't like my mind right now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "I'm holding on, but everything is so heavy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "So much more than I can carry.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "WOW!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "They're so cool!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "JUGYEONG, TURN DOWN THE VOLUME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Oh, okay~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My life as a senior in middle school is really good.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I can listen to whatever music I like.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And I can watch as many cartoons and movies as I want.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Hey!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DAMN IT! Hey!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Sorry!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "We called you so many times. Why didn't you answer us, you freaking loser?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Jeez.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ugh.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Hey, go get us some dumplings.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Dumplings... Ah! O-Okay!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Snack Bar",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Dumplings for Jeonghye.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kimchi Dumplings.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For Min-aa.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Beef Dumplings for Jeonghye.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kimchi Dumplings for Min-aa.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Beef Dumplings for Jeonghye.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kimchi Dumplings for Min-aa.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "One kimchi dumpling and one beef dumpling, please!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wow, thank you~!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Aside from a few inconveniences at school, I'm getting along very well.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Beef. Kimchi. Hope these are the right ones.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "The dumplings! Oh, oh no! Ouch!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "Oh shoot! Sorry about that~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "You seem to have tripped on my long, beautiful legs~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "I was just sitting here for a minute feeling lonely. Sorry~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "T-That's okay! Haha, your legs are really long.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Ah, is this that famous guy from the cafeteria...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Wait! That music. Is that Marilyn Manson?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "Uh, hey! That's my MP3 player.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "Haha, you have great taste in music.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Thank you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The guy from the cafeteria I sometimes run into knows all about the rock or metal bands that I like.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "Haha, hey! Linkin Park today? Ah, yeah!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Nice! It's Green Day today~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN GUY",
+      "line": "Oh, it's Marilyn Manson today~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "I think that guy and I get along really well together!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "He always says hi whenever he sees me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Maybe he likes me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "I can't take this!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Bet he would like this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Hehe, I have to give him this today.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Oh my god!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Really~?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Of course, Semi! You and that guy from the cafeteria are dating, aren't you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Stop it! You're making me... hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Nana!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Guys are talking. Did you take a picture together with him?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "XX Middle School's Semi Lee, Hottie! You really are a goddess.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It must be nice to be so pretty.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wow, that picture looks amazing!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Haha, really?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "This can't be.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "THE DEVIL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "We have the same tastes. We have so much in common.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Maybe that's why I got the crazy idea into my head that things might go well with him!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Semi the Hottie. Semi the Hottie.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "I knew my face was a problem! No one would ever like an ugly, ordinary girl like me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Mom!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Get me an eye lift job as fast as possible!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mom",
+      "line": "Oh, what's she talking about?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong's Sister",
+      "line": "Mom, I think Jugyeong has hit puberty.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mom",
+      "line": "A young middle schooler asking for plastic surgery? Is that what you said?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mom",
+      "line": "I wish you were even half as good as your older sister!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong's Sister",
+      "line": "Yeah, honestly. You're not that pretty, sis. You'd be ugly even if you get an eye job, LOL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "This is so unfair! What about you, Mom? Why did you make her and Jugyeong look good and me ugly??? You always told me I was adopted, was that right? True, that's you! I hate you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mom",
+      "line": "Oh, what the heck has gotten into her all of a sudden?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong's Sister",
+      "line": "She's at that age when she's sensitive about her looks~ Try to understand, Mom.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mom",
+      "line": "Totally. But it's true that she's the only ugly one. Why was she born like that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong's Sister",
+      "line": "Ugh, you stay out of this!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Jeez.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Social Media",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "I shouldn't have gotten so mad at Mom like that.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Today, anonymous. Depressed. Feeling left out. I have a crush on a guy. We have a lot in common. I thought things might turn out well. But there's one thing wrong. I thought I was pretty. That's totally wrong! This is so depressing. Being ugly, he likes...?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "30 minutes later",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Are there any comments?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Sorry, but honestly, a person's face is pretty important.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Don't you know how to use makeup? I look totally different before and after makeup, haha. I'm super ugly, but with makeup, I get really confident. Check out this link.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Oh? Is this it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "I wonder what it is.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "http://mbboomnaver.com/ BBOOM POPULAR NEW VIDEOS CHEONBBOOM GANGDAN THE MIRACLE OF USING MAKEUP",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jugyeong",
+      "line": "Wow! That's it! This is just what I need!",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "WHAM",
+    "WHISH",
+    "BEEP",
+    "HUM",
+    "PUMP",
+    "SQUAWK",
+    "SPLAT",
+    "TAP",
+    "BLUSH",
+    "NOD",
+    "TEE HEE",
+    "PONG",
+    "GAAH",
+    "THUMP",
+    "GASP",
+    "DRY",
+    "SNIFFLE",
+    "HUFF",
+    "BANG",
+    "BOOM",
+    "CRASH",
+    "SOB",
+    "TICK",
+    "DING"
+  ],
+  "summary": "Six years earlier, Jugyeong struggles with her self-image and a crush on a boy who shares her music taste, leading to a family argument about her looks. Feeling ugly and rejected, she finds solace and a new path in a social media comment suggesting makeup.",
+  "word_count": 808,
+  "confidence": "medium"
+}

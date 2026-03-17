@@ -1,0 +1,230 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Welcome, everyone. Take a seat. Make yourselves comfortable. Tonight, we're not here for your typical campfire tales.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "No sheet-wearing specters or rattling chains. No ancient curses or vengeful spirits haunting old houses.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Tonight, we tell stories of a different kind of ghost. The ones that walk among us. The ones that wear human skin.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The ones whose presence chills you to the bone, not because they’re dead, but because they’re so terrifyingly alive.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "I have one. It happened to a friend of a friend, let's call her Minji. She was so excited, finally moving into her own small apartment in a quiet neighborhood.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) Freedom! No more noisy roommates, no more shared kitchens. Just me and my own space.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "On her first day, as she was unpacking, there was a knock on her door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KNOCK KNOCK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mrs. Kim",
+      "line": "Welcome, dear! I'm Mrs. Kim, your neighbor from across the hall. I brought some tteok for you. A housewarming gift.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "Oh, thank you so much, Mrs. Kim! That's so kind of you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "Minji was touched. Mrs. Kim was an elderly woman, with a warm smile and kind eyes. She offered to help unpack, gave tips about the neighborhood.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) This is great! I got lucky with such a sweet neighbor.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "But as days turned into weeks, Mrs. Kim's kindness started to feel... suffocating.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mrs. Kim",
+      "line": "Did you sleep well, dear? You look a little tired today. Did you remember to eat breakfast?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) How does she know if I look tired? She's always... there. Watching.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (of a spoon)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "Minji would hear faint sounds from across the hall. A spoon clinking, a soft hum. Always when she was home.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) Am I being paranoid? She's just an old lady.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "Then, one evening, Minji found a small, handwritten note slipped under her door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Reading the note) 'Don't forget to lock your windows tonight, dear. It's supposed to rain heavily.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) Rain? I hadn't even checked the weather forecast. How did she know?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHUDDER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "A chill ran down Minji's spine. She started closing her blinds, feeling a desperate need for privacy.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (faint, from the door)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Minji",
+      "line": "What was that? Did I hear something?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "She opened her door, but the hallway was empty. Just the faint smell of Mrs. Kim's cooking.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "The next day, she found a hand-knitted scarf on her doorknob. 'For the cold, dear,' a note said. But it wasn't cold.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) This isn't kindness anymore. This is... something else.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "Minji started avoiding Mrs. Kim. She'd leave early, come home late, hoping to miss her. But Mrs. Kim was always there, a wave, a smile, a knowing look.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "Then, one afternoon, Minji came home. Her mail, which she'd left in the mailbox, was neatly stacked on her kitchen table.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Minji",
+      "line": "What... how?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "And on her stove, a freshly brewed pot of herbal tea, still warm.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Trembling) Mrs. Kim! How did you get in?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mrs. Kim",
+      "line": "(Smiling sweetly) Oh, dear. I was worried you weren't home. Your door was unlocked. I just wanted to make sure you were alright. And I tidied up a little.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "(Thought) My door was locked. I always lock it. Always.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "The smile on Mrs. Kim's face didn't falter. It was the smile of someone who genuinely believed they were doing good. But Minji saw it for what it was.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "The kindness was a cage. The care was surveillance. The neighbor, a ghost of suffocating presence.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "Minji moved out a week later. She never told Mrs. Kim. She just left.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Storyteller 1",
+      "line": "But even in her new apartment, she sometimes feels a lingering chill, a sense of being watched. And she double-checks her locks, every single night.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Listener 1",
+      "line": "That's... terrifying.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Listener 2",
+      "line": "I'd rather have a real ghost.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "See? No ghosts. Just... people. And sometimes, that's far more unsettling.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "KNOCK KNOCK",
+    "CLINK",
+    "SHUDDER",
+    "CLICK",
+    "GASP"
+  ],
+  "summary": "The first story of the night is told, featuring Minji, a young woman who moves into a new apartment and finds her seemingly sweet elderly neighbor, Mrs. Kim, to be a source of suffocating, intrusive 'kindness' that ultimately drives her away.",
+  "word_count": 765,
+  "confidence": "high"
+}

@@ -1,0 +1,531 @@
+{
+  "title_header": "True Beauty, Episode 3",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "I'm GOING OUT FOR A BIT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mom",
+      "line": "HEY, WHERE DO YOU THINK YOU'RE GOING AT THIS HOUR?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SLAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "WHEN I FIRST STARTED...",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "STARTED WITH BB CREAM, LIP TINT AND EYELINER.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BOUGHT SOME MAKEUP.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FIRST, PUT ON BB CREAM.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THEN, EYELINER... AM I DOING THIS RIGHT?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, THIS LIP TINT HAS A NICE COLOR! ALL DONE!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WAIT; IT JUST FEELS LIKE SOMETHING IS MISSING. STILL, SOMEHOW IT SEEMS BETTER THAN BEFORE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sister",
+      "line": "Sis! Mom asked me to bring you th-",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SLAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "EVER HEARD OF KNOCKING, YOU LUNATIC?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GRUMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "FLOP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sister",
+      "line": "WOW!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, WHAT DO YOU THINK? DO I LOOK OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sister",
+      "line": "THAT HURT MY EYES! AAAHHH! MY EYES! OH, HEART, THAT'S ENOUGH TO BLIND A MAN AT FIRST SIGHT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sister",
+      "line": "GET OUT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SHIVER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT'S HIS PROBLEM?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DOES IT LOOK THAT WEIRD? BUT THE MORE I SEE MYSELF, THE BETTER IT LOOKS.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NEXT DAY",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "MURMUR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GLANCE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THIS IS SO AWKWARD. IS EVERYONE STARING AT ME? THIS MUST BE HOW PRETTY GIRLS FEEL EVERY DAY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DRRRR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "STAY CALM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GLANCE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT IS IT? DO I LOOK A BIT DIFFERENT TODAY?",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BAHAHAHA",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Student",
+      "line": "HOLY CRAP, LOOK AT HER. HAHAHAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PFFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HHAHIA",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Student",
+      "line": "HEY, IS SHE GOING FOR AN OLD MAKEUP LOOK? HAHA. SHE LOOKS LIKE SHE USED A BLACK MARKER TO DRAW ON HER EYE. JUST WAIT TILL THE DEAN CATCHES HER, HAHA. CAN'T STOP LAUGHING. HAHAHAHAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Student",
+      "line": "UGLY CHICKS ALWAYS STAND OUT NO MATTER WHAT~ HAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I KNEW IT!",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HIAHA",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A GIRL LIKE ME IS UGLY EVEN WITH MAKEUP!",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "OPEN FORUM (TEMPORARY POST) DOES MY MAKEUP LOOK REALLY WEIRD? BB + EYELINER + LIP TINT. DOES IT LOOK WEIRD? I NEED SOME OBJECTIVE FEEDBACK :(",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, THAT WAS FAST.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GASP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "COMMENT 26 (TEMPORARY POST) DOES MY MAKEUP LOOK REALLY WEIRD? BE THE FIRST TO 'LIKE' THIS POST BY ORDER OF UPLOAD MOST RECENT NEW COMMENT NOTIFICATIONS",
+      "type": "narration"
+    },
+    {
+      "speaker": "PRETTY_PRETTY",
+      "line": "OH MY GOD, NO WAY. PLEASE. DON'T TELL ME YOU WENT OUT LOOKING LIKE THAT! DID YOU DRAW WITH A BLACK MARKER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SNIFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TRICKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "CHICKEN_MANIAC",
+      "line": "YOU SHOULD START BY FIXING YOUR EYEBROWS. THEY LOOK LIKE CATERPILLARS. I USED AN APP TO CLEAN UP YOUR EYEBROWS. I WOULD START BY FIXING THEM FIRST ASAP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH GOD, SHE'S RIGHT. I HAD BETTER TRIM MY EYEBROWS. CATERPILLARS.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PLAY_WITH_FIRE",
+      "line": "HEY, READ THE THIRD 'BEST POST'. I THINK IT WILL HELP YOU OUT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEST POST?",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BEFORE AND AFTER USING DOUBLE EYELID GLUE",
+      "type": "narration"
+    },
+    {
+      "speaker": "WANNABE IRING",
+      "line": "HEY, GIRLS! I'D LIKE TO GIVE YOU SOME MAKEUP TIPS AND SECRETS FOR USING DOUBLE EYELID GLUE ^0^",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "IS THIS WHAT SHE MEANT?",
+      "type": "thought"
+    },
+    {
+      "speaker": "WANNABE IRING",
+      "line": "HEY, GIRLS! I'D LIKE TO GIVE YOU SOME MAKEUP TIPS AND SECRETS FOR USING DOUBLE EYELID GLUE. THIS IS HOW MY EYES USUALLY LOOK. AND THIS IS HOW THEY LOOK WITH DOUBLE EYELID GLUE + LENSES! AMAZING, RIGHT?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "SINCE SOME PEOPLE HAVE ASKED FOR INFO ABOUT THE LENSES, THEY'RE BROWN 'PARADISE KISS' LENSES MADE BY XX MEDICAL.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "GASP! WOW, HOW IS THAT EVEN POSSIBLE?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "EMBARKED ON MY JOURNEY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE DAY HAS FINALLY COME TO OPEN YOU. SORRY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CHHHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MOM! I'm GOING OUT FOR A BIT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "DOWN THAT PATH:",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "ONE HOUR LATER",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHERE SHOULD I START?",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SHAKE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE RESULTS OF MY EXPEDITION WERE TREMENDOUS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "OO",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "AND NOW I'M FLAT BROKE.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NOW! FIRST, LET ME START BY WORKING ON MY EYEBROWS!",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SCRAPE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "UHOOO, DID I TRIM THEM TOO MUCH?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TRY TO STAY CALM. IT'S OKAY! I CAN JUST DRAW IT ON. COME, SAVE ME, SPIRIT OF CALMNESS.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "TRIMMED MY EYEBROWS. NOW IT'S TIME FOR DOUBLE EYELID GLUE!",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DRAW",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "FLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BOING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CRAP! WHAT HAPPENED? AGAIN, AGAIN!",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DRAW",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "UGH, THIS ISN'T RIGHT EITHER! AGAIN!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY! THAT LOOKS PRETTY GOOD! MAN, DOUBLE EYELID GLUE IS HARD TO USE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NOW, THE EYELASH CURLER:",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SQUEEZES",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NEXT, LENSES.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FINALLY, MASCARA.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH MY GOD. I CAN'T BELIEVE THIS!",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "SLAM",
+    "GRUMBLE",
+    "FLOP",
+    "SHIVER",
+    "BAM",
+    "WHISH",
+    "MURMUR",
+    "GLANCE",
+    "THUMP",
+    "DRRRR",
+    "BAHAHAHA",
+    "PFFF",
+    "HHAHIA",
+    "HAHA",
+    "HIAHA",
+    "CLICK",
+    "TAP",
+    "DING",
+    "GASP",
+    "SNIFF",
+    "TRICKLE",
+    "CHHHH",
+    "HUFF",
+    "SHAKE",
+    "OO",
+    "PING",
+    "SCRAPE",
+    "DRAW",
+    "FLICK",
+    "BOING",
+    "SQUEEZES"
+  ],
+  "summary": "The protagonist's first attempt at makeup with BB cream, lip tint, and eyeliner results in a disastrous look that draws ridicule from her sister and classmates. Humiliated, she seeks advice online, discovers tips for double eyelid glue and contact lenses, and embarks on a new, expensive, and diligent journey to master makeup.",
+  "word_count": 700,
+  "confidence": "medium"
+}

@@ -1,0 +1,202 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The air was thick with the scent of fear and ozone. Another beginning. Or was it just another end?",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "How many times have I stood here? How many 'first floors' have I endured?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "A thousand? Ten thousand? The faces change, the screams echo differently, but the tower... it always remains.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Welcome, Player, to the Tutorial Tower!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Your journey to become a true Awakened begins now.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Current Objective: Clear Floor 1 - The Goblin's Den.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "The same old lines. The same old lies. A cruel mockery of hope for the unsuspecting.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "Look at them. Fresh meat. Wide-eyed, trembling, clutching their rusty swords and dull axes as if they're holding onto life itself.",
+      "type": "thought"
+    },
+    {
+      "speaker": "New Player A",
+      "line": "G-Goblins?! They're everywhere! What are we supposed to do?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "New Player B",
+      "line": "Someone help! My shield just... shattered! This isn't fair!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SCREAMS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CLANG! CRACK! (Of a weak weapon breaking)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "This 'tutorial' is a cruel joke. A loop of despair for everyone but me. For them, it's a death sentence. For me... it's just another Tuesday.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GOBLIN SNARL (A particularly large goblin charges)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "New Player C",
+      "line": "Agh! It's coming for me! I can't move!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "(He sighs, a barely perceptible movement, his gaze cold and distant.)",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "Enough. Let's get this over with. The faster I clear, the faster I can observe the changes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHOOSH! (Hyunsung moves, a blur of motion, too fast for the eye to follow)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THWACK! (A goblin's head explodes into green mist)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACK! (Another goblin's neck snaps with a sickening sound)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "New Player A",
+      "line": "W-what was that?! Did... did someone just move?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "New Player B",
+      "line": "The goblins... they're all falling! Who's doing this?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "They don't even see me. Good. Less hassle. My presence only complicates things for now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SQUELCH (The final goblin falls, its body dissolving)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have defeated the Goblin Chieftain!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Floor 1 has been cleared!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have gained 500 EXP.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have leveled up!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have acquired the skill 'Basic Sword Mastery'.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "Basic Sword Mastery. Again. The irony never gets old, I suppose. A skill I mastered millennia ago.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "My true skills are beyond their comprehension. Beyond this 'tutorial' itself. They are forged in countless deaths and rebirths.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[All players will now be moved to Floor 2.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHOOSH (A bright flash of light engulfs the players, transporting them)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "Another floor. Another step closer. This time, I won't fail. I can't.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "This time, I will break the loop. I will escape this prison that has held me captive for so long.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Hyunsung",
+      "line": "And I'll make sure no one else gets trapped here with me. Not again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes, ancient and weary, held a flicker of cold, unyielding determination. The advanced player had begun his final ascent.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "SCREAMS",
+    "CLANG",
+    "CRACK",
+    "GOBLIN SNARL",
+    "WHOOSH",
+    "THWACK",
+    "SQUELCH"
+  ],
+  "summary": "Kim Hyunsung, a veteran stuck in an endless loop within the Tutorial Tower, once again starts from Floor 1. He effortlessly dispatches the goblins, showcasing his overwhelming power and jaded perspective, while new players struggle, reaffirming his resolve to finally escape the tower and prevent others from being trapped.",
+  "word_count": 715,
+  "confidence": "high"
+}

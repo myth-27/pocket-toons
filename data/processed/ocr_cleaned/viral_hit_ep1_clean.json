@@ -1,0 +1,185 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "My life... it's always been like this. A punching bag. A human ATM. A joke.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Every day, the same routine. Wake up, dread school, get beaten, go home, repeat.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My name is Hobin Yoo. And I'm the weakest kid in school.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Hey, Hobin. Looking a little pale today. Did you forget your lunch money again?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(Please, just leave me alone today...)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "He's always forgetting something, isn't he? What a loser.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Relax, guys. Hobin's a good kid. He just needs a little... motivation.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAB!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "Ah! Let go!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "What's this? A half-eaten fried chicken leg? You're not going to finish this, are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "N-no, that's my... I was saving it...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Saving it? For what? To worship it? You know what? I have a better idea for it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SMASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "MMPH! H-HEY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He shoved the greasy, half-eaten chicken leg onto my head. The bone scraped my scalp. Grease dripped into my eyes.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHUCKLE CHUCKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Look at him! Chicken head Hobin! Hahaha!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Perfect! He looks like a chicken!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(The smell... the laughter... it's burning into my brain. I want to disappear.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Alright, chicken boy. Don't forget to bring us some *real* money tomorrow. Or maybe a whole bucket of chicken, just for your head.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAP! (on Hobin's back)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They walked away, their laughter echoing in the empty hallway. I stood there, frozen, the chicken leg still on my head.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "This is my life. Every single day. I'm tired of it. So tired.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(I hate them. I hate myself more.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(Why can't I just fight back? Why am I so weak?)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later that day, scrolling through Newtube, I saw it. A random video. 'How to fight: Basic Self-Defense.'",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It had millions of views. Comments flooded in, praising the techniques, asking for more.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(This is stupid. I'd just get beaten worse.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(But... what if? What if I could learn? What if I could actually... fight?)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The idea, ridiculous as it was, lodged itself in my mind. A desperate, foolish spark.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I had nothing left to lose. My dignity was long gone. My money, my peace... all taken.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hobin Yoo",
+      "line": "(If I'm going to be humiliated, at least let it be on my own terms.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I clicked on the video. My finger hovered over the 'subscribe' button. This was either the dumbest decision of my life, or the only one that mattered.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK!",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "GRAB",
+    "SMASH",
+    "CHUCKLE",
+    "SLAP",
+    "CLICK"
+  ],
+  "summary": "Hobin Yoo, a perpetually bullied high school student, endures another day of humiliation at the hands of Pakgo and his gang, culminating in the infamous 'chicken head' incident. Reaching his breaking point, Hobin stumbles upon a viral 'how to fight' video on Newtube, sparking a desperate, foolish idea to change his life.",
+  "word_count": 702,
+  "confidence": "high"
+}

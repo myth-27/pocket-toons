@@ -1,0 +1,170 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "My name is Song Wooyeon. It's a perfectly ordinary name for a perfectly ordinary girl.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My older brother, Song Geunwoo, is a genius law student, already mapping out his future with laser precision. My younger sister, Song Woojoo, is a talented dancer, graceful and confident, always in the spotlight.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And me? I'm just... me. The middle child. The one who blends into the wallpaper. The invisible one.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Every morning, it's the same routine. Wake up, get ready, try not to disturb anyone. Try not to make a sound.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My mother's voice, always so clear, always so pointed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mother (thought)",
+      "line": "\"Wooyeon, try to be more like your brother. Or your sister.\" I just nod. What else can I do?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Today, it was another errand. A trip to the stationery store for Woojoo's special art supplies. Another task for the invisible girl.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (soft)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As I walked through the park, my head down, trying to avoid eye contact with anyone, a strange sight caught my eye.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A group of people. Not just any people. They were... colorful. Vibrant. Like a splash of paint on a muted canvas.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "One guy, in particular, stood out. Bright, fiery red hair that seemed to defy gravity. A loud, patterned shirt that screamed for attention. He was posing like a statue, one arm dramatically extended.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "What in the world are they doing?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Around him, others were sketching furiously. A girl with bright pink hair, meticulously shading her drawing. A guy with glasses and a beanie, his brow furrowed in concentration. Another, with a stern expression, but a surprisingly gentle hand on his sketchbook.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRATCH (of pencils)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They weren't just drawing; they were *living* in that moment. Laughing, chatting, completely absorbed in their world. So unbothered by the curious stares, the passersby.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It was so different from my world, where every movement felt measured, every word carefully chosen to avoid drawing attention. To avoid being judged.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "And the red-haired guy... he had these incredibly long, slender fingers. Moving with such grace, even when he wasn't drawing. They almost seemed to... dance.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "He looked so confident. So unselfconscious. So... unlike me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I must have been staring. My heart pounded, a frantic drum against my ribs.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Suddenly, the red-haired guy's eyes flickered in my direction. Just for a second. A quick, piercing glance that seemed to see right through me.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASPE (Wooyeon)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I quickly looked away, my cheeks burning, clutching the bag of art supplies tighter. He didn't seem to notice. Or maybe he just didn't care.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (bag)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I hurried away, my cheeks still hot. It was embarrassing to be caught staring. To be caught at all.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But even as I walked, I couldn't shake the image of them. The colors, the laughter, the sheer uninhibited joy. The way they just... existed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "I clutched my bag, the weight of Woojoo's art supplies a strange irony. I was buying tools for someone else's creativity, while mine remained locked away, unexplored.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "What would it be like to be so bold? To wear your personality on your sleeve, like that red-haired guy? To be part of something so vibrant, so unapologetically *them*?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "My life felt like a grayscale photograph next to their vivid painting. A dull, muted existence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Wooyeon",
+      "line": "The image of his 'spirit fingers' – those long, graceful digits – lingered in my mind. They seemed to hold a secret, a power I couldn't comprehend.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A tiny, almost imperceptible spark ignited within me. A flicker of something new, a quiet whisper that maybe, just maybe, I didn't have to be invisible forever.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "FOOTSTEPS",
+    "SCRATCH",
+    "THUMP-THUMP",
+    "GASPE",
+    "RUSTLE"
+  ],
+  "summary": "Song Wooyeon, an ordinary and self-conscious high schooler, feels overshadowed by her talented siblings and constantly tries to remain invisible. While on an errand for her sister, she stumbles upon a vibrant, eccentric art club in the park, catching a glimpse of their lively world and the captivating 'Spirit Fingers' of one of its members, sparking a tiny flicker of curiosity within her.",
+  "word_count": 765,
+  "confidence": "high"
+}

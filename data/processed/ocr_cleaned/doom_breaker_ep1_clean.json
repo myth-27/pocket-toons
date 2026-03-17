@@ -1,0 +1,194 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world had fallen. Humanity, once proud, now clung to the last vestiges of hope, embodied by a single warrior.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Haa... haa... Is this all... I can do?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "My body screams in protest. Every bone shattered, every muscle torn. But I can't stop. Not now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Tartarus",
+      "line": "Still standing, 'Battle God'? How pathetic. Even with all your strength, you are but a fleeting spark against my eternal darkness.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Before Zephyr, the Demon King Tartarus loomed, a monstrous entity of pure malice, radiating an aura that twisted reality itself.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "I... won't... let you... destroy everything!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "The faces of my fallen comrades flash before my eyes. Seraphina... Orion... They sacrificed everything for this moment. For me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ROAR! WHOOSH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Tartarus",
+      "line": "Foolish mortal. Your defiance is meaningless. Witness the true power of a god!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BOOOOM! CRASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A torrent of abyssal energy erupted from Tartarus, engulfing Zephyr. The world shook, then fell silent.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Ah... My body... it's... disintegrating.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Is this... the end? After all this... I failed. Humanity... is doomed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "If only... if only I had one more chance. To do things differently. To save them all.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mysterious Voice",
+      "line": "Do you desire a second chance, warrior?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Who... who's there?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Voice",
+      "line": "A chance to rewrite your fate. To break the chains of doom. But know this: the path will be fraught with greater peril.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Peril? What does it matter? If it means saving them... I'll face anything. Give me that chance!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mysterious Voice",
+      "line": "Then so be it. May your resolve be as unyielding as your blade.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FWOOSH! ZAP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A blinding light enveloped Zephyr, pulling him through an endless void.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Ugh... My head...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "What... Where am I?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Zephyr's eyes fluttered open. He lay in a soft bed, in a simple, familiar room. Sunlight streamed through a window.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "This room... it's mine. My old room.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "My body... it's not broken. It's... young. Full of energy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "He quickly found a discarded newspaper on a nearby table. His eyes scanned the date.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Year 2038... The Demon King's invasion... it hasn't happened yet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "This is it. I've truly returned. Before everything went to hell. Before I lost everyone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "A cold, determined glint entered his eyes. His fists clenched.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "Tartarus... You won't win this time. I'll make sure of it. I'll save them all.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zephyr",
+      "line": "This time, I will break doom itself.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "CRACKLE",
+    "ROAR",
+    "WHOOSH",
+    "BOOOOM",
+    "CRASH",
+    "FWOOSH",
+    "ZAP",
+    "GASP",
+    "RUSTLE"
+  ],
+  "summary": "Zephyr, the Battle God, meets his end at the hands of the Demon King Tartarus, filled with regret over his failure to protect humanity. Just as he fades, a mysterious voice offers him a second chance, sending him back in time to his younger self.",
+  "word_count": 709,
+  "confidence": "high"
+}

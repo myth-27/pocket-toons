@@ -1,0 +1,173 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Shin Ha-ri. A researcher at GoFood. Her life? A constant struggle against the mounting debt of her family's fried chicken restaurant.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "Another month, another bill. My wallet is starting to look like a desert.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RING RING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Sighs) Speaking of deserts, here comes the oasis of my problems.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JIN YOUNG-SEO",
+      "line": "Ha-ri! My dearest, most beautiful Ha-ri! You have to help me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "Let me guess. Another blind date you need me to scare off?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JIN YOUNG-SEO",
+      "line": "Bingo! But this one is serious! My dad will disown me if I don't go, but I can't stand another one of his 'perfect' matches! He's a chaebol heir this time!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "A chaebol heir? Young-seo, my 'scare tactics' are getting expensive. Last time I pretended to be a cult leader, and he still tried to convert me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JIN YOUNG-SEO",
+      "line": "Please! This is the last one, I promise! Just make him hate you beyond all reason! Be as obnoxious as possible! I'll pay you double!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Double? That would really help with the restaurant's new fryer...) Okay, fine! But I'm going all out this time. No more subtle rejections. I'm going to be the most horrifying date he's ever seen.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JIN YOUNG-SEO",
+      "line": "You're the best! I'll send you the details! You're a lifesaver!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next evening, Ha-ri donned her most outlandish outfit, complete with an over-the-top wig and thick-rimmed glasses. Her mission: total annihilation of the blind date.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Adjusting her wig) Alright, Ha-ri. Time to unleash the beast. Think 'unhinged cat lady with a penchant for conspiracy theories'.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHIMES",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Entering the upscale restaurant) Okay, where's this poor, unsuspecting chaebol heir?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Spots a figure at a table. Tall, impeccably dressed, sharp profile...) Wait... no way. That's... CEO Kang?! Kang Tae-moo?! My company's CEO?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Panicked) Oh my god, oh my god, oh my god! Young-seo, you absolute menace! How could you not tell me he was *the* Kang Tae-moo?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "Miss Jin Young-seo?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Forcing a smile, trying to maintain character) Yes! That's me! The one and only! And you must be... my future ex-fiancé!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "Kang Tae-moo. Please, have a seat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Slams down dramatically) So! Tell me, Mr. Kang! Do you believe in aliens? Because I'm pretty sure my last boyfriend was abducted. He just vanished after I told him I collect toenail clippings for good luck!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "(Unfazed, takes a sip of water) I see. And do you have a preferred species of alien?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Thought) He's not even flinching! What kind of stone-faced robot is this man?! Okay, higher stakes! Think crazier!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "I also have seven cats, all named after different types of kimchi! And I talk to them exclusively in ancient Sanskrit! Sometimes I wear a full-body chicken costume to work!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "(Places his napkin neatly on the table) Miss Jin, I appreciate your... unique approach. However, I am a very busy man. I have no time for frivolous dating or my grandfather's endless matchmaking attempts.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Thought) Yes! He's finally getting it! I'm too much for him!",
+      "type": "thought"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "Therefore, I have a proposition for you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Beaming internally) Oh, do you now? I'm all ears!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "Marry me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "Excuse me?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KANG TAE-MOO",
+      "line": "A contract marriage. You will pretend to be my fiancée, and eventually my wife, to appease my grandfather. In return, I will provide you with a generous sum. Enough to resolve any outstanding debts, perhaps even your family's restaurant.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIN HA-RI",
+      "line": "(Jaw drops, eyes wide) A... a contract marriage?! With my CEO?!",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "RING RING",
+    "CHIMES",
+    "GASP"
+  ],
+  "summary": "Shin Ha-ri, struggling with family debt, agrees to impersonate her chaebol friend Jin Young-seo on a blind date to scare off the suitor. To her horror, the date turns out to be Kang Tae-moo, the CEO of her own company, who, unfazed by her antics, proposes a contract marriage.",
+  "word_count": 702,
+  "confidence": "high"
+}

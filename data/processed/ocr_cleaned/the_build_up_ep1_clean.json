@@ -1,0 +1,210 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The sun dipped below the horizon, painting the sky in hues of orange and purple. For most, it was time to head home. But for Kim Minjun, it was just the beginning.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "Another day, another thousand shots. My hands ache, my legs burn. But the feeling... the rhythm...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK (ball hitting rim)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (ball going through net)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "My height is a disadvantage. My strength, average. But my vision... my understanding of the court... that's my weapon. If only I could make them see it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next morning, the air in Seojin High's gym crackled with nervous energy. Dozens of hopefuls, all vying for a spot on the coveted basketball team.",
+      "type": "narration"
+    },
+    {
+      "speaker": "COACH LEE",
+      "line": "Alright, listen up! Welcome to the Seojin High Basketball tryouts! I'm Coach Lee. We're looking for dedication, skill, and heart. Show us what you've got!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SQUEAK (of shoes on court)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "So many guys... taller, faster, stronger. I need to stand out. Not with flash, but with precision. With intelligence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PLAYER 1 (HYUNWOO)",
+      "line": "Yo, Minjun! Still trying out? You're practically invisible on the court, man. You'll get crushed.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "(muttering) Just watch.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PLAYER 1 (HYUNWOO)",
+      "line": "What was that? Didn't catch it over the sound of you missing layups.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIBBLING (intense, echoing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (ball bouncing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "COACH LEE",
+      "line": "Next drill! One-on-one, full court! Show me your defense, your drive! Don't hold back!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "This is it. The chance to show my court awareness. My quickness.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (Minjun darting)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG (ball hitting backboard hard) - Minjun gets blocked by a much larger player, Jaehyun.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "Dammit! Too predictable. I need to adapt. I can't just rely on speed against these guys.",
+      "type": "thought"
+    },
+    {
+      "speaker": "COACH LEE",
+      "line": "Minjun! You gotta be stronger with the ball! Protect it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "Yes, Coach!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Minjun felt the familiar sting of inadequacy. He wasn't built like the others, constantly outmuscled. But then, during the final scrimmage, a different kind of opportunity arose.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "I can't beat them with brute force. I have to outthink them. Find the angles no one else sees.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIBBLE-DRIBBLE-CROSSOVER (Minjun's quick footwork)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PIVOT (Minjun's quick change of direction)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He drove into the paint, drawing two defenders, then, in a blink, dished a no-look pass.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (a perfect pass, threading the needle)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (teammate scores easily)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PLAYER 2",
+      "line": "Whoa! Minjun, what a pass! Didn't even see that opening!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "It's not about being the biggest. It's about seeing the opening. The smallest gap. The moment before it happens.",
+      "type": "thought"
+    },
+    {
+      "speaker": "COACH LEE",
+      "line": "(a slight, almost imperceptible nod) Good vision, Minjun. Very good.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "A nod. That's something. But it's not enough. Not nearly enough. I need more than a nod. I need to be undeniable.",
+      "type": "thought"
+    },
+    {
+      "speaker": "COACH LEE",
+      "line": "Alright, listen up! Some of you showed potential. Others... well, keep practicing. The list of those moving on will be posted tomorrow. Don't lose heart, no matter what.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "My heart is pounding. Did I do enough? Was that one pass, that one flash of insight, enough to make them see past my size?",
+      "type": "thought"
+    },
+    {
+      "speaker": "PLAYER 1 (HYUNWOO)",
+      "line": "(walking past Minjun, scoffing) See you next year, Minjun. Maybe you'll grow a few inches by then.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MINJUN",
+      "line": "Next year? No. This year. I *have* to make it this year. I've been building up to this moment my whole life. My body might not be there yet, but my mind, my spirit... they're ready. The real build-up starts now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (Minjun's determined heart)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The journey to the top is never easy. It's a relentless grind, a constant battle against your own limits and the expectations of others. But for Kim Minjun, the first step, the most crucial step, was simply to believe that he could build something out of nothing.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "THWACK",
+    "SWISH",
+    "SQUEAK",
+    "DRIBBLING",
+    "THUMP",
+    "WHOOSH",
+    "CLANG",
+    "PIVOT",
+    "DRIBBLE-DRIBBLE-CROSSOVER",
+    "THUMP-THUMP"
+  ],
+  "summary": "Undersized but intelligent, Kim Minjun attends the Seojin High basketball tryouts. Despite struggling in physical drills and facing taunts, he showcases his exceptional court vision and strategic passing during a scrimmage, fueling his fierce determination to prove himself.",
+  "word_count": 756,
+  "confidence": "high"
+}

@@ -1,0 +1,342 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The city never truly sleeps, but for Mina, the nights were always the quietest. A fragile peace, easily shattered by the smallest crack in the silence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Another day. The same routine. Wake up, pretend everything's fine. Pretend I didn't feel that chill last night, even with the windows closed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ALARM BEEPING (FADES SLOWLY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": " (Groans, pulling the blanket tighter) Five more minutes...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She finally pushed herself out of bed, her limbs heavy. The first light of dawn barely pierced through the gap in her curtains, painting the room in dull grays.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Did I leave the window open last night? Again?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her bedroom window, usually sealed tight against the city's ceaseless hum and the biting winter air, was cracked open just a sliver. A cool breeze, carrying the faint scent of damp concrete and something else... something metallic, drifted in.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "I'm sure I closed it. I always do. Especially after... no, just my imagination.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WINDOW CREAKS FAINTLY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Muttering to herself) Must be my own forgetfulness. Or the old building settling.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She pushed the thought away, the mundane anxieties of her marketing job already creeping in, a familiar shield against the unfamiliar.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOWER RUNNING, WATER DRIPPING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later, in the kitchen, preparing her meager breakfast of toast and instant coffee. The silence felt heavier than usual, pressing in from all sides.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "It's too quiet. Even for a Tuesday morning. The neighbors are usually up by now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "COFFEE MACHINE HISSING, TOASTER POPS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She glanced around her small, meticulously organized apartment. Everything was in its place. The stack of design books on the coffee table, the remote precisely centered on the cushion, the framed photo of her and her sister smiling brightly.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Wait. Something's... off.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes narrowed, scanning the familiar space. Then she saw it. The small, ceramic cat figurine her sister had given her, usually perched on the edge of the shelf, facing the door for good luck. Now, its blank ceramic eyes stared directly at her.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "No. That's impossible. I always face it towards the door. Always.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEARTBEAT (FAINT, GROWING STEADILY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Whispering, her voice barely audible) Did I... move it? When?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She picked it up, her fingers brushing against the cool, smooth ceramic. She turned it back to its usual position, but the feeling of wrongness lingered, like a phantom limb. Her hands trembled slightly.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Stop it, Mina. You're just stressed. Overthinking everything. You're seeing things. It's just a cat figurine.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She forced a shaky smile, trying to shake off the creeping unease. The city outside seemed to mock her with its indifferent bustle, its oblivious normalcy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CLOSES (CLICK, THEN THE FAINT SOUND OF THE DEADBOLT ENGAGING)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The day at the office dragged on, a blur of spreadsheets and forced smiles. But the feeling persisted, a cold knot in her stomach, a prickling sensation on the back of her neck. She kept glancing over her shoulder, convinced she was being watched, even in the crowded office.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "I need to get home. I need to check. To prove I'm just being paranoid.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The walk home felt longer than usual. Every shadow seemed to stretch and writhe, every anonymous passerby a potential threat, their faces blurring into a single, unreadable mask.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (ECHOING FAINTLY ON PAVEMENT)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Finally, her apartment building. The familiar dull yellow light of the hallway, buzzing with a faint, irritating hum. She fumbled with her keys, her hands clammy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KEYS JINGLING, NERVOUSLY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The lock clicked with a startling loudness in the quiet hallway. She pushed the door open, her heart pounding a frantic rhythm against her ribs.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAKS OPEN SLOWLY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The apartment was dark, silent. Just as she'd left it. Or was it? The air felt colder, heavier.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Whispering, her voice barely a breath) Hello?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "No answer. Just the oppressive, suffocating silence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "See? Nothing. You're being ridiculous. It's just your imagination running wild.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She stepped inside, reaching for the light switch, her fingers brushing against the cold plastic.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LIGHT SWITCH FLICK (SHARP CLICK)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The living room flooded with harsh, artificial light. Everything seemed normal. The books, the remote, the ceramic cat, still facing the door. A wave of relief, cold and fleeting, washed over her.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Good. Okay. I'm just tired. Overworked. This is what stress does.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She walked towards the kitchen, dropping her heavy bag on the floor with a sigh. That's when she saw it.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP (MINA, SHARP AND SUDDEN)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "On her pristine white kitchen counter, next to the sink, nestled against the fruit bowl, was a single, wilting red rose. Its petals were already starting to curl at the edges, a stark contrast to the sterile cleanliness of her kitchen.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "No. No, this isn't right. This can't be real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She hadn't bought flowers. She never did. And her window was still closed. Her door had been locked. She remembered the deadbolt.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEART POUNDING (LOUD, IRREGULAR)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes darted around the room, searching, desperate for an explanation, a rationalization. Then, she saw it.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Under the rose... a note.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A small, neatly folded piece of paper, tucked beneath the wilting stem. Her hand trembled violently as she reached for it, her fingers brushing against the cold, smooth counter.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PAPER CRINKLES SOFTLY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She unfolded it. The handwriting was elegant, precise, almost artistic.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Reading aloud, her voice a fragile whisper, laced with terror) \"You look beautiful when you sleep. I'll be watching.\"",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DROP (ROSE FALLS, A SOFT THUD ON THE COUNTER)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The rose slipped from her numb fingers, hitting the counter with a soft, sickening thud. Her blood ran cold, turning her veins to ice.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "He... he was here. He saw me. He's been inside.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her gaze shot to her bedroom window, then to the front door, then to the dark corners of her apartment, which now seemed to writhe with unseen eyes. Every shadow seemed to deepen, to hold a hidden presence, a lurking form.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "He's been watching me. He's been inside. He knows.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHATTER (GLASS BREAKING, DISTANT, SHARP AND SUDDEN)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A sudden, sharp sound from outside her window, cutting through the suffocating silence. She froze, her breath caught in her throat, her body rigid with primal fear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "Is he still out there? Is he... watching me now? Right now?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The terror was a physical weight, pressing down on her, crushing her. She was not alone. She had never been alone. The fragile peace was shattered, irrevocably.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Whispering, a raw, choked sound of pure terror) Who... who are you?",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "ALARM BEEPING",
+    "WINDOW CREAKS",
+    "SHOWER RUNNING",
+    "WATER DRIPPING",
+    "COFFEE MACHINE HISSING",
+    "TOASTER POPS",
+    "HEARTBEAT",
+    "DOOR CLOSES",
+    "DEADBOLT ENGAGING",
+    "FOOTSTEPS",
+    "KEYS JINGLING",
+    "DOOR CREAKS OPEN",
+    "LIGHT SWITCH FLICK",
+    "GASP",
+    "PAPER CRINKLES",
+    "DROP",
+    "SHATTER"
+  ],
+  "summary": "Mina, a young woman living alone, begins to notice unsettling discrepancies in her apartment, dismissed initially as stress. The subtle signs escalate until she discovers a wilting rose and a chilling note, confirming her worst fears: she is being watched, and her home has been invaded.",
+  "word_count": 712,
+  "confidence": "high"
+}

@@ -1,0 +1,219 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "They call it the 'golden age.' A time of boundless energy, forging lifelong bonds, discovering who you truly are. For them, maybe. For me, it's a meticulously choreographed ballet I'm perpetually watching from the wings.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "MURMUR (of hundreds of voices)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SHUFFLE (of countless feet)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Every morning, the same ritual. The rush, the laughter, the casual touches. A vibrant tapestry woven with threads of shared experiences. And I'm just... a loose thread, dangling, unnoticed, easily frayed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Eunji",
+      "line": "Seriously, Minjun's new haircut? What was he thinking? It's like a mushroom exploded on his head!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Friend 1",
+      "line": "Right? And he posted it like he was some kind of fashion icon.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Friend 2",
+      "line": "Ugh, don't even get me started on his latest story. So cringe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "GIGGLE (collective, sharp)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They move with an almost gravitational pull, a bright, vibrant constellation of laughter and shared secrets. Each interaction a spark, creating a dazzling display. And I'm just... space dust, floating by, too insignificant to even register on their cosmic radar. A silent observer in a universe that doesn't acknowledge my presence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUD (books scattering across the polished floor)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Classmate A",
+      "line": "Oh, whoops! My bad.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My bad. A fleeting apology, a ghost of an acknowledgment. Not even worth a second glance. It's like I'm made of air, easily displaced, easily forgotten. My hands tremble slightly as I gather my scattered textbooks, the covers worn from endless, solitary flipping.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Sometimes, I wonder if I'm even real. If I vanished right here, right now, would anyone notice? Would the 'golden age' skip a beat, or would the ballet simply continue, seamlessly, without me?",
+      "type": "narration"
+    },
+    {
+      "speaker": "Teacher",
+      "line": "And so, the protagonist's isolation becomes a central theme, reflecting society's tendency to ostracize those who deviate from the norm. Any thoughts on how this resonates with contemporary issues?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Resonates? Oh, it resonates alright. Like a discordant hum in my chest, a constant, low thrum of understanding. I could talk about it. About the subtle ways people are pushed to the fringes. About the crushing weight of being 'different,' even if you don't know what that difference truly is, or why it applies to you.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My hand twitches, a thought forming, a connection made. I almost raise it, a fragile hope flickering. But then, the fear. The fear of being seen, of being judged, of having my quiet existence shattered by a single, brave question. My hand drops, unnoticed, melting back into the anonymity of the desk.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Teacher",
+      "line": "Jimin? What do you think?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jimin",
+      "line": "Uh, I guess... people are mean sometimes?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SNICKER (from a few students)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Mean sometimes. If only it were that simple. It's not always overt cruelty. Sometimes, it's the quiet omission. The conversations you're not invited to. The glances that slide right through you, as if you're a pane of glass. It’s the constant, gnawing feeling of being an afterthought.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CLATTER (of trays)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CHATTER (a roaring wave of voices)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "LAUGHTER (intermittent, loud)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The cafeteria. A grand theatre where everyone plays their part. The popular cliques, the sports enthusiasts, the study groups. Each table a miniature kingdom, fiercely defended, its borders invisible yet impenetrable. I sit at my usual corner table, meticulously unwrapping my homemade sandwich, a small island in a sea of humanity.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Eunji, the queen. Surrounded by her loyal subjects, basking in the spotlight. Her laughter rings out, clear and confident, a melody of belonging. A sound I can only mimic in the privacy of my own room, a hollow echo of what I wish I could feel.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHISPER (low, conspiratorial)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A group of boys walks past my table, one of them, Minjun, catches my eye for a split second, then quickly averts his gaze, nudging his friend and whispering. A glance. A whisper. Just enough to confirm my existence, but only as an object of fleeting curiosity, or perhaps, pity. Or worse, a target for whispered jokes I'll never hear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I take a small bite of my sandwich, the food tasteless, the flavors muted by the constant hum of my own isolation. I just want to belong. To feel the warmth of shared space, shared jokes. To be seen not as an anomaly, but as just... Jihye. Simple, ordinary, and accepted.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The end of the school day. A mass exodus. Everyone has somewhere to be, someone to be with. The school gates empty quickly, students dispersing in vibrant, chattering groups. Everyone, it seems, except me.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BOUNCE (of basketball)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SHOUT (of players)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "LAUGHTER (joyful)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I pass a small park where a group of students are playing basketball, their shouts and laughter echoing, a symphony of uninhibited joy. That's what acceptance looks like, isn't it? Unfiltered joy. Unquestioning camaraderie. A sense of being exactly where you're supposed to be, without effort, without question.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I pull out my phone, scrolling aimlessly through social media, seeing posts of classmates hanging out, their faces bright with genuine smiles. A curated reality, perhaps. But a reality nonetheless that I'm not a part of. My feed is a constant, glowing reminder of the life happening just beyond my reach, a life I desperately crave.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CLICK (of her apartment door unlocking)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I reach my quiet apartment building, the hallway silent, a stark contrast to the day's cacophony. Another day. Another cycle of observation, isolation, and the quiet ache of longing. But the desire doesn't fade. It just... settles. Like dust. Waiting for a breeze to stir it, to give it purpose.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CREAK (of the door closing slowly)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUD (soft, final)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I step inside, the door closing behind me, plunging the apartment into a soft, solitary dusk. Tomorrow. Tomorrow, I'll find a different way. A different angle. Because even if I'm just a loose thread, I still want to be part of the tapestry. I still want to be accepted. I have to.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "MURMUR",
+    "SHUFFLE",
+    "GIGGLE",
+    "THUD",
+    "SNICKER",
+    "CLATTER",
+    "CHATTER",
+    "LAUGHTER",
+    "WHISPER",
+    "BOUNCE",
+    "SHOUT",
+    "CLICK",
+    "CREAK",
+    "THUD"
+  ],
+  "summary": "Jihye, a quiet high school student, navigates a day filled with observations of her popular classmates and the painful reality of her own invisibility, ending with a quiet longing for acceptance.",
+  "word_count": 789,
+  "confidence": "high"
+}

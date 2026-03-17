@@ -1,0 +1,208 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Aethelburg, Cycle 237. Another dawn, another cycle.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The city hums, a symphony of progress and precision. Every citizen, every cog, perfectly placed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SYSTEM VOICE",
+      "line": "Good morning, Citizen Ren. Cycle 237, 06:00. Optimal wake-up achieved. Hydration protocol initiated.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ren",
+      "line": "(Yawn) Optimal, huh? Feels pretty standard to me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HISS (of a water dispenser)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Another day of processing data streams for the Central Archive. Thrilling.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ren downs the nutrient paste, the same taste, the same texture, every single morning. Aethelburg thrives on consistency.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK-WHIRR (of apartment door sealing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The sky-lanes are already bustling. Hover-pods glide silently, ferrying citizens to their designated sectors.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Look at them. All plugged in. All content. Sometimes I wonder what they dream about.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (of a passing hover-pod)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ren boards the Sector 7 Monorail. The familiar drone, the familiar faces, all staring blankly at their personal comm-pads.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Same old view. Towering chrome, endless glass. It's beautiful, in a sterile, suffocating way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUMMMMM (of the monorail)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "At the Central Archive, the air is thick with the scent of ozone and recycled air. Rows upon rows of data processing units, each manned by a silent worker.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Supervisor Kael",
+      "line": "Citizen Ren. On time, as expected. Proceed to Station Gamma-9.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Yes, Supervisor.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hours pass. The rhythmic click of data entry, the soft glow of the screen. Ren processes historical records, filtering out anomalies, ensuring narrative consistency.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Another 'discrepancy' flagged. A minor architectural detail in a pre-Unity era building. Easily corrected. Just a stray pixel, probably.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP (of data input)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Wait.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ren pauses. A flicker on the screen. Not a pixel, but... a shadow. A fleeting, impossible shadow in a historical image of a bustling market street.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "What was that? Did I imagine it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ZAP! (a brief visual distortion on screen)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ren",
+      "line": "There! It happened again! A glitch. But the system didn't flag it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ren zooms in, trying to pinpoint the anomaly. The image is crisp, clear. No shadow. No distortion.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Am I tired? Too many cycles without proper rest? No, I felt it. A momentary shift.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Supervisor Kael",
+      "line": "Citizen Ren. Is there an issue with your terminal?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ren",
+      "line": "No, Supervisor. Just... a momentary lag.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ren forces the thought away, returning to the mundane task. But the unease lingers. A seed of doubt planted in the perfectly ordered garden of Aethelburg.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later, walking home through the illuminated sky-paths, Ren glances down at the city's lower levels. The industrial sectors, rarely seen, always shrouded in a permanent twilight.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Just a glitch. That's all it was. The system is flawless.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then, Ren stops dead. Below, in a dark alley between two towering structures, a figure. Not a citizen in a standard uniform. Not a drone. Something... else.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP (from Ren)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The figure looks up. Its eyes, glowing with an unnatural light, meet Ren's across the vast chasm of the city. For a split second, Ren sees not a reflection, but a mirror. A parallel.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ren",
+      "line": "Who... what are you?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (Ren's heart)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The figure vanishes, swallowed by the shadows. Leaving Ren alone, staring at an empty alley, and a city that suddenly feels very, very wrong.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "HISS",
+    "CLICK-WHIRR",
+    "WHOOSH",
+    "HUMMMMM",
+    "BEEP",
+    "ZAP!",
+    "GASP",
+    "THUMP-THUMP"
+  ],
+  "summary": "Ren, a data archivist in the perfectly ordered city of Aethelburg, experiences a subtle glitch in a historical record, sparking unease. Later, Ren witnesses a mysterious figure in the city's lower levels, hinting at a hidden reality.",
+  "word_count": 765,
+  "confidence": "high"
+}

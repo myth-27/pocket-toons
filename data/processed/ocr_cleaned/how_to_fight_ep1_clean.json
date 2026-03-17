@@ -1,0 +1,175 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "My name is Hobin Yu. And my life is a living hell.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) Another day, another beating. It's always the same. Pakgo, his camera, and me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Alright, Hobin, time for your daily dose of fame! Say hi to the camera, everyone!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jiksae",
+      "line": "Yeah, smile for the viewers, loser! Pakgo's NewTube channel needs content!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "P-Pakgo... please... I don't have any money today. I already gave you everything yesterday...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Money? Who said anything about money today? We're doing a special segment! 'Hobin's Humiliation Hour'!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jiksae",
+      "line": "Ooh, good one, Pakgo! The viewers will love this!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Alright, Hobin, for today's challenge, I want you to bark like a dog. A really pathetic dog.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) My face burns. My stomach twists. I hate this. I hate them. I hate myself for letting this happen.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "What, no bark? Fine. Maybe this will loosen your tongue.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SMACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "Agh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "That's for being slow! Now, bark!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) My cheek stings. Tears well up, but I can't let them see. Not again. I just want to disappear.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KICK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "Ugh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jiksae",
+      "line": "Haha! Look at him squirm! Gold content!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) This is my life. Every single day. No one helps. No one cares. I'm just... a punching bag. A joke for their viewers.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lying on the dirty alley ground, Hobin's phone, which Pakgo had snatched earlier, lay forgotten beside him. It was still recording.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP! (Phone notification)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) What was that? A NewTube notification? On my phone...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Through blurry eyes, Hobin saw the screen. A suggested video. 'How to Fight: Basic Self-Defense for Beginners.'",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) How to fight...? Me? That's ridiculous. I'm the weakest kid in school. I can't even stand up straight.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Pakgo",
+      "line": "Alright, that's enough for today! Jiksae, send that clip to the editor. We'll make a killing!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jiksae",
+      "line": "You got it, boss! See ya tomorrow, Hobin! Don't forget to practice your barks!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS FADE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) They're gone. Finally. I pick up my phone, my hand trembling. The video is still there. 'How to Fight.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) What if...? What if I actually learned? Just a little bit? Would it change anything? Could I... could I stop this?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A flicker of something he hadn't felt in a long time ignited within him. Not hope, not yet. But a desperate, burning curiosity.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hobin Yu",
+      "line": "(Thought) I have nothing left to lose. Absolutely nothing.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TAP! (Finger presses screen)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The video began to play. And with it, the first clumsy, uncertain step towards a new path.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "SMACK",
+    "KICK",
+    "BEEP",
+    "FOOTSTEPS FADE",
+    "TAP"
+  ],
+  "summary": "Hobin Yu, a constantly bullied high school student, endures another humiliating session at the hands of Pakgo and his sidekick Jiksae, who film everything for their NewTube channel. After they leave, Hobin notices a 'How to Fight' tutorial video on his phone, sparking a desperate, new resolve.",
+  "word_count": 612,
+  "confidence": "high"
+}

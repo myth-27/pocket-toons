@@ -1,0 +1,143 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The morning sun filtered through the classroom window, illuminating dust motes dancing in the air. For someone who once moved like a phantom, every breath a practiced art, this stillness was a new, heavy cloak.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "(-My ki center... it's just an empty void now. No energy, no flow. Just... nothing.-)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "(-This is it. This is the normal life I wanted. No more Murim. No more fighting. Just school, friends, and peace.-)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sera",
+      "line": "Shioon, are you okay? You seem a little... out of it today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "Huh? Oh, yeah, Sera. Just tired. Didn't sleep well.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sera",
+      "line": "You've been saying that a lot lately. Are you sure everything's alright?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinho",
+      "line": "Hey, Shioon! Don't tell me you're still moping around! We've got basketball practice after school, you coming?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "Ah, Jinho. Maybe not today. My ankle's still a bit sore from last week.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinho",
+      "line": "Sore? You barely even ran! What's up with you, man? You used to be able to run laps around everyone without breaking a sweat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "(-He's right. The old me... I wouldn't have even felt a 'sore ankle'. But now, even a slight bump feels like a major injury. I'm so... weak.-)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "Just not feeling it today, Jinho. You guys go on ahead.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sera",
+      "line": "Shioon...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The bell rang, signaling the end of the school day. Shioon gathered his books, the weight of them feeling heavier than usual. As he walked through the crowded hallway, his mind drifted.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "(-I made a promise. A promise to myself, to Sera, to everyone. No more Murim. No more violence. I have to stick to it, no matter how much it hurts.-)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lost in thought, Shioon bumped into someone, his books scattering across the floor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Student A",
+      "line": "Hey, watch where you're going!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "Ah, I'm so sorry! My bad.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He bent down to pick them up, feeling a dull ache in his back. Once, he would have moved with fluid grace, anticipating the collision before it happened. Now, he was just... clumsy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mysterious Figure",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From the corner of his eye, Shioon caught a glimpse of a new student, leaning against a locker, observing him with an unnerving intensity. The student's gaze was sharp, calculating, like a predator sizing up its prey.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Shioon",
+      "line": "(-That look... It's familiar. Too familiar. No. I'm just imagining things. It has to be.-)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mysterious Figure",
+      "line": "So this is the 'Nine Arts Dragon's disciple' now, huh? Pathetic.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The figure turned and walked away, disappearing into the crowd, leaving Shioon with a cold dread settling in his stomach. The Murim world, it seemed, wasn't done with him yet.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "THUD",
+    "CLATTER",
+    "SWISH"
+  ],
+  "summary": "Shioon struggles to adapt to a normal high school life after losing his ki center, constantly battling his past and his new physical limitations while his friends worry about his withdrawn state. A mysterious figure observes him, hinting that the Murim world is still watching.",
+  "word_count": 759,
+  "confidence": "high"
+}

@@ -1,0 +1,152 @@
+{
+  "title_header": "Episode 10: Someone That People Need (3)",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "Uh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It's so strong! I can't let it push me back!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Crap... and my hands are slippery, and that stuff from sprayed at my arm a minute ago!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAYEON",
+      "line": "JAYEON! CALL FOR BACKUP IMMEDIATELY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "GOT IT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HNNGH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It's no good! It won't budge! What should I do?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I can't use my power... There's no other choice! This is the only thing I can do right now!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU IDIOT! YOU CAN'T BEAT IT WITH YOUR BARE HANDS! YOU HAVE TO USE A WEAPON!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DAMMIT! I HAVE TO GET MY WEAPON BACK. But it's too far away! And I can't attack with my right shoulder like this!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT ARE YOU DOING?! RUN, YOU MORON! HAVE YOU LOST YOUR MIND?! GET UP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Oh no. I can't breathe, and my body won't move. Is this how I'm going to die? Getting killed by some bug? I... I wanted to be useful. No! I refuse to die like this!",
+      "type": "thought"
+    },
+    {
+      "speaker": "INTERNAL VOICE",
+      "line": "In that case... you'll have to kill it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Me? But how? There's nothing I can--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INTERNAL VOICE",
+      "line": "I told you, remember? I'm you. I'm yours. Do whatever you want with me, don't be afraid.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You... do whatever I want?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INTERNAL VOICE",
+      "line": "That's right. What do you want right now?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "That's simple: I want to get rid of that damn bug!",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Did he just form a weapon out of his own blood?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SILENCE. I don't believe it. H-how incredible! Did he do that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "There he goes again!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "STOP IT! IT'S ALREADY DEAD!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "H-hold on! I'll send an ambulance over right now! I need some extra emergency workers! The bustle location is--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "INTERNAL VOICE",
+      "line": "You dummy. You're not even used to your power yet. If you suddenly use so much blood, you're gonna pass out.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "TREMBLE",
+    "SHAKE",
+    "GRAB",
+    "CLENCH",
+    "SWIRL",
+    "WHOOSH",
+    "GRRR",
+    "LANCE",
+    "DAMN",
+    "BA-BUM",
+    "HISS",
+    "SLUMP",
+    "BOOM",
+    "CRACK",
+    "FREEZE",
+    "STAGGER",
+    "WEE-WOO"
+  ],
+  "summary": "The protagonist struggles against a powerful bug monster, unable to use his weapon or full power. An internal voice encourages him to embrace his power, leading him to manifest a weapon from his own blood and defeat the monster, though he risks passing out from the exertion.",
+  "word_count": 360,
+  "confidence": "high"
+}

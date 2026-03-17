@@ -1,0 +1,201 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The attic of my grandmother's house always felt like a forgotten realm. Dusty, quiet, and filled with the ghosts of memories I never knew.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "After she passed, it was my job to sort through it all. A task that felt more like an archaeological dig than simple cleaning.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) Another box of old photographs... and what's this?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE. CREAK. DUST MOTES DANCE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "It was tucked away at the very bottom, beneath a pile of yellowed lace and brittle postcards. A small, leather-bound book.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) No title. Just... a worn, dark cover. And a tiny, tarnished silver clasp.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (of the clasp)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "It was locked. Of course. Why wouldn't it be?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) Most people would just put it aside. But there was something about it. A silent invitation. A whisper from the past.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RATTLE. SCRAPE. (Mina trying to open it)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "I rummaged through the box again, my fingers brushing against loose buttons and dried flowers. And then, a tiny, ornate key, hidden inside a thimble.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) It fit perfectly. Almost too perfectly.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TINY CLICK. CREAK (of the diary opening)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "The pages were thick, cream-colored, and smelled faintly of lavender and old paper. The handwriting was elegant, yet hurried in places.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) 'October 17th, 1982.' That's... over forty years ago.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Diary Entry (Unidentified)",
+      "line": "'The rain hasn't stopped for three days. It feels like the sky is weeping for what we've done. He knows. I can feel his eyes on me, even when he's not there.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) 'What we've done'? Who is 'he'? This isn't a typical diary entry about school or crushes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FLIP. FLIP. (Mina turning pages)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Diary Entry (Unidentified)",
+      "line": "'November 5th. He visited again. Said nothing, just watched. The others are starting to notice my fear. They think I'm paranoid. But I saw it. The way he looked at the lake.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) The lake? Grandmother's house is right by Lake Serenity. This is getting... unsettling.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (a branch hitting the attic window)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "I jumped, my heart hammering against my ribs. It was just the wind, I told myself. Just the wind.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) But the air in the attic suddenly felt heavy, charged with unspoken secrets.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Diary Entry (Unidentified)",
+      "line": "'December 1st. I can't sleep. The nightmares are constant. Always the water. Always the cold. And his face, just before... before she disappeared. They said it was an accident. But I know the truth. I saw him drag her to the edge.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "My breath hitched. 'She disappeared'? 'Drag her to the edge'?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) This isn't just a personal diary. This is a confession. Or a witness account. And it's talking about a disappearance. A crime.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) Who wrote this? And who is 'she'? Could this be connected to the old local legends, the ones about people vanishing near the lake decades ago?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mina",
+      "line": "I felt a chill that had nothing to do with the drafty attic. My fingers trembled as I turned to the next page.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Diary Entry (Unidentified)",
+      "line": "'December 15th. I've heard the whispers. They're looking for her. But they're looking in the wrong place. And they're looking for the wrong person. He made sure of it. He's watching me now. I can feel it. If anything happens to me, remember this: the truth is in the water. And the key is in the silence.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mina",
+      "line": "The last entry was smudged, as if the writer had been crying, or writing in a desperate hurry. Or both.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) 'If anything happens to me...' This person was in danger. Was murdered? And 'the truth is in the water'? Lake Serenity...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mina",
+      "line": "A sudden, sharp pain jolted through my hand. I looked down. The tiny, ornate key, still clutched in my palm, had somehow dug into my skin, drawing a single, crimson bead of blood.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PRICK. DRIP.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) It felt less like an accident and more like a warning. Or a binding.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mina",
+      "line": "I closed the diary slowly, the weight of its secrets pressing down on me. The attic, once just dusty and old, now felt like a tomb. And I, Mina, had just unearthed a ghost.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mina",
+      "line": "(Thought) This wasn't just my grandmother's attic anymore. It was the beginning of something much darker.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "CREAK",
+    "DUST MOTES DANCE",
+    "CLICK",
+    "RATTLE",
+    "SCRAPE",
+    "TINY CLICK",
+    "FLIP",
+    "THUMP",
+    "PRICK",
+    "DRIP"
+  ],
+  "summary": "Mina, while cleaning her grandmother's attic, discovers a locked, mysterious diary. Upon opening it with a hidden key, she reads unsettling entries hinting at a hidden crime, a disappearance, and a dangerous secret connected to the nearby Lake Serenity, realizing she's stumbled into a decades-old mystery.",
+  "word_count": 760,
+  "confidence": "high"
+}

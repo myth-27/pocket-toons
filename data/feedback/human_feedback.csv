@@ -1,0 +1,4 @@
+script_id,genre,ai_decision,human_decision,disagreement,fingerprint,failed_gates,emotion_band,addiction_band,risk_band,notes,timestamp
+test_001,fantasy,GREENLIGHT,REWORK,True,fantasy|HIGH|MEDIUM|LOW,Passed,HIGH,MEDIUM,LOW,The hook was actually extremely generic despite the numbers.,2026-02-26T17:51:07.711897
+test_001,fantasy,GREENLIGHT,REWORK,True,fantasy|HIGH|MEDIUM|LOW,Passed,HIGH,MEDIUM,LOW,The hook was actually extremely generic despite the numbers.,2026-02-26T17:51:43.736484
+test_001,fantasy,GREENLIGHT,REWORK,True,fantasy|HIGH|MEDIUM|LOW,Passed,HIGH,MEDIUM,LOW,The hook was actually extremely generic despite the numbers.,2026-02-26T17:52:43.825755

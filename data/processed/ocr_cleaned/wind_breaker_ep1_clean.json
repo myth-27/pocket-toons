@@ -1,0 +1,338 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Jay Jo. A name that barely registered on the school roster, let alone in the minds of his peers.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His world was a meticulously organized schedule of textbooks, study guides, and the relentless pursuit of perfect grades.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Another day. Another 14 hours until I can truly breathe.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLACK, RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He moved through the crowded hallways like a ghost, his eyes fixed forward, a silent barrier around him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Yo, Jay! Jay Jo!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Not again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Still ignoring me, huh? You're a tough nut to crack!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "What do you want, Minu? I have a study session.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Always studying! Come on, man, you gotta live a little!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "The cycling club is having tryouts this week. You should totally come!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "No.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Just \"no\"? Come on, I've seen you. You're fast.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "He saw me? How much?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "I don't cycle. Not seriously.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Don't cycle? Then what was that blur I saw zipping past the park yesterday? Looked like you were flying!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jay",
+      "line": "It wasn't me. You must be mistaken.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "No way! That technique, that speed... it was definitely you! You've got talent, Jay! Real talent!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "We need a rider like you. Someone who can actually keep up. Our crew, Hummingbird, we're building something special.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "I'm not interested in joining any clubs. My focus is academics.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Academics, academics... You'll burn out, dude! A little fresh air, some adrenaline... it's good for the brain!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Just think about it. We ride, we chill, we compete. It's a blast!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "I said no. Please leave me alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "Footsteps receding",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Fine, be that way. But I'm not giving up!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Why can't he just understand?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "The bike... it's just a way to get around. A means to an end.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "I can't afford distractions. Not anymore.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "The last time I got involved, the last time I let myself enjoy something... it ended badly.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "The whispers, the stares, the trouble. I swore I'd never go back to that.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "I just want to be invisible. To finish school, get into a good university, and live a quiet life.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The school day finally ended, a prison sentence commuted.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jay walked out, a heavy backpack slung over his shoulder, a familiar emptiness in his chest.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But then, a subtle shift. His eyes caught the glint of chrome.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His hands, usually stiff from holding pens, moved with a practiced ease.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Just a quick ride home. No detours. No showing off.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The wind, a gentle caress, began to whisper past his ears.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The rhythm of the pedals, a silent song only he could hear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jay",
+      "line": "This feeling...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For a fleeting moment, the weight of the world lifted. The grades, the expectations, the self-imposed isolation... they all faded.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH-WHOOSH-WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He leaned into a turn, his body a natural extension of the machine, a silent blur of motion.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Just for a moment. Just this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Told you it was you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SKID",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Minu! What are you doing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Following you, obviously! You're trying to hide that talent, aren't you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Look, I know you don't want to join the club, but...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "Just one race. One friendly race. Me against you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "If I win, you come to tryouts. If you win, I'll never bother you about cycling again. Deal?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "A race? He's serious.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "If I win, he'll leave me alone. It's the only way to get rid of him.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "But if I race, I'll have to... show them.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Minu",
+      "line": "What's it gonna be, Jay? Afraid you'll lose?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Afraid? No. I'm afraid of what happens if I *don't* lose.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "Fine. One race.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minu",
+      "line": "YES! Alright! Let's do it! To the bridge and back!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jay",
+      "line": "This is a mistake. A huge mistake.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jay",
+      "line": "But now... I have to win.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CLACK",
+    "RUSTLE",
+    "WHOOSH",
+    "Footsteps receding",
+    "THUMP-THUMP",
+    "CLICK",
+    "WHOOSH-WHOOSH-WHOOSH",
+    "SKID"
+  ],
+  "summary": "Jay Jo, an academically focused student, tries to maintain his invisible facade but is relentlessly pursued by Minu Yoon, who wants him to join the cycling club. After school, Jay's secret passion for cycling is exposed, leading Minu to challenge him to a race.",
+  "word_count": 750,
+  "confidence": "high"
+}

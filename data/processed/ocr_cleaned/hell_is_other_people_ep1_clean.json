@@ -1,0 +1,177 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The city of Seoul. A sprawling concrete jungle, indifferent to the dreams and anxieties of the millions who flock to its heart.",
+      "type": "narration"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) Finally. Seoul. No more small town, no more dead-end future. This is it. My fresh start.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TRAFFIC ROAR. SIRENS WAIL. CITY HUM.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) The internship at the IT company... it's not much, but it's a foot in the door. I just need a place to live, something cheap.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Days blurred into a frustrating search. Every apartment too expensive, every gosiwon too squalid. Until he found it. Eden Studio.",
+      "type": "narration"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) 'Eden Studio.' The name sounds... nice, at least. And the rent... it's almost too good to be true.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK. SQUEAK.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LANDLADY",
+      "line": "Oh, hello there, young man! You must be Mr. Yoon Jong-woo. Welcome, welcome! Come right in!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "Ah, yes. I'm Yoon Jong-woo. I called about the room.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LANDLADY",
+      "line": "Of course! Such a polite young man. Room 303 is perfect for you. It just opened up. Lucky you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) Her smile... it's a bit too wide. And her eyes... they're not smiling at all.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS ECHO. FAINT WHIRRING SOUND.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LANDLADY",
+      "line": "Here we are! Cozy, isn't it? Everything you need right here. Bed, desk, even a mini-fridge!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) 'Cozy' is one word for it. 'Cramped' is another. This is barely bigger than my old closet. And the smell...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DUSTY SMELL. CLOSETED AIR.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "It's... fine. The bathroom is shared, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LANDLADY",
+      "line": "Oh, yes! Very convenient. And the kitchen too! Everyone here is like family. We all look out for each other.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) 'Family.' The way she said it... it didn't sound comforting. It sounded... possessive.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAKS SHUT. LOCK CLICKS.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) Okay, Jong-woo. It's temporary. Just until you get on your feet. You can handle this. It's just a gosiwon.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT COUGH. MUTTERING FROM NEXT ROOM. DRIPPING WATER.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) What was that? Sounded like someone... talking to themselves? Or to something else?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE. SCRATCH. A LOW CHUCKLE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) This place... it's not just cheap. It's unsettling. I hope I didn't make a mistake.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FAN WHIRS LOUDLY. JONG-WOO SIGHS.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The first night in Eden Studio. The sounds of the city faded, replaced by the strange, intimate symphony of a building that felt like it was holding its breath.",
+      "type": "narration"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) Just sleep, Jong-woo. You have work tomorrow. Don't think about it. Don't think about them.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FLOORBOARD CREAK. A THUMP FROM ABOVE. A SOFT, REPETITIVE TAPPING.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YOON JONG-WOO",
+      "line": "(Thought) What the hell is that tapping? Is someone... watching me?",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "TRAFFIC ROAR",
+    "SIRENS WAIL",
+    "CITY HUM",
+    "CREAK",
+    "SQUEAK",
+    "FOOTSTEPS ECHO",
+    "FAINT WHIRRING SOUND",
+    "DUSTY SMELL",
+    "CLOSETED AIR",
+    "DOOR CREAKS SHUT",
+    "LOCK CLICKS",
+    "DISTANT COUGH",
+    "MUTTERING FROM NEXT ROOM",
+    "DRIPPING WATER",
+    "SCRAPE",
+    "SCRATCH",
+    "A LOW CHUCKLE",
+    "FAN WHIRS LOUDLY",
+    "JONG-WOO SIGHS",
+    "FLOORBOARD CREAK",
+    "A THUMP FROM ABOVE",
+    "A SOFT, REPETITIVE TAPPING"
+  ],
+  "summary": "Yoon Jong-woo arrives in Seoul for a new job, struggling to find affordable housing until he discovers the suspiciously cheap Eden Studio gosiwon. Despite the unsettling landlady and the cramped, strange atmosphere, he moves in, immediately experiencing the claustrophobia and bizarre noises of his new, creepy residence.",
+  "word_count": 653,
+  "confidence": "high"
+}

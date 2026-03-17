@@ -1,0 +1,171 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The flickering fluorescent light hummed, casting long, sickly shadows across the stack of unpaid bills. Another ramen packet, another day closer to eviction.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) This can't be my life. Not forever. There has to be a way out.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Among the junk mail and final notices, a sleek, black envelope stood out. No return address. Just a single, embossed crimson 'G'.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) What's this? Some kind of scam?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RIP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Reading aloud, voice laced with skepticism) 'GremoryLand invites you to a once-in-a-lifetime opportunity. A chance to redefine your future. Transportation provided. Reply by midnight.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) 'Redefine my future'? Sounds like a cult initiation. Or a human trafficking ring. Still... what if...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Desperation is a powerful motivator. By midnight, Ji-hoon had replied. By dawn, a luxury car idled outside his dilapidated building.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ENGINE HUM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) This is insane. I'm actually doing this. For a 'chance to redefine my future'.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The drive was long, taking them further and further from the city's familiar sprawl, into a landscape of dense, ancient forest. No cell signal. No sign of civilization.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) Okay, this is officially creepy. No other cars on the road for miles.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Suddenly, the trees parted, revealing a colossal wrought-iron gate. Beyond it, a sprawling, gothic theme park. Towers, spires, and a massive, grinning jester's face carved into the main archway. GremoryLand.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) It's... magnificent. And utterly terrifying. It feels like a dream, or a nightmare.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The gate swung open silently. The car glided through. The air grew colder, heavy with an unnatural stillness.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MR. SMILES",
+      "line": "Welcome, welcome! To GremoryLand! We've been expecting you, Ji-hoon!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A figure emerged from the shadows of the main archway. Tall, slender, wearing a pristine, old-fashioned ringmaster's suit. His face was hidden behind a permanent, unsettlingly wide smile mask, painted with rosy cheeks and vacant eyes.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "Uh, hello. You can call me Ji-hoon.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MR. SMILES",
+      "line": "Of course, of course! I am Mr. Smiles, your humble guide. And you, dear guest, are one of the chosen few! The lucky ones!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) 'Chosen few'? 'Lucky ones'? This guy is giving me serious bad vibes. His voice is too cheerful.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MR. SMILES",
+      "line": "Come, come! The others are waiting. We have so much fun planned for you! Challenges, games, and rewards beyond your wildest dreams!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He gestured towards a grand plaza where about twenty other individuals stood, looking equally bewildered and nervous. One young woman, clutching her bag, caught Ji-hoon's eye. Her face was pale, her eyes wide with undisguised terror.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) What's wrong with her? She looks like she's seen a ghost.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MR. SMILES",
+      "line": "Remember, dear guests, in GremoryLand, there are only two rules: participate wholeheartedly, and never, ever, try to leave.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The last words hung in the air, the cheerful tone suddenly dripping with a chilling finality. Ji-hoon felt a cold dread seep into his bones. He glanced back at the massive gate, now firmly closed. A small, almost imperceptible red light pulsed above it.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-HOON",
+      "line": "(Thought) Never try to leave? What have I gotten myself into?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A heavy, metallic *click* echoed from somewhere deep within the park, like a lock engaging.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "RIP",
+    "ENGINE HUM",
+    "WHOOSH",
+    "CREAK",
+    "CLICK"
+  ],
+  "summary": "Struggling student Ji-hoon receives a mysterious invitation to 'GremoryLand', a secluded theme park promising a life-changing opportunity. Despite his skepticism, desperation leads him to accept, only to find himself trapped in a grand yet unsettling place where the cheerful host, Mr. Smiles, delivers a chilling warning: 'Never, ever, try to leave.'",
+  "word_count": 725,
+  "confidence": "high"
+}

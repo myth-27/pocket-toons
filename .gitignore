@@ -43,3 +43,12 @@ venv.bak/
 
 # Logs
 *.log
+
+# Scripts and Outputs
+*.mp4
+temp_*
+~*.docx
+debug_*.txt
+eval_*.txt
+validation_*.txt
+genre_diagnostics.txt

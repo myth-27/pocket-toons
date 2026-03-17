@@ -1,0 +1,157 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The alleyway smells like stale beer and broken dreams. A familiar scent.",
+      "type": "narration"
+    },
+    {
+      "speaker": "BULLY 1",
+      "line": "Look at this loser, still crawling around. Thought you'd learn your lesson yesterday, huh, Yu?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) My head aches. My ribs ache. Everything aches. It's always like this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "BULLY 2",
+      "line": "He's just asking for another beating. What a pathetic worm.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) My vision blurs. I taste blood. Why do I always freeze? Why can't I just... fight back?",
+      "type": "thought"
+    },
+    {
+      "speaker": "BULLY 1",
+      "line": "Stay down, trash. Don't even think about getting up.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KICK! CRUNCH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) The pain isn't the worst part. It's the helplessness. The absolute, soul-crushing helplessness.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "They leave eventually, their laughter echoing as Ijin lies there, a crumpled heap of bruised flesh and shattered pride.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) Another day, another reminder. This is my life. A punching bag. A background character in everyone else's story.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later, limping through the bustling streets, Ijin tries to disappear into the crowd. But the stares, the whispers... they feel like physical blows.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) If I just had a little strength. Just enough to not be this... weak. Is that too much to ask?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes drift to a faded poster plastered on a utility pole. It depicts two figures locked in a grappling hold, sweat flying.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The text beneath is simple, stark: \"Jitae's Gym. Fight Class 3. Learn to fight. Learn to live.\"",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) Fight Class 3? What even is that? Another place for me to get beaten up?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He glances towards the source of the sound – a grimy building with a heavy, metal door. Through a small, barred window, he catches a glimpse of movement. Shadows grappling, hitting pads.",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT 1 (off-screen)",
+      "line": "Damn, that last spar with Jitae-hyung nearly killed me. Fight Class 3 is no joke.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT 2 (off-screen)",
+      "line": "You think? He barely broke a sweat. But hey, at least we're not like those guys who quit after the first week.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) Quit after the first week... I probably wouldn't even last a day. But...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He looks down at his scraped knuckles, then back at the poster. The words 'Learn to fight. Learn to live.' seem to burn into his mind.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) What if? What if there's a chance? A tiny, impossible chance to change this? To not be this... pathetic?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His hand, trembling slightly, reaches out towards the heavy metal door. He hesitates, fear gripping him. But beneath the fear, a tiny ember of something else sparks.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(Thought) Even if it just means getting beaten up in a different place... maybe it's better than getting beaten up for nothing.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLENCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He takes a deep, ragged breath. The decision, though terrifying, feels like the first real choice he's made in a long time.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "THWACK",
+    "KICK",
+    "CRUNCH",
+    "GROAN",
+    "CLANG",
+    "THUD",
+    "CLENCH"
+  ],
+  "summary": "Ijin Yu, a perpetually bullied and weak student, endures another brutal beating. Desperate for a change, he stumbles upon a flyer for 'Jitae's Gym: Fight Class 3' and, despite his fear, considers taking a terrifying step towards learning to fight.",
+  "word_count": 765,
+  "confidence": "high"
+}

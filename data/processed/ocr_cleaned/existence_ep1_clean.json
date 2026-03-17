@@ -1,0 +1,136 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Death. It's a sensation I've grown intimately familiar with. A fleeting darkness, a brief respite from the endless cycle.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But it's never truly an end. Merely a transition. A reset. And then, the awakening.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "Ugh...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "The first sensation is always the most telling. A dull ache, a strange pressure... and the overwhelming scent of damp earth and something acrid.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "My eyes flutter open. Or rather, my new eyes. They're not human. A murky green hue, with vertical pupils that struggle to adjust to the dim light.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "I try to move. My limbs feel heavy, uncoordinated. This body... it's small. And green. Rough, leathery skin. Short, tusklike protrusions from my lower jaw.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "An orcling. A newborn, by the feel of it. Pathetic. But then again, I've started as far worse.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "I push myself up, my new muscles protesting. The cave floor is cold, rocky. I'm in some kind of crude nest, surrounded by other, equally small and grunting creatures.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRUNT GRUNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "They're my siblings, I presume. All equally helpless. Instinct tells me to stay, to wait for a parent. But instinct has never been my master.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "My memories... they're all here. The countless lives. The dragon's scales, the demon's fury, the human's cunning, the elf's grace. A tapestry of existence woven through millennia.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "And with each life, a fragment of power, a piece of knowledge, is retained. It's a burden, yes. But also my greatest weapon.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "This body is weak. Fragile. But the essence within it? That remains indomitable.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SNIFF SNIFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "A foul odor, stronger than the rest, wafts from deeper within the cave. A larger presence. The 'mother' or 'father', perhaps. Or simply another, stronger orc.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "Regardless, this place is temporary. Survival is paramount. Growth is inevitable.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "I need to move. To find food, to find strength. To begin the climb, once more.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHUFFLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "My small, clawed hands grip the cold rock. My new legs, still wobbly, propel me forward. Away from the nest. Towards the unknown.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "The world is vast, dangerous, and utterly indifferent. Just as it always has been.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP DRIP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ryu Han",
+      "line": "And I, Ryu Han, am its most persistent visitor.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GROAN",
+    "SCRAPE",
+    "GRUNT GRUNT",
+    "SNIFF SNIFF",
+    "SHUFFLE",
+    "DRIP DRIP"
+  ],
+  "summary": "Ryu Han awakens in a new, weak body as an orcling, recalling his countless past lives and the burden of his existence. He quickly assesses his primitive surroundings and resolves to abandon his birth-nest to begin his inevitable journey of survival and growth.",
+  "word_count": 605,
+  "confidence": "high"
+}

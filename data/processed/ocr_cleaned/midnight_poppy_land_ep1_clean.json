@@ -1,0 +1,153 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The first hint of dawn barely kissed the sleepy town of Poppy Valley. But inside The Daily Crumb bakery, the day had long begun.",
+      "type": "narration"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Another morning. The smell of yeast and sugar, warm and comforting. It’s a good smell. My smell. My life. Simple, predictable, safe. Just how I like it. No drama, no big surprises. Just flour, eggs, and the occasional burnt pastry.",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHIRR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CLATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SOFT JINGLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MRS. CHOI",
+      "line": "Poppy, dear! Up with the sun, as always. Did you remember to proof the sourdough overnight?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Yes, Mrs. Choi! It's rising beautifully. Almost ready for the oven.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MRS. CHOI",
+      "line": "Good girl. You're a lifesaver, you know that? I swear, without you, this place would crumble faster than a stale croissant.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Oh, you exaggerate! I just like being useful. And I love the smell of fresh bread.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Mrs. Choi always says that. It makes me feel warm. This bakery... it's been my whole world since I moved here. A quiet haven. Sometimes I wonder if I should want more, but then I look at the perfectly golden loaves, and I think, 'This is enough.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "DING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Speaking of, the first batch of croissants is done!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later that morning, with the bakery bustling and the aroma of coffee mingling with cinnamon, Poppy took a moment to take out the overflowing trash bins.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SQUEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "RUMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Almost forgot these. The morning rush always leaves a mountain of packaging. At least it's a nice day. Not too hot for August.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As she pushed the last bin towards the curb, a delivery truck, emblazoned with a generic 'Logistics Co.' logo, sped a little too close, swerving to avoid a parked car. There was a sudden jolt, and something tumbled from its open back door, landing with a muffled thud near Poppy’s feet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SCREECH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "Whoa! Hey!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But the truck didn't stop, continuing down the street, oblivious. Poppy stared at the object. It was a rectangular package, wrapped in plain brown paper, surprisingly heavy. No address, no sender. Just... there.",
+      "type": "narration"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "What on earth? Did they drop this? It doesn't look like anything for the bakery. No labels... how am I supposed to return it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Curiosity, a rare spark in her usually placid routine, tugged at her. She knelt, picking up the package. It felt cold, almost metallic, beneath the paper. And then she noticed it – a small tear in the wrapping, revealing a glimpse of what lay within.",
+      "type": "narration"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "It's... not bread. Or flour. Or anything remotely edible.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Through the tear, she saw a sleek, dark object. It looked like a phone, but too smooth, too minimalist, too... expensive for anyone she knew in Poppy Valley. Next to it, a small, black card, almost invisible against the dark interior. On it, a single, stark white symbol – a stylized, geometric poppy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "POPPY",
+      "line": "A poppy? Like... Midnight Poppy Land? No, that's just a silly game I play. This is real. This feels... wrong. Dangerous, even. My hands are shaking. What is this? And why did it fall at *my* feet?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The warmth of the bakery suddenly felt distant. The comforting scent of bread was replaced by a faint, metallic tang. Poppy clutched the package, her heart beginning to pound a rhythm entirely new to her quiet life. The simple, predictable world she knew had just received a very unexpected, and very unsettling, delivery.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WHIRR",
+    "CLATTER",
+    "SOFT JINGLE",
+    "DING!",
+    "SQUEAK",
+    "RUMBLE",
+    "SCREECH",
+    "THUD"
+  ],
+  "summary": "Poppy, a kind and naive baker, starts her usual day in the quiet town of Poppy Valley. Her routine is abruptly interrupted when a mysterious, unlabeled package falls from a delivery truck near her, revealing an unsettling object and a cryptic symbol that hints at a world far removed from her own.",
+  "word_count": 788,
+  "confidence": "high"
+}

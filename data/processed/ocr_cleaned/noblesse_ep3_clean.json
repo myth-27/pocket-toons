@@ -1,0 +1,104 @@
+{
+  "title_header": "Noblesse, Episode: 3",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "I am the master of my fate; I am the captain of my soul. William Ernest Henley.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Shinwoo Han, you're late again!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "D-Don't laugh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Why is Yuna here!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "5 laps for being late!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What? 5 laps???",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Teacher, that's too many! It's too early for that! That's going to be exhausting...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What's with that look? If Shinwoo runs 1 lap, others can run 3 laps.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "I guess I'll do it. I've got stamina.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Thank you, Shinwoo!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I am the master of my fate; I am the captain of my soul. William Ernest Henley.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I must be aging. My body's not what it used to be. Who made this field so large?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I'm dying!",
+      "type": "thought"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Class is about to start, so get back to your classrooms if you're done!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Did, did you just get here???",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "STOMP",
+    "Gulp",
+    "Heh heh",
+    "Humph",
+    "GLANCE",
+    "SMILE",
+    "Ow!",
+    "What?!",
+    "TURN",
+    "Chuckles",
+    "GAZE",
+    "Huff",
+    "Hum",
+    "HM?",
+    "BEAM",
+    "Heh heh heh",
+    "PANT",
+    "WOBBLE",
+    "Huff puff"
+  ],
+  "summary": "Shinwoo Han is late for class and is assigned 5 laps as punishment. Despite complaints from other students, Shinwoo accepts the challenge, showing his resolve and stamina, while an older character (possibly the teacher) struggles with the physical exertion.",
+  "word_count": 184,
+  "confidence": "high"
+}

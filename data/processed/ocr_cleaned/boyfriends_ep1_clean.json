@@ -1,0 +1,202 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The soft morning light filters through the blinds, painting stripes across the messy, beloved apartment.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) Another morning. Sometimes, even after all this time, it feels a little… overwhelming. Four people. Four very different lives, tangled up in one messy, beautiful knot.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Goth blinks, adjusting to the light. He feels a warm weight against his side.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jock",
+      "line": "(Muttering, half-asleep) Mmm, Gothy… five more minutes…",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) That’s Jock. Always radiating warmth, even in his sleep. He’s like a human-sized golden retriever.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Across the room, perched on the edge of the sofa, is Nerd, already engrossed in a thick textbook, a half-empty mug of tea beside him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) And there’s Nerd. Probably been up for hours, dissecting some obscure theory before the sun even thought about rising. How does he do it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Nerd",
+      "line": "Ah, good morning, Goth. Did you sleep well? I was just contemplating the implications of the latest findings in theoretical astrophysics.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "Morning, Nerd. Sounds… intense.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jock",
+      "line": "(Stretching, yawning loudly) Morning, everyone! *YAWN* Time to conquer the day!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STRETCH! YAWN!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jock springs up, full of energy, already doing a few quick stretches.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Prep",
+      "line": "(From the kitchen) Jock, don't forget to wipe down the counter after your protein shake. And Nerd, please try not to spill coffee on your textbook again. That was a nightmare to clean.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) And that, of course, is Prep. The anchor. The one who keeps us all from spiraling into utter chaos. He’s the reason we have matching socks and a semblance of a schedule.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK CLATTER (of dishes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jock",
+      "line": "Got it, Prep! Hey, Gothy, wanna go for a run later? Or maybe hit the gym? Gotta keep those muscles toned!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "A run? Jock, it’s barely 8 AM. My preferred morning activity involves a dark room and minimal human interaction.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Nerd",
+      "line": "Statistically, early morning exercise can significantly improve cognitive function, Jock. However, Goth's preference for a calm environment is also valid for mental well-being.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Prep",
+      "line": "(Entering the living room, holding a tray with mugs) Breakfast is ready. Scrambled eggs and toast. Jock, your protein shake is by your plate. Nerd, I made you green tea.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUM (of the coffee maker)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jock",
+      "line": "You're the best, Prep! *SMOOCH*",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jock plants a quick kiss on Prep’s cheek, making Prep roll his eyes good-naturedly.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Prep",
+      "line": "Don't get grease on my shirt. Goth, your coffee is black, as usual.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "Thanks, Prep. You always know.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) He always knows. They all do, in their own ways. Jock knows how to pull me out of my head with a spontaneous hug. Nerd knows when I need quiet companionship. And Prep… Prep just knows how to make everything work.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jock",
+      "line": "So, what's on the agenda for today, lovebirds? Movie marathon? Board games? Or maybe we try that new escape room?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Nerd",
+      "line": "I have a few chapters to review for my thesis, but I could allocate an hour for a recreational activity.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Prep",
+      "line": "I have to run errands and organize the weekly budget. But we could do something together this evening. Maybe order takeout?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) See? It’s never simple. Four different schedules, four different preferences. It could be a disaster.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jock",
+      "line": "Takeout sounds great! And then a movie? We could all cuddle on the couch!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Nerd",
+      "line": "That sounds agreeable. Perhaps a documentary on the cosmos?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Prep",
+      "line": "As long as it's not another one of Jock's action movies. My ears can only take so much simulated gunfire.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jock",
+      "line": "Hey! Action movies are fun! But okay, okay, cosmos it is. As long as Goth gets to pick the food!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(A small smile) Deal. I'm thinking… spicy noodles.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Goth",
+      "line": "(Thought) And just like that, it works. It always does. It’s chaotic, a little overwhelming, and sometimes I wonder how we manage. But then I look at them, these three incredible, infuriating, loving men… and I wouldn't have it any other way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHUCKLE (from Prep)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GIGGLE (from Jock)",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "STRETCH",
+    "YAWN",
+    "CLINK CLATTER",
+    "HUM",
+    "SMOOCH",
+    "CHUCKLE",
+    "GIGGLE"
+  ],
+  "summary": "Goth wakes up to a typical morning with his three boyfriends, Jock, Nerd, and Prep, observing their contrasting personalities and routines as they navigate breakfast and plans for the day, ultimately finding a sweet compromise.",
+  "word_count": 725,
+  "confidence": "high"
+}

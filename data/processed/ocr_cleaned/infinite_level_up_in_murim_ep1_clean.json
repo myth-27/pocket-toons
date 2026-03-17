@@ -1,0 +1,220 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The biting wind tore through my tattered robes, mirroring the gaping wound in my chest.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "Is this... the end? After all these years... still just a third-rate martial artist. A disposable pawn.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My vision blurred, the faces of my enemies, the Blood Sect assassins, fading into darkness. I had failed. Failed to protect anyone. Failed to become strong.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "If only... if only I had another chance...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "(Wakes up suddenly, disoriented) What...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "This isn't... the alleyway. This is my old room. The one in the sect's outer disciples' dormitory.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "My body... it feels so light. So... young.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He looked down at his hands. Uncalloused, unscarred. The hands of a fifteen-year-old boy.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "This can't be... Am I dreaming? A vivid nightmare?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHIMMER!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Welcome, Player. The 'Infinite Level Up System' has been activated.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "(Eyes widen) A system window? Just like the legends... No, this isn't a dream. This is real. I've regressed! I've returned to the past!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The year... it's 20 years before the Blood Sect's rise. Before the war. Before my death.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "This is my chance. My second life. I won't waste it again. I won't be a weakling, a pawn to be discarded.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The memories... they're all here. Every technique I saw, every secret I overheard, every mistake I made.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The 'Infinite Level Up System'... what does it do?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Player 'Jinmu' has received a 'Beginner's Package'. Do you wish to open it?]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "(A slight smirk plays on his lips) A beginner's package? This is truly like a game. Good. I'll play this game to win.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "Open.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Beginner's Package contents: 1x 'Basic Internal Energy Cultivation Manual (Rank F)', 5x 'Minor Health Potions', 100x 'Copper Coins'.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "Rank F? Pathetic. But a start. I remember this manual. It's what every outer disciple gets. Most never master it beyond the first few stages.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "But I'm not 'most'. I have two decades of experience, observations, and knowledge of advanced techniques that haven't even been invented yet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The 'Basic Internal Energy Cultivation Manual'... The key isn't just to cultivate it, but to understand its flaws, its potential. I know a way to accelerate it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jinmu's eyes, once dull and resigned, now burned with a fierce, calculating light.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "First, I need to get stronger. Much stronger. The sect's outer disciple training is a joke. I need to find a secluded spot.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The Hidden Bamboo Grove... it's rarely patrolled. Perfect.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (door opening)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "(Slips out of the dormitory, moving stealthily) I remember the path. Even after all these years. My old self would have been afraid of getting caught breaking curfew. Not anymore.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He moved with a newfound purpose, his steps light, his mind racing with plans.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The first thing is to cultivate the 'Basic Internal Energy'. But I won't just follow the instructions. I'll integrate the breathing techniques I learned from the 'Azure Dragon's Scale' manual, which won't be discovered for another five years.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "It's risky. Combining different cultivation methods can lead to Qi Deviation. But the reward... the acceleration will be immense.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He reached the Hidden Bamboo Grove, the moonlight filtering through the dense leaves.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "(Sits in a meditative pose) This is where it begins. My second chance. My path to becoming the strongest.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (gentle energy flow)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As he began to circulate his nascent internal energy, a subtle warmth spread through his meridians. It was familiar, yet different. This time, it felt... right.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Basic Internal Energy Cultivation (Rank F) has begun.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Progress: 1%]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "Good. Now, let's see how fast I can break through the first stage. The old me took months. This time... it will be days. Hours, even.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinmu",
+      "line": "The future of Murim depends on it. My future depends on it.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GASP",
+    "SHIMMER",
+    "CHING",
+    "CREAK",
+    "WHOOSH"
+  ],
+  "summary": "Jinmu, a weak martial artist, dies a pathetic death only to regress 20 years into the past, finding himself with a mysterious 'Infinite Level Up System' and a fierce determination to change his fate and become the strongest in Murim.",
+  "word_count": 687,
+  "confidence": "high"
+}

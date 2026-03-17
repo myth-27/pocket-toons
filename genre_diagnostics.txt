@@ -1,37 +1,12 @@
-=== DIAGNOSTIC INSIGHTS ===
+=== STRICT DECISION MATRIX INSIGHTS ===
+Total Evaluated: 5
 
---- Top 5 by Absolute Quality ---
-Omniscient Reader | Qual: 100.0 | Prio: 32.67 | GREENLIGHT / MONITOR
-Solo Leveling | Qual: 84.24 | Prio: 49.0 | GREENLIGHT / MONITOR
-God of High School | Qual: 82.1 | Prio: 79.54 | GREENLIGHT
-Sweet Home | Qual: 80.74 | Prio: 100.0 | GREENLIGHT
-Lore Olympus | Qual: 70.44 | Prio: 56.28 | GREENLIGHT
+DEFER: 3
+REWORK: 2
 
---- Top 5 by Relative Priority ---
-Sweet Home | Prio: 100.0 | Qual: 80.74 | GREENLIGHT
-God of High School | Prio: 79.54 | Qual: 82.1 | GREENLIGHT
-Lore Olympus | Prio: 56.28 | Qual: 70.44 | GREENLIGHT
-True Beauty | Prio: 49.0 | Qual: 54.3 | DO NOT GREENLIGHT
-Lookism | Prio: 49.0 | Qual: 38.64 | DO NOT GREENLIGHT
+--- Titles Approved for GREENLIGHT ---
+None. The threshold is extremely strict.
 
---- Strong Titles Deprioritized (Qual >= 70, Prio < 30) ---
-None.
-
---- Top Titles per Genre ---
-
-Genre: ACTION
-#1 Solo Leveling (Prio: 49.0): High absolute quality, moderate priority, top in action.
-
-Genre: DRAMA
-#1 Lookism (Prio: 49.0): Low quality, moderate priority, top in drama.
-
-Genre: FANTASY
-#1 Omniscient Reader (Prio: 32.67): High absolute quality, low priority, top in fantasy.
-#2 Tower of God (Prio: 0.0): Low quality, low priority, peer competition in fantasy.
-
-Genre: ROMANCE
-#1 True Beauty (Prio: 49.0): Moderate quality, moderate priority, top in romance.
-
-Genre: UNKNOWN
-#1 Sweet Home (Prio: 100.0): High absolute quality, high relative priority, top in unknown.
-#2 God of High School (Prio: 79.54): High absolute quality, high relative priority, peer competition in unknown.
+--- Gate Failures ---
+Total Gate Failures: 1
+True Beauty -> Failed: Hook Gate (Weak tension)

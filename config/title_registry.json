@@ -1,0 +1,94 @@
+{
+  "titles": [
+    {
+      "uid": "WT001",
+      "content_id": "tower_of_god",
+      "title": "Tower of God",
+      "title_no": 95,
+      "genre": "fantasy",
+      "slug": "tower-of-god",
+      "category": "fantasy"
+    },
+    {
+      "uid": "WT002",
+      "content_id": "solo_leveling",
+      "title": "Solo Leveling",
+      "title_no": 3162,
+      "genre": "action",
+      "slug": "solo-leveling",
+      "category": "action"
+    },
+    {
+      "uid": "WT003",
+      "content_id": "omniscient_reader",
+      "title": "Omniscient Reader",
+      "title_no": 2154,
+      "genre": "fantasy",
+      "slug": "omniscient-reader",
+      "category": "fantasy"
+    },
+    {
+      "uid": "WT004",
+      "content_id": "lookism",
+      "title": "Lookism",
+      "title_no": 1049,
+      "genre": "drama",
+      "slug": "lookism",
+      "category": "drama"
+    },
+    {
+      "uid": "WT005",
+      "content_id": "true_beauty",
+      "title": "True Beauty",
+      "title_no": 1436,
+      "genre": "romance",
+      "slug": "true-beauty",
+      "category": "romance"
+    },
+    {
+      "uid": "WT006",
+      "content_id": "god_of_high_school",
+      "title": "The God of High School",
+      "title_no": 66,
+      "genre": "action",
+      "slug": "the-god-of-high-school",
+      "category": "action"
+    },
+    {
+      "uid": "WT007",
+      "content_id": "noblesse",
+      "title": "Noblesse",
+      "title_no": 87,
+      "genre": "action",
+      "slug": "noblesse",
+      "category": "action"
+    },
+    {
+      "uid": "WT008",
+      "content_id": "sweet_home",
+      "title": "Sweet Home",
+      "title_no": 1285,
+      "genre": "horror",
+      "slug": "sweet-home",
+      "category": "thriller"
+    },
+    {
+      "uid": "WT009",
+      "content_id": "unordinary",
+      "title": "unOrdinary",
+      "title_no": 679,
+      "genre": "action",
+      "slug": "unordinary",
+      "category": "action"
+    },
+    {
+      "uid": "WT010",
+      "content_id": "lore_olympus",
+      "title": "Lore Olympus",
+      "title_no": 1320,
+      "genre": "romance",
+      "slug": "lore-olympus",
+      "category": "romance"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title_header": "Tower of God 1 - Talse Uzer story by SIU. BEGINS NOW.",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "What do you desire?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Money and wealth?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Honor and pride?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Authority and power?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Revenge?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Or something that transcends all these?",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Whatever you desire, is here.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [],
+  "summary": "A narrator asks the reader about their deepest desires, including wealth, honor, power, or revenge, and states that whatever they seek can be found here.",
+  "word_count": 29,
+  "confidence": "high"
+}

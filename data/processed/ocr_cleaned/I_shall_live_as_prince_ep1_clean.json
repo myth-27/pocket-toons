@@ -1,0 +1,236 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world I knew was one of steel and glass, of information at my fingertips, of endless possibilities.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then, a blinding light, a crushing pain, and I woke up here. In a body that felt like it was constantly on the verge of collapse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) Another day, another struggle just to breathe. This 'Prince Ciel' really drew the short straw, didn't he?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "COUGH, COUGH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) My lungs feel like sandpaper. And this 'royal' bedchamber... it's practically a glorified broom closet compared to the main palace.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) The 7th Prince. Forgotten, frail, and utterly expendable. A perfect target for anyone looking to thin out the royal line.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE of silk sheets",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) I remember my old life. A successful entrepreneur, healthy, active. Now I can barely lift my head without feeling dizzy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK of a door opening",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Your Highness? Are you awake?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) Lian. My only attendant. Loyal, but clearly resigned to my inevitable demise.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Yes, Lian. I am.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Good morning, Your Highness. I've brought your morning herbal tea.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK of ceramic on wood",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) 'Herbal tea.' More like a concoction designed to keep me weak, or at least, not strong enough to cause trouble. I wonder what's actually in this stuff.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Thank you, Lian.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "The Head Physician sent word. He will be unable to visit today. He sends his apologies.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) Of course. The Head Physician. Too busy with the 'important' princes and princesses. My health is a low priority, if it's a priority at all.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) This isn't just neglect. This is calculated. Someone wants Prince Ciel out of the picture. And if I don't do something, 'I' will be out of the picture too.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT CHIMES from the main palace",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) My modern mind, my knowledge... it's all I have left. I can't just lie here and wait to die. Not again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) First, health. The body is a machine. It needs proper fuel, proper exercise, and proper rest. Not whatever this 'herbal tea' is supposed to be.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Lian.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Yes, Your Highness?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "What are the common ingredients for these 'herbal teas' I've been given?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Oh, mostly common herbs, Your Highness. Ginseng, licorice root, ginger... sometimes a bit of wolfberry.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) Ginseng is good, but too much can be overstimulating for a weak heart. Licorice root can affect blood pressure. And the dosage... it's all about dosage and combination.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "And the food? What is typically served to me?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Light broths, Your Highness. Porridge. Soft vegetables. The kitchen staff are instructed to prepare meals suitable for your delicate constitution.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) 'Delicate constitution.' More like 'starved and malnourished.' This body needs protein, vitamins, minerals. Not just bland mush.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Lian, from tomorrow, I want to try something different.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Different, Your Highness?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Yes. I want to know what fresh fruits and vegetables are available in the market. And I want a small portion of lean meat with my meals. Something easily digestible, like chicken or fish.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "But, Your Highness, the Head Physician's orders...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "The Head Physician isn't here, is he? And I am the Prince. My orders take precedence.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) A small step. But a crucial one. If I can't even control what goes into my own body, how can I control my destiny?",
+      "type": "thought"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "As you wish, Your Highness. I will inform the kitchen.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) Good. Now, what about this room? It's dusty, poorly ventilated. A perfect breeding ground for illness. Time for some basic hygiene and environmental control.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Lian, after you've spoken to the kitchen, I need you to gather some cleaning supplies. And open these windows wide.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LIAN",
+      "line": "Open... the windows, Your Highness? But it's still quite cool outside.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "Fresh air is essential for health. And a thorough cleaning. Every corner. Under the bed, behind the curtains. No dust left untouched.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) They think I'm weak. They think I'm dying. Let them think that. While they underestimate me, I'll be rebuilding myself, piece by piece.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PRINCE CIEL",
+      "line": "(Thought) This isn't just about survival anymore. It's about living. And if I'm going to live, I'm going to live as a Prince who can stand on his own two feet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SOUND of a window slowly creaking open, letting in a faint breeze",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "COUGH",
+    "RUSTLE",
+    "CREAK",
+    "CLINK",
+    "CHIMES",
+    "SOUND"
+  ],
+  "summary": "A modern man reincarnated as the sickly, forgotten Prince Ciel resolves to use his contemporary knowledge to improve his health and circumstances, starting with his diet and living environment, much to the surprise of his sole attendant.",
+  "word_count": 760,
+  "confidence": "high"
+}

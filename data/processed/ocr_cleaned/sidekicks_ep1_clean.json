@@ -1,0 +1,176 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In a city perpetually under the shadow of towering heroes and terrifying villains, not all capes are created equal.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Another morning. Another patrol. Another day of being... Starlight.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "My official title? 'Captain Stellar's Junior Associate'. My actual job? Human shield, glorified errand boy, and occasionally, a very shiny distraction.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Don't get me wrong, Captain Stellar is amazing. He's strong, kind, and he genuinely cares about the city. He just... doesn't always see me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP BEEP BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Captain Stellar (via comms)",
+      "line": "Starlight, alert! We have a Code Red downtown. The 'Rubble Rouser' is back. Looks like he's targeting the new financial district.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Understood, Captain! On my way!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Code Red... Rubble Rouser... This is my chance! I've studied his patterns, his weaknesses. I can actually contribute this time!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jinwoo, as Starlight, soared through the city, his custom-built flight suit barely keeping pace with his surging adrenaline.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRASH! RUMBLE! SHATTER!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rubble Rouser",
+      "line": "HAHAHA! This city will crumble! Just like all your hopes and dreams, heroes!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Rubble Rouser! Your reign of terror ends now!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "He's distracted! This is it! A focused energy blast to his core generator, just like I practiced!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ZAP! WHOOSH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rubble Rouser",
+      "line": "Gah! A pesky fly! Get out of my way, Starlight!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Urgh! He's stronger than I anticipated... But I can still create an opening!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BOOM! CRACKLE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Captain Stellar",
+      "line": "Stand back, Starlight! I've got this!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Captain! No, wait, I almost had him!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "In a flash of blinding light, Captain Stellar descended, his iconic 'Stellar Nova' attack engulfing the Rubble Rouser in a dazzling, incapacitating energy field.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KABOOM! FIZZLE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rubble Rouser",
+      "line": "No! Not again! Cur... curse you, Captain Stellar!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Captain Stellar",
+      "line": "Another day, another save! Good work keeping him occupied, Starlight. You're a real lifesaver!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Occupied... Right.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Reporter (on TV)",
+      "line": "Captain Stellar once again proves why he's the city's greatest protector, single-handedly neutralizing the notorious Rubble Rouser in a spectacular display of power!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Single-handedly... I was there. I took a hit. I even got a blast in.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "But no one ever sees the sidekick. No one ever remembers Starlight.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "Is this all I'll ever be? A warm-up act? A footnote in someone else's legend?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinwoo (Starlight)",
+      "line": "No. I won't let it be. I have my own light to shine. One day, they'll see it. One day, they'll see me.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "BEEP BEEP BEEP",
+    "WHOOSH",
+    "CRASH",
+    "RUMBLE",
+    "SHATTER",
+    "ZAP",
+    "THUD",
+    "BOOM",
+    "CRACKLE",
+    "KABOOM",
+    "FIZZLE"
+  ],
+  "summary": "Jinwoo, the aspiring sidekick Starlight, struggles for recognition while assisting the renowned Captain Stellar. During a villain attack by the Rubble Rouser, Jinwoo attempts to prove his worth, only for Captain Stellar to swoop in and take all the credit, leaving Jinwoo to ponder his overshadowed existence and his desire for his own spotlight.",
+  "word_count": 705,
+  "confidence": "high"
+}

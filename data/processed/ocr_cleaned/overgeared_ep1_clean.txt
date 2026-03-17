@@ -1,0 +1,58 @@
+=== Overgeared Episode 1 ===
+
+  (Year 20XX. The virtual reality game 'Satisfy' had taken the world by storm. With a 99% synchronization rate and an advanced AI system, it was more than just a game; it was a second reality. For some, it was a path to glory, fame, and fortune. For others...)
+  Grid: Ugh... another Horned Rabbit? This is all I can manage?
+  Grid: Come on, just die already!
+  [SWING! THWACK!]
+  [CRIT!]
+  [DING!]
+  ([You have defeated Horned Rabbit. Experience +120])
+  Grid (thinking): Only 120 experience? Are you kidding me?! I'm Level 17, for crying out loud! Everyone else is already past 200!
+  Grid (thinking): This is my only hope... my only chance to pay off my debt. But I'm just so... unlucky. Even in a virtual world, I'm a loser.
+  Player 1 (Whisper): Hey, isn't that Grid? The guy who got scammed out of his unique item?
+  Player 2 (Whisper): Shh! Yeah, the one with the legendary bad luck. He's still Level 17? Pathetic.
+  Grid (thinking): I heard that! Damn it, why do I always have to be the joke?
+  Grid (thinking): I need money. Badly. My landlord is threatening to kick me out. I need something... anything.
+  [MENU OPEN]
+  ([Quest Log])
+  ([Quest: Find the Lost Pickaxe of Khan]
+Difficulty: E
+Reward: 50 Silver, 300 Experience
+Description: The legendary blacksmith, Khan, has lost his favorite pickaxe in the Northern Mine. Retrieve it for him.)
+  Grid (thinking): 50 silver? That's barely anything! But... it's better than nothing. And the Northern Mine is usually empty. Maybe I can avoid monsters.
+  [ACCEPT QUEST]
+  (Grid made his way to the Northern Mine, a place notorious for its low-level monsters and even lower-level rewards. He hoped for an easy retrieve, but luck, as always, had other plans.)
+  [DRIP... DRIP...]
+  Grid: It's so dark in here. And... what's that smell?
+  [GROWL!]
+  Grid: A Cave Goblin?! Damn it! These guys are tougher than Horned Rabbits!
+  [CLANG! SWISH! GRUNT!]
+  Grid: Almost... got it! Just... one... more... hit!
+  [THUD! DING!]
+  ([You have defeated Cave Goblin. Experience +250])
+  Grid (thinking): Huff... huff... that was too close. My health is almost gone. I need to find that pickaxe and get out of here.
+  [FOOTSTEPS ECHO]
+  Grid: Wait, what's this? A hidden path?
+  [CRUMBLE! WHOOSH! THUD!]
+  Grid: Agh! I fell! Where am I now?
+  Grid: It's a small cavern... and something's glowing.
+  [SHIMMER]
+  Grid: An old book? What's a book doing in a place like this?
+  ([You have discovered 'Pagma's Rare Book'])
+  Grid (thinking): Pagma? Who's Pagma? Is this... a quest item?
+  [PAGE TURN]
+  ([Do you wish to learn the hidden legendary class 'Pagma's Descendant'?]
+[Warning: Once learned, this class cannot be changed.])
+  Grid (thinking): A legendary class?! Impossible! This has to be a bug! Or a trap!
+  Grid (thinking): But... a legendary class... This could change everything. My debt... my life...
+  Grid: Screw it! What do I have to lose? I'm already at rock bottom!
+  [CLICK! SHINE! WHOOSH!]
+  ([You have learned the legendary class 'Pagma's Descendant'!] 
+[All stats have increased significantly!]
+[You have acquired the passive skill 'Mastery of All Production'!] 
+[You have acquired the passive skill 'Pagma's Swordsmanship'!] 
+[You have acquired the passive skill 'Item Creation'!] 
+[You have acquired the passive skill 'Blacksmith's Eyes'!] 
+[Title 'First Legendary Class Holder' has been acquired!])
+  Grid (thinking): What... what just happened?! Legendary... class? All these skills?! This isn't a dream, is it?!
+  Grid: HAHAHAHAHA! I'M RICH! I'M FINALLY RICH!

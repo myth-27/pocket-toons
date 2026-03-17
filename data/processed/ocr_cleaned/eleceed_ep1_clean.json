@@ -1,0 +1,210 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In a world where extraordinary abilities are hidden from the public eye, there are those who live ordinary lives, burdened by extraordinary secrets.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) Ugh, I'm late again! If I don't hurry, I'll miss the first period!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! WHOOSH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) Just a little faster... Almost there...!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SQUEAK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SKID!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) A kitten stuck in a tree! No, I can't just leave it!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWIP! (Jiwoo leaps up)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Gotcha! There, there, little one. You're safe now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PURRR...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) I really need to control this. One day, someone's going to see me. My super speed... it's a blessing and a curse.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Jiwoo Seo. A high school student with an extraordinary secret. He just wants to live a normal life, but his powers make 'normal' a distant dream.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) Another stray... This alley is full of them. Wait... what's that?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIMPER...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Oh my god! A cat! It's... it's badly hurt!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lying amidst the trash was a large, black cat. Its fur was matted with blood, and its breathing was shallow. But what truly caught Jiwoo's eye were its piercing, golden eyes.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) It looks like it's been in a terrible fight. I can't just leave it here to die!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GENTLE LIFT...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Don't worry, little guy. I'll take care of you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAYDEN (CAT FORM)",
+      "line": "(Thought) What is this human doing? His touch... it's so gentle. And annoyingly warm. Damn it, I'm still too weak to move.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MEOW! (A weak, irritated sound)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "You're a feisty one, aren't you? Even when you're this hurt. You'll be okay.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAYDEN (CAT FORM)",
+      "line": "(Thought) Feisty? I am Kayden, the strongest Awakened! This pathetic form... this pathetic human! If I had my powers, I'd incinerate him!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAK...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Alright, we're home. Let's get you cleaned up.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAYDEN (CAT FORM)",
+      "line": "(Thought) Home? This cramped, dusty hovel? And what's that smell? Disinfectant? Is he trying to poison me?",
+      "type": "thought"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Hold still. This might sting a bit. You have a pretty deep cut here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HISS! (Kayden tries to swat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Whoa! You're really energetic for someone so injured! Good, that means you'll recover quickly.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAYDEN (CAT FORM)",
+      "line": "(Thought) Energetic? I'm trying to rip your hand off! This indignity... Being treated like a common house pet by a mere human!",
+      "type": "thought"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "There. All bandaged up. Now, how about some food? I have some tuna, or maybe some chicken?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAYDEN (CAT FORM)",
+      "line": "(Thought) Food? I need to regain my strength, not indulge in these paltry offerings. But... my stomach growls. This form is truly a curse.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MEOW! (A slightly less weak meow, demanding)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "Haha, you're quite the character. I'll call you... 'Kayden'. It sounds strong, just like you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAYDEN (CAT FORM)",
+      "line": "(Thought) He just... named me? Without permission? The audacity! Wait, 'Kayden'? How did he know? No, it must be a coincidence. A very annoying coincidence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JIWOO",
+      "line": "(Thought) I hope he gets better soon. He's a bit scary, but he needs help. And I can't just abandon him. Just like I can't abandon my secret. My life just got a lot more complicated.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Unaware of the legendary Awakened he had just brought into his home, Jiwoo's ordinary life was about to take a truly extraordinary turn.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WHOOSH",
+    "SQUEAK",
+    "SKID",
+    "THWIP",
+    "PURRR",
+    "WHIMPER",
+    "GENTLE LIFT",
+    "MEOW",
+    "DOOR CREAK",
+    "HISS"
+  ],
+  "summary": "Jiwoo Seo, a high schooler with super speed, constantly struggles to keep his powers a secret while indulging his love for cats. He finds a severely injured, mysterious black cat in an alley and brings it home, unaware that the cat is actually Kayden, a powerful Awakened in a transformed body.",
+  "word_count": 765,
+  "confidence": "high"
+}

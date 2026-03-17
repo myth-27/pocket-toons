@@ -1,0 +1,205 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "They say everyone has a guardian angel. Mine must be on permanent vacation, sipping margaritas in some celestial resort, completely oblivious to the chaos that is my life.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) Another Monday. Another chance for the universe to play its cruelest jokes on Joo Hwa-yeon. First, my alarm didn't go off. Then, my toast decided to commit arson. And don't even get me started on the coffee.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "Just breathe, Hwa-yeon. Today is different. Today is the day. The interview for 'Starlight Media'! My dream job. Nothing can go wrong.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (distant thunder)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) Oh, come on! It was perfectly sunny five minutes ago!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SPLASH! (a puddle of water)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "AAH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A rogue puddle, a speeding taxi, and my pristine white blouse. A classic Hwa-yeon trifecta.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) No, no, no! This can't be happening! Not today!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! (a heavy object falling)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "My portfolio!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As I scrambled to pick up the scattered papers, a shadow fell over me. A tall, impeccably dressed shadow.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "Having a rough morning?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) That voice! Smooth as silk, but laced with… amusement? I looked up, and my breath hitched. He was impossibly handsome. Like he’d walked straight out of a webtoon. And he was holding my most important document, completely unharmed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "Uh, yes. You could say that. Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "You dropped this. It seems important.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He handed me the document, his fingers brushing mine. A strange jolt, like static electricity, shot through me. My heart did a weird flutter-skip thing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "It… it is. It's for an interview.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "Starlight Media, I presume?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) How did he know?! He must have seen the logo. Still, it felt… unsettlingly precise.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "Yes. How did you…?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "I'm heading that way myself. Perhaps our paths are aligned.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) Aligned? Or catastrophically intertwined? My bad luck radar was blaring. This man was too perfect, too calm, too… coincidental.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP, DRIP (rain starting)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "Oh, great. Now it's raining.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "Here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He opened a sleek, black umbrella, shielding both of us from the sudden downpour. For a moment, I felt a strange sense of calm. A tiny, fleeting bubble of good fortune.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "No need. We're going the same way.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "We walked in silence for a few blocks, the rain pattering around us. His presence was… overwhelming. I couldn't shake the feeling that something significant had just happened. Or was about to.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) He saved my portfolio, sheltered me from the rain… is this what good luck feels like? After years of dating disasters, job rejections, and general cosmic mischief, could this be a turning point? Or is he just a really handsome harbinger of even worse woe?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HONK! (a car horn blares loudly)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "Whoa!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A delivery scooter swerved dangerously close, nearly clipping the umbrella and sending a fresh wave of dirty water onto my already ruined blouse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) Nope. Still me. Still cursed. And now I’m walking under an umbrella with a stranger who probably thinks I’m a walking disaster zone. Is he my fortune, or is he just another chapter in my book of woe?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Do-jin",
+      "line": "Careful. Some people are in too much of a hurry.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He glanced at me, a faint, almost imperceptible smile playing on his lips. And for the first time, I noticed the small, intricate silver charm hanging from his wrist. It looked like a tiny, stylized four-leaf clover.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Joo Hwa-yeon",
+      "line": "(Thought) A four-leaf clover? Is he mocking me? Or is it… a sign? This day just got a whole lot more complicated.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "RUMBLE",
+    "SPLASH!",
+    "THUD!",
+    "DRIP, DRIP",
+    "HONK!"
+  ],
+  "summary": "Joo Hwa-yeon, plagued by her usual bad luck, faces a disastrous morning before a crucial job interview. She encounters the enigmatic Kang Do-jin, who offers unexpected help, leaving her to wonder if he's a sign of fortune or another harbinger of woe.",
+  "word_count": 759,
+  "confidence": "high"
+}

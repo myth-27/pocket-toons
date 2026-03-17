@@ -1,0 +1,231 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world moved, a blur of meaningless actions. People strived, they fought, they wept. For what? A fleeting moment of joy? A temporary escape from the inevitable?",
+      "type": "narration"
+    },
+    {
+      "speaker": "YU",
+      "line": "My own body felt like a distant vessel, responding to stimuli, but never truly *feeling*.",
+      "type": "thought"
+    },
+    {
+      "speaker": "BULLY 1",
+      "line": "Hey, look at the freak. Still staring at nothing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY 2",
+      "line": "He probably thinks he's too good for us. Let's teach him a lesson.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOVE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "YU",
+      "line": "To move, to react... it was merely an efficient calculation, a path of least resistance. Nothing more.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (Yu effortlessly sidesteps)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "BULLY 1",
+      "line": "What the hell?! How'd you do that?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY 2",
+      "line": "Just lucky, probably. Get him!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWIPE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DUCK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "BULLY 1",
+      "line": "He's fast for a zombie!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YU",
+      "line": "Their movements were telegraphed, slow. Predictable. Like everything else.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later that day, in a dimly lit gym, a man watched a sparring match with a critical eye. Coach K, a legend in his own right, always searching for the 'fire'.",
+      "type": "narration"
+    },
+    {
+      "speaker": "K",
+      "line": "Another one lost to the fire... or never found it to begin with. This sport... it demands everything.",
+      "type": "narration"
+    },
+    {
+      "speaker": "ASSISTANT",
+      "line": "Coach, that kid from the cafe... he's still here. Just watching.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "Hm?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "(Observing Yu, who stands motionless, eyes fixed on the ring) You like boxing, kid?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YU",
+      "line": "No.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "(Intrigued) Then why do you watch?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YU",
+      "line": "They move. They hit. They fall. It's all the same. Predictable.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "Predictable? This kid... that blank stare. It's either nothing, or everything. A void, or a universe waiting to explode.",
+      "type": "thought"
+    },
+    {
+      "speaker": "K",
+      "line": "You think you could do better?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YU",
+      "line": "Better at what? Hurting? Being hurt? I don't know.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "Come here. Let's see your hands.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Yu extended his hands, pale and unblemished.",
+      "type": "narration"
+    },
+    {
+      "speaker": "K",
+      "line": "No calluses. Never thrown a punch in your life. But your eyes... they see everything.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "Tell you what. Hit this.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "K held up a focus mitt, a challenge in his gaze.",
+      "type": "narration"
+    },
+    {
+      "speaker": "YU",
+      "line": "A target. A simple task.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (Yu's arm moves, a blur)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK! (Impact)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "K",
+      "line": "(Stunned) No form, no power... but the speed. The *snap*. Again.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "K",
+      "line": "It wasn't a punch. It was a *flick*. But it was faster than anything I'd ever seen. No passion, no fire... yet, that *speed*. It wasn't trained. It was inherent. A natural phenomenon.",
+      "type": "narration"
+    },
+    {
+      "speaker": "K",
+      "line": "What's your name, kid?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YU",
+      "line": "Yu.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "Yu... I'm Coach K. How would you like to learn how to box?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "YU",
+      "line": "Learn to box? What's the point? Will it change anything?",
+      "type": "thought"
+    },
+    {
+      "speaker": "YU",
+      "line": "Why?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "K",
+      "line": "Because you're a genius, Yu. And geniuses don't belong on the sidelines.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The world kept turning. The sun kept setting. And I was still just... Yu.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "SHOVE",
+    "WHOOSH",
+    "SWIPE",
+    "DUCK",
+    "SWISH",
+    "THWACK!"
+  ],
+  "summary": "Yu, an apathetic high schooler with an uncanny ability to perceive and react, effortlessly evades bullies. His detached demeanor and raw, untrained speed catch the eye of legendary boxing coach K, who sees an unprecedented genius in Yu.",
+  "word_count": 768,
+  "confidence": "high"
+}

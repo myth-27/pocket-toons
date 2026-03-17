@@ -1,0 +1,190 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world, for most, is a symphony of senses. For Lucy, it's a cacophony.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) Plain rice, plain chicken breast. Again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) It's the only way. Anything else... it's too much. Too loud.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (fork against ceramic)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) The metallic tang of the fork, the faint chemical scent from the plate's glaze, the residual oil from the last wash... it all screams.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) And the food itself? A ghost. A whisper of what it should be, drowned out by everything else.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lucy's hyperosmia wasn't a gift. It was a burden, turning every meal into a chore, every restaurant into a sensory assault.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She worked at 'The Daily Grind,' a cozy neighborhood cafe, a place ironically filled with the very smells that tormented her.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HISS (espresso machine)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLATTER (dishes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHIMES (door opening)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) The bitter roast of coffee, the cloying sweetness of pastries, the faint, lingering scent of last night's spilled milk... it's all a single, overwhelming cloud.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(To herself, murmuring) Order up! Latte for table four!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She moved through the cafe, wiping tables, clearing plates, her senses constantly assaulted.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE (chair moving)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIRR (blender)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) Another half-eaten croissant. The buttery scent, usually so appealing to others, is just... fat. Heavy. Greasy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then, as she reached for a plate left behind by a hurried customer...",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (a subtle, distinct current of air)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) Wait.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) What is that?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Amongst the usual chaos of smells, a single, clear note cut through. It was subtle, almost gone, clinging to a forgotten crumb on the plate.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) It's... clean. Warm. A hint of something earthy, something sweet, but not cloying. Like sunshine after rain.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) It's not just a smell. It's a memory. A feeling.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SNIFF (Lucy takes a deep, almost desperate breath)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) It's... perfect. The first perfect thing I've smelled in years. Maybe ever.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes darted around the cafe, searching for the source. The customer was long gone. Only a few crumbs remained on the ceramic.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) What was it? A scone? No, too complex. A pastry? Maybe, but not like any I've tasted here.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (Lucy gently sets the plate down, careful not to disturb the scent)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) This isn't just a smell. It's... a promise. A taste I need to find. A taste that could finally cut through the noise.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For the first time in a long time, Lucy felt a flicker of hope. A purpose beyond simply enduring.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LUCY",
+      "line": "(Thought) I have to find it. Whatever it was. Whoever made it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (Lucy picks up the plate, a determined look on her face)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her quiet, bland world had just been shaken by a single, perfect scent. And her hunt had just begun.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLINK",
+    "HISS",
+    "CLATTER",
+    "CHIMES",
+    "SCRAPE",
+    "WHIRR",
+    "WHOOSH",
+    "SNIFF",
+    "THUMP",
+    "SWISH"
+  ],
+  "summary": "Lucy, tormented by her hyper-sensitive sense of smell and taste, endures her daily life working at a cafe. Her bland existence is suddenly disrupted when she catches a fleeting, perfect scent from a discarded plate, sparking a desperate quest to find its source.",
+  "word_count": 702,
+  "confidence": "high"
+}

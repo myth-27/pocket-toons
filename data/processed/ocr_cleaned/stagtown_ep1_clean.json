@@ -1,0 +1,222 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The map had called it 'Stagtown.' A dot on the periphery, a place you only passed through if you were truly lost, or truly seeking something forgotten.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I was the latter, I suppose. Or maybe just foolish.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Alright, Maeve. Deep breaths. It's just a town. A very... quiet town.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH (gravel under tires)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (engine dies)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Huh. Guess this is it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (car door)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The air was thick here, heavy with the scent of damp earth and something else... something metallic, like old blood.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The buildings were hunched, their windows like vacant eyes staring out from under heavy brows of moss and grime. No cars. No people. Just the wind.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHISTLE (wind)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Hello? Anyone home?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "My voice just... vanished. Swallowed by the silence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A faded sign above a dilapidated storefront read: 'GENERAL GOODS & SUNDRIES.' The door was ajar, a sliver of darkness beckoning.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (door slowly opens)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Hello?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (something falls inside)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Okay, definitely not empty.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Lost, are we?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He emerged from the shadows at the back, a gaunt figure with eyes that seemed too old, too knowing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "No, not lost. Just... passing through. Looking for a place to stay the night.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Passing through Stagtown? Few do. Fewer still stay.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Is there a motel? An inn?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "The Old Lodge. Up the hill. But it's not for everyone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "What's that supposed to mean?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Means the town has its ways. Its... expectations.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "He’s giving me the creeps. Just get what you need and go.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Do you have any bottled water? And maybe a map of the area?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Water, yes. Maps... not much use here. Roads change. Memories fade.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (something heavy outside)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "What was that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "Just the town breathing. It does that.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He handed me a dusty bottle. As I paid, my gaze drifted to a carving on the counter. A stylized deer head. Antlers like twisted branches.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "That's... interesting. A local symbol?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Old Man",
+      "line": "It's the Stag. Always watching. Always waiting.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "His eyes. They weren't looking at me. They were looking *through* me. Like I was already part of the scenery.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "Thanks. I'll... find the Lodge.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (door closes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Back on the street, the silence felt heavier, more deliberate. The wind whispered, and for a moment, I could almost hear a faint, distant call. A guttural sound, like something ancient stirring.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LOW MOAN (distant, unsettling)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maeve",
+      "line": "No. Just the wind. It has to be.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But the feeling of being watched intensified. Every shadow seemed to deepen, every window a pair of unseen eyes. Stagtown wasn't just quiet. It was waiting.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CRUNCH",
+    "RUMBLE",
+    "CREAK",
+    "WHISTLE",
+    "CLINK",
+    "THUMP",
+    "LOW MOAN"
+  ],
+  "summary": "Maeve arrives in the desolate and eerily quiet Stagtown, immediately feeling a sense of unease. Her brief encounter with a cryptic old shopkeeper hints at the town's strange nature and its mysterious 'Stag' motif, leaving her with a growing sense of dread.",
+  "word_count": 757,
+  "confidence": "high"
+}

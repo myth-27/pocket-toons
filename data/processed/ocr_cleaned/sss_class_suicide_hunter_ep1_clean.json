@@ -1,0 +1,241 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Tower. A colossal structure that appeared one day, challenging humanity. Climb it, conquer its floors, and earn unimaginable power, wealth, and glory. Or... fail, and be forgotten.",
+      "type": "narration"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "Another day, another floor to scrub. While those 'Hunters' are out there, risking their lives for fame and fortune...",
+      "type": "thought"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "I'm stuck here, scrubbing away the grime left by their glorious battles.",
+      "type": "thought"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "Ugh, this stench... Is that goblin blood or just another Hunter's spilled energy drink? Probably both.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRUB SCRUB",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "S-Class, A-Class... I'm not even a D-Class. Just a pathetic F-Class cleaner. My 'skill' is literally 'Cleaning Proficiency (F)'. What a joke.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Among the countless Hunters, one stood above all. The undisputed strongest. The SSS-Class Hunter, the Flame Emperor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "The Flame Emperor... He just cleared the 40th floor in record time. They say he's already eyeing the 50th. While I'm here, eyeing a stubborn stain.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT CHEERS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "SSS-Class... If only I had a skill like that. Something that could actually *do* something.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "I'm tired of this. Tired of being weak. Tired of being invisible. I just... I just want a chance. A single, tiny chance to be something more.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHIMMER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "Huh? What was that? Did I... did I just feel something?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A faint light enveloped Gongja. A phenomenon rarely seen outside of high-tier dungeons. A skill awakening.",
+      "type": "narration"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "A skill? Me? After all this time? Please, let it be something good. Something powerful!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "My status window! It's... it's showing a new skill!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "[I Want To Live (EX)]... What kind of name is that? And 'EX'? Is that good? It sounds... vague.",
+      "type": "thought"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "\"Upon death, you will return to a point in time 24 hours prior to your death. This skill can only be activated by dying.\" ...What?!",
+      "type": "thought"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "I have to *die* for it to work?! Is this some kind of sick joke?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FLAME EMPEROR",
+      "line": "You. What are you doing in my private quarters, cleaner?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "F-Flame Emperor-nim! I... I was just... uh... admiring your... uh... decor!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FLAME EMPEROR",
+      "line": "Decor? Or were you trying to steal something, you F-Class rat? I felt a strange energy fluctuation near my skill stone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "He knows! Oh god, he knows! This is it. I'm dead. Literally.",
+      "type": "thought"
+    },
+    {
+      "speaker": "FLAME EMPEROR",
+      "line": "Pathetic. You think an F-Class like you could ever touch what's mine?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "Please, wait! I didn't mean any harm! I just... I just wanted to be strong!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FLAME EMPEROR",
+      "line": "Begging won't save you. You're a nuisance.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FLAMES ROAR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "This is it. My life... ending like this? No... I don't want to die!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BLAST!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "A-aaargh...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The world went dark. But then... a familiar sensation. A jolt.",
+      "type": "narration"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "What...? I'm... I'm back?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STATIC",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FADE IN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "I'm... in my bed? It's morning?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "The status window! It's still there! \"I Want To Live (EX)\"... It worked! I really died... and came back!",
+      "type": "thought"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "He killed me... and I came back. This skill... it's insane!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "GONGJA",
+      "line": "This isn't just a skill. This is a second chance. A chance to change everything. A chance to... finally get stronger.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kim Gongja had died. And in doing so, he had truly begun to live.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "SCRUB SCRUB",
+    "DISTANT CHEERS",
+    "SHIMMER",
+    "WHOOSH",
+    "TING!",
+    "CRACKLE",
+    "FLAMES ROAR",
+    "BLAST!",
+    "CRASH!",
+    "STATIC",
+    "FADE IN"
+  ],
+  "summary": "Kim Gongja, a low-ranking F-Class cleaner in the Tower, envies the SSS-Class Flame Emperor. Desperate for power, he accidentally awakens a unique skill, 'I Want To Live', which allows him to return 24 hours prior to his death. His first death, at the hands of the Flame Emperor, reveals the terrifying and exhilarating power of his new ability.",
+  "word_count": 654,
+  "confidence": "high"
+}

@@ -1,0 +1,265 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Another transfer. Another new school. Another fresh start.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My dad's job in the military means moving around is just... normal for me now. I've learned not to get too attached, not to expect too much.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "This time, it's Baekyeon Girls' High School. Supposedly one of the best.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Alright, everyone, settle down. We have a new student joining us today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Come on in, Sung Su-ji.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "Hello. I'm Sung Su-ji. Please take care of me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(A quick scan of the room. Twenty-five girls. All eyes on me. Some curious, some indifferent. A few even smiling. Seems normal enough.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Su-ji, you can take the empty seat in the back, next to Myung Ja-eun.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHUFFLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(The girl next to me, Ja-eun, doesn't even look up. Her hair covers most of her face. She seems... quiet.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "CLASSMATE 1",
+      "line": "Psst, did you see her bag? It's pretty nice.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CLASSMATE 2",
+      "line": "Yeah, but she looks a bit plain, doesn't she?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Already being judged. Standard. Just keep a low profile.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Baek Ha-rin",
+      "line": "Welcome, Su-ji. I'm Baek Ha-rin. If you need anything, just ask.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "Thank you, Ha-rin.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Baek Ha-rin. The 'it' girl, clearly. Prettiest, most confident, surrounded by a small entourage. Her smile doesn't quite reach her eyes.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BELL RINGS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "Lunchtime already? This day is flying by.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Everyone's heading to the cafeteria. Ja-eun is still just sitting there. Alone.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "Hey, Ja-eun. Aren't you coming?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Myung Ja-eun",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(She just shakes her head slightly, not looking at me. Okay, then.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Later that day, just before dismissal. The teacher hands out small tablets.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Alright, girls. Time for the monthly 'Pyramid Game' vote.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Pyramid Game? What's that?)",
+      "type": "thought"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Remember, you get five votes. Three for A-rank, two for B-rank. You can't vote for yourself. And no abstaining.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "Excuse me, Teacher. What exactly is this 'Pyramid Game'?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Ah, Su-ji. Right, you're new. It's a popularity ranking system we have in Class 2-5. Helps us maintain a healthy social environment.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(A popularity contest? In high school? This sounds... dangerous.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "CLASSMATE 3",
+      "line": "Just vote for who you like, Su-ji. It's simple.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(I look at the tablet. A list of names. Myung Ja-eun's name is there. Baek Ha-rin's. Everyone's.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(A-rank gets privileges. B-rank is average. C-rank is... less than average. And F-rank... F-rank is the target.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TAP TAP TAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(I cast my votes, feeling a strange unease. This isn't just a game.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "HOMEROOM TEACHER",
+      "line": "Voting is closed! Let's see the results.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP BOOP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The projector screen flickers to life, displaying a pyramid with names arranged in tiers.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Baek Ha-rin, top of A-rank, of course. Lim Ye-rim, the idol trainee, right below her. And at the very bottom... F-rank.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Myung Ja-eun. She's F-rank. And my name... Sung Su-ji. D-rank.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "CLASSMATE 4",
+      "line": "Look, Ja-eun is F again. No surprise there.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CLASSMATE 5",
+      "line": "And the new girl, D-rank. Not bad for a transfer.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(The bell rings. Everyone packs up. But no one talks to Ja-eun. No one even looks at her.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Baek Ha-rin",
+      "line": "Oh, Ja-eun. Did you forget your bag? How clumsy.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ha-rin's foot 'accidentally' trips Ja-eun's bag, sending its contents scattering across the floor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Myung Ja-eun",
+      "line": "...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(Ja-eun slowly, silently, begins to pick up her things. No one helps. Everyone just watches, some with smirks.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(This isn't just a game. This is a hierarchy. And F-rank isn't just unpopular. F-rank is the target. The punching bag.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Sung Su-ji",
+      "line": "(And I just stepped right into it.)",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "SHUFFLE",
+    "BELL RINGS",
+    "TAP TAP TAP",
+    "BEEP BOOP",
+    "THUD"
+  ],
+  "summary": "Sung Su-ji transfers to Baekyeon Girls' High School and is immediately introduced to the 'Pyramid Game,' a monthly popularity vote that determines a student's social ranking, quickly realizing its devastating consequences for the F-rank.",
+  "word_count": 768,
+  "confidence": "high"
+}

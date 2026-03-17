@@ -1,0 +1,165 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world changed ten years ago. Dungeons appeared, monsters poured out, and with them, Hunters. Those blessed with abilities to fight back.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) Me? I was an F-class. The lowest of the low. A useless burden, barely capable of clearing a Rank F dungeon, and even then, I usually came out bruised and battered.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) My younger brother, Han Yoohyun, was different. He was a prodigy. An S-class. The youngest ever. He carried the weight of our family, of the world, on his shoulders. While I... I was just a burden.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He remembered the end. The catastrophic dungeon break. The desperate, futile fight. The overwhelming despair as the city crumbled around him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) I died. Crushed under a monster's claw, watching the city burn. My only regret was Yoohyun. I couldn't protect him. I couldn't even stand beside him. He deserved so much more than a brother like me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(dialogue, groggy) Ugh... My head...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Han Yoojin blinked, the harsh morning light stinging his eyes. He was in his old, familiar apartment. The one he'd moved out of years ago, before everything went to hell.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) This... this isn't right. I was just... I was dead. This room, this cheap wallpaper... it's from five years ago.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (of sheets)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) The calendar on the wall... September 1st, 20XX. This date... it's before the Great Dungeon Break. Before Yoohyun became an S-class and started carrying the world alone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) Is this... a dream? A hallucination before death? Am I just going insane?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Welcome, Awakened. Skill: My Brat is the Best (S-Class Hunter Cultivation) has been activated.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) My... My Brat is the Best? That useless F-class skill I got when I first awakened? The one that just gave me a tiny buff when I was near my younger sibling? But it says... S-Class Hunter Cultivation?",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) No, wait. This isn't just a buff. This is a full-blown system message. Like the ones the high-ranking hunters talked about, the ones that appeared when their unique skills truly manifested. And the skill name itself... it's different.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) I remember now. Before I died, a strange, warm light enveloped me. A whisper... 'A second chance.' It wasn't a hallucination. It was real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(dialogue, voice trembling) I... I went back in time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) This isn't a dream. This is real. I have a second chance. A chance to change things. A chance to save Yoohyun from the path of suffering he walked in my past life.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) In my past life, Yoohyun pushed himself too hard. He fought alone, shouldering every burden, every expectation. He grew distant, cold, burdened by responsibilities. I couldn't help him. I was too weak, too useless.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Skill details: Allows the user to foster the growth of a designated 'Brat' (sibling or close relative) into an S-Class Hunter. Provides various support effects, growth buffs, and unique opportunities. Initial target set: Han Yoohyun.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) This is it. This is my chance. I won't let him suffer alone this time. I won't be a useless F-class burden. I'll be the best older brother. I'll raise him properly, protect him, make sure he's happy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(dialogue, resolute) Yoohyun... I'm coming for you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He quickly got out of bed, his mind racing with a mix of shock and fierce determination. He needed to find Yoohyun. He needed to understand this powerful, reborn skill. Most importantly, he needed to prepare.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (floorboards)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) First, I need to check the news. What's the current state of the dungeons? Who's who in the Hunter Association? I need to remember every detail that could give me an advantage.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) And then... I need to find Yoohyun before he makes any rash decisions. Before he gets involved with anyone shady. Before he pushes himself to the brink, just like last time.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(thought) This time, I'll be the one raising the S-class. And my S-class... will be the strongest, the happiest, and the one who doesn't have to carry the world alone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (door opening)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAN YOOJIN",
+      "line": "(dialogue, to himself, a small, determined smile forming) Let's do this, Han Yoojin. For Yoohyun. For a better future.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "GASP",
+    "RUSTLE",
+    "THUMP-THUMP",
+    "CREAK",
+    "CLICK"
+  ],
+  "summary": "Han Yoojin, a useless F-class hunter, wakes up five years in the past after dying in a dungeon break. He realizes his unique skill, 'My Brat is the Best', has evolved, granting him the ability to cultivate S-class hunters, specifically targeting his younger brother, Han Yoohyun. Determined to change their tragic future, he resolves to raise Yoohyun properly this time.",
+  "word_count": 758,
+  "confidence": "high"
+}

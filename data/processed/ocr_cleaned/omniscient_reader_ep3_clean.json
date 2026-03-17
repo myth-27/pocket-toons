@@ -1,0 +1,370 @@
+{
+  "title_header": "Episode 3",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "This episode contains depictions of violence that may be upsetting for some readers.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It is a Dokkaebi!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As the creature sprung into view.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A Dokkaebi is a mythical creature in Korean culture that is similar to a goblin.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I don't know why that sentence popped into my head at that moment.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The subway came to a halt, and the entire cabin grew dark.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "No way. Subways stop all the time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The opening lines of a very familiar story kept crossing my mind.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But it doesn't make any sense. There's no way.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A Dokkaebi?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Sorry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Realistically speaking, there was no way this could be true. It was completely impossible, but...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Horns. A small creature was floating midair, wearing a downy garment. Malicious, peculiar, too innocent to be an angel, too malicious to be a fairy, too innocent to be a devil.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What is that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "N-No way... This is...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "So we called it a \"Dokkaebi.\"",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "At that moment, fiction and reality overlapped.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What is that thing saying? Is this augmented reality or something?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ew, it is so ugly!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "No one knew what was going on... except me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "That thing is definitely a \"Dokkaebi.\" It was the Dokkaebi that appeared in the opening paragraph of TWSA. This creature heralded the tragedy that carried on for thousands of chapters throughout [Three Ways to Survive the Apocalypse]. Impossible. How can this be...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "That very same Dokkaebi was now right in front of me. I think it is speaking Spanish. Should I try talking to it?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You don't even know what that thing is. Are you going to ask it to lend you money? Or whatever... \"Puede\" (Help us right now).",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "W-Well, no. But...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Testing, testing. Can everyone hear me? Gosh, the language patch was malfunctioning for a bit.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Can everyone hear me now?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Hey, what do you think you're doing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Pardon?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Are you filming a movie? I have to go to my audition.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Oh, an audition at this hour, huh? Haha.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "I guess I should have done more research. They told me I would have the most customers if we put up the paywall at around 7 PM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What? What on earth are you talking about?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Okay, everyone, please calm down. Why don't you take a seat and listen? I have something very important to tell you all!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What is it? Just start the train already!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You can't do this without our consent! How are you going to compensate for this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Mommy, what is that? Is it a cartoon?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I am certain. I know exactly how this story goes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I have to stop them, but how?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Sangah, don't move.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sangah",
+      "line": "Sorry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Haha, it sure is noisy here, isn't it? I told you to be quiet!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Huh? We're not filming a movie. This isn't a dream, or a novel, and it certainly isn't the reality that you are all familiar with! Do you understand?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I hated to admit it, but this was real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My doubt and disbelief slowly faded away.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As I watched the floor quickly become painted in blood.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "All of you have had quite a cushy life until now, haven't you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "You were free to breathe, eat, excrete, and reproduce without paying the costs! Ha!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "You've all been enjoying privileged lives, but it is all over now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Nothing is free in life, isn't that right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Is it money you want?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Sangah, isn't that Mr. Han from the finance team? He was employed because of his connections.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Han",
+      "line": "Yes. If it is money you're after, I'll give you as much as you want. And just so you know, this is what I do.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Han",
+      "line": "How much do you need? A million? Or two million perhaps?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Hmm, so you're offering me your money?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Han",
+      "line": "I'll give you as much as you want if you let me out of here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Han",
+      "line": "Money is good. It is an object that signifies an intersubjective agreement between humans.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Han",
+      "line": "Yes, money solves everything.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Huh...?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "But it is only valid within the confines of your space-time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "That paper has no value in the macroscopic dimension.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "This is a warning: if you ever pull a stunt like this again, I'll blow your head up.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mr. Han",
+      "line": "U-Ugh...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Ha. There is no time for chitchat. Your debt is piling up as we speak. I won't bother explaining it to you. It will be faster for you to try to earn the money yourselves.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Channel #Bl-7623 has opened.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The constellations are now making a contract.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The main scenario has arrived.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Main Scenario #1 [Prove Your Value]: Kill one or more living organisms. Category: Main. Difficulty: F. Time Limit: 30 minutes. Reward: 300 Coins. Penalty for Failure: Death.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "Well, good luck, everyone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dokkaebi",
+      "line": "I expect to see an interesting story.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "HOVER",
+    "MURMUR",
+    "SNIFF",
+    "SQUEEZE",
+    "SPLAT",
+    "RUMMAGE",
+    "ROAR",
+    "CRACKLE",
+    "DING",
+    "SMIRK"
+  ],
+  "summary": "A Dokkaebi appears on a subway, halting it and plunging it into darkness. The protagonist recognizes the creature from a novel and realizes a catastrophic event is unfolding. The Dokkaebi announces a \"paywall\" for life and initiates \"Main Scenario #1: Prove Your Value,\" demanding passengers kill living organisms within 30 minutes or face death.",
+  "word_count": 998,
+  "confidence": "medium"
+}

@@ -1,0 +1,194 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In a world where life and death hang by a thread, one woman stands at the precipice, wielding a scalpel with unparalleled precision.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "Suction. Forceps. Clamp.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Nurse Kim",
+      "line": "Doctor, the patient's blood pressure is dropping rapidly!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "Stay calm. We're almost there. I need 10cc of epinephrine, now!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "This is it. The moment of truth. Every second counts. Every decision is critical.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Dr. Song, a brilliant surgeon, dedicated her life to saving others. It was her atonement, her penance for a past life she desperately wanted to forget.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP-BEEP-BEEP (heart monitor flatlining)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "No! Not on my watch! Charge to 200!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Nurse Lee",
+      "line": "Charging!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ZAP! (defibrillator)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Nurse Kim",
+      "line": "Pulse is back! It's weak, but it's there!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "Good. Now, let's close this up. Carefully.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "Another life saved. It's a small comfort, but it's something. Perhaps, one day, I can truly forgive myself for the monster I once was.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "After a grueling 12-hour surgery, Dr. Song boarded a plane for a medical conference abroad. Exhaustion weighed heavily on her, but her mind was already planning the next challenge.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Flight Attendant",
+      "line": "Ladies and gentlemen, we are experiencing some unexpected turbulence. Please remain seated and keep your seatbelts fastened.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE! SHAKE! (plane turbulence)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "Turbulence? This feels… different.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCREEEEECH! CRACK! (metal tearing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Passenger",
+      "line": "Ahhh! What's happening!?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dr. Song (Elise)",
+      "line": "No… not like this. Not when I finally found my purpose.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "EXPLOSION! (plane crash)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Darkness consumed her. Then, a faint light, a whisper of a forgotten memory…",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP! (Elise waking up)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Elise",
+      "line": "What… where am I? My head… it hurts.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Elise",
+      "line": "This room… these curtains… This isn't my apartment. This isn't a hospital room. This is…",
+      "type": "thought"
+    },
+    {
+      "speaker": "Elise",
+      "line": "This is my room from my first life! The Clorance Dukedom! But… that's impossible. I died. I was executed!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (door opening)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maid",
+      "line": "Young Lady Elise? You're awake! Oh, thank the heavens! You've been unconscious for two days after your fall.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Elise",
+      "line": "Fall? Two days? No… this can't be real. I'm… I'm back. I'm Elise de Clorance again. The villainess…",
+      "type": "thought"
+    },
+    {
+      "speaker": "Elise",
+      "line": "But I'm so young. This must be before… before everything. Before I became the empress's rival. Before I was executed by the Crown Prince.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Maid",
+      "line": "Are you feeling alright, Young Lady? You look a bit pale.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Elise",
+      "line": "I'm… I'm fine, Lily. Just a little disoriented.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Elise",
+      "line": "This is a second chance. No, a third chance. I won't make the same mistakes. I won't be the villainess. I won't pursue the Crown Prince. I will use the knowledge I gained as Dr. Song.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Elise",
+      "line": "I will become a doctor in this life. I will save lives. That is my new destiny.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With a newfound resolve, the notorious villainess, Elise de Clorance, began her journey to rewrite her fate and become the greatest physician the empire had ever seen.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "BEEP-BEEP-BEEP",
+    "ZAP",
+    "RUMBLE",
+    "SHAKE",
+    "SCREEEEECH",
+    "CRACK",
+    "EXPLOSION",
+    "GASP",
+    "CREAK"
+  ],
+  "summary": "Dr. Song, a brilliant modern-day surgeon, reflects on her past life as a villainess while saving a patient. After a tragic plane crash, she reawakens as the young Elise de Clorance, realizing she has been granted a third chance to change her fate and become a doctor.",
+  "word_count": 765,
+  "confidence": "high"
+}

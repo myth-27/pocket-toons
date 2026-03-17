@@ -1,0 +1,156 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The fluorescent lights of Class 2-3 hummed, a monotonous drone that perfectly matched the rhythm of my 'worthless' existence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) Another day. Another performance. It’s exhausting, but necessary.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LEE JIN-HO",
+      "line": "Look who it is. Our resident punching bag, Kim Min-woo.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PARK SUNG-MIN",
+      "line": "Still got that pathetic look on your face, Min-woo? It's almost lunchtime, you know. Someone's gotta pay for our snacks.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) Here we go. Cue the 'helpless victim' act.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "Ah... Jin-ho... Sung-min... I... I don't have much today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "CHOI HYUN-WOO",
+      "line": "Don't have much? What, did your allowance get cut because you're such a loser?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOVE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "Ugh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) That push was weak. They're getting complacent. Good.",
+      "type": "thought"
+    },
+    {
+      "speaker": "LEE JIN-HO",
+      "line": "Empty your pockets, Min-woo. Unless you want to spend your lunch break in the infirmary.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "Okay... okay... here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I pulled out a crumpled 5,000 won bill and a few coins, offering it with a trembling hand. The perfect picture of a terrified student.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PARK SUNG-MIN",
+      "line": "Is this all? Seriously? You're even worthless at earning money.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAB!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LEE JIN-HO",
+      "line": "Whatever. It's better than nothing. Let's go, guys. This loser isn't worth our time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS FADE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) They always leave just enough for me to buy a cheap bread. They're not completely evil, just typical high school thugs. Ignorant of the beast they're poking.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I watched them leave, my face a mask of relief. But inside, a different emotion simmered. Not anger, but a cold, calculated patience.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) It's been three months since I enrolled here. Three months of playing the part of Kim Min-woo, the weakest link. The 'worthless person.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) They think they're strong. They think they're untouchable. They have no idea what true strength looks like.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLENCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My hand, which had just trembled, now clenched into a fist, the knuckles turning white. The force was enough to crack the desk if I allowed it.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) The goal is simple: survive this school year unnoticed. No fights, no heroics, no revealing my true capabilities. Just blend in, graduate, and disappear.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM MIN-WOO",
+      "line": "(thought) But even a 'worthless person' has limits. And I can feel them being tested, day by day.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BELL RING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The lunch bell rang, pulling me back to the present. Time to go buy that cheap bread. And keep the act going.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "SHOVE",
+    "CRUMBLE",
+    "GRAB",
+    "FOOTSTEPS FADE",
+    "CLENCH",
+    "BELL RING"
+  ],
+  "summary": "Kim Min-woo, a seemingly weak student, endures daily bullying from Lee Jin-ho and his gang, meticulously maintaining his 'worthless' persona while secretly harboring immense strength and a hidden agenda.",
+  "word_count": 487,
+  "confidence": "high"
+}

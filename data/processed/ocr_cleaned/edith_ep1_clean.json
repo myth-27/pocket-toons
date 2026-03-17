@@ -1,0 +1,197 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The carriage rumbled, a relentless rhythm against the desolate landscape. Each turn of the wheel brought me closer to my fate.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Edith",
+      "line": "They call him the Monster of the North. Duke Kael, the man whose shadow is said to wither crops and freeze hearts.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Edith",
+      "line": "And I, Edith de Valois, am to be his wife.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CARRIAGE RUMBLE (CONTINUOUS)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Edith",
+      "line": "My family's ruin was swift and absolute. A single, ill-fated investment, and suddenly, the proud Valois name was synonymous with debt. My hand, once sought by many, became a mere commodity.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Edith",
+      "line": "A desperate bargain to save what little remained. Marry the Duke, and our debts would be cleared. A simple transaction, devoid of love or hope.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Edith",
+      "line": "But I am no fragile flower. I survived my family's downfall. I will survive this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND HOWLS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hours bled into each other, the sun dipping below the horizon, painting the sky in bruised purples and grays. Finally, a colossal silhouette emerged from the gloom.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CARRIAGE SLOWS. CREAKING.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Edith",
+      "line": "Blackwood Manor. Even from here, it exudes an oppressive aura. No lights, no welcoming warmth. Just stone and shadow.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GATES GROAN OPEN (LOUD, RUSTY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The carriage passed through the towering gates, a final, definitive click echoing behind us as they sealed shut.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Edith",
+      "line": "No turning back now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CARRIAGE STOPS. HORSES WHINNY.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Butler (gruff)",
+      "line": "Lady Edith. Welcome to Blackwood Manor.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A gaunt butler with eyes like chips of ice stood by the carriage door. His voice was devoid of any warmth, a stark contrast to the usual greetings a noble lady received.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Edith",
+      "line": "Thank you, sir. I am Edith de Valois.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "EDITH STEPS DOWN. DRESS RUSTLES.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Edith",
+      "line": "The air was biting, carrying the scent of damp earth and something else… something metallic and old. The manor loomed, a monstrous silhouette against the moonless sky.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Butler",
+      "line": "His Grace awaits you in the main hall.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Edith",
+      "line": "He wasted no time. Straight to the confrontation, then.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS ECHO (ON STONE)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The interior was as cold and unwelcoming as the exterior. Tapestries depicting forgotten battles lined the walls, and the only light came from a few flickering candelabras.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Edith",
+      "line": "My heart hammered a frantic rhythm against my ribs. This wasn't just a marriage; it felt like walking into a lion's den.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEART THUMP (LOUD)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "At the far end of the vast hall, a figure sat on a high-backed chair, shrouded in shadow. Only the glint of his eyes, like predatory embers, pierced the gloom.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Duke Kael",
+      "line": "So, you've arrived.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His voice was deep, resonant, and carried an undeniable weight of authority. It sent a shiver down Edith's spine, but she met his gaze head-on.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Edith",
+      "line": "Duke Kael. I am Edith de Valois. I assume you are His Grace?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Duke Kael",
+      "line": "Indeed. And you are my future Duchess.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Edith",
+      "line": "His eyes were like obsidian, sharp and unyielding. There was no warmth, no welcome, only a chilling intensity that seemed to strip away all pretense.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Edith",
+      "line": "This man... he truly is the monster they speak of. But I won't break. I won't just survive here; I will find a way to live.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SILENCE (HEAVY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Edith",
+      "line": "A new chapter begins. And I, Edith, will write my own story.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CARRIAGE RUMBLE",
+    "WIND HOWLS",
+    "CARRIAGE SLOWS",
+    "CREAKING",
+    "GATES GROAN OPEN",
+    "CARRIAGE STOPS",
+    "HORSES WHINNY",
+    "EDITH STEPS DOWN",
+    "DRESS RUSTLES",
+    "FOOTSTEPS ECHO",
+    "HEART THUMP",
+    "SILENCE"
+  ],
+  "summary": "Edith de Valois arrives at the desolate Blackwood Manor, forced into an arranged marriage with the feared 'Monster of the North,' Duke Kael. Despite the chilling atmosphere and the Duke's intimidating presence, Edith resolves to survive and forge her own path.",
+  "word_count": 712,
+  "confidence": "high"
+}

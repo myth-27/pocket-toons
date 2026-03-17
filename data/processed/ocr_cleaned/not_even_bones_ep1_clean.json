@@ -1,0 +1,166 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Most people don't know what a ningen looks like up close. They certainly don't know what it feels like to peel its skin, layer by meticulous layer.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The air in the lab is a familiar cocktail: formaldehyde, ozone from the sterilizers, and a faint, metallic tang. It's the scent of my life, the smell of money, the smell of... what I do.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) Another delivery. This one's a young male ningen, perhaps recently caught. Good condition, minimal external damage. Mother will be pleased with the yield.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUMMM (of medical equipment, steady and low)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) My tools are laid out, gleaming under the harsh, sterile lights. Scalpels, forceps, bone saws, specialized extractors... each one a promise of precision. Each one an extension of my will.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MOTHER (via intercom, voice crisp and clear)",
+      "line": "Nita. Is the specimen prepped? The courier is on a tight schedule tonight.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NITA",
+      "line": "Initial scan complete, Mother. No anomalies. Temperature stable.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MOTHER (via intercom)",
+      "line": "Good. Remember, the bioluminescent sacs are the priority. The buyer is particular about their intactness. And the spinal fluid, of course.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NITA",
+      "line": "Understood. I'll begin extraction immediately.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) 'Don't waste a drop.' As if I ever do. Every fiber, every organ, every bone – it all has a price. And I'm the one who extracts it. The one who sees the value where others only see a monster.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GLOVE SNAP (sharp, deliberate)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The ningen lies on the stainless steel table, its pale, almost translucent skin shimmering faintly, like wet moonlight. Its eyes, milky white and unseeing, stare blankly at the ceiling. A creature of the deep, now just a specimen.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) They say I have a gift. A unique aptitude for anatomy, for understanding the intricate structures of cryptids. A gift for taking things apart, for seeing the blueprint beneath the flesh.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLICE (precise, clean, a whisper of steel)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My hand is steady. The scalpel glides, opening the first incision along the ningen's flank. No hesitation. No tremor. Just the cool, detached focus of a surgeon.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SQUELCH (wet, internal, a soft tearing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) The internal organs are surprisingly similar to human, in some ways. The circulatory system, the digestive tract. But then there are the differences. The extra set of gills, the dense, cartilaginous skeleton, and these... these sacs.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I carefully separate muscle from membrane, exposing the cluster of glowing sacs beneath the ribcage. They pulse with a soft, ethereal light, like trapped stars, even now, hours after death.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) This is where the real money is. The bioluminescence. Prized by collectors, used in high-end potions, even rumored to have... more esoteric applications. A single sac can fetch a fortune.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SNIP (delicate, precise, repetitive)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Each sac is individually detached, placed into a chilled, specially prepared container. The glow dims slightly as it leaves the body, but doesn't vanish entirely. It's a fragile beauty, a fleeting light.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) I wonder if it felt pain. Before. Does it matter? It's just... product now. A commodity. A collection of parts, waiting to fulfill someone else's desire.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hours pass in a rhythm of cutting, extracting, preserving. The ningen is systematically reduced. Skin, organs, bones – each categorized, meticulously cleaned, and stored according to Mother's exacting instructions.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) Sometimes, when I’m alone in here, the silence feels heavy. I think about the things I’ve taken apart. The things I’ve seen. And I wonder if there's anything left of me that isn't just... a tool. A pair of hands for a gruesome trade.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (of a final tool being placed down, a sense of completion)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The lab is clean once more. The air purifier hums, scrubbing away the last traces of death. All that remains of the ningen are the carefully packaged parts, chilling in their containers, ready for market.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) Another job done. Another creature disassembled. Another day in the life of Nita, the monster butcher. And I still haven't touched a living thing, not really.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MOTHER (via intercom)",
+      "line": "Excellent work, Nita. The courier will be here by dawn. Prepare the manifest, and ensure the freezer logs are updated.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NITA",
+      "line": "Yes, Mother. Everything is accounted for.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NITA",
+      "line": "(Thought) The cycle continues. Always the cycle. And I am always at its center, with blood on my hands and a hollow space in my chest.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "HUMMM",
+    "GLOVE SNAP",
+    "SLICE",
+    "SQUELCH",
+    "SNIP",
+    "CLINK"
+  ],
+  "summary": "Nita, a skilled supernatural dissector, meticulously processes a ningen for its valuable parts under her mother's watchful eye. She reflects on her detached profession, her unique 'gift,' and the chilling routine of her gruesome life, setting the stage for the dark world she inhabits.",
+  "word_count": 765,
+  "confidence": "high"
+}

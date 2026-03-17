@@ -1,0 +1,137 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "For as long as I can remember, this has been my world. The glow of the monitor, the rhythmic click-clack of keys, the endless hum of the PC fan – it was my sanctuary, my battlefield, my everything.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "Just a few more lines... almost there... The physics engine needs a slight tweak, and then, the final boss's attack pattern...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Years of ramen noodles, instant coffee, and sacrificing any semblance of a social life. All for this moment. All for 'Ruminate.' My game. My heart and soul poured into every pixel.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "It's not just a game. It's a story. It's a world I built from scratch, a place where players can truly lose themselves. A place where their choices matter.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And then, the day finally arrived. After countless delays, debugging nightmares, and moments of pure existential dread, 'Ruminate' was live. Available to the world.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "Okay, Sam. Deep breaths. It's out there. No turning back now. Just... just check the forums. See what people are saying.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MOUSE CLICK. WEB BROWSER REFRESH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "(Reading) 'Charming art style' ... 'Unique mechanics' ... 'Surprisingly deep narrative.' Oh! Oh my gosh! People actually like it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "NOTIFICATION PING! PING! PING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My heart swelled with a joy I hadn't felt in years. All the sacrifices, all the sleepless nights... they were worth it. My dream was finally taking flight.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then, a single video thumbnail caught my eye. A familiar face. A name that sent shivers down the spine of every indie developer. A name synonymous with brutal honesty and unparalleled influence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "(Reading title) 'Ruminate' - A Waste of Time? By ML_Law.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "No... No, it can't be. Not him. Please, not him.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRAMATIC MUSIC (from video begins)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Marshall Law (from video)",
+      "line": "Alright, guys. Today we're looking at 'Ruminate.' And honestly? This game is a prime example of style over substance. The story is cliché, the combat is clunky, and don't even get me started on the ending. It's just... bad.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "Bad? Clunky? He didn't even *understand* it! The ending was supposed to be ambiguous! The combat was designed to be challenging, not clunky!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Marshall Law (from video)",
+      "line": "Save your money. Save your time. There are far better indie titles out there. This one? A hard pass.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FIST SLAM (on desk) - THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "He... he just ruined everything. My game... my dream... everything I worked for...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My dream, my passion, my entire future... shattered by one man, one review. The comments section was already a wasteland of agreement, echoing his every word.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "No. Not shattered. Not yet. I won't let him. I can't let him.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A cold, hard resolve settled in my chest, replacing the despair. He thought he could just dismiss years of my life with a few harsh words? He thought he could just crush my world?",
+      "type": "narration"
+    },
+    {
+      "speaker": "Sam Young",
+      "line": "Marshall Law... I'm coming for you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STING! (dramatic sound)",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "MOUSE CLICK",
+    "WEB BROWSER REFRESH",
+    "NOTIFICATION PING",
+    "DRAMATIC MUSIC",
+    "FIST SLAM",
+    "THUD",
+    "STING!"
+  ],
+  "summary": "Episode 1 introduces Sam Young, a passionate indie game developer, and her long-awaited game 'Ruminate'. Her excitement turns to despair when the influential streamer ML_Law publishes a devastating review, crushing her dreams and igniting a fierce resolve for revenge.",
+  "word_count": 687,
+  "confidence": "high"
+}

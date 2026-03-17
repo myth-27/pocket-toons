@@ -1,0 +1,612 @@
+{
+  "title_header": "Tower of God, Episode 10: 2F Lero Ro's Test",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Evankhell's Mothership. The Second Test Point.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wow, they all seem powerful and vicious.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Everyone looks formidable. They are survivors of the first test, indeed.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Now it feels like the real test has begun! I'm excited!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIBISU",
+      "line": "What do you think, Hatz? Aren't you excited to see those powerful guys? Is your fighting spirit rising?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HATZ",
+      "line": "Because of your chattering mouth, my sword arm wants to strike.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIBISU",
+      "line": "I-is that so? Well then, Anaak, how do you feel? Aren't you excited or--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ANAAK",
+      "line": "Oh yeah, excited. I'm very excited to be on a team with you, you useless blabbermouth.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHIBISU",
+      "line": "Ah, okay. You-- I don't think you know me well, but I am really strong! I've learned deadly martial arts!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ANAAK",
+      "line": "Don't lie, you know.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Martial arts is a secret form of combat passed down from the Tower--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ANAAK",
+      "line": "Just shut up!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ANAAK",
+      "line": "I-I've never been to a place with such a crowd, Knight. I'm so scared.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BAM",
+      "line": "Don't worry, Lady Anaak. I will always be your shield.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "Oh my, how sweet. Love's blossoming here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "Hey, I haven't been to a place with this many people either. Maybe you're bad at socializing.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Whatever.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Oh, it's that red-haired guy. How did he pass the team test?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Oh, him? He attacked everyone he met. And killed all of them there? Mercilessly? He's vicious!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "How could anyone team up with him? I don't get it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Well, his teammates don't look ordinary either.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Gosh, why does he keep thumping?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Are you sure we can trust him?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Haha, I guarantee he's strong.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Amazing, this many regulars passed the test.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Well, it looks like there are more than 100. They are the chosen ones, for sure. There's no doubt they passed the test.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "Be careful, Bam. Some of them have unusual powers. Some are cheap and dirty players.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "The chosen regulars who came from the Residential Area must have at least one extraordinary talent. Don't underestimate any of them.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAK",
+      "line": "All the regulars here are ferocious enemies!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAK",
+      "line": "Well, I'm sure we're the strongest team! Because our leader is the awesome and powerful Mr. Crocodile!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAK",
+      "line": "Haha! Who's what?! You tricky turtles! Get your hands off of me! Bug off!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "Rak! How can you do that to a teammate?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAK",
+      "line": "You're not my teammate! You jerk!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Story by Slave. In. Utero. Tower of God. 2F Lero Ro's Test.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Finally! I gotcha! I will kill you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Look what you did to my arm! How are you going to make up for this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Kuk? I don't know. Maybe you can buy a stick and attach it to your arm.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What? You! Jerk!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Stop right there, pals. I'm sorry to see your arm like that, but fighting is prohibited during the break. And you got hurt during the test, so it was justified.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Justified? Kuk? I was ambushed! I'm not so weak as to be beaten by this guy!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "What I mean is-- I'm sure you would've been surely beaten even if it wasn't an ambush. You're just weak.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You're really asking for it, aren't you?! Well, you got it! Bring it on! Let's fight! I don't care about the test anymore!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "They seem to be fighting during the break, Mr. Khun. Shouldn't we stop them?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Leave 'em. They will be stopped soon. Did you not understand? No fighting during break time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "There you go. You didn't take my words seriously, did you, regulars?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Who's this guy? He looks like a cricket!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Do you wanna die, too?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "S-stop! I think he's--!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "I'm the Test Administrator, Lero Ro.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Test Administrator? Then you are a Ranker?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Yes, I'm a Ranker of the Tower.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Real Ranker, for real?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "D-damn it! I'm only backing down because the Ranker's here!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "But remember! I'll be the one to kill you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Hmph. Well, well.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Isn't this a feisty crowd?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wow, he's good. He didn't say much, but he stopped the fight.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Yeah, of course. He's a Ranker and the Test Administrator.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A Ranker? What? By the way, what's a 'Ranker'?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You don't even know about Rankers?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Rankers are people who've reached the top of the Tower. They are assigned a ranking every season in the Tower, and that's why they are called Rankers.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "To-- to the top of the Tower?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Yeah, they're amazing. Only one or two out of thousands of regulars get to be Rankers. Quite frankly, they are monsters. They've got crazy power.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Reached the top of the Tower. Those two, they were amazing people.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "My test, regulars! Please focus!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "I will explain the next round. Before that, to give you some brief information about myself, I'm your Test Administrator, Ranker Lero Ro.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Nice to meet you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Now that you've had some time to rest, let's move on to the next test!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "But before that, there will be a little pretest!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "FYI! Those who don't pass this pretest cannot take the next test!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "?! What? That means it is another elimination test! What is he testing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Ha ha! Don't worry! It is a really simple pretest! Relax, all right, let's begin, the pretest. Okay.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "This way and that way, here and there, and everywhere, and boom!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What's this?! Darn it! Is this Shinsu?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Yep, I created a barrier of Shinsu. I compressed the Shinsu to make a barrier that pushed you all out.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "As you well know, Shinsu is everywhere in the Tower, and it plays an important role because it allows us to breathe and provides water.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "However, Shinsu can sometimes be a powerful murder weapon depending on how it's used.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Shinsu is so strong that it can break an arm, so all the contestants in the Tower use Shinsu to fight.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "However, there are people who show adverse reactions to Shinsu. In other words, those who can't deal well with the Shinsu are not appropriate candidates to be in the Tower.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "The people who can pass through this veil barrier don't have adverse reactions to Shinsu, at least.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "The teams that pass through the barrier pass the test as well, and those who don't, fail.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "All right then, everyone, please come through.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Wait! Did you say team?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What if one of your teammates can't pass through the barrier?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Isn't it obvious? That team fails.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "That's absurd! Doesn't make sense!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Absurd? What is?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Yeah! We joined teams last minute! It's not fair if I'm eliminated because of a teammate! That's just bad luck!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It's rubbish! Is this a lottery?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Hey, do you know what is the most important to move up the Tower?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "It's luck. The luck of having a strong body, the luck of being smart, the luck of being quick, the luck of escaping from death.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "The luck of saving a teammate. The only reason you got this far is because you were lucky.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "And now you say it's absurd to test luck?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "Stop your jabbering and just take the test, you regulars.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Damn it, he's saying whatever he wants, which means this has nothing to do with fairness.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "Well, actually, the concentration of the Shinsu in that barrier doesn't look that high. Since he's been hunting in the Shinsu, he'll easily pass.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KHUN",
+      "line": "The problem is Bam.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BAM",
+      "line": "Bam? I'm sorry, Mr. Lero Ro.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BAM",
+      "line": "I... I don't know why, but I wasn't pushed out.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BAM",
+      "line": "I... To take the test, I should probably go out and come back in, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BAM",
+      "line": "?! Ah, ha ha ha, I... It's... I-I'm sorry! I will go back out! It's a test after all!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "No, Mr. Bam, you're in.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "I think I made a mistake, but, ha ha, that is also part of your luck.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LERO RO",
+      "line": "You passed, Mr. Bam.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What?! Damn it! That stupid luck thing!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "He's got all the luck, huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "W-what? What's going on? Boo! He couldn't possibly have made a mistake! Damn! So the world is all about luck, huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Crocodile and I were right next to him but we were pushed out! Like a lottery!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You will never walk alone, you will never walk alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It's not a mistake! He just wasn't pushed out!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What is this? Who is he?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A monster has arrived.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Tower of God. To be continued.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "THUMP",
+    "KNOCKED OVER",
+    "GRAB",
+    "BAW",
+    "GRIN",
+    "GMIL",
+    "TA DA",
+    "OMH",
+    "SRGCN",
+    "SWOOSH",
+    "MHAKE",
+    "SHAKE",
+    "WHOOSH",
+    "ARGHHH",
+    "LEH",
+    "FLP",
+    "OOF",
+    "AREH",
+    "APE",
+    "KKK",
+    "KKKHI",
+    "UPEH",
+    "WIOOG",
+    "SLREACL",
+    "APETI",
+    "WHOOST",
+    "GVNEK",
+    "GBAM",
+    "APGE",
+    "BOOOO",
+    "GHEWS",
+    "KISC"
+  ],
+  "summary": "The regulars gather for the second test, where Lero Ro, the Test Administrator and a Ranker, intervenes in a fight and introduces a pretest involving a Shinsu barrier. He explains that teams will fail if any member cannot pass, emphasizing the role of luck in the Tower. Surprisingly, Bam passes the Shinsu barrier effortlessly, causing confusion and frustration among the other participants.",
+  "word_count": 1400,
+  "confidence": "high"
+}

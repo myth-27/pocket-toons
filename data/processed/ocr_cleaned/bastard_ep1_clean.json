@@ -1,0 +1,259 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "My world is a constant blur, a muted echo of what others see and hear. One eye, a glass orb. The other, clouded by fear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Every morning, the same ritual. The cold porcelain of the sink. The careful placement.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) Another day. Another performance.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The floorboards groan under my weight, each sound a potential betrayal. He has ears everywhere.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "Good morning, Jin. Sleep well?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His voice, smooth as polished stone. Always. Too smooth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "Yes, Father.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) No. I never sleep well. Not in this house.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "Pancakes today. Your favorite.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIZZLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) He knows my favorites. He knows everything. That's the problem.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The syrup drips, thick and sweet. A sickly sweetness that coats my throat.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "You're quiet this morning. Something on your mind?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "No, Father. Just... thinking about school.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "Good. Focus on your studies. You're a smart boy, Jin. You just need to... apply yourself.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) Apply myself to what? To being your accomplice? Your witness?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHIRP (birds outside)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Outside, the world pretends to be normal. Inside, the air is thick with unspoken rules.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "School is no escape. Just another cage, with different bars.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Hey, one-eye! Still staring at nothing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOVE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) Just ignore them. Don't cause trouble. Trouble always finds its way back home.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "What's wrong, mute? Can't even talk back?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I keep my head down, my gaze fixed on the cracked pavement. Invisible. That's the goal.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Evening. The house is quiet again. Too quiet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAKS OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) He's back. I can feel it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "Jin? Are you home?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "Yes, Father. In my room.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (slow, deliberate)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "The news is reporting another missing person. A young woman, just like the others.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) My blood runs cold. He's talking about it. Right in front of me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "Such a shame. The world can be a dangerous place, can't it, Jin?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "Yes, Father.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "But some dangers... are closer than you think.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP (a muffled sound from downstairs)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) What was that? No, don't ask. Don't look. Don't know.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "I need you to do something for me, Jin.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) Here it comes. The request. The order. The complicity.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "There's a package in the basement. It needs to be... disposed of. Carefully.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My breath catches. A package. In the basement. I know what that means.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "You know the drill, don't you, son? Don't leave any traces.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jin Seon",
+      "line": "(thought) My hands are shaking. My stomach churns. I'm a monster, just like him. A bastard.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP (slow, rhythmic, from an unseen source)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Dongsoo",
+      "line": "Good boy. You always were so good at following instructions.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The darkness of the basement calls. And I, the 'good boy,' have no choice but to answer.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLICK",
+    "CREAK",
+    "SIZZLE",
+    "CHIRP",
+    "SHOVE",
+    "DOOR CREAKS OPEN",
+    "FOOTSTEPS",
+    "THUMP",
+    "DRIP"
+  ],
+  "summary": "Jin Seon, a quiet high school student with a prosthetic eye, navigates his oppressive home life under his charming yet terrifying serial killer father, Dongsoo. After enduring bullying at school, Jin returns home only for his father to subtly reveal his latest crime and task Jin with disposing of the evidence, forcing him into unwilling complicity.",
+  "word_count": 709,
+  "confidence": "high"
+}

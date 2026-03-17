@@ -1,0 +1,256 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Kade's world was a carefully curated ecosystem of code, caffeine, and the comforting hum of his PC. His apartment, a sanctuary from the unpredictable chaos of the outside, rarely saw uninvited guests.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Just a few more lines of code... then I can finally fix that rendering bug. This game isn't going to finish itself. Another all-nighter, probably. But hey, at least I don't have to deal with... people.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK-CLACK (keyboard)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KADE",
+      "line": "The silence is nice. Peaceful. Just me and my thoughts. And maybe a few thousand lines of C++.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (a soft, distant sound)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Was that... a plane? No, too close. Too... soft. Like something falling, but not crashing.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD. (A gentle, muffled impact from the backyard)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KADE",
+      "line": "What in the world...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Probably just a branch. Or maybe a raccoon got into the trash again. Better check. Last time, it was a whole family of them. Cute, but destructive.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (door opening)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH (grass underfoot)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The cool night air hit Kade's face, a stark contrast to the stale warmth of his apartment. He squinted into the darkness of his small backyard, the faint glow from his neighbor's porch light barely illuminating anything.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Nothing. See? Just my imagination. Or maybe I'm finally losing it from lack of sleep.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (from behind the large oak tree)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Hello? Is anyone there?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Okay, definitely not a raccoon. Too big for that. And it's not moving like an animal.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kade cautiously stepped closer, his heart beginning to thump an irregular rhythm against his ribs. He peered around the thick trunk of the ancient oak.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And there she was. Not a raccoon. Not a branch. Definitely not a plane.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A girl. Or something that looked like a girl.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Whoa!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "What in the actual...? She's... glowing? And her hair... it's like a nebula. And what is she wearing? Is that... a spacesuit? No, it's more like a shimmering, form-fitting fabric.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "Greetings, inhabitant of Sector 7-G.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": " (stumbling back) Sector... what? Who are you? How did you get in my yard?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "My vessel experienced an unscheduled atmospheric re-entry. My apologies for the disturbance to your... foliage.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Vessel? Foliage? Is this some kind of prank? A very elaborate, very expensive prank. But her eyes... they're so wide. And... purple?",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "My designation is Unit 734, but you may refer to me as Zaida. I am here to observe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Observe...? Observe what? Me?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "Primarily. Your species, specifically. Your planet's unique atmospheric composition and diverse biological structures are of great interest to the Intergalactic Federation.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Intergalactic Federation? Okay, I'm definitely dreaming. Or I've finally snapped. Maybe I should just go back inside and pretend this never happened.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "You appear distressed. Is this a typical human reaction to unexpected encounters with non-native life forms?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": " (swallowing hard) Uh, yeah. Pretty much. Especially when they fall out of the sky and talk about intergalactic federations.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "My apologies. My landing sequence was... less than optimal. My energy core requires immediate replenishment. Do you possess any high-density caloric paste? Or perhaps a suitable energy conduit?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Caloric paste? Energy conduit? She's asking for food, right? Or... a charger?",
+      "type": "thought"
+    },
+    {
+      "speaker": "KADE",
+      "line": "I have... instant ramen? And a power strip?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": " (tilting her head, a hint of curiosity in her voice) Instant ramen. Is that a primary sustenance source for your species?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": " (sighing) For me, sometimes. Look, Zaida, I don't know what's going on, but you can't just... be here. My neighbors...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "My presence must remain undisclosed. My mission parameters dictate minimal interference. However, my current state of depletion compromises my ability to maintain stealth.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Stealth? She just crashed in my backyard!",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "Therefore, I require temporary shelter and assistance with energy restoration. Your dwelling appears... adequate.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "My dwelling? You want to stay in my house? With me?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "Affirmative. It would facilitate optimal observation and minimize external contamination.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "This is insane. Absolutely, undeniably insane. But... she looks so lost. And kind of... beautiful, in a completely otherworldly way. What am I even thinking?",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "Your internal monologue indicates a conflict between logical assessment and emotional response. A fascinating human trait.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": " (blushing) You can hear my thoughts?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZAIDA",
+      "line": "A rudimentary telepathic link is established for efficient communication. It facilitates data acquisition.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KADE",
+      "line": "Oh god. This is going to be a long night.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KADE",
+      "line": " (rubbing his temples) Look, Zaida. Let's just... go inside. We need to talk. And maybe I have some... ramen.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "CLICK-CLACK",
+    "WHOOSH",
+    "THUD",
+    "CREAK",
+    "CRUNCH",
+    "RUSTLE"
+  ],
+  "summary": "Kade, a reclusive programmer, finds his quiet life disrupted when a mysterious, glowing girl named Zaida crashes into his backyard, claiming to be an alien observer in need of shelter and \"energy restoration.\"",
+  "word_count": 732,
+  "confidence": "high"
+}

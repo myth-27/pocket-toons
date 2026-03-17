@@ -1,0 +1,295 @@
+{
+  "title_header": "Omniscient Reader, Episode: 10",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "DOKJA, OVER HERE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Okay, I'm going to open it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THIS ONE IS BROKEN TOO.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BUT IT IS STILL THE ONLY ONE WE HAVE A CHANCE AT OPENING.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "4,700 coins possessed. I could use my coins again and increase my strength this time. But who knows what will happen? Recklessly using my coins so early on could be dangerous.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DOKJA",
+      "line": "Hyeonseong, use your skill.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYEONSEONG",
+      "line": "What?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[PERSONAL SKILL CHARACTER PROFILE ACTIVATED]",
+      "type": "narration"
+    },
+    {
+      "speaker": "HYEONSEONG",
+      "line": "By skill, you mean...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[CHARACTER PROFILE] NAME: HYEONSEONG LEE AGE: 28 SUPPORTING CONSTELLATION: MASTER OF STEEL PERSONAL ATTRIBUTE: SOLDIER WHO TURNED A BLIND EYE TO INJUSTICE (GENERAL) SKILLS: [CAMOUFLAGE LV.2], [PATIENCE LV.2] STIGMA: [GREAT MOUNTAIN PUSH LV.1] OVERALL STATS: [STAMINA LV. 8], [STRENGTH LV. 8] [AGILITY LV. 7], [MANA LV. 5] GENERAL EVALUATION: HYEONSEONG LEE HAS VERY GOOD OVERALL STATS. ALTHOUGH HOW READILY HE TURNED A BLIND EYE TO INJUSTICE WAS SURPRISING, A CONSTELLATION STILL SELECTED HIM. THIS IS ANOTHER OPPORTUNITY FOR HIM.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Thankfully, his supporting constellation and attribute are the same as the novel.",
+      "type": "thought"
+    },
+    {
+      "speaker": "DOKJA",
+      "line": "You probably checked your skills when you opened your attributes window earlier. You're in the army, so there must be a skill you can use right now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYEONSEONG",
+      "line": "Well... I do have one, but I don't know how to use it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOKJA",
+      "line": "Just imagine yourself using it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYEONSEONG",
+      "line": "That is all it takes?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It worked! It really worked!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[HYEONSEONG LEE HAS BEGUN TO TRUST YOU]",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[YOUR UNDERSTANDING OF HYEONSEONG LEE HAS INCREASED]",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Looks like the stigma, [GREAT MOUNTAIN PUSH], successfully activated. He's so simple-minded.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "The steel door connected to subway cabin 3707 will break soon. Run!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But if my memory serves me right... the steel door isn't the problem.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Gosh, I knew this would happen!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I told you earlier... to stay put!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Damn it! I'm not done preparing the next scenario!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahh! I knew it! I told you we should stay inside! M-My head!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Sigh... Well, I guess I have no choice.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "You're very lucky human beings.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[THE SECOND SCENARIO HAS ARRIVED]",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "<SUB SCENARIO ESCAPE> CATEGORY: SUB DIFFICULTY: E CLEAR CONDITIONS: GET ACROSS THE COLLAPSED BRIDGE AND ENTER OKSU STATION. TIME LIMIT: 20 MINUTES REWARD: 200 COINS PENALTY FOR FAILURE: ???",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I knew it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SANGAH",
+      "line": "Dokja, something doesn't feel right. It says 'collapsed bridge,' but the bridge isn't...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOKJA",
+      "line": "Don't worry about it and just run! Hurry!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Sangah is right. The bridge is still intact because we got off the train too early. In other words, the bridge definitely will collapse. Current Location: Oksu Station.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It might seem underhanded, but it is impossible to clear this scenario without going around the rules.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "We're cutting it close, but I think we'll make it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ah! What the hell is that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It is an Ichthyosaur! No, a Sea Serpent! Or maybe a Sea Commander from... its size?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I-It is coming! The bridge is going to collapse!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Run? We can make it across if we run!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The Ichthyosaur doesn't go after incarnations early on in the story. It probably showed up to destroy the bridge.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "We only have about 200 yards left!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "At this speed, we'll be able to cross the bridge before it collapses!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "It is no fun if the game is too easy, is it?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Oh no...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What's the fun in you getting away safely? Let's shake things up a bit!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[THE DIFFICULTY OF THE SCENARIO HAS BEEN ADJUSTED] DIFFICULTY: E -> D",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[THE EVIL THOUGHTS OF THE DEAD HAVE RETURNED]",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[BLACK ETHER IS RISING FROM THE SURROUNDING EARTH]",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Huh? Z-Zombies?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[DEMONIC BEINGS HAVE BEEN RESURRECTED!]",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahh! Y-You bastards!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Dokja!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "[YOU HAVE ENTERED OKSU STATION]",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Damn it! Everyone get down!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Dokja!",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "SLAM",
+    "BREAK",
+    "CRACK",
+    "HAAAAAA",
+    "RATTLE RATTLE",
+    "AHHH",
+    "SNAR",
+    "DING",
+    "SNAP",
+    "VNG"
+  ],
+  "summary": "The group attempts to open a subway door, with Dokja guiding Hyeonseong to use his skill to break it. They escape the train car just as a new scenario begins, requiring them to cross a collapsing bridge to Oksu Station. However, a mysterious entity intervenes, raising zombies and increasing the scenario's difficulty, forcing them to fight their way into the station.",
+  "word_count": 700,
+  "confidence": "high"
+}

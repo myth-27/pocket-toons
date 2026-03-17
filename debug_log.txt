@@ -174,3 +174,299 @@ DEBUG: Processing Thriller_Low_9.txt
 DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 338}
 DEBUG: Processing Thriller_Medium_11.txt
 DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 270}
+DEBUG: Processing Action_High_13.txt
+DEBUG: Features: {'emotional_intensity_score': 5.1813, 'cliffhanger_density': 2.5907, 'trope_density': 12.9534, 'character_focus_score': 0.7772, 'pacing_proxy': 0.0, 'word_count': 386}
+DEBUG: Processing Action_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 62.5, 'cliffhanger_density': 25.0, 'trope_density': 75.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Action_High_6.txt
+DEBUG: Features: {'emotional_intensity_score': 4.5662, 'cliffhanger_density': 2.2831, 'trope_density': 11.4155, 'character_focus_score': 0.6849, 'pacing_proxy': 0.0, 'word_count': 438}
+DEBUG: Processing Action_Low_0.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_3.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 7.9681, 'character_focus_score': 0.7968, 'pacing_proxy': 0.0, 'word_count': 251}
+DEBUG: Processing Action_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Action_Medium_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 11.5607, 'character_focus_score': 1.1561, 'pacing_proxy': 0.0, 'word_count': 173}
+DEBUG: Processing Drama_High_3.txt
+DEBUG: Features: {'emotional_intensity_score': 100.0, 'cliffhanger_density': 25.0, 'trope_density': 62.5, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Drama_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 6.1728, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Medium_1.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 384}
+DEBUG: Processing Drama_Medium_6.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 8.547, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 390}
+DEBUG: Processing Fantasy_High_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 308}
+DEBUG: Processing Fantasy_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 144}
+DEBUG: Processing Fantasy_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 126}
+DEBUG: Processing Fantasy_High_4.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 306}
+DEBUG: Processing Fantasy_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 148}
+DEBUG: Processing Fantasy_Medium_16.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Fantasy_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_High_11.txt
+DEBUG: Features: {'emotional_intensity_score': 137.5, 'cliffhanger_density': 25.0, 'trope_density': 25.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Romance_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 4.914, 'cliffhanger_density': 0.0, 'trope_density': 4.914, 'character_focus_score': 0.7371, 'pacing_proxy': 0.0, 'word_count': 407}
+DEBUG: Processing Romance_High_17.txt
+DEBUG: Features: {'emotional_intensity_score': 6.8259, 'cliffhanger_density': 0.0, 'trope_density': 6.8259, 'character_focus_score': 1.0239, 'pacing_proxy': 0.0, 'word_count': 293}
+DEBUG: Processing Romance_Low_17.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.6336, 'trope_density': 15.2672, 'character_focus_score': 3.0534, 'pacing_proxy': 0.0, 'word_count': 131}
+DEBUG: Processing Romance_Low_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Medium_13.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_Medium_4.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.0922, 'trope_density': 14.1844, 'character_focus_score': 2.8369, 'pacing_proxy': 0.0, 'word_count': 141}
+DEBUG: Processing Thriller_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 338}
+DEBUG: Processing Thriller_Medium_11.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 270}
+DEBUG: Processing Action_High_13.txt
+DEBUG: Features: {'emotional_intensity_score': 5.1813, 'cliffhanger_density': 2.5907, 'trope_density': 12.9534, 'character_focus_score': 0.7772, 'pacing_proxy': 0.0, 'word_count': 386}
+DEBUG: Processing Action_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 62.5, 'cliffhanger_density': 25.0, 'trope_density': 75.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Action_High_6.txt
+DEBUG: Features: {'emotional_intensity_score': 4.5662, 'cliffhanger_density': 2.2831, 'trope_density': 11.4155, 'character_focus_score': 0.6849, 'pacing_proxy': 0.0, 'word_count': 438}
+DEBUG: Processing Action_Low_0.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_3.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 7.9681, 'character_focus_score': 0.7968, 'pacing_proxy': 0.0, 'word_count': 251}
+DEBUG: Processing Action_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Action_Medium_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 11.5607, 'character_focus_score': 1.1561, 'pacing_proxy': 0.0, 'word_count': 173}
+DEBUG: Processing Drama_High_3.txt
+DEBUG: Features: {'emotional_intensity_score': 100.0, 'cliffhanger_density': 25.0, 'trope_density': 62.5, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Drama_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 6.1728, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Medium_1.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 384}
+DEBUG: Processing Drama_Medium_6.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 8.547, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 390}
+DEBUG: Processing Fantasy_High_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 308}
+DEBUG: Processing Fantasy_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 144}
+DEBUG: Processing Fantasy_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 126}
+DEBUG: Processing Fantasy_High_4.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 306}
+DEBUG: Processing Fantasy_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 148}
+DEBUG: Processing Fantasy_Medium_16.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Fantasy_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_High_11.txt
+DEBUG: Features: {'emotional_intensity_score': 137.5, 'cliffhanger_density': 25.0, 'trope_density': 25.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Romance_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 4.914, 'cliffhanger_density': 0.0, 'trope_density': 4.914, 'character_focus_score': 0.7371, 'pacing_proxy': 0.0, 'word_count': 407}
+DEBUG: Processing Romance_High_17.txt
+DEBUG: Features: {'emotional_intensity_score': 6.8259, 'cliffhanger_density': 0.0, 'trope_density': 6.8259, 'character_focus_score': 1.0239, 'pacing_proxy': 0.0, 'word_count': 293}
+DEBUG: Processing Romance_Low_17.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.6336, 'trope_density': 15.2672, 'character_focus_score': 3.0534, 'pacing_proxy': 0.0, 'word_count': 131}
+DEBUG: Processing Romance_Low_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Medium_13.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_Medium_4.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.0922, 'trope_density': 14.1844, 'character_focus_score': 2.8369, 'pacing_proxy': 0.0, 'word_count': 141}
+DEBUG: Processing Thriller_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 338}
+DEBUG: Processing Thriller_Medium_11.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 270}
+DEBUG: Processing Action_High_13.txt
+DEBUG: Features: {'emotional_intensity_score': 5.1813, 'cliffhanger_density': 2.5907, 'trope_density': 12.9534, 'character_focus_score': 0.7772, 'pacing_proxy': 0.0, 'word_count': 386}
+DEBUG: Processing Action_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 62.5, 'cliffhanger_density': 25.0, 'trope_density': 75.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Action_High_6.txt
+DEBUG: Features: {'emotional_intensity_score': 4.5662, 'cliffhanger_density': 2.2831, 'trope_density': 11.4155, 'character_focus_score': 0.6849, 'pacing_proxy': 0.0, 'word_count': 438}
+DEBUG: Processing Action_Low_0.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_3.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 7.9681, 'character_focus_score': 0.7968, 'pacing_proxy': 0.0, 'word_count': 251}
+DEBUG: Processing Action_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Action_Medium_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 11.5607, 'character_focus_score': 1.1561, 'pacing_proxy': 0.0, 'word_count': 173}
+DEBUG: Processing Drama_High_3.txt
+DEBUG: Features: {'emotional_intensity_score': 100.0, 'cliffhanger_density': 25.0, 'trope_density': 62.5, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Drama_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 6.1728, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Medium_1.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 384}
+DEBUG: Processing Drama_Medium_6.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 8.547, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 390}
+DEBUG: Processing Fantasy_High_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 308}
+DEBUG: Processing Fantasy_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 144}
+DEBUG: Processing Fantasy_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 126}
+DEBUG: Processing Fantasy_High_4.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 306}
+DEBUG: Processing Fantasy_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 148}
+DEBUG: Processing Fantasy_Medium_16.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Fantasy_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_High_11.txt
+DEBUG: Features: {'emotional_intensity_score': 137.5, 'cliffhanger_density': 25.0, 'trope_density': 25.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Romance_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 4.914, 'cliffhanger_density': 0.0, 'trope_density': 4.914, 'character_focus_score': 0.7371, 'pacing_proxy': 0.0, 'word_count': 407}
+DEBUG: Processing Romance_High_17.txt
+DEBUG: Features: {'emotional_intensity_score': 6.8259, 'cliffhanger_density': 0.0, 'trope_density': 6.8259, 'character_focus_score': 1.0239, 'pacing_proxy': 0.0, 'word_count': 293}
+DEBUG: Processing Romance_Low_17.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.6336, 'trope_density': 15.2672, 'character_focus_score': 3.0534, 'pacing_proxy': 0.0, 'word_count': 131}
+DEBUG: Processing Romance_Low_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Medium_13.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_Medium_4.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.0922, 'trope_density': 14.1844, 'character_focus_score': 2.8369, 'pacing_proxy': 0.0, 'word_count': 141}
+DEBUG: Processing Thriller_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 338}
+DEBUG: Processing Thriller_Medium_11.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 270}
+DEBUG: Processing Action_High_13.txt
+DEBUG: Features: {'emotional_intensity_score': 5.1813, 'cliffhanger_density': 2.5907, 'trope_density': 12.9534, 'character_focus_score': 0.7772, 'pacing_proxy': 0.0, 'word_count': 386}
+DEBUG: Processing Action_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 62.5, 'cliffhanger_density': 25.0, 'trope_density': 75.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Action_High_6.txt
+DEBUG: Features: {'emotional_intensity_score': 4.5662, 'cliffhanger_density': 2.2831, 'trope_density': 11.4155, 'character_focus_score': 0.6849, 'pacing_proxy': 0.0, 'word_count': 438}
+DEBUG: Processing Action_Low_0.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Action_Low_3.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 7.9681, 'character_focus_score': 0.7968, 'pacing_proxy': 0.0, 'word_count': 251}
+DEBUG: Processing Action_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Action_Medium_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 11.5607, 'character_focus_score': 1.1561, 'pacing_proxy': 0.0, 'word_count': 173}
+DEBUG: Processing Drama_High_3.txt
+DEBUG: Features: {'emotional_intensity_score': 100.0, 'cliffhanger_density': 25.0, 'trope_density': 62.5, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Drama_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 6.1728, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Drama_Medium_1.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_12.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 384}
+DEBUG: Processing Drama_Medium_6.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 8.547, 'trope_density': 25.641, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Drama_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 390}
+DEBUG: Processing Fantasy_High_10.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 308}
+DEBUG: Processing Fantasy_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_18.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 144}
+DEBUG: Processing Fantasy_High_2.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 126}
+DEBUG: Processing Fantasy_High_4.txt
+DEBUG: Features: {'emotional_intensity_score': 87.5, 'cliffhanger_density': 25.0, 'trope_density': 50.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Fantasy_High_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 306}
+DEBUG: Processing Fantasy_Low_15.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 148}
+DEBUG: Processing Fantasy_Medium_16.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Fantasy_Medium_8.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_High_11.txt
+DEBUG: Features: {'emotional_intensity_score': 137.5, 'cliffhanger_density': 25.0, 'trope_density': 25.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 80}
+DEBUG: Processing Romance_High_14.txt
+DEBUG: Features: {'emotional_intensity_score': 4.914, 'cliffhanger_density': 0.0, 'trope_density': 4.914, 'character_focus_score': 0.7371, 'pacing_proxy': 0.0, 'word_count': 407}
+DEBUG: Processing Romance_High_17.txt
+DEBUG: Features: {'emotional_intensity_score': 6.8259, 'cliffhanger_density': 0.0, 'trope_density': 6.8259, 'character_focus_score': 1.0239, 'pacing_proxy': 0.0, 'word_count': 293}
+DEBUG: Processing Romance_Low_17.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 6.1728, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_19.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.6336, 'trope_density': 15.2672, 'character_focus_score': 3.0534, 'pacing_proxy': 0.0, 'word_count': 131}
+DEBUG: Processing Romance_Low_5.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Low_7.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 162}
+DEBUG: Processing Romance_Medium_13.txt
+DEBUG: Features: {'emotional_intensity_score': 8.547, 'cliffhanger_density': 0.0, 'trope_density': 8.547, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 117}
+DEBUG: Processing Romance_Medium_4.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 7.0922, 'trope_density': 14.1844, 'character_focus_score': 2.8369, 'pacing_proxy': 0.0, 'word_count': 141}
+DEBUG: Processing Thriller_Low_9.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 338}
+DEBUG: Processing Thriller_Medium_11.txt
+DEBUG: Features: {'emotional_intensity_score': 0.0, 'cliffhanger_density': 0.0, 'trope_density': 0.0, 'character_focus_score': 0.0, 'pacing_proxy': 0.0, 'word_count': 270}

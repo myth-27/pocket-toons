@@ -1,0 +1,222 @@
+{
+  "title_header": "Tower of God, Episode 2: Headon's Floor",
+  "dialogue": [
+    {
+      "speaker": "Rachel",
+      "line": "WHERE ARE YOU GOING!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rachel",
+      "line": "I'M GOING UP THE TOWER. REMEMBER WHAT I TOLD YOU, BAM? I CAN GET TO THE OUTER WORLD IF I GET TO THE TOP OF THE TOWER. I WILL SEE BLUE SKY DURING THE DAY, AND STARLIGHT AT NIGHT. SO, I'M GOING UP THE TOWER. I'M SICK OF LIVING IN THIS DARK WORLD. I'M SORRY, BAM. I'M SORRY. FORGET ABOUT ME. LET ME BE BORN AGAIN. PLEASE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "NO, NO! RACHEL! NO! DON'T GO, RACHEL! PLEASE DON'T DO THIS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "NO! DON'T GO, RACHEL! IF YOU GO, I'LL FOLLOW YOU UNTIL I DIE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "DON'T GO! DON'T GO, RACHEL! DON'T GOOOO! PLEASE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WHERE AM I?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bam",
+      "line": "LIGHT?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Headon",
+      "line": "MY, MY. IT'S BEEN A WHILE SINCE THERE'S BEEN A VISITOR LIKE YOU HERE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "W-WHO'S THERE?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "WHOA, WHOA, I WON'T HURT YOU. IT'S BEEN A WHILE SINCE A VISITOR HAS OPENED THE GATE BY HIMSELF. WELCOME TO THE TOWER, YOUNG MAN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I-IS IT A MONSTER? INSIDE THE TOWER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "MY NAME IS HEADON. I'M THE GUARDIAN OF THE FIRST FLOOR OF THE TOWER. WHAT'S YOUR NAME, YOUNG MAN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "MY NAME IS...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "THE 25TH BAM. IT'S THE DAY I WAS BORN. \"BAM\" HAS TWO DIFFERENT MEANINGS IN KOREAN: 1. NIGHT, 2. CHESTNUT. WHAT A DIFFICULT NAME TO SAY. WELL THEN, I WILL CALL YOU BAM, BOY. NOW THAT SOUNDS TASTY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "SO, MR. BAM, HOW DID YOU END UP HERE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "OH! I FOLLOWED A GIRL HERE! DIDN'T A GIRL WITH BLONDE HAIR GO PAST HERE?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "A GIRL WITH BLONDE HAIR? OH! SO YOU SAW HER?! DO YOU KNOW WHERE SHE WENT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "WELL... THAT IS... PLEASE TELL ME! I NEED TO FIND HER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "ALL ANSWERS ARE UP THERE. THAT'S ALL I CAN TELL YOU. IF YOU WANT TO FIND YOUR ANSWER AND YOUR GIRL, HEAD UP. WHETHER YOU ARE LOOKING FOR WEALTH, IMMORTALITY, ABSOLUTE POWER, MAGICAL ABILITIES, OR MYSTERIES, JUST HEAD UP. ALL THE TRUTH, GLORY, AND HAPPINESS OF THE WORLD ARE ALL UP THERE. THE TOWER IS SUCH A PLACE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "BUT REMEMBER THAT IT IS A HARD AND PAINFUL JOURNEY TO EMBARK ON, YOUNG MAN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I WOULD TAKE ANY RISK, JUST TO SEE HER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "EXCELLENT, I LIKE YOUR RESOLVE. THEN, LET'S DO A TEST TO SEE IF YOU ARE QUALIFIED TO GO UP THE TOWER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "A TEST? WHAT TEST?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "IN THIS TOWER, EVERY TIME YOU GO UP A FLOOR, THERE IS A TEST TO SEE WHETHER YOU ARE QUALIFIED TO GO TO THE NEXT FLOOR. IF YOU PASS THE TEST, YOU CAN PROCEED TO THE NEXT FLOOR. TESTS ARE DECIDED BY THE ADMINISTRATORS AND RULERS OF EACH FLOOR. OF COURSE, THE DIFFICULTY VARIES DEPENDING ON WHICH FLOOR YOU ARE ON.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "IN OTHER WORDS, IF MR. BAM WANTS TO GO UP TO THE NEXT FLOOR, YOU NEED TO PASS MY TEST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "LOOK. THIS IS THE TEST OF THE FIRST FLOOR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "THE \"BALL\"? WHAT? WHAT IS THE BALL? AND WHAT IS THAT HUGE MONSTER?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "THE \"BALL\" IS A SIMPLE TEST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "THE \"BALL\" IS THAT ROUND, HUMAN-SIZED SPHERE. IT IS DESIGNED TO POP WHEN HIT HARD ENOUGH. TO PASS THE TEST, THE RULES ARE SIMPLE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "YOU NEED TO GO INSIDE THE BARS AND OUTRUN OR DEFEAT THAT MONSTER BY POPPING THAT BALL. DO THAT, AND YOU PASS THE TEST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "COULD IT BE THAT THE MONSTER IS THAT THING OVER THERE?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "CORRECT! THAT'S THE MONSTER. HE IS A \"WHITE ARMORED EEL.\" HE IS A BIG FISH THAT LIVES IN THE SHINSU FLOWING THROUGH THE TOWER. USUALLY, HE HAS A VERY MILD TEMPERAMENT, BUT THIS TIME OF THE YEAR IS HIS SPAWNING SEASON, AND HE HASN'T EATEN ANYTHING FOR A FEW MONTHS, SO HE IS VERY AGGRESSIVE AT THE MOMENT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "ARE YOU AFRAID OF HIM? TOO BAD. IF YOU ARE AFRAID OF THAT FISH, HOW CAN YOU PASS THE TEST? HOW CAN YOU GO ON? IF YOU'RE AFRAID, YOU'LL NEVER FIND THE GIRL YOU'RE LOOKING FOR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "CAN'T SEE HER AGAIN? A GIRL ALONE IN THIS TOWER SURE MAKES ME WORRY. MAYBE SHE'S ALREADY BEEN EATEN BY A HUNGRY EEL, OR BEEN KIDNAPPED BY BAD PEOPLE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "BUT MR. BAM, THINK CALMLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I DON'T WANT THAT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Headon",
+      "line": "IT IS ALMOST IMPOSSIBLE FOR YOU TO POP THAT BALL. TAKING THIS TEST IS SUICIDAL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bam",
+      "line": "I WANT TO SEE HER.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Headon",
+      "line": "THAT EEL IS VERY FAST AND AGILE IN THE SHINSU, AND YOU WON'T BE FAST ENOUGH TO ESCAPE. RIGHT NOW, YOU WILL END UP AS EEL FOOD. RATHER THAN COMMITTING SUICIDE, I THINK YOU SHOULD FORGET ALL THIS AND MOVE ON WITH YOUR LIFE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Headon",
+      "line": "WELCOME TO THE TOWER, MR. BAM.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "HUFF",
+    "HURK",
+    "THUMP",
+    "OOOO",
+    "SLOWLY",
+    "TAP",
+    "GRAB",
+    "ZOOM",
+    "ZDW",
+    "DADA DA",
+    "CRASH",
+    "SNICKER"
+  ],
+  "summary": "Bam chases Rachel into the Tower, where he meets Headon, the Guardian of the First Floor. Headon explains the Tower's rules and tests, then presents Bam with a seemingly impossible challenge to find Rachel: pop a ball while evading a giant, aggressive White Armored Eel.",
+  "word_count": 752,
+  "confidence": "high"
+}

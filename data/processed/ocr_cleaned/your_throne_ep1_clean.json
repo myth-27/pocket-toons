@@ -1,0 +1,207 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Grand Hall of the Imperial Palace hummed with a tension thick enough to choke on. Every noble, every courtier, every servant held their breath, waiting for the Emperor's decree.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "Another day, another performance.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "My family's reputation, my father's ambition, my own damn pride... all hinged on this single moment. The Crown Princess selection.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MURMURS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PSYCHE CALLISTA",
+      "line": "Lady Medea.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "The saccharine voice, like honeyed poison. I turned, a practiced smile already plastered on my face.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "Lady Psyche. You look radiant, as always.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PSYCHE CALLISTA",
+      "line": "Oh, please. You flatter me. I'm merely... nervous.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GIGGLE (soft)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "Nervous? The darling of the empire? The one everyone adores? How quaint.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PSYCHE CALLISTA",
+      "line": "We've both worked so hard, haven't we? No matter the outcome, I hope we can remain friends.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "Friends? You mean, you hope I'll gracefully accept my defeat and disappear into the shadows.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "Of course, Lady Psyche. A true friendship is built on mutual respect, wouldn't you agree?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "EROS ORNA DE ARAD",
+      "line": "And what a beautiful sight it is, to see two of the empire's brightest stars shining together.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Crown Prince Eros, a smile as captivating as it was insincere, approached us.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "The puppet master himself. Always playing to the crowd, always observing.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PSYCHE CALLISTA",
+      "line": "Your Highness!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BOW (rustle)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "EROS ORNA DE ARAD",
+      "line": "Medea, my dear. You look stunning. That gown... it perfectly captures your fierce spirit.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "He knew exactly what to say. A compliment that sounded genuine, yet subtly reminded me of my 'unfeminine' ambition.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "Thank you, Your Highness. I merely dress to reflect the times.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "EROS ORNA DE ARAD",
+      "line": "And Psyche, your gentle grace is a balm to the soul. You both represent the pinnacle of our nobility.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PSYCHE CALLISTA",
+      "line": "You are too kind, Your Highness.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A sudden hush fell over the hall as the Emperor's herald stepped forward.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TRUMPETS (fanfare)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HERALD",
+      "line": "By the grace of the Emperor, and the will of the gods, the next Crown Princess of the Arad Empire shall be...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "My heart hammered against my ribs. This was it. The culmination of years of training, of sacrifice.",
+      "type": "thought"
+    },
+    {
+      "speaker": "HERALD",
+      "line": "...Lady Psyche Callista!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASPS (collective)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHEERS (growing louder)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The hall erupted. Psyche's eyes widened in feigned surprise, a hand flying to her mouth. Eros offered her a dazzling, victorious smile.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "My vision blurred. A cold, bitter rage settled deep in my gut. It couldn't be. Not her. Not again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "All my efforts, all my sacrifices... for this? To be cast aside for that fragile doll?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "My father's face, a mask of disappointment, flashed in my mind. The whispers of the nobles, their pitying glances.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "I will not accept this. I will not be defeated. Not by her, and certainly not by him.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MEDEA SOLON",
+      "line": "This isn't over. Not by a long shot.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLENCH (fist)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As Psyche was led to the Emperor, bathed in the light of triumph, Medea stood in the encroaching shadow, a silent vow burning in her eyes.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "MURMURS",
+    "GIGGLE",
+    "BOW",
+    "TRUMPETS",
+    "GASPS",
+    "CHEERS",
+    "CLENCH"
+  ],
+  "summary": "Medea Solon attends the Crown Princess selection, enduring the superficial pleasantries of her rival Psyche Callista and the manipulative charm of Prince Eros. Despite her ambition and efforts, Psyche is chosen, leaving Medea consumed by rage and a fierce resolve for revenge.",
+  "word_count": 725,
+  "confidence": "high"
+}

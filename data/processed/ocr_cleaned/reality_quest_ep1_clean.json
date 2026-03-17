@@ -1,0 +1,195 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The rooftop of Seonjin High. For most, a place for quiet lunches or stolen moments. For Ha Do-yoon, it was a stage. A stage for his daily, inescapable torment.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Min-woo",
+      "line": "Look at this pathetic worm, trying to hide again. Did you think we wouldn't find you, Do-yoon?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "He's always so good at playing the victim. Makes me sick.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) My heart pounds like a trapped bird. Every day, it's the same. Just endure it. Just endure...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "I... I have it. The money you asked for.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUMPLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Min-woo",
+      "line": "(Snatching the crumpled bills) Is this a joke? This isn't even enough for a single meal, you scumbag!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) The sharp sting on my cheek. The familiar taste of blood. My head rings. Why can't I fight back? Why am I so utterly, hopelessly weak?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "He needs to learn his place. Again.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KICK! THUD!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) My vision blurs. The pain is a dull, all-consuming roar. My body feels like lead. I wish... I wish I could just disappear. Or better yet... make *them* disappear.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As Do-yoon lay crumpled on the grimy concrete, his consciousness fading, a strange, ethereal light flickered before his eyes.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHIMMER! BEEP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Welcome, Player. Reality Quest has been activated.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) What... what is this? Am I dreaming? Is this some kind of concussion hallucination?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Player Ha Do-yoon. Current Status: Helpless. HP: 12/100.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Min-woo",
+      "line": "What's he staring at? Still got some fight left in him, huh? Let's fix that.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[New Quest: Survive the Bullying. Reward: Basic Combat Skill 'Punch'.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) Survive? Punch? What good is that? I can't even stand up! He's going to hit me again!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Tutorial: To use a skill, focus your intent and activate. Current Skill: Punch (Lvl 1).]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Min-woo",
+      "line": "Time to put you in your place, Do-yoon!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) No... not again. I can't take this anymore. If this is real... if this is my only chance... I have to try. I have to!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Skill 'Punch' available. Do you wish to activate?]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) YES! YES, I DO!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FWOOSH! (A faint, almost imperceptible aura surrounds Do-yoon's trembling fist)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Min-woo",
+      "line": "What the hell is he doing?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For the first time in years, Ha Do-yoon didn't just cower. He struggled, pushed himself up, and with a desperate, raw surge of will, threw his fist forward.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Min-woo",
+      "line": "ARGH! What was that?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STUMBLE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Skill 'Punch' used. Damage dealt: 5. Opponent surprised. Quest updated: Survive the Bullying (1/1). Reward: Basic Combat Skill 'Punch' acquired.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ha Do-yoon",
+      "line": "(thought) It actually... worked? I actually hit him? I... I felt something. A tiny spark. A flicker of hope.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The first step had been taken. The game had begun.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CRUMPLE",
+    "SLAP!",
+    "KICK!",
+    "THUD!",
+    "SHIMMER!",
+    "BEEP!",
+    "SWING!",
+    "FWOOSH!",
+    "THWACK!",
+    "STUMBLE!"
+  ],
+  "summary": "Ha Do-yoon, a high school student relentlessly bullied by Kim Min-woo and his gang, reaches his breaking point. As he's being beaten, a mysterious game-like system, 'Reality Quest,' activates, presenting him with a quest to survive and a basic combat skill, 'Punch,' which he desperately uses for the first time.",
+  "word_count": 768,
+  "confidence": "high"
+}

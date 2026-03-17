@@ -1,0 +1,212 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The acrid smell of dust and blood filled his nostrils. A familiar scent, one he thought he'd forgotten forever.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "This... this isn't right. I died. I remember dying.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "The final battle... against the Outer Gods... I failed. Everything was consumed. My body, my power, my very existence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Welcome, Player. You have entered the Tutorial.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "The Tutorial? This voice... it's been so long. Too long.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "My body... it's young again. Weak. Pathetic. But... this is it. I'm back.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "The past... the future... it's all laid out before me. This time, I won't make the same mistakes. I won't let them fall.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "The Gods... the Outer Gods... they will pay. Every single one of them who watched, who betrayed, who laughed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[First Test: Eliminate all Goblins in the designated area. Remaining: 10.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "Goblins. How quaint. I remember this. The first test. The one where everyone struggles, where the weak are culled.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRRRR!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "They're weak, but numerous. A typical trap for beginners who rush in without thinking. A test of composure, not strength.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWIP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "But I'm not a beginner. Not anymore.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIZZ! CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have defeated a Goblin. Remaining: 9.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "Pathetic. Even with this weak body, my senses, my experience... they remain. The muscle memory, the knowledge of their pressure points.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHANK! GURGLE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have defeated a Goblin. Remaining: 8.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "This body is a cage. But it's a cage I know how to break out of. Faster this time. Much, much faster.",
+      "type": "thought"
+    },
+    {
+      "speaker": "GENERIC PARTICIPANT",
+      "line": "H-Help! There are too many! My sword... I dropped it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "Fool. Panic is the first step to death in the Tower. And a waste of my time.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! THUD! SLASH! STAB!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have defeated a Goblin. Remaining: 1.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "Just one left. And it's hiding. A common tactic for the 'leader' type, thinking itself cunning.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SNIFF SNIFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "Too slow.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have defeated all Goblins in the designated area.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[First Test Cleared!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Reward: 100 CP. Basic Strength Potion (F).]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[You have gained 1 point in Strength.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "CP... Strength Potion... it's all exactly as I remember. The first steps of a journey I've already walked.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "This is just the beginning. A long, arduous path lies ahead. A path filled with trials, betrayals, and the eyes of the Gods.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "But this time, I know the way. I know the shortcuts, the hidden quests, the weaknesses of the Gods themselves.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "The Gods who watched as the world burned. The Gods who betrayed us for their own games.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KIM YUWON",
+      "line": "They will regret letting me return. The Tower... it will tremble.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GRRRR",
+    "THWIP",
+    "WHIZZ",
+    "CRACK",
+    "SHANK",
+    "GURGLE",
+    "CLANG",
+    "THUD",
+    "SLASH",
+    "STAB",
+    "CRUNCH",
+    "SNIFF SNIFF"
+  ],
+  "summary": "Kim Yuwon, a regressor, wakes up in the Tutorial, realizing he's returned to the past. Armed with knowledge of the future, he ruthlessly clears the first test, vowing to climb the Tower and exact revenge on the Gods who betrayed humanity.",
+  "word_count": 718,
+  "confidence": "high"
+}

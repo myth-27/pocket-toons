@@ -1,0 +1,1199 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "WARNING THIS EPISODE CONTAINS STRONG LANGUAGE THAT MAY NOT BE SUITABLE FOR SOME READERS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AH, IT'S DAMN HOT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DON'T BLOW SMOKE THIS WAY, THE SMELL CLINGS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SHUT YOUR MOUTH, YOU SKANKY SKIRT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THE CIGARETTE SMOKE IS SUFFOCATING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SPIT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, THE FLOOR IS COVERED IN SPIT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, THIS IS YOURS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THAT WAS THE ONLY ONE LEFT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SO WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I'M IN TROUBLE NOW.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GLANCE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Logan",
+      "line": "YO MONKEY, IF THE TEACHER COMES, USE YOUR FAT BODY AND STOP HIM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, SMELLS HORRIBLE IN HERE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "EXHALE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BECAUSE LOGAN IS IN A BAD MOOD.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Logan",
+      "line": "HEY, YOU DON'T ANSWER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DAMN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THIS IS NOT GOOD!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OO OO AH AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OO OO AH AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OO OO AH AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "ARE YOU SHITTING ME? DO THE PIKACHU NOW.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OO OO AH AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AH AH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, STOP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIKA! PIKA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BE GOOD, OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIKA, PIKA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, IT'S WET! IS IT PISS?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I'M",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DON'T LET THE TEACHER BUST US AGAIN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LEH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LEH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FSHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DO THE ELEPHANT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BARAAG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BARAAG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "STOP IT, YOU CRAZY ASS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PSSHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I AM THIS BASTARD'S PET.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BLAH BLAH BLAH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GUM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PISTOL WHIP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "OOF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I CAN'T, I CAN'T BREATHE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "THAT'S HOW YOU THROW YOUR FIRST PUNCH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, HE'S DOWN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "ONE SHOT, ONE KILL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "GET UP, PIKACHU! PI, PIKA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KEKEKE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH MY! HE'S A PIKACHU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "LOSER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "IS DANIEL YOUR POKEMON NOW?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "OF COURSE, WANNA SEE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "NOT THE BOLT STRIKE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIKACHU THUNDERBOLT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HAHA",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH JEEZ.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH NO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TIP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIKAAAII!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HAHAHA",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AWESOME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HAHAH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I WANNA KILL MYSELF!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HAHA",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "LOSER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KEKE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "EVERYONE IS CONFIRMING THEIR SOCIAL STANDING BY WATCHING ME AND FEELS RELIEVED IT'S NOT THEM IN MY PLACE; IF ONLY I WAS STRONGER.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KEKE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY LOGAN, DO ME A FAVOR.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "WHAT IS IT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "LEND ME YOUR PIKACHU FOR ONCE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "WHY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHAT?! NO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "IT'S MY 100TH DAY ANNIVERSARY WITH HYEJI, TODAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHY CAN'T I... DISOBEY HIM JUST ONCE?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Logan",
+      "line": "HAH, LOSER, WHY ARE YOU ALIVE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW,",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "PIKA, PIKA,",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRAWL",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HAHA, WHERE IS CHARMANDER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MADE IT, CLASS 1-4.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT'S WITH YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, FATSO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHY ARE YOU CRAWLING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, SKANKY SKIRT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHY ARE YOU HERE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU CAN SEE HER PANTIES!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, LOGAN TOLD ME TO COME SHOW YOU SOMETHING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT IS IT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWEAT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CONGRATS ON 100 DAYS! THUNDERBOLT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AH, WHAT THE HELL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FWIR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LEH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "MOM, HEY, NEXT TIME DON'T BOTHER, I WON'T SAY ANYTHING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "YOU'RE DAMN PATHETIC.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE MOST SHAMEFUL THING WAS PINK, NOT THE HUMILIATION I SUFFERED IN FRONT OF A GIRL. IT WAS THAT I WAS THANKFUL FOR A PITTANCE OF SYMPATHY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "MOM, IS THE RAMEN DONE? I'M STARVING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "I PUT IT ON THE TABLE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHAT THE? I TOLD YOU NOT TO PUT AN EGG IN IT! JEEZ!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "NO WONDER I'M GETTING FATTER.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "AH, SUCKS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "BUT IT IS GOOD.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "MOM, CAN I TRANSFER TO ANOTHER SCHOOL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "TRANSFER?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "YEAH, THE KIDS AT MY SCHOOL STUDY SO HARD THAT MY RANK IS SO LOW; BETTER IF I TRANSFERRED FAR AWAY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "SON, YOU KNOW HOW HARD IT WAS FOR ME TO FIND A JOB HERE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STAMMER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RATTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "THE RENT IS REASONABLE HERE TOO. I'M SORRY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "IF YOU TRANSFERRED YOU'D BE SO FAR FROM YOUR FRIENDS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "FRIENDS??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "SHIT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I'M GONNA STUDY! WHO CARES ABOUT FRIENDS?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "WHAT? WHAT'S WRONG?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I GOT ANGRY AT MY MOM. IS IT MY FAULT WE HAVE NO MONEY?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "YELL",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I'M ONLY STRONG IN FRONT OF MOM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHAT HAVE YOU EVER DONE FOR ME?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I'M SORRY, MOM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "ACTUALLY I'M BEING BULLIED. I'M SORRY, MOM. I'M A PIECE OF GARBAGE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "AH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "CONGRATS OFFICIAL SERIALIZATION",
+      "type": "narration"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I DON'T WANNA GO TO SCHOOL, IT'S ALL STARTING AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "THE HAND I USED TO PUNCH THE WALL IS KILLING ME; THE HAND OF A MAN! HOO HOO.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GLAZE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PPFT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "MAYBE I'M STRONGER THAN I THOUGHT, STILL I COULDN'T BEAT LOGAN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHEN I OPEN MY EYES, I WISH I WERE IN AN ACTION MOVIE AND MET SOME HOT LADIES HERE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEHEHE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PIGGY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PIGGY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PIGGY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Logan",
+      "line": "DO THE RUNNING PIG MODE! NOW!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "FIVE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "OINK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "OINK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "FOUR, I DON'T FEEL GOOD FROM THE MORNING.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Logan",
+      "line": "LOSE SOME WEIGHT, YOU LOOK TOO SLEEKISH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SEE YOURSELF.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Logan",
+      "line": "FIRST CLASS IS P.E., RIGHT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YEAH.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "GET IT READY FOR ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "LOGAN ALWAYS WEARS MY P.E. UNIFORM. I'LL PUT IT ON YOUR DESK.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I TOLD MY MOM THAT I LOST IT AND SHE BOUGHT ME ANOTHER ONE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "LISTEN, MRS. PARK.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "STAFF ROOM",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mrs. Park",
+      "line": "TRANSFER? ALL OF A SUDDEN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mrs. Park",
+      "line": "I KNOW, I HAVEN'T COME TO SEE YOU ONCE; I THINK I HAVEN'T PAID CLOSE ENOUGH ATTENTION.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SQUEEZE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MRS. PARK, NO SCHOOL WILL TAKE DANIEL WITH THESE GRADES.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "AND IT'S NOT CHEAP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEAD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAM",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU BET, OH, HE AVOIDED IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TEN DOLLARS ON IT, HAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mae Kim",
+      "line": "HEY! I'M DEAD MEAT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Logan",
+      "line": "I TOLD YOU TO LET IT HIT YOU; DIDN'T I?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "NOW I HAVE TO PAY TEN DOLLARS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "HOW COULD I JUST STAND THERE?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mae Kim",
+      "line": "HOO HOO - IT'S MY TURN.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MAE KIM, MAE FROM THE SOCCER TEAM.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HIS NOSE IS FUCKING HUGE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT ARE THEY DOING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I DUNNO.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SAID SOMETHING ABOUT TRYING TO HIT A FACE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY! STOP IT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "NO WAY~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mae Kim",
+      "line": "HAH, MY SUPPORTERS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mae Kim",
+      "line": "I WILL TELL ON YOU ALL!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "SHUT UP, BITCHES!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHOOT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHONK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CRAZY POWER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "IN THAT MOMENT I THOUGHT I COULD DIE. IF IT HITS ME, I'M TOAST.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "AHHHH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "OOOOF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE SOCCER GENIUS SAW THAT COMING.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Logan",
+      "line": "WHAT??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "IN THAT SECOND WHAT I WORRIED ABOUT WAS NOT THE PAIN OR BROKEN GLASSES, I WORRIED ABOUT LOGAN LOSING MONEY.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOOOOO! SOMEONE STOP HIM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "PIGGY,",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "I'M SCREWED.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mae Kim",
+      "line": "IT'S THAT EASY TO AVOID MY SHOT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "SO, SORRY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, STOP IT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, YOU PERVERTS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "SHUT UP! I LOST MONEY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "LO, LOGAN, I'LL PAY IT FOR YOU; EVERYTHING I HAVE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "SINCE YOU LOST THE MONEY BECAUSE OF ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "SORRY, MOM.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Logan",
+      "line": "LOOK AT THIS FUCK FACE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "KUK?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Logan",
+      "line": "YOU PITY ME?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "HUK?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I WAS FORCED TO SEE HERE AND THERE AND THE LAST SCENE I SAW RIGHT AFTER A CROWD OF ONLOOKERS WAS...",
+      "type": "narration"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel's Mom",
+      "line": "YOU GODDAMN JERKS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "KUK?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Daniel",
+      "line": "WHAT, WHAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MY MOM AND IT WAS THE FIRST TIME I'D EVER SEEN HER THAT ANGRY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GOOF",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "SPIT",
+    "GLANCE",
+    "EXHALE",
+    "DAMN",
+    "WOOSH",
+    "SHHH",
+    "PUSH",
+    "LEH",
+    "FSHH",
+    "BARAAG",
+    "PSSHH",
+    "BLAH BLAH BLAH",
+    "GUM",
+    "PISTOL WHIP",
+    "OOF",
+    "GROAN",
+    "KEKEKE",
+    "HAHA",
+    "TIP",
+    "HAHAHA",
+    "HAHAH",
+    "KEKE",
+    "HUFF",
+    "CRAWL",
+    "SWEAT",
+    "FWIR",
+    "SLAM",
+    "STAMMER",
+    "RATTLE",
+    "YELL",
+    "AH",
+    "GLAZE",
+    "PPFT",
+    "HEHEHE",
+    "PIGGY",
+    "OINK",
+    "SQUEEZE",
+    "HEAD",
+    "WHAM",
+    "WHISH",
+    "SHOOT",
+    "WHONK",
+    "AHHHH",
+    "OOOOF",
+    "WHACK",
+    "KUK",
+    "HUK",
+    "SLAP",
+    "GOOF"
+  ],
+  "summary": "Daniel, a bullied student, endures constant abuse from Logan and other classmates, leading to deep internal struggles and a desire to transfer schools. His mother, despite her own hardships, tries to support him, but Daniel's frustration boils over, culminating in his mother confronting his bullies.",
+  "word_count": 1361,
+  "confidence": "high"
+}

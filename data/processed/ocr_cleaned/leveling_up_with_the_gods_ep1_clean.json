@@ -1,0 +1,254 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world ended. Not with a bang, but with a whimper. And then, a scream.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Humanity, once proud masters of Earth, became playthings for beings beyond comprehension. The Gods, the Outer Gods, the Celestials... they watched, judged, and ultimately, destroyed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) I remember the screams. The fire. The despair.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) I remember fighting. Failing. Watching everything turn to ash.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Standing before the colossal gate, a structure that had appeared overnight, Kim Yuwon felt the familiar chill of the past. The Tower. The very place that promised salvation, yet delivered damnation.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) This time, it will be different.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) I won't just survive. I will conquer. I will change the future.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He stepped through the gate, the world shimmering around him. The familiar sterile white room, the floating blue screens, the sense of being watched.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Welcome, Challenger. This is the First Floor of the Tower.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Your first trial: Eliminate all Goblins within the designated area. Time Limit: 30 minutes. Reward: 100 points, Basic Skill Scroll (Random). Failure: Death.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) Goblins. Always Goblins for the first floor. A classic.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Around him, other challengers materialized. Fear, confusion, and a desperate resolve etched on their faces. Most were young, naive, thrust into a nightmare they couldn't comprehend.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Challenger 1",
+      "line": "G-Goblins? What is this place?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Challenger 2",
+      "line": "Is this a dream? A game?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Challenger 3",
+      "line": "No, look! That thing!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From the shadows of the forest ahead, small, green-skinned creatures with crude weapons emerged. Their eyes glowed with malice.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) Panic. It's always the first enemy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Yuwon didn't panic. He didn't even flinch. He'd faced far worse. He'd died to far worse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) The first floor is always a test of resolve, not strength. But I need to move quickly. Every second counts.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He reached into his inventory, a feature the system hadn't even bothered to explain yet, and pulled out a simple, well-balanced short sword. It hummed faintly in his hand.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Challenger 4",
+      "line": "H-He has a weapon!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Challenger 5",
+      "line": "Where did he get that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHRIEK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A goblin charged, its rusty dagger glinting.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) Too slow. Too predictable.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SPLAT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Before the goblin could even register a threat, Yuwon moved. A blur of motion, the short sword arcing with deadly precision. The goblin's head separated from its body with a wet thud.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Challenger 'Kim Yuwon' has eliminated a Goblin. +1 Point.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The other challengers froze, their eyes wide with a mixture of horror and awe. This wasn't a game. This was real. And this man... he was different.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) One down. Many more to go. I can't waste time on these small fries.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He didn't wait for the others. He didn't offer advice. He simply moved, a silent, deadly hunter entering the fray.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THRUST",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GURGLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Goblins fell, one after another, their crude weapons no match for Yuwon's practiced movements. He wasn't just fighting; he was executing.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) The 'Basic Skill Scroll' is important. I need to get a good one. Something that will give me an edge in the early stages.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) And the points... I need to maximize them. Every single point will count later.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He pushed deeper into the forest, ignoring the cries of the other challengers as they struggled against their own attackers. Their fate was not his concern. Not yet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes scanned the environment, searching not just for enemies, but for anything out of place. Any hidden paths, any anomalies. His past life had taught him that the Tower always hid secrets, even on the first floor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He spotted a faint glow behind a thick bush, almost imperceptible. Most would miss it, focused on survival.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) There it is. The hidden quest.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A smirk, cold and determined, touched his lips. This was why he was here. To exploit every advantage, to rewrite every outcome.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Yuwon",
+      "line": "(thought) Let the games begin. Again.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "WHOOSH",
+    "GROWL",
+    "SHRIEK",
+    "SWISH",
+    "SPLAT",
+    "CLANG",
+    "THRUST",
+    "GURGLE",
+    "RUSTLE"
+  ],
+  "summary": "Kim Yuwon, a regressor burdened by the past destruction of humanity, re-enters the Tower to prevent Ragnarok. He begins his first trial, easily dispatching goblins while other challengers panic, and immediately seeks out a hidden quest using his foreknowledge.",
+  "word_count": 709,
+  "confidence": "high"
+}

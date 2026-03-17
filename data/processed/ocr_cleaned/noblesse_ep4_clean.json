@@ -1,0 +1,198 @@
+{
+  "title_header": "Noblesse, Episode 4",
+  "dialogue": [
+    {
+      "speaker": "IKHAN",
+      "line": "For a second there, I didn't even think you were tardy. You are so confident.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Wait, I've never seen you before.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAI",
+      "line": "Hm?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "I'm done. Oh my... I'm gonna die.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Hey, you're the...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "You know this guy?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "No sir, I just met him today.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Is that so? So you have never seen him before, either? Kuk? It's...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "Your first time too? Maybe he's a transfer student?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Hm? The whole school would know of somebody with a face like that!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "Oh, look, he's just...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Yes, I believe you are right, Shinwoo, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Did you transfer here today?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAI",
+      "line": "Mn.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "You should have told me earlier.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Hm. So, which school are you from?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Not very talkative, huh? Who taught you your manners, to answer with just a nod?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "I'm talking to you, answer my question!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "You tell him, sir!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Oh!?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "Wh-what did he just say?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RAI",
+      "line": "He said he is from far away.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "I see, he's from far away.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Hm, I guess he lived overseas. That must be it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "His looks are Korean enough, but something feels slightly off.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Hm hm~ He looks like he could be foreign as well.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "Hey, are you possibly of mixed-descent, or a foreigner?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Yup, we were right.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "Compared to you, he definitely has a completely different vibe!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Also, look at his legs! They're so much longer than yours! Hahahaha!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "IKHAN",
+      "line": "You're right! It was the same for me when I compared you to his looks! Hahaha! You guys are basically different species, sir, kekeke!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Hm?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "Shinwoo Han.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "You'll be responsible for taking him to the chairman.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SHINWOO",
+      "line": "Sir?",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "STEP",
+    "STARE",
+    "SNIFF",
+    "KUK",
+    "SILENCE",
+    "NOD",
+    "SMILE",
+    "MUMBLE",
+    "WINCE",
+    "HAHAHA",
+    "GROAN",
+    "TURN"
+  ],
+  "summary": "A new, mysterious transfer student named Rai arrives at school, immediately drawing the attention of Shinwoo and Ikhan. The teacher struggles to get a proper answer from the quiet Rai, who only states he's from 'far away', leading the students to speculate about his foreign origins and unique appearance. Shinwoo is then tasked with taking Rai to the chairman.",
+  "word_count": 300,
+  "confidence": "high"
+}

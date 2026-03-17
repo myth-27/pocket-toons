@@ -1,0 +1,120 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "PUDDING",
+      "line": "My boyfriend. He's... a lot. A lot of height, a lot of enthusiasm, and a lot of very specific knowledge about things most people don't even know exist. Like the migratory patterns of fictional space whales, or the proper way to calibrate a vintage arcade cabinet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "And then there's me. Five feet nothing, give or take a few inches depending on my shoes. A perfect contrast, you might say. Or, as I often feel, a human step stool. A very opinionated human step stool.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "Our life together is less a romantic comedy and more a series of 'Honey, could you get that for me?' moments, interspersed with 'Did you know...?' lectures that could rival a university seminar.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "It's a daily adventure in verticality and obscure trivia. Take, for instance, our morning routine. My morning routine, really. He's usually already up, probably designing a new D&D campaign in his head while making coffee. Or, more accurately, making coffee while simultaneously calculating the trajectory of a rogue asteroid that might impact his imaginary campaign world.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "He's doing it again. Staring into the middle distance, probably calculating the trajectory of a rogue asteroid. Or maybe just trying to remember if he fed his virtual pet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "Morning, sunshine. Or should I say, 'Morning, human skyscraper'?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BOYFRIEND",
+      "line": "Ah, good morning, my tiny star. Just contemplating the optimal energy transfer for a warp drive. And whether the new patch for 'Starship Tycoon 2000' will fix the cargo bay glitch.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "Of course you were. Did you manage to make coffee without hitting your head on the light fixture this time?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BOYFRIEND",
+      "line": "Narrowly avoided it. Though I did almost knock over the sugar pot while reaching for the high-shelf-secret-stash of artisanal cocoa powder. The one from that small batch artisan chocolatier in Belgium.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "The cocoa powder. Right. For his 'experimental' hot chocolate concoctions. The ones that usually involve a flavor profile best described as 'confused.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "His 'experimental' hot chocolate often involves ingredients like chili flakes, sea salt, or sometimes, to my horror, a dash of soy sauce. He claims it 'enhances the umami profile.' I claim it enhances my desire for plain water.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "I just stick to plain old coffee. Less adventurous, perhaps, but also less likely to involve a trip to the emergency room for a taste-bud-related incident. Or a philosophical debate about the nature of flavor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "Well, I'm glad you survived the morning beverage preparation. Any chance you could hand me my favorite mug? The one with the grumpy cat on it? It's on the top rack, probably hiding behind your limited-edition 'Space Explorer' thermos.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BOYFRIEND",
+      "line": "This one? The one that perfectly encapsulates your morning mood before coffee? And yes, the thermos was guarding it. It has sentimental value, you know.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "Hey! It's a classic. And yes, that one. Thank you, my human crane. And I'm sure the thermos has a backstory worthy of an epic poem.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BOYFRIEND",
+      "line": "It involves a particularly harrowing journey through a crowded comic-con. A tale for another time. Now, about that warp drive...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "Here we go. Another lecture on theoretical physics and video game mechanics before 8 AM. My brain cells are already bracing for impact.",
+      "type": "thought"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "And that's just a typical Tuesday. Living with him is a constant exercise in looking up, both literally and figuratively. Up at his face, up at the things he can reach, and up at the vast, intricate universe of his mind, which is currently fixated on interstellar travel and digital farming simulations.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "It's a world where every mundane task can become an Olympic event in height difference, and every quiet moment can turn into a deep dive into the lore of some obscure video game or a philosophical debate about the ethics of AI.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "But honestly? I wouldn't have it any other way. Because even if I have to stand on my tiptoes for a kiss, or listen to him explain quantum mechanics over breakfast, he's my giant nerd. And he's perfectly, wonderfully, ridiculously him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PUDDING",
+      "line": "And sometimes, just sometimes, he'll actually use his powers for good. Like retrieving a particularly stubborn jar of pickles from the very back of the highest shelf. Or reaching the remote control that's somehow always out of my grasp. A true hero, in his own tall, nerdy way.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "THUMP",
+    "RATTLE",
+    "CLINK",
+    "SIGH",
+    "CHUCKLE"
+  ],
+  "summary": "Pudding introduces her giant nerd boyfriend, highlighting their height difference and his quirky interests through a typical morning routine involving coffee, snacks, and theoretical physics.",
+  "word_count": 710,
+  "confidence": "high"
+}

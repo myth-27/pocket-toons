@@ -1,0 +1,691 @@
+{
+  "title_header": "Omniscient Reader, Episode 3, Chapter 1: The Beginning of the Paywall Part 2",
+  "dialogue": [
+    {
+      "speaker": "sfx",
+      "line": "MURMUR MURMUR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "The police...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "The police aren't picking up! What do we do?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM DOKJA",
+      "line": "Sangah, stay calm.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM DOKJA",
+      "line": "Sangah, you've played the game the development team is currently working on, right? You know, the one where only a handful of people survive the apocalypse.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SANGAH",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SANGAH",
+      "line": "What's that got to do with anything?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM DOKJA",
+      "line": "Think of it this way: We're part of that game now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SANGAH",
+      "line": "A game...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM DOKJA",
+      "line": "It is simple. Every game has rules: we just need to follow them.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SANGAH",
+      "line": "Rules? What are you-?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KIM DOKJA",
+      "line": "We just have to figure out what those rules are.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A Dokkaebi with antennae.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A litter of dead bodies in the subway cabin.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Trembling office workers covered in blood.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "An old lady praying fervently in her seat.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I still couldn't believe this was really happening.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But I couldn't deny it any longer. No, I have no choice but to admit it now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Someone please open the door!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Try breaking it with a hammer!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I don't know why, but it was clear that 'Three Ways to Survive the Apocalypse,' which I've been reading for over ten years, was coming to life right before my eyes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Think...",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SIGH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "What do I need to do... to survive?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MAIN SCENARIO #1 [PROVE YOUR VALUE] KILL ONE OR MORE LIVING ORGANISMS: CATEGORY: MAIN DIFFICULTY: F TIME LIMIT: 30 MINUTES REWARD: 300 COINS PENALTY FOR FAILURE: DEATH",
+      "type": "narration"
+    },
+    {
+      "speaker": "HYEONSEONG LEE",
+      "line": "Okay, everyone! Calm down. Take a deep breath, and stop what you're doing. Have you all calmed down? May I have your attention for a moment?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYEONSEONG LEE",
+      "line": "As you all know, in a national emergency such as this one, even a small commotion can lead to heavy casualties. So, from now on, I will take charge of this situation.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What? Who the hell are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A national emergency? What are you talking about?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I'm... what?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Public Official Hyeonseong Lee, Ministry of Defense. An Army Lieutenant, currently serving in Unit 6502.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "MURMUR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A Lieutenant?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "MURMUR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "He's from the military.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "MURMUR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HYEONSEONG LEE",
+      "line": "I just received a message from my unit: 'NATIONAL LEVEL ONE EMERGENCY ALERT: PLEASE RETURN TO YOUR UNIT ASAP. THIS IS NOT A DRILL.' Oh my God.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "A n-national emergency?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Hey, Army man! What in the world is going on?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I'm trying my best to contact the army base but...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What about the Blue House?! Contact the President right this minute!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYEONSEONG LEE",
+      "line": "I'm sorry, but I'm just a soldier, so I don't have clearance to contact the Blue House directly.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Then how on earth are you going to control this situation?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I already knew this would turn into a national emergency, so I wasn't surprised.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It was something else that took me by surprise.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "For everyone's safety... 'Lieutenant Hyeonseong Lee.' I know him. I've never seen him in person, but I knew him by name.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Steel Blade Hyeonseong Lee, Republic of Korea Army Lieutenant.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He was one of the supporting characters in TWSA. It's hard to believe a character from TWSA has actually appeared.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He talks just like he does in TWSA. But... was this how Hyeonseong Lee was introduced in the original story?",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SCRATCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "No, I was absolutely certain that this was not how Hyeonseong Lee first appeared in the story.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He originally appeared after the first scenario. Then... what is going on?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "If I could just read it again, I would know exactly what's happening.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "The Prime Minister is making a speech! It really is a Level One National Emergency!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SANGAH",
+      "line": "Dokja, look.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRIME MINISTER",
+      "line": "Dear citizens of Korea... There have been reports of unidentified terrorist attacks in Seoul as well as many other areas of the country. The government will combat these attacks using all means necessary.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "This was also in the story. Yes, it would be easier to believe that we're under a terrorist attack. But now that I'm actually hearing it, it sounds ridiculous.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "But why is the Prime Minister making the speech? What happened to the President?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Apparently, the terrorists already got him.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "What? Really?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I don't know. I saw it in the comments section of the video.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Then it's just a groundless rumor!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It's not just a groundless rumor. And soon...",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Eek!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PRIME MINISTER",
+      "line": "The P-Prime Minister...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "I already told you: This is not just some joke.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "I guess you still don't get it, do you? No, this won't do. Do you think we're playing a game right now? Fine. According to my research, people from this country are good at games. Then, let's raise the difficulty, shall we?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SQUEEZE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Aah!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "KWOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "That is...?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "The remaining time has been reduced. You now have ten minutes left.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MAIN SCENARIO #1 [PROVE YOUR VALUE] KILL ONE OR MORE LIVING ORGANISMS: CATEGORY: MAIN DIFFICULTY: F TIME LIMIT: 10 MINUTES REWARD: 300 COINS PENALTY FOR FAILURE: DEATH",
+      "type": "narration"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "As an added penalty, if the first death does not occur within the next five minutes, every living organism in this cabin will be terminated.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "W-What kind of a sick joke is this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Did you hear what that thing just said? Did you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Army man?! What do we do now? Where are the police?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HYEONSEONG LEE",
+      "line": "Everyone, please calm down and listen to me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SQUEEZE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Yes, everything is going exactly as I remember it. The events are unfolding exactly the same as the beginning of TWSA, but I can't help but feel that something isn't right.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hyeonseong Lee, one of the major supporting characters, has already appeared, but why hasn't he appeared yet?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "If I remember correctly, he should be making an appearance any minute now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Eek!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Someone has been murdered in the cabin behind us!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahhh! Don't let them come in! Don't let anyone through! We have to block the--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BANG",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SPARK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ah!!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "W-What is wrong with this? There's some kind of invisible wall in front of the door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "[NO ONE MAY ENTER OR LEAVE THE CABIN UNTIL THE SCENARIO IS COMPLETE.]",
+      "type": "narration"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "Haha, it is getting interesting for some cabins, while others haven't even started yet.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "Fine, I'll give you a little jolt to get the... How about showing you what will happen if you don't do anything in the next five minutes?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SNAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "FLASH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Huh...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "That is Taepung Girls' High School!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRASH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahhh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "YOU HAVE EXCEEDED THE TIME LIMIT. PROCEEDING WITH CHECKOUT.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SPLATT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SHUT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahhh! H-Help me! Ahh! Let me out! Let me-",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SPLAT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "No!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SPLAT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ahhh! Oh my gosh, how could they...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TEAR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ugh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Ah... Argh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "TREMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "HUFF",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CRACKLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "The survivor of Channel #BAY23515 is... JiHye Lee, a second-year student from Class B at Taepung Girls' High School.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DOKKAEBI",
+      "line": "He he he he. What do you think? Fun, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SNEAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "F**k! What is this?! What the hell?!",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "MURMUR",
+    "BANG",
+    "SIGH",
+    "SCRATCH",
+    "CRACKLE",
+    "SQUEEZE",
+    "TWOOSH",
+    "KWOOSH",
+    "SPARK",
+    "SNAP",
+    "FLASH",
+    "BEEP",
+    "CRASH",
+    "SPLATT",
+    "SHUT",
+    "SPLAT",
+    "TEAR",
+    "TREMBLE",
+    "HUFF",
+    "BREAK",
+    "SNEAK"
+  ],
+  "summary": "Passengers on a subway train realize they are trapped in a deadly 'game' based on the novel 'Three Ways to Survive the Apocalypse.' Lieutenant Hyeonseong Lee attempts to take charge, but a Dokkaebi announces a 'Main Scenario' requiring them to kill a living organism within a time limit, threatening mass termination if they fail. The Dokkaebi demonstrates the penalty by showing another cabin's gruesome failure, causing widespread panic and chaos as the time limit is reduced.",
+  "word_count": 1200,
+  "confidence": "high"
+}

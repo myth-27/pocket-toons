@@ -1,0 +1,233 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The salt spray kissed his face, a cold, insistent reminder. His head throbbed, a dull, persistent ache.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "My head... it's splitting. Where am I? What happened?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes fluttered open to an unfamiliar stretch of sand, an endless grey sky.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "My name... it's gone. Everything is gone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WAVES (GENTLE LAPPING)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEARTBEAT (THUMP-THUMP, FASTER)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Panic, cold and sharp, began to claw at his throat. He pushed himself up, limbs aching. In the distance, through sparse trees, a silhouette.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "A house? On an island like this?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It was squat, decaying, its windows dark like vacant eyes. A strange, unsettling presence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "Maybe someone there can help me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The walk was long, the ground uneven. The closer he got, the stronger the putrid smell became.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND (WHISTLING FAINTLY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "What is that smell? Rot... and something else.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The house loomed, larger and more dilapidated. Paint peeled, revealing dark, rotting wood. A broken porch swing creaked.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He hesitated at the heavy, scarred front door. No knocker. He pushed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR (CREAKING LOUDLY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The door groaned open with a sound like a dying animal. The air inside was thick, stagnant, heavy with decay. Dust motes danced in slivers of light.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "Hello? Is anyone here?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His voice sounded small, swallowed by oppressive silence. He stepped further in, eyes adjusting. The living room was a chaotic mess of old, stained furniture.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP (DRIP-DRIP, STEADY, FROM SOMEWHERE DEEP INSIDE)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (SOFT, CAUTIOUS)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A sound from deeper within. A low, guttural cough.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "COUGH (HARSH, WET)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "Someone is here.",
+      "type": "thought"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "Well, well, look what the tide dragged in.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "An old man emerged from shadows, face a roadmap of wrinkles, eyes sharp. He held a rusty cleaver.",
+      "type": "narration"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "Lost your way, boy? Or just... lost?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I... I don't know. I woke up on the beach. I can't remember anything.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "Amnesia, eh? A convenient affliction.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLEAVER (SCRAPE, GENTLE, AGAINST A WOODEN BLOCK)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The old man grinned, a wide, unsettling smile that didn't reach his eyes.",
+      "type": "narration"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "Don't worry, boy. You're safe now. This is a good place for lost things.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From behind him, a woman appeared. Face blank, eyes vacant. She carried a bucket, dripping with something dark.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP (DRIP-DRIP, FASTER NOW)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "What's in that bucket? And her eyes...",
+      "type": "thought"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "My wife. She's a bit shy. But she'll take good care of you. We all will.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The woman didn't speak, just stared, her gaze unsettlingly empty.",
+      "type": "narration"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "We've been expecting you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "Expecting me? This is wrong. All of it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HEARTBEAT (LOUD, POUNDING)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "OLD MAN",
+      "line": "Come, boy. You must be hungry. We have plenty of... food.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He gestured towards a dark hallway. The woman moved to block the front door.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PROTAGONIST",
+      "line": "I need to get out of here. Now.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "WAVES",
+    "HEARTBEAT",
+    "WIND",
+    "DOOR",
+    "DRIP",
+    "FOOTSTEPS",
+    "COUGH",
+    "CLEAVER"
+  ],
+  "summary": "A man wakes up on a desolate beach with no memory, only to discover a dilapidated house inhabited by a strange, unsettling old couple who seem to have been expecting him.",
+  "word_count": 654,
+  "confidence": "high"
+}

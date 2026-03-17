@@ -1,0 +1,147 @@
+{
+  "title_header": "Noblesse, Episode: 6",
+  "dialogue": [
+    {
+      "speaker": "Frankenstein",
+      "line": "You may stand.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "Yes, Sir.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Master, how have you been?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "I awoke only recently. What? How long have I slumbered?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "We don't know when you began your slumber, but it has been 820 years since we last saw you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "820 years.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "It was due to our incompetence that we were unable to locate you after you disappeared. My deepest apologies, Sir.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "I have been asleep for a long time.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Master",
+      "line": "820 years.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "To think that he has been slumbering for so long ever since he went missing, to awaken only now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Not just a few, but hundreds of years. I must investigate everything, down to how he ended up awakening here.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "This is called 'tea'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "How are you adjusting to the language here? I cannot help but be concerned, since you have been asleep for so long.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "Sir, there are no problems regarding my abilities. As always, I will adjust soon enough.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "That is a relief to hear, Sir.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HM?",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "He must have chosen the most common attire in order to avoid any attention after his slumber. But of all things...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "I brought a transfer student.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "Transfer student?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "The Gatekeeper was quite impressive.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "Gatekeeper???",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "Have you been leading a new family since we have last seen each other? Kek.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "No, Sir. This is a place called 'school' where we teach various things to children and guide them.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "School?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Master",
+      "line": "I also have many things to learn about this modern world, which seems to have changed much.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CLATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Frankenstein",
+      "line": "I shall prepare so that you experience no difficulties in your adjustment, Master.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "HM?",
+    "CLATTER"
+  ],
+  "summary": "The Master awakens after 820 years of slumber and learns about the vast changes in the world from his loyal subordinate, Frankenstein. Frankenstein introduces him to 'tea' and 'school', while the Master expresses a desire to learn about the modern world.",
+  "word_count": 362,
+  "confidence": "medium"
+}

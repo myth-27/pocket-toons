@@ -1,0 +1,208 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The city of Astra. A beacon of hope, they say. A testament to human resilience, protected by those with extraordinary gifts.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But even beacons cast long shadows. And in those shadows, the truth often hides.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Another day, another parade. Another hero basking in the manufactured adoration of the masses.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND WHISTLES",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Captain Justice. The 'Invincible Shield of Astra.' More like the 'Invincible Ego.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CROWD CHEERS (DISTANT)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "He saves a cat from a tree, ignores the corporate fraud that bleeds the city dry. He stops a bank robbery, while his 'charity' funnels millions into offshore accounts.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK. WHIRR.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "My ocular implant zooms in. His smile is too wide, too practiced. The crowd roars. Sheep.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zero",
+      "line": "They see the cape, the muscles, the 'hero.' I see the cracks in the facade. The vulnerabilities. The greed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KEYBOARD CLACKS (SOFTLY)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Phase One: Infiltration complete. The drone is in position, disguised as a standard news feed unit. It's broadcasting a clean signal now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Soon, it will broadcast something else entirely.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Captain Justice",
+      "line": "My fellow citizens! It is an honor, as always, to stand before you. To be your shield, your sword, your... Justice!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CROWD ERUPTS IN APPLAUSE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Queue the feed. Now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP. STATIC FRITZ. (ON ALL PUBLIC SCREENS)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "The crowd murmurs. Captain Justice looks annoyed. Good.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Captain Justice",
+      "line": "What is this? A technical glitch? Security, get this sorted!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "VIDEO PLAYS (ON SCREENS) - A grainy recording of Captain Justice accepting a briefcase full of cash from a known crime boss.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "The murmurs turn to gasps. Then angry shouts.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Captain Justice",
+      "line": "No! This is... this is doctored! A smear campaign! Don't believe it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ANOTHER VIDEO PLAYS - Captain Justice laughing as a building collapses in the background, a small, non-powered civilian trapped, while he poses for a camera crew.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "His face is pale. The 'Invincible Shield' is crumbling.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIRENS WAIL (APPROACHING)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Time for my grand entrance. And his grand exit.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAPPLE HOOK FIRES. ZING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Zero descends from the rooftop, a dark silhouette against the setting sun, landing silently behind the now-panicked hero.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Captain Justice",
+      "line": "Who... who are you?! This is a mistake! I'm Captain Justice!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Not anymore.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ZAP! (A small, focused energy pulse from Zero's gauntlet)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Captain Justice",
+      "line": "A-ARGH! My... my powers! They're... gone!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Temporarily. Just long enough for the authorities to arrive. And for the public to see you for what you truly are.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD. (Captain Justice collapses)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Zero",
+      "line": "Another hero falls. Another illusion shattered.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Zero",
+      "line": "This city doesn't need saviors. It needs an exterminator.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As police swarmed the scene, Zero vanished into the shadows, leaving behind a disgraced hero and a city questioning everything it thought it knew.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WIND WHISTLES",
+    "CROWD CHEERS",
+    "CLICK",
+    "WHIRR",
+    "KEYBOARD CLACKS",
+    "BEEP",
+    "STATIC FRITZ",
+    "VIDEO PLAYS",
+    "SIRENS WAIL",
+    "GRAPPLE HOOK FIRES",
+    "ZING",
+    "ZAP",
+    "THUD"
+  ],
+  "summary": "Zero, the Hero Killer, targets the popular but corrupt hero Captain Justice, publicly exposing his misdeeds through a hacked broadcast and then incapacitating him, leaving the city in shock.",
+  "word_count": 650,
+  "confidence": "high"
+}

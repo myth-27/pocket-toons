@@ -1,0 +1,202 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The key felt heavy, cold in Ji-woo's palm. A promise of a new beginning, or a burden she was yet to fully comprehend?",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "Just breathe. This is it. No turning back now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (of the door opening slowly)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The air inside was thick, stagnant with the scent of stale dust and something else... something vaguely metallic, like old pennies left too long in a forgotten drawer.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "It's just an old building. They all smell like this. It's fine.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She stepped over the threshold, her worn sneakers scuffing against the faded linoleum. Boxes, her entire life reduced to cardboard prisons, were stacked haphazardly in the center of the living room.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "My whole life... just these boxes now. No more running. This is where I start over.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (of packing paper)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD (of a box being set down)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "I need to make this a home. A sanctuary. Not another…",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes drifted, snagging on a dark, sprawling stain on the wallpaper near the ceiling. It looked like a map of an unknown continent, constantly shifting in her peripheral vision, a silent, growing Rorschach test of her anxieties.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As dusk bled into the room, painting the walls in shades of bruised purple and grey, the shadows began to lengthen. Familiar shapes twisted into grotesque caricatures, dancing at the edges of her sight.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP... DRIP... (from a leaky faucet in the distance)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE (faintly, from above)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "What was that? Just the pipes settling. Old buildings always make noises.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "Get a grip, Ji-woo. You're safe here. You paid for this safety.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP... THUMP... THUMP (rhythmic, from the wall directly beside her)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "No, that's not pipes. That's... coming from next door. Or... from inside the wall?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She pressed her ear against the thin, peeling wallpaper, her heart hammering against her ribs like a trapped bird. The rhythmic thumping vibrated through her skull.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FAINT WHISPERING (unintelligible, like static)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRATCH... SCRATCH... SCRATCH (closer now, a dry, deliberate sound)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "No. No, it can't be. I'm just tired. Overthinking everything.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her gaze fell, drawn by an almost imperceptible crack in the plaster near the floor, directly opposite where the scratching seemed to originate. It looked fresh, a hairline fracture in the otherwise grimy surface.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "Is that... new? I didn't see that when I inspected the place.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE (as she tentatively touches the plaster)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A tiny piece flaked away, revealing a sliver of darkness behind it. Curiosity, a dangerous instinct, urged her closer.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "What's in there? Just an old cavity, probably. Or a vent the landlord forgot to mention.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PULL (as she pries at the plaster with her fingernail)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUMBLE (of plaster dust and debris)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The opening widened just enough for her to peer through, a dark slit into the unknown. Her breath hitched.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "Oh, God...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Her eyes adjusted to the gloom beyond, and something glinted back at her. A single, glassy eye. It wasn't human. It was a doll's eye. And it was attached to a small, dismembered hand, crudely nailed to the inside of the wall, its tiny fingers curled in a silent, permanent wave.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JI-WOO",
+      "line": "No. This isn't happening. I just wanted a home. A safe place.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP... THUMP... THUMP (louder, faster, from the wall, directly next to the hole, as if something is trying to get out)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The doll's eye, bathed in the faint light from her room, seemed to blink.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLICK",
+    "CREAK",
+    "RUSTLE",
+    "THUD",
+    "DRIP",
+    "SCRAPE",
+    "THUMP",
+    "WHISPERING",
+    "SCRATCH",
+    "CRACKLE",
+    "PULL",
+    "CRUMBLE"
+  ],
+  "summary": "Ji-woo moves into a new, old apartment seeking a fresh start, but unsettling noises and a disturbing discovery behind a wall quickly turn her new sanctuary into a potential nightmare.",
+  "word_count": 765,
+  "confidence": "high"
+}

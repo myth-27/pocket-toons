@@ -1,0 +1,417 @@
+{
+  "title_header": "Sweet Home, Episode: 7",
+  "dialogue": [
+    {
+      "speaker": "Security Guard",
+      "line": "If you need help with anything, you can contact us at the security office.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Haha, okay.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Security Guard",
+      "line": "Thanks.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "By the way, sir~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Yes?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Does this place have soundproof walls?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "What a lame song to cover. Totally not my style.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Okay, I'll just cut the corners! Heheooo Put Out.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Crap, that was the last one.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Let's go.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Oh, have you just moved in?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Yes, it's apartment 1510.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "So nice to meet you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mother",
+      "line": "Oh, it's okay, sweetie. No need to be startled. She's your neighbor.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mother",
+      "line": "Come on. Back to sleep. Come on, sweetie.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "How old is your baby?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mother",
+      "line": "She's a 12-month-old princess.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Mother",
+      "line": "Isn't she lovely?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Well, absolutely.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Is it ringing? You're not getting in?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Well, haha, I left my wallet. I'll hold the elevator for you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "No need. I'll catch the next one.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "What's wrong with her? A poor lady, isn't she?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "A year ago, while she wasn't paying attention, the baby stroller slid down the road. And the baby got...",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Ever since then, she's become like that.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Uh, that's too bad.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "The Lord sometimes gives us something very hard to overcome, but a person shouldn't be criticized or be an object of fear for not being able to overcome such difficulties.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "I agree.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "It's God's will.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Well, I'm not so sure about that.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "You just moved into apartment 1510, right? I'm Jisu from apartment 1506.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Haha, maybe I was too ahead of myself. I'm sorry if you got offended. Oh, no. My hands right now...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Smell like cigarettes. Well, you can call me Jisu.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Do you play the guitar?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "It's a bass.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "I see. How about you? What do you do for a living?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Well, I'm a Korean teacher. And since it's Sunday, I'm going to church right now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Oh, I see. You're a devout Christian!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "He's gentle, kind, and good-looking. So opposite of Hye-rang. But... still, Hye-rang's way cooler.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Security Guard",
+      "line": "Hey, kid! I'm sorry!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Security Guard",
+      "line": "Wow, that could've been a disaster. These things are really powerful, huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Security Guard",
+      "line": "I'm really sorry, kid. We don't have a lot of people who work on the weekends so... Anyway, everyone here treats the security guards like...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Security Guard",
+      "line": "By the way, I've never seen you before. What brought you to this place?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "No. Crap, maybe I was too loud.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Should've kept it down! Got too excited! Okay, I'm coming.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Oh, I'm sorry. The security guard told me currently no one lives next door, so... I know I shouldn't be making excuses, but...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Was it... too loud?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Monster",
+      "line": "I need food.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Beg your pardon?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Monster",
+      "line": "Starving.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "What happened to your face? Are you hurt?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "What the...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "I'm really sorry! I'll keep it down from now on. So, please.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Aargh-www! What the heck!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "If you keep this up, I'll call the police!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Is she gone?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "A monster??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Yes, the thing. It looked just like the girl next door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Are you goddamn kidding me???",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "What the...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Haven't even hit you yet.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Hey, apartment 1410. Hey, you!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Just what the hell's going on, boy?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Huh? Uh, huh? Mr. Mobster?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Stop calling me that. I'm a good fella. Are you okay, the noise-causing lady?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Oh my god! Uh, blood?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "What the heck is happening?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Hey, have you seen the young lady who was just banging on my door? There was blood all over her face. Young lady?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Have you seen a monster? It looked just like the girl next door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "Please step back.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Excuse me?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "My door!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun-su",
+      "line": "Stop bullshitting!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jisu",
+      "line": "I'm telling you the truth.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "EH",
+    "CLANG",
+    "HEHE",
+    "CLOSING",
+    "AAZOO",
+    "WONG",
+    "JAE",
+    "DING DONG",
+    "PRESS",
+    "BANG",
+    "SHRIEK",
+    "BAM",
+    "CRACKLE",
+    "GRAB",
+    "BREAK",
+    "QUIET",
+    "THUMP THUMP",
+    "THREATENS",
+    "TRICKLE",
+    "FALTER",
+    "THUMP-TING",
+    "POUNDING",
+    "HEY",
+    "THUMP",
+    "AAH",
+    "HKA",
+    "GRR",
+    "SCREAK",
+    "FEAR",
+    "SCREAMING",
+    "SHOUTING",
+    "BANGING"
+  ],
+  "summary": "Hyun-su interacts with a new neighbor, Jisu, who shares a tragic story about a mother. Later, Hyun-su's loud music attracts a monstrous neighbor from apartment 1410, leading to a violent confrontation at his door, which Jisu witnesses and confirms is a monster.",
+  "word_count": 724,
+  "confidence": "medium"
+}

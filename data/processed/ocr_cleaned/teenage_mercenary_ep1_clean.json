@@ -1,0 +1,243 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Ten years. Ten years since I was picked up from that crashed plane.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ten years since I started living a 'normal' life.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "The smell of chalk dust, the murmur of students, the distant sound of a bell... it's all still so foreign.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Even after all this time, the instincts remain. The urge to scan my surroundings, identify threats, plan escape routes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (of a pen)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "But here, in this classroom, the only 'threat' is a pop quiz.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yu Dayun",
+      "line": "Oppa! There you are!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP THUMP (running footsteps)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Dayun.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yu Dayun",
+      "line": "I've been looking for you everywhere! Are you ready to go home? Grandpa made your favorite!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Yeah. Let's go.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Her smile... it's a constant reminder of what I'm protecting. What I'm living for now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As they walked through the school gates, a group of older students loitered by a convenience store, their eyes scanning the younger kids.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Hey, look what we have here. Little Miss Perfect, Yu Dayun.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Yu Dayun",
+      "line": "Oh no...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Heard you got the top score on the English test again. Must be nice, having everything handed to you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "How about you 'share' some of that good fortune with us? Like, your lunch money?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Leave her alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH (gravel underfoot)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Oh? And who's this scrawny guy? Her bodyguard?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "He looks like he'd snap in half if I breathed on him.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "I said, leave her alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "My body tensed, ready. My eyes tracked their movements, their tells. The slight shift in weight, the clenching of a fist.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "It would be so easy to disarm them. To incapacitate them before they even realized what was happening.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Or what, kid? You gonna cry to your mommy?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (Bully 1's arm swings)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "I sidestepped, a blur. My hand shot out, not to strike, but to intercept.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRIP! (Ijin catches Bully 1's wrist)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Agh! What the—?! Let go!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "My grip was firm, precise. Just enough pressure on a nerve point to cause discomfort, not injury. A warning.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Hey, what are you doing to him?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "My gaze met Bully 2's. Cold. Unflinching. The kind of look that had stopped men twice their age in their tracks.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GULP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Okay, okay! I get it! Just let go!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "I released him. He stumbled back, rubbing his wrist, a new fear in his eyes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Let's go! This guy's weird!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAMBLE (bullies running away)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Yu Dayun",
+      "line": "Oppa! Wow! You were so cool!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "It's nothing. Let's go home.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "I still have to be careful. Can't let my past bleed into their lives too much. Not yet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Yu Jin-ho (Grandpa)",
+      "line": "Ah, there are my favorite grandchildren! Dinner's ready!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "The warmth of their home, the scent of Grandpa's cooking... it's a different kind of battlefield. One I'm still learning to navigate.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "But I'll protect it. With everything I have.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "CLICK",
+    "THUMP THUMP",
+    "CRUNCH",
+    "SWISH",
+    "GRIP!",
+    "GULP",
+    "SCRAMBLE"
+  ],
+  "summary": "Ijin Yu, a former child mercenary, navigates the unfamiliar world of high school and family life. When his younger sister Dayun is confronted by bullies, Ijin subtly intervenes, hinting at his hidden skills while trying to maintain his 'normal' facade and protect his new family.",
+  "word_count": 750,
+  "confidence": "high"
+}

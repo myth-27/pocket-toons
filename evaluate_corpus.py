@@ -72,7 +72,7 @@ def evaluate_corpus():
     # Save Results
     df = pd.DataFrame(results)
     df.to_csv(output_file, index=False)
-    print(f"✅ Evaluation complete. Saved to {output_file}")
+    print(f"Evaluation complete. Saved to {output_file}")
     print(df['decision'].value_counts())
 
 if __name__ == "__main__":

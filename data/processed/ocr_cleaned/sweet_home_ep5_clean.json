@@ -1,0 +1,252 @@
+{
+  "title_header": "Sweet Home, Episode: 5",
+  "dialogue": [
+    {
+      "speaker": "UNKNOWN",
+      "line": "Do you still work overtime? Man, that's just terrible. Hey, you picked a wrong company.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Me? I'm good. Same stuff, different days.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Hey, think again. Time is not on our side, you know?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Connection lost. The call got lost. Connect again.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "What the?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "What's wrong with this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Who's?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "We're sorry, but your call cannot be completed at this time. Please hang up and try your call again later. If you need help, please hang up and call technical support.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "What?! What the hell was that?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Am I seeing things?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "No! That definitely wasn't human! Monster! That must be a monster!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Ugh!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Monsters can't ring a doorbell, right?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Hello, is someone there??",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "My cat is missing and someone broke into my place. Please, you have to help me! It can talk too!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "But that's a different voice, though.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Hey, is anybody home?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Monster",
+      "line": "Ah, something to eat.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Am I hallucinating?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Hello??? Anybody???",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Jesus...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Think. I'm really going crazy. Then, what really was that?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Ahh, hey. Ahh, you were there!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Wh- What's going on? Please! Please help me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "How do you want me to help you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Please call the police for me. I can't remember, but when I woke up, my door was wide open and my cat was gone. And there was blood and empty ramen bags lying around everywhere.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Ok, please calm down.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Hey, where's your phone? I can't find it anywhere. Maybe I lost it. Please report this to the police for me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Well, why don't you ask the security for help? I don't think I'll be much help in this case.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Hey, by the way, can you show me your arm? Sorry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Let me see your arm. Beg your pardon?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Your arm. Please show it to me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Neighbor",
+      "line": "Please open the door.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Monster",
+      "line": "Open the fuck up, you fucking retard.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Monster",
+      "line": "I'm starving to death... Starving.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Monster",
+      "line": "Food?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Stop. Stop it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Stop playing that goddamn guitar.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Fucking stop!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "Damn it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "I saw it headed for the stairs. Damn it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Hyun",
+      "line": "I'm here! Come back, you psycho!",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "OK",
+    "YEAH YEAH",
+    "STEP",
+    "TOOT",
+    "SSK",
+    "RING",
+    "BEEP",
+    "GLANCE",
+    "DRAG",
+    "DING DONG",
+    "HUFF",
+    "FLINCH",
+    "TREMBLE",
+    "QUIETLY",
+    "HA",
+    "PHEW",
+    "PRESS",
+    "GULP",
+    "SVER",
+    "DIRNT",
+    "GRAB",
+    "BAN"
+  ],
+  "summary": "Hyun's phone call is interrupted by a strange connection loss, followed by a neighbor frantically asking for help after her cat goes missing and her apartment is broken into. Hyun suspects a monster is involved, especially when he hears a distorted voice and a monster demands food, leading him to confront it.",
+  "word_count": 400,
+  "confidence": "medium"
+}

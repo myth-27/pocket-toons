@@ -1,0 +1,207 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In the grand halls of the Eldrin Kingdom, life for a handmaiden like me, Lucia, is a tapestry of routine. Polishing silverware, mending gowns, serving tea...",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And, of course, witnessing the endless parade of suitors vying for Princess Aurelia's hand.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "(thought) Another one. He looks like he's swallowed a whole jar of honey. Sweet, but ultimately sticky and unpleasant.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Prince Alaric",
+      "line": "My lady Princess, my kingdom of Veridian offers not only vast emerald mines but also the unwavering loyalty of my people.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Princess Aurelia",
+      "line": "How... fascinating, Prince Alaric. We shall consider your proposition.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "(thought) She says that to all of them. I wonder if she even remembers their names.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHISPERS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Queen Seraphina",
+      "line": "Silence! We have one more suitor to present today. A most... unique candidate.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The heavy oak doors creaked open, and two guards struggled to push in a large, covered object.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK... THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Noble 1",
+      "line": "What in the blazes is that?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Noble 2",
+      "line": "A new piece of furniture?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Queen Seraphina",
+      "line": "This, my dear court, is the enchanted armor, Kian. A suitor crafted by the most powerful mages of the Eldrin line. He is designed for unwavering protection and loyalty.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The guards pulled back the cloth, revealing a magnificent suit of silver and gold armor, intricately engraved with ancient runes. It stood perfectly still, almost radiating a silent power.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASPS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "(thought) An armor? As a suitor? This is a new level of ridiculous, even for this court.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Queen Seraphina",
+      "line": "Lucia! You will be assigned to Kian. You are to instruct him on the customs of the court and assist him in his duties as a suitor.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "Me, Your Majesty? But...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Queen Seraphina",
+      "line": "No 'buts', handmaiden. Your quiet diligence makes you perfect for this delicate task. Now, take him to the west wing and begin.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With a sigh, I approached the armor. It felt... cold. And strangely heavy, even though it wasn't moving. This was going to be a long day.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANK... CLANK (as Lucia guides the armor)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "Alright, Kian. This way. We'll start with the basics. Like, how to walk without sounding like a stampeding warhorse.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kian",
+      "line": "Query: 'Stampeding warhorse' is an undesirable auditory output for locomotion?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "(thought) It spoke! I mean, I knew it could, but it's still jarring. And so... formal.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "Yes, Kian. Undesirable. We aim for 'graceful' or 'dignified'. Less 'about to flatten the royal gardener'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kian",
+      "line": "Understood. Adjusting gait parameters for optimal 'graceful' and 'dignified' output. Primary objective: impress Princess Aurelia.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIRR (a soft internal sound from Kian)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "Yes, that's the idea. So, first lesson: when addressing royalty, you bow. Not too low, not too shallow. Just enough to show respect.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kian",
+      "line": "Demonstrate.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "Alright, watch closely.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I performed a small, practiced curtsy, just as I'd done countless times for the Queen. Kian watched, his visor reflecting my image.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kian",
+      "line": "Replicating gesture.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANK-SCRAPE (Kian attempts to bow, stiffly)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "Whoa! Careful! You almost took out that vase. It's less of a 'lurch forward' and more of a 'smooth bend'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "(thought) This is going to be harder than I thought. He's not just armor; he's like a giant, very literal child. A very, very powerful child.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kian",
+      "line": "My apologies. Recalibrating. My purpose dictates efficient learning for successful suitor engagement.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lucia",
+      "line": "(thought) 'Efficient learning.' He sounded so earnest. There's something... disarming about him. He's not like the other suitors, all pretense and ambition. He just... is. And now, he's my responsibility.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As the afternoon light faded, casting long shadows across the west wing, I realized my life as a quiet handmaiden had just taken a very unexpected, and very metallic, turn.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WHISPERS",
+    "CREAK",
+    "THUD",
+    "GASPS",
+    "CLANK",
+    "WHIRR",
+    "CLANK-SCRAPE"
+  ],
+  "summary": "Lucia, a royal handmaiden, is tasked with guiding Kian, an enchanted suit of armor presented as a suitor for Princess Aurelia. She struggles with Kian's literal nature and his initial clumsiness, realizing her quiet life is about to become much more complicated.",
+  "word_count": 789,
+  "confidence": "high"
+}

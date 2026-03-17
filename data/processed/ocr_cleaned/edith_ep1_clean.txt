@@ -1,0 +1,37 @@
+=== Edith Episode 1 ===
+
+  (The carriage rumbled, a relentless rhythm against the desolate landscape. Each turn of the wheel brought me closer to my fate.)
+  Edith (thinking): They call him the Monster of the North. Duke Kael, the man whose shadow is said to wither crops and freeze hearts.
+  Edith (thinking): And I, Edith de Valois, am to be his wife.
+  [CARRIAGE RUMBLE (CONTINUOUS)]
+  Edith (thinking): My family's ruin was swift and absolute. A single, ill-fated investment, and suddenly, the proud Valois name was synonymous with debt. My hand, once sought by many, became a mere commodity.
+  Edith (thinking): A desperate bargain to save what little remained. Marry the Duke, and our debts would be cleared. A simple transaction, devoid of love or hope.
+  Edith (thinking): But I am no fragile flower. I survived my family's downfall. I will survive this.
+  [WIND HOWLS]
+  (Hours bled into each other, the sun dipping below the horizon, painting the sky in bruised purples and grays. Finally, a colossal silhouette emerged from the gloom.)
+  [CARRIAGE SLOWS. CREAKING.]
+  Edith (thinking): Blackwood Manor. Even from here, it exudes an oppressive aura. No lights, no welcoming warmth. Just stone and shadow.
+  [GATES GROAN OPEN (LOUD, RUSTY)]
+  (The carriage passed through the towering gates, a final, definitive click echoing behind us as they sealed shut.)
+  Edith (thinking): No turning back now.
+  [CARRIAGE STOPS. HORSES WHINNY.]
+  Butler (gruff): Lady Edith. Welcome to Blackwood Manor.
+  (A gaunt butler with eyes like chips of ice stood by the carriage door. His voice was devoid of any warmth, a stark contrast to the usual greetings a noble lady received.)
+  Edith: Thank you, sir. I am Edith de Valois.
+  [EDITH STEPS DOWN. DRESS RUSTLES.]
+  Edith (thinking): The air was biting, carrying the scent of damp earth and something else… something metallic and old. The manor loomed, a monstrous silhouette against the moonless sky.
+  Butler: His Grace awaits you in the main hall.
+  Edith (thinking): He wasted no time. Straight to the confrontation, then.
+  [FOOTSTEPS ECHO (ON STONE)]
+  (The interior was as cold and unwelcoming as the exterior. Tapestries depicting forgotten battles lined the walls, and the only light came from a few flickering candelabras.)
+  Edith (thinking): My heart hammered a frantic rhythm against my ribs. This wasn't just a marriage; it felt like walking into a lion's den.
+  [HEART THUMP (LOUD)]
+  (At the far end of the vast hall, a figure sat on a high-backed chair, shrouded in shadow. Only the glint of his eyes, like predatory embers, pierced the gloom.)
+  Duke Kael: So, you've arrived.
+  (His voice was deep, resonant, and carried an undeniable weight of authority. It sent a shiver down Edith's spine, but she met his gaze head-on.)
+  Edith: Duke Kael. I am Edith de Valois. I assume you are His Grace?
+  Duke Kael: Indeed. And you are my future Duchess.
+  Edith (thinking): His eyes were like obsidian, sharp and unyielding. There was no warmth, no welcome, only a chilling intensity that seemed to strip away all pretense.
+  Edith (thinking): This man... he truly is the monster they speak of. But I won't break. I won't just survive here; I will find a way to live.
+  [SILENCE (HEAVY)]
+  Edith (thinking): A new chapter begins. And I, Edith, will write my own story.

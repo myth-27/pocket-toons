@@ -1,0 +1,212 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The wind howled a ceaseless dirge, a symphony of frost and desolation. It had been like this for as long as anyone could remember.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The 'Great Chill,' they called it. A planetary catastrophe that turned Earth into a tomb of ice, leaving behind only the skeletal remains of a forgotten world.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH. CRUNCH. CRUNCH.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) Another day. Another hundred clicks across the ice-sheet. My 'lucky' day, if the scanner isn't lying.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kael, a silhouette against the perpetual twilight, trudged onward. His environmental suit, a patchwork of scavenged tech, hissed softly with every step.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIRRRR (low hum from suit)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) The power cells are almost depleted. One more cycle, maybe two, before I'm just another frozen statue in this wasteland.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP. BEEP. BEEP. (scanner alert)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) Finally. A heat signature. Faint, but it's there. Deep within Sector 7-Gamma. The old 'Arcology-Prime' ruins.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He adjusted his visor, the HUD flickering to display a faint red thermal outline beneath layers of snow and collapsed ferrocrete.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GUST (wind whips)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) Arcology-Prime. The last bastion of warmth, they said. Before the 'Fall.' Now, just another freezer.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He reached the entrance, a gaping maw of twisted metal and shattered duraglass, partially buried under a glacial drift.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREEEAAAK (metal groaning)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) Standard procedure. Check for structural integrity. Look for traps. And pray the 'cold ones' haven't made this their den.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (air escaping as Kael enters)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Inside, the air was still, thick with the dust of centuries. Frozen debris hung suspended, caught in the last moments of collapse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) The scanner's getting stronger. Whatever it is, it's deep inside. And it's radiating a lot of residual energy.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (small piece of ice falls)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He navigated through the labyrinthine corridors, his headlamp cutting through the gloom, illuminating murals of a vibrant, green Earth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) Lies. All lies. This world was always meant to freeze.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP-BEEP-BEEP-BEEP! (scanner intensifies)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He pushed open a heavy, frozen door, revealing a vast, circular chamber. In the center, encased in a block of ice, pulsed a faint blue light.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) A cryo-pod? No, too small. And the energy signature... it's not human.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As he approached, the ice around the object began to crack, a delicate web spreading across its surface.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE. SHATTER. (ice breaking)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) What in the...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The ice fell away, revealing a sleek, metallic device, intricate and alien. It hummed with an internal power, the blue light growing brighter.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUMMMMMMM (device activating)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) This isn't just a power cell. This is... something else entirely. Something from before the Chill. Something powerful.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Suddenly, a low growl echoed from the shadows, a sound Kael knew all too well.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRRRRRRRRRR (deep, guttural)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) Damn it. The cold ones. They must have sensed the energy spike.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Two glowing red eyes emerged from the darkness, followed by a hulking, frost-covered silhouette. A 'Chill-Beast.'",
+      "type": "narration"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) No time to analyze. Just run. Or fight. And I'm out of ammo.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ROOOOAAARRR! (Chill-Beast)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Kael gripped the strange device, its blue light pulsing in his hand, a beacon in the encroaching darkness.",
+      "type": "narration"
+    },
+    {
+      "speaker": "KAEL",
+      "line": "(Thought) This changes things. Everything changes now.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CRUNCH",
+    "WHIRRRR",
+    "BEEP",
+    "GUST",
+    "CREEEAAAK",
+    "WHOOSH",
+    "CLINK",
+    "CRACKLE",
+    "SHATTER",
+    "HUMMMMMMM",
+    "GRRRRRRRRRR",
+    "ROOOOAAARRR"
+  ],
+  "summary": "Kael, a lone scavenger, braves the frozen ruins of a post-catastrophe Earth in search of vital resources. He discovers a mysterious, glowing device within an ancient arcology, but his find quickly attracts the attention of a dangerous 'Chill-Beast.'",
+  "word_count": 650,
+  "confidence": "high"
+}

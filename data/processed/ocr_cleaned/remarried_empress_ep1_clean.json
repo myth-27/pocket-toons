@@ -1,0 +1,187 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Eastern Empire. A land of prosperity, guided by a lineage of powerful emperors and their empresses. Among them, Empress Navier Trovi was considered the pinnacle of perfection.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Navier",
+      "line": "The trade agreement with the Western Kingdom requires careful review of the tariffs on silk imports. Ensure the revised figures are presented to the council by tomorrow morning.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Countess Jubel",
+      "line": "Yes, Your Majesty. It shall be done.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "And the charity ball preparations? Have the invitations been sent to all the noble houses?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Marquess Ketron",
+      "line": "All dispatched, Your Majesty. We await their RSVPs.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "(My life has always been a meticulously crafted schedule. Every moment dedicated to the Empire, to my role.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE of silk, GENTLE CLINK of teacups",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maid",
+      "line": "Your Majesty, His Imperial Majesty, Emperor Sovieshu, has returned.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "Oh? So soon? I was not informed of his early return from the hunting trip.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Countess Jubel",
+      "line": "Perhaps he simply wished to surprise you, Your Majesty.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS approaching, MURMURS from the hallway",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sovieshu",
+      "line": "Navier. I've returned.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "Welcome back, Your Majesty. I trust your hunting trip was fruitful?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sovieshu",
+      "line": "Indeed. More fruitful than I could have imagined. I found something quite... precious.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASPS from the ladies-in-waiting",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Sovieshu",
+      "line": "This is Rashta. She was captured by slave traders, and I rescued her. From now on, she will reside in the Western Palace as my concubine.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rashta",
+      "line": "(Trembling slightly) Your... Your Majesty... Empress Navier...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "(A concubine? Brought directly into the palace, without so much as a prior word. And so openly.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Navier",
+      "line": "I see. Welcome to the Imperial Palace, Rashta. I trust you will find your stay comfortable.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHISPERS among the court ladies",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lady Eliza",
+      "line": "Did you see her dress? So plain... and her hair, unkempt!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Countess Jubel",
+      "line": "Hush, Eliza. But to bring her directly before the Empress...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sovieshu",
+      "line": "Navier, Rashta has been through a traumatic experience. I expect her to be treated with the utmost care and respect.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "Of course, Your Majesty. All imperial residents are treated with respect.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rashta",
+      "line": "(Tears welling up) Rashta... Rashta is so grateful to His Majesty. He is Rashta's savior.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sovieshu",
+      "line": "(Gently patting her shoulder) There, there, Rashta. You're safe now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "(His touch... he hasn't touched me like that in years. Not since we were children.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Navier",
+      "line": "If you'll excuse me, Your Majesty. I have further duties to attend to.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Sovieshu",
+      "line": "Very well. I will ensure Rashta settles in.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CLOSES softly",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Navier",
+      "line": "(A concubine. It was bound to happen eventually. But to be so... blatant. It's not the concubine herself that bothers me, but the disregard for protocol, for me. Our marriage was a political alliance, a duty. But even duties require a certain level of decorum.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Navier",
+      "line": "(I am the Empress. My emotions are a luxury I cannot afford. I will simply observe.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Countess Jubel",
+      "line": "Your Majesty, are you quite alright?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Navier",
+      "line": "Perfectly, Countess. Let us resume our work. The Empire does not stop for trivial matters.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "CLINK",
+    "FOOTSTEPS",
+    "MURMURS",
+    "GASPS",
+    "WHISPERS",
+    "DOOR CLOSES"
+  ],
+  "summary": "Empress Navier, known for her perfection and unwavering dedication to the Eastern Empire, is surprised by Emperor Sovieshu's early return from a hunting trip. He introduces a young, seemingly innocent woman named Rashta, declaring her his new concubine and bringing her directly into the palace, setting the stage for a dramatic shift in the imperial court.",
+  "word_count": 725,
+  "confidence": "high"
+}

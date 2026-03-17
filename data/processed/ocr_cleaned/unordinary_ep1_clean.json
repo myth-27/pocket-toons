@@ -1,0 +1,232 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "In a world where superpowers are commonplace, the social hierarchy is absolute.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From the strongest 'high-tiers' to the weakest 'low-tiers', everyone knows their place.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And then, there are the 'cripples'. Those born without abilities.",
+      "type": "narration"
+    },
+    {
+      "speaker": "John",
+      "line": "Another beautiful morning at Wellston High. Or, as I like to call it, 'The Daily Gauntlet'.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "Just gotta make it through the day without getting my face rearranged. Simple enough for a cripple, right?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Watch where you're going, cripple!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "(Rubbing his shoulder) My apologies. My eyes must have missed your overwhelming aura.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "What was that, punk?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "Just admiring your impressive physique. Clearly, you've been working out. Or... just born lucky.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "He's making fun of you, dude!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Oh, I know. And I don't appreciate it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE (electricity)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "John",
+      "line": "Whoa, easy there, sparky. Just a compliment. No need to get all... charged up.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "You think this is a joke?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "Not at all. Just trying to lighten the mood before someone gets hurt. And let's be honest, it'd probably be me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Smart mouth. You're lucky I'm in a good mood today. Get lost.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "(Walking away) Phew. Close one. Another day, another successful de-escalation.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "It's a delicate dance, really. Be just annoying enough to be memorable, but not so annoying they feel compelled to crush you.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MURMURS (from other students)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "John",
+      "line": "There she is. The Queen of Wellston. Seraphina.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "Level 8.0. The strongest student in the school. Probably the strongest in the entire district.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "She walks through the halls like she owns them. Which, technically, she does. No one dares challenge her.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (Seraphina passes by quickly)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "John",
+      "line": "Must be nice. To be so powerful, so untouchable. To not have to worry about every single interaction.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "Me? I just need to get to lunch.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLATTER (lunch tray)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "John",
+      "line": "Hey! That was my last piece of cake!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 3",
+      "line": "Oops. My bad, cripple. Guess you'll have to go hungry.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 4",
+      "line": "He looks so pathetic, begging for food.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "Pathetic? Nah. I'm just cultivating mass. And apparently, you're helping.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 3",
+      "line": "You want to fight, cripple?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "And lose? Nah, I'm good. I'd rather keep my teeth.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "Besides, I'm sure you could use the extra calories. You look like you're about to blow away in a strong breeze.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 3",
+      "line": "Why you little—!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRRRR (Bully 3's aura flares)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "John",
+      "line": "Whoa, easy there. Just a friendly observation. You're looking... robust today. Very robust.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "John",
+      "line": "(Walking away, leaving the bullies confused) Man, being a cripple is exhausting. All this dodging and weaving, verbally and physically.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "But it's better this way. It has to be.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "No one needs to know the truth. No one needs to know what I really am.",
+      "type": "thought"
+    },
+    {
+      "speaker": "John",
+      "line": "The King of Wellston... That's a title I left behind a long, long time ago.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (John's backpack)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "John",
+      "line": "Just a normal high school student. That's all I am now. That's all I want to be.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "THUD",
+    "CRACKLE",
+    "WHOOSH",
+    "CLATTER",
+    "GRRRR",
+    "RUSTLE",
+    "MURMURS"
+  ],
+  "summary": "John, a seemingly powerless 'cripple' at Wellston High, navigates his day by cleverly deflecting bullies and observing the power-based hierarchy, all while secretly harboring a powerful past.",
+  "word_count": 709,
+  "confidence": "high"
+}

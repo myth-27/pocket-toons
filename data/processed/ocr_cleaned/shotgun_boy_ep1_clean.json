@@ -1,0 +1,214 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The day started like any other. The usual morning announcements. The usual boredom of first period. Then, the screams.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "—Just stay quiet, Jisu. Please.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JISU",
+      "line": "(sobbing, barely a whisper) I want my mom… I want to go home…",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *The sounds… they’re getting closer. Thumping. Growling. Not human.*",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP. THUMP. THUMP.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE. A low GROWL.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *The classroom door… it’s not going to hold.*",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK! SPLINTER!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JISU",
+      "line": "(a choked gasp)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A grotesque hand, fingers unnaturally long and twisted, burst through the splintered wood. Then, a face.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHATTER! (The door rips from its hinges)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MR. KIM (TRANSFORMED)",
+      "line": "(A guttural, wet ROAR)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *Mr. Kim? No… it can’t be…*",
+      "type": "thought"
+    },
+    {
+      "speaker": "JISU",
+      "line": "(screams, pure terror)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "Run! Jisu, run!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "LUNGE! GRAB!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JISU",
+      "line": "NO! HELP ME! HAE-MIN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *Frozen. Why am I frozen? Move!*",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! (Hae-min grabs a fire extinguisher)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HISS! (Chemical spray)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MR. KIM (TRANSFORMED)",
+      "line": "(A pained SNARL)",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(gasping) Go! Get out!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAMBLE! (Jisu escapes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The hallway was a nightmare. More of them. Students, teachers… twisted into something monstrous. The air thick with the smell of blood and fear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCREAMS! DISTANT ROARS! WET RIPPING SOUNDS!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *I can’t help them. I can’t. Just run.*",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PANT! PANT! THUMP-THUMP-THUMP! (Hae-min’s frantic heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *Another classroom. Lock the door. Hide.*",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK! (The lock engages)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(whispering, trembling) What… what are these things? What’s happening?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He peered out the window. The city, once vibrant, was now a canvas of smoke and fire. Sirens wailed, then abruptly died, replaced by an eerie silence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIRENS (fading to static), CRASH (distant explosion)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *The world… it’s gone. Everything is gone.*",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes fell on a discarded poster, half-torn from the wall. A hunting rifle, advertised for a local sporting goods store. A weapon.",
+      "type": "narration"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(thought) *I need… something. Anything.*",
+      "type": "thought"
+    },
+    {
+      "speaker": "HAE-MIN",
+      "line": "(curling into a ball, shaking) I just want to go home…",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT ROAR. A low, continuous GROAN from somewhere in the school.",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "THUMP",
+    "SCRAPE",
+    "CRACK",
+    "SPLINTER",
+    "SHATTER",
+    "ROAR",
+    "LUNGE",
+    "GRAB",
+    "WHOOSH",
+    "HISS",
+    "SNARL",
+    "SCRAMBLE",
+    "SCREAMS",
+    "RIPPING",
+    "PANT",
+    "CLICK",
+    "SIRENS",
+    "CRASH",
+    "GROAN"
+  ],
+  "summary": "Hae-min, a terrified student, hides with a classmate as their school is overrun by grotesque, transformed humans. After a brutal encounter with a mutated teacher, he escapes into the chaotic hallways and witnesses the horror unfolding, realizing the entire city is under attack and he needs a weapon to survive.",
+  "word_count": 725,
+  "confidence": "high"
+}

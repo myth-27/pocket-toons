@@ -1,0 +1,213 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The alarm clock blared, a cruel awakening from the sweet embrace of dreams. Another morning, another battle against the forces of sleep and the comfort of a perfectly warm bed.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Ugh... no. Not yet. My bed is a warm, soft trap. A sanctuary from the harsh realities of mornings. Why can't I just hibernate?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP-BEEP-BEEP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Five more minutes. Just five. The world can definitely wait. It's not like anything truly urgent happens before 9 AM anyway, right?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SNORE (from Fiance)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "He looks so peaceful. How does he manage to sleep through anything? The blaring alarm, my internal panic, the existential dread of a new day... it's a superpower, honestly. I'm a little jealous.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "He's like a human tranquilizer dart. Just completely unfazed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "(Muffled groan) Okay, fine. Reality calls.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Nope! Duty calls! Or, you know, my bladder calls. Same difference.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "STRETCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Mmmph... morning, sleepyhead.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Fiance",
+      "line": "Mmmph... five more minutes...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "The gravitational pull of blankets is definitely stronger in the morning. It's a scientific fact, I swear. NASA should study this phenomenon.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Time to face the mirror. The ultimate judge of morning self-worth.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK (bathroom door)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Behold, the bedhead champion, right here. My hair has achieved new levels of chaos. And what is *that*? A new zit? Seriously? The universe truly conspires against my complexion.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Why do my pajamas always feel so much better *before* I have to take them off? It's like they know their time is limited and decide to maximize comfort just to spite me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHUFFLE (clothes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Okay, what's the vibe today? 'Attempting to look presentable' or 'Embracing the potato'? Maybe a little bit of both.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "The eternal struggle of comfort versus presentability. Comfort usually wins, let's be real.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Fiance",
+      "line": "(From kitchen) Coffee's almost ready, Murrz!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Be right there! (To herself) The promise of caffeine is the only thing truly motivating me right now. It's my lifeblood, my morning elixir.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK (mug)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Thanks, you're the best.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Fiance",
+      "line": "Morning, sleepyhead. You look cute.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "He says that even when I look like I wrestled a badger and lost. I guess that's love? Or he desperately needs new glasses. Either way, I appreciate the sentiment.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "This coffee is life. Pure, unadulterated life. How do people function without it? Are they some kind of super-humans? Or perhaps... aliens?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Fiance",
+      "line": "Any plans for today? Besides surviving, of course.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Mostly that. Maybe draw a bit, stare blankly at my computer screen for a few hours, get distracted by cat videos, then realize it's dinner time. The usual. You?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Fiance",
+      "line": "Work, then maybe that new game later? The one with the dragons.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Sounds good. I'll provide moral support and snacks.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Just try not to yell too much. My delicate artistic sensibilities can't handle it.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MUNCH (Fiance eating cereal)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "He eats so fast. Like a tiny, adorable vacuum cleaner. It's impressive, really. Meanwhile, I'm still contemplating my first bite, wondering if it's worth the chewing effort required.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Okay, brain cells, activate! Or at least pretend to. The day won't procrastinate itself, even if I desperately want it to.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Fiance",
+      "line": "Ready for the day?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "As I'll ever be. Let's do this.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Murrz",
+      "line": "Another day, another adventure... mostly involving snacks, existential dread, and the never-ending quest for comfy pants. But with him, it's always a little brighter. And at least there's coffee.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "BEEP-BEEP-BEEP",
+    "SNORE",
+    "STRETCH",
+    "CREAK",
+    "SHUFFLE",
+    "CLINK",
+    "SIP",
+    "MUNCH"
+  ],
+  "summary": "Murrz reluctantly wakes up to another day, battling bedhead and existential dread, finding solace in coffee and the comforting presence of her ever-supportive Fiance as they start their morning routine.",
+  "word_count": 624,
+  "confidence": "high"
+}

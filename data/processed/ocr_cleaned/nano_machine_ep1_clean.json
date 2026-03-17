@@ -1,0 +1,201 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Demonic Cult. A place where only the strong survive, and the weak are discarded like trash. For Cheon Yeo-Woon, the illegitimate son of the Lord, every day was a battle for existence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) My body still aches from yesterday's 'training.' They call it training, but it's just an excuse to beat the 'Prince of the Orphanage' to a pulp.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRUNT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) I can't give up. Not now. Not ever. Mother... I promised I would survive.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PANT PANT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hidden in the desolate corners of the Cult's vast estate, Cheon Yeo-Woon practiced the basic forms, movements he'd stolen glances of from other cadets. His movements were clumsy, his body weak, but his spirit burned.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Well, well, look what we have here. The 'Prince' is trying to play warrior.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS (CRUNCHING GRAVEL)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Still alive, Yeo-Woon? We thought you'd finally learned your place after yesterday's lesson.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) Dammit. It's them again. The sons of the Blade Clan Elder and the Wise Clan Elder.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "What do you want?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Oh, nothing much. Just came to remind you of your status. A lowly bastard, born of a servant. You disgrace the Lord's bloodline.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "You should just disappear. The Demonic Cult has no place for trash like you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (A quick punch)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "ACK!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD (Yeo-Woon falls)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) They're not even trying. Just playing with their food.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "Still glaring? Fool. You think you can stand against us?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KICK! CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "URGH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Let's teach him a proper lesson this time. One he won't forget.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Blow after blow rained down on Yeo-Woon. His vision blurred, his body screamed in protest, but he refused to cry out. To show weakness was to invite more suffering.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUNCH! KICK! PUNCH! (Repeated, muffled)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) Is this it? Am I going to die here? No... I can't... I won't...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "He's barely conscious. Let's finish this.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully 2",
+      "line": "Throw him into the Abandoned Well. Let him rot there. No one will find him.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GRAB. DRAG. SCRAPE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) The Abandoned Well... it's said to be cursed. A place where the Cult's failures are forgotten...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUSH! SPLASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) Cold... so cold... I can't breathe...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Plunged into the icy depths, Cheon Yeo-Woon's battered body struggled. Darkness enveloped him, and consciousness began to fade. This was the end. Or was it?",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GURGLE (Water)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Cheon Yeo-Woon",
+      "line": "(Thought) Mother... I'm sorry... I couldn't...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BZZZZT... (Faint, high-pitched hum)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As his eyes closed, a faint, ethereal blue light pulsed in the darkness, drawing closer to the dying boy.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "GRUNT",
+    "PANT",
+    "FOOTSTEPS",
+    "CRUNCHING GRAVEL",
+    "WHOOSH",
+    "THUD",
+    "KICK",
+    "CRACK",
+    "PUNCH",
+    "GRAB",
+    "DRAG",
+    "SCRAPE",
+    "PUSH",
+    "SPLASH",
+    "GURGLE",
+    "BZZZZT"
+  ],
+  "summary": "Cheon Yeo-Woon, the illegitimate prince of the Demonic Cult, endures daily abuse from his half-brothers. After a brutal beating, he is thrown into the cursed Abandoned Well and left for dead, only for a mysterious blue light to appear as he loses consciousness.",
+  "word_count": 768,
+  "confidence": "high"
+}

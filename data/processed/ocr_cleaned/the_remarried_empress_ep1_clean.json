@@ -1,0 +1,174 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Eastern Empire. A land of prosperity, guided by an Empress whose elegance was only matched by her unwavering resolve. Empress Navier Trovi.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "Another dawn. Another day of duties. The sun rises, indifferent to the weight of the crown.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "COUNTESS ELIZA",
+      "line": "Your Majesty, the Imperial Council meeting is scheduled for the third bell. Your attire for the day has been prepared.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "Thank you, Countess. Is the report from the Western Kingdom ready?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "COUNTESS ELIZA",
+      "line": "Yes, Your Majesty. It awaits your review.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "My life has always been a meticulously planned tapestry. Every thread, every color, chosen for the good of the Empire. My marriage to Sovieshu was no different. A political alliance, a duty. Love was a luxury neither of us could afford.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later, in the Emperor's study, the air was thick with the scent of parchment and a familiar chill.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "Your Majesty, the new trade agreement with the Western Kingdom requires your final approval.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SOVIESHU",
+      "line": "Leave it on the desk, Empress. I will review it later.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRATCH (of a pen)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "Always 'later.' The distance between us grows with each passing day, a chasm of unspoken words and unshared moments. Yet, our roles demand unity, a façade of a perfect imperial couple.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SOVIESHU",
+      "line": "Is there anything else?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "No, Your Majesty. I shall take my leave.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "The Emperor's attention has been elsewhere. For weeks. I've heard the whispers. A commoner. A slave. Rescued from a hunting accident.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The whispers turned to a startling reality during a casual gathering in the palace gardens.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SOVIESHU",
+      "line": "Everyone, I wish to introduce you to Rashta. She is a delicate flower who has suffered greatly. From this day forward, she will reside in the separate palace.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASPS (from the courtiers)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "RASHTA",
+      "line": "It is an honor... to be here.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "A commoner. Not even a noble. To be brought into the main palace, given a residence... This is unprecedented. This is not merely a mistress. This is a statement.",
+      "type": "thought"
+    },
+    {
+      "speaker": "COUNTESS ELIZA",
+      "line": "Your Majesty...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "Maintain composure. An Empress does not falter. Not in public.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later, in the quiet solitude of her private chambers, Navier's thoughts were sharp and clear.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "He flaunts her. Openly. Does he seek to provoke me? Or does he genuinely believe this... 'delicate flower' is worthy of such a display? He knows the political implications. He knows the gossip this will incite.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "Countess, arrange for a detailed background check on this 'Rashta.' I want to know everything. Her origins, her past, her connections.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "COUNTESS ELIZA",
+      "line": "At once, Your Majesty. Are you... alright?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "I am the Empress, Countess. I am always alright.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "But the foundations of my life, the very structure of my marriage, are shifting. He is not just taking a mistress; he is bringing chaos into the imperial household. And I, Navier Trovi, will not stand by and watch the Empire destabilize.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "From a discreet distance, Navier observed Rashta, who was laughing and playing with a small bird in the imperial gardens.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHIRP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NAVIER",
+      "line": "She is... innocent, perhaps. Or merely skilled at feigning it. Either way, she is a pawn in a game she may not even understand. But a pawn can still cause immense damage.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The Empress, known for her unyielding resolve, felt a chill settle in her heart. The first crack had appeared in the gilded cage of her imperial life. And with it, the seeds of a new destiny began to sprout.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "RUSTLE",
+    "SCRATCH",
+    "GASPS",
+    "CHIRP"
+  ],
+  "summary": "Empress Navier, known for her stoicism and competence, navigates her duties amidst a strained marriage to Emperor Sovieshu. The Emperor then publicly introduces Rashta, a commoner, as his new concubine, setting the stage for political and personal turmoil.",
+  "word_count": 725,
+  "confidence": "high"
+}

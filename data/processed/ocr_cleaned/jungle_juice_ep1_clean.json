@@ -1,0 +1,149 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Suchan Jang. The name echoed through the halls of Daehan University. Top of his class. Impeccable grades. A future as bright as his perfectly styled hair.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He was the epitome of success, the golden boy everyone admired. A life meticulously crafted, every detail polished to perfection.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) Another perfect score. Another day closer to my future. Just maintain this pace, Suchan. Don't slip up.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ZZZZZ",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) A mosquito? In my apartment? Ugh, seriously?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) Got it. Annoying little pest. Now, back to studying.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He didn't know that one tiny bite, one insignificant moment, would shatter his perfect world. He didn't know that the cheap 'Jungle Juice' insect repellent he'd bought on a whim was about to rewrite his very existence.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PSHHHHT!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) What is this... burning sensation? My back... it feels like it's on fire!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RIP! (sound of skin tearing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "GAH! What the hell?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACKLE! POP! (bones shifting, skin stretching)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) No... no, this can't be real. My back... something is growing out of my back!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FLUTTER! (a faint, papery sound)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) Wings. I have... mosquito wings. This is a nightmare. A horrible, disgusting nightmare!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next morning, Suchan Jang, the golden boy, woke up to a new reality. His reflection stared back, a stranger with a monstrous secret.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) How am I supposed to go to class? How am I supposed to live like this? My life... it's over.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (stomach growling unnaturally loud)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) What is this hunger? This... craving? It's not for food. It's for... blood?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He tried to hide them, to suppress the monstrous appendages that now defined him. A bulky jacket, hunched shoulders, anything to conceal the truth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) Just act normal. Don't let anyone see. Don't let anyone know. My reputation... everything I worked for...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH (a slight movement under his jacket)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) Damn it! Control yourself, Suchan! Don't let them twitch! One wrong move and it's all over.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The world he knew was gone, replaced by a terrifying struggle for normalcy. But a creature like him couldn't stay hidden forever. Not when his instincts screamed for release.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Suchan Jang",
+      "line": "(thought) I need to find answers. I need to fix this. Or I'll become nothing more than a monster.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "ZZZZZ",
+    "SLAP!",
+    "PSHHHHT!",
+    "RIP!",
+    "CRACKLE!",
+    "POP!",
+    "FLUTTER!",
+    "RUMBLE",
+    "SWISH"
+  ],
+  "summary": "Suchan Jang, a top university student, gets bitten by a mosquito and uses a mysterious 'Jungle Juice' repellent. This triggers a horrifying transformation, causing mosquito wings to erupt from his back. He struggles to hide his new monstrous form and suppress his terrifying new instincts, realizing his perfect life is shattered.",
+  "word_count": 625,
+  "confidence": "high"
+}

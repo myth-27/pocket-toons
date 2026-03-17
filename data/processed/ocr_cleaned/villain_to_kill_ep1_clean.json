@@ -1,0 +1,217 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "They called him Killer. The strongest hero. The one who always got the job done.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But even the strongest can fall.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Killer",
+      "line": "Gah!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BLADE! SLASH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Killer",
+      "line": "You... you bastards! After everything...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Killer",
+      "line": "This isn't how it ends for me. Not like this!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Killer",
+      "line": "(My vision... fading. My body... breaking. They surrounded me. All of them. The 'heroes' I fought alongside.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Killer",
+      "line": "(The Hero Killer... he got to them. Or did he just expose the rot that was always there?)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Killer",
+      "line": "(My power... gone. Drained. Betrayed.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Killer",
+      "line": "You... will... regret... this...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GURGLE. SILENCE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And so, the hero known as Killer died. Betrayed by those he protected.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But death, it seems, was merely a transition.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP... BEEP... BEEP...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(What is this sound? My head... it's pounding.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(My body... it feels so... weak. Fragile. Not my own.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(Where am I? This isn't the battlefield. This isn't my apartment.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PANT... PANT...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(I can barely move. My muscles ache with just this much effort.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(This room... it's a dump. A squalid, forgotten corner of the city.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(And this face... in the cracked mirror shard... it's not mine.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(Who is this scrawny kid? Why am I in his body?)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROAN.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(A villain's uniform? Tattered, but unmistakable. A low-tier grunt, by the looks of it.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(The last thing I remember... the betrayal. The Hero Killer's smirk as I bled out.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(They thought they could just erase me. Dispose of me like trash.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(But I'm still here. In this pathetic body, yes, but I'm here.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(Gwon Gyeol, huh? That's the name stitched onto this uniform.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(Fine. Let them think Killer is dead. Let them celebrate their victory.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(I'll take this new life. This new identity. And I will make them pay.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(The 'heroes' who betrayed me. The Hero Killer who orchestrated it all.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(They will all fall. And this time, it won't be as a hero.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(I will become the ultimate villain. A villain to kill them all.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUMBLE (a piece of the wall as he pushes himself up).",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(First, I need power. This body is useless. But I know how to get strong.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwon Gyeol (Cassian)",
+      "line": "(This world will learn to fear the name Gwon Gyeol.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SMASH (his fist against the crumbling wall, a small crater forms).",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "BLADE",
+    "SLASH",
+    "THUD",
+    "CRACK",
+    "GURGLE",
+    "SILENCE",
+    "BEEP",
+    "GASP",
+    "PANT",
+    "GROAN",
+    "CRUMBLE",
+    "SMASH"
+  ],
+  "summary": "The legendary hero 'Killer' is betrayed and murdered by his fellow heroes. He awakens in the weak body of a low-level villain named Gwon Gyeol, immediately vowing to exact his revenge on those who wronged him and become the ultimate villain.",
+  "word_count": 625,
+  "confidence": "high"
+}

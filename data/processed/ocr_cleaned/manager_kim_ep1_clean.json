@@ -1,0 +1,197 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The fluorescent lights hummed, a constant, dull drone. Another Tuesday. Another stack of invoices. Another day in the life of Kim Hyung-soo, Section Chief.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Mr. Park",
+      "line": "Seriously, Section Chief Kim, you should try my method. Just 'delegate' the tedious stuff. That's what a manager does, right? Power of connections!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "(Thought) Connections. He talks of them like they’re a shield. He has no idea what a true connection demands.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Mr. Park",
+      "line": "Anyway, I'm off to meet a client. Big fish. You just… keep at it, Section Chief.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Mr. Park sauntered out, his laughter echoing down the hall. Kim Hyung-soo didn't even look up. His phone vibrated.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Minji (text)",
+      "line": "Dad, I'm staying late for a study group. Walking home with Hyejin after. Don't worry!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "(Thought) Don't worry. A child's words. Easy to say when you haven't seen the world. Every shadow holds a threat.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK. CLACK. (Keyboard sounds)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Hours later, the city lights blurred past his car window. The mundane office life faded, replaced by the familiar tension he carried in his bones.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RING! RING! (Phone)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "Hello?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Hyejin (frantic)",
+      "line": "Mr. Kim! It's Hyejin! Minji… she… some guys! At the old park! They won't let us go!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "(Calmly) Location. Now.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His grip tightened on the steering wheel. The quiet manager was gone. The predator was awake.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "TIRES SCREECH. (Car turns sharply)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Thug 1",
+      "line": "What's the rush, pretty? Just wanna talk. Maybe you can 'study' with us instead.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "Leave us alone! My dad will be here!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thug 2",
+      "line": "Oh, 'Dad'? Is he gonna bring his walking stick?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A figure emerged from the shadows. Tall, unassuming. Kim Hyung-soo.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Thug 3",
+      "line": "Look, it's grandpa. Go home, old man, before you get hurt.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "You have exactly three seconds to walk away.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Thug 1",
+      "line": "Three seconds? What's he gonna do, lecture us?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK! (Impact)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Thug 1",
+      "line": "GAH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Before the first thug could finish his sentence, Kim's hand had shot out, striking a nerve cluster in his neck. The thug crumpled, unconscious.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Thug 2",
+      "line": "What the—?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK! (Bone impact)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A swift, precise kick to the knee. Thug 2 screamed, collapsing. Kim pivoted, his eyes cold, locking onto Thug 3.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Thug 3",
+      "line": "Y-you… you crazy old man!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHUMP! (Body hitting ground)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A short, brutal jab to the solar plexus. Thug 3 gasped for air, his eyes rolling back as he fell.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Minji",
+      "line": "Dad…",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "Are you hurt, Minji?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Minji",
+      "line": "N-no… I’m okay.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Hyung-soo",
+      "line": "(Thought) The world is a dangerous place. And I am its most dangerous guardian, for her.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He turned back to his daughter, his expression softening, but the dangerous glint in his eyes remained, a silent promise to any who would threaten what was his.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLICK",
+    "CLACK",
+    "RING",
+    "TIRES SCREECH",
+    "THWACK",
+    "CRACK",
+    "WHUMP"
+  ],
+  "summary": "Kim Hyung-soo endures a mundane day at his office job, but his quiet manager facade shatters when his daughter, Minji, calls him in distress after being harassed by thugs, forcing him to unleash his brutal, precise combat skills.",
+  "word_count": 709,
+  "confidence": "high"
+}

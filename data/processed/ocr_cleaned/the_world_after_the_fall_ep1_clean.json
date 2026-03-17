@@ -1,0 +1,253 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The world ended. Again. And again. A cycle of despair, hope, and inevitable collapse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "How many times has it been? A thousand? Ten thousand? The faces of the 'Awakeners' who came before me blur into a single, tragic memory.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "Each time, the world 'falls'. Each time, new 'Awakeners' rise, clutching at the illusion of purpose. They climb the Tower, believing they can change something.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "They all fail. Every single one. Their hopes, their sacrifices... all swallowed by the void. Except me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He was the last. The last Awakener to reach the summit of the Great Tower, a monument to endless failure.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "Is this it? Is this all there is to your grand design?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "The 'Gods' call it a cycle. A test. A game. They offer power, knowledge, a chance to 'save' the world. But what world is there left to save when the very foundation is rotten?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND WHISTLES, CARRYING ECHOES OF DISTANT SCREAMS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "I've seen it all. The initial spark of courage, the slow erosion into despair, the final, pathetic surrender. I've watched entire civilizations crumble, reduced to data points in your 'System'.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Below him, the fragmented remnants of countless worlds swirled like dust motes in a cosmic current.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "They say I 'see' things others don't. A 'defect' in my awakening, a 'bug' in their perfect simulation.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "Maybe it's just that I'm tired of the lies. Tired of the endless charade.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SYSTEM CHIME, LOUD AND IMPERSONAL",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Welcome, Last Awakener. You have successfully reached the 100th Floor of the Great Tower.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[As the sole survivor of the current 'Fall', you are granted the ultimate choice, as dictated by the Universal Laws of Existence.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "The ultimate choice. What a predictable, condescending joke.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Option 1: Reset the world. Begin a new cycle, with your memories intact.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Option 2: Ascend to the realm of the Gods. Become a 'God' yourself.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Option 3: Accept the 'End'. Fade into oblivion.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "None of those. Not a single one.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Please choose one of the provided options. Failure to comply will result in System termination.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "I said, *none* of them. Are your algorithms so limited?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "They don't understand. This isn't about choosing an ending from their list. It's about finding a *true* ending.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ENERGY CRACKLES, THE AIR THICKENS WITH UNSEEN POWER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "They talk about cycles, systems, order. A perfect, self-sustaining prison.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "But what if the order itself is the problem? What if the 'System' is the true enemy?",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "I'm not resetting anything. I'm not becoming one of your glorified jailers. And I'm certainly not fading away.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "I'm going to destroy this world. All of it. Every single layer, every single rule, every single 'God'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Warning! This action is not permitted. Attempting to disrupt the fundamental cycle will result in severe, irreversible consequences for all reality.]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "Consequences? I've lived through countless 'consequences'. What more can they do to me? What can they threaten when I've already lost everything?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FOOTSTEPS, SLOW, DELIBERATE, RESONATING WITH AN UNNATURAL WEIGHT",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "You talk about 'Falls' and 'Awakeners'. You talk about 'Gods' and 'Systems'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "But all I see is a prison. A meticulously crafted cage designed to keep us trapped.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "And I'm going to break it. I'm going to tear down your Tower, your System, your very concept of 'reality'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WORLD SHAKES VIOLENTLY, CRACKS APPEAR IN THE SKY",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[Critical Error! Unauthorized action detected! Reality integrity compromised! Initiating absolute countermeasures! Threat level: EXISTENCE-ENDING!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "Countermeasures? Against what? Against the simple truth that this entire construct is a lie?",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "They call me a monster. A destroyer.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "But maybe, true creation can only begin after absolute destruction.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "REALITY TEARS APART WITH A SCREAMING RUPTURE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With a single, defiant step, Jaehwan moved. Not towards an option, but *against* the very fabric of the world, against the 'System' itself. His will, an unyielding blade.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "This isn't an ending. This is a beginning. A true beginning.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "EXPLOSION OF RAW ENERGY, REALITY SHATTERS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "[SYSTEM OVERLOAD! REALITY INTEGRITY COMPROMISED BEYOND REPAIR! ABORT! ABORT! ALL GODS, RETREAT!]",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "The others, they accepted their roles. They played the game.",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAEHWAN",
+      "line": "I'm done playing. The game is over.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And so, the Last Awakener, who had seen the world fall countless times, decided to make it fall one last, definitive time. On his own terms. Not to reset, but to truly end.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WIND WHISTLES",
+    "SYSTEM CHIME",
+    "ENERGY CRACKLES",
+    "FOOTSTEPS",
+    "WORLD SHAKES",
+    "REALITY TEARS",
+    "EXPLOSION",
+    "SCREAMING RUPTURE"
+  ],
+  "summary": "Jaehwan, the Last Awakener, stands atop the Great Tower after countless 'Falls'. Offered three choices by the System to continue the cycle, he defiantly rejects them all, declaring his intent to destroy the entire world and the System itself to find a true end.",
+  "word_count": 657,
+  "confidence": "high"
+}

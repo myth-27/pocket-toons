@@ -1,0 +1,128 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Huh? What's this? I died, didn't I? Hit by a truck, just like in those webnovels. And then... I woke up.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Woke up as a baby. A baby named Athanasia de Alger Obelia. The abandoned princess from the novel 'Lovely Princess' who was executed by her own father, Emperor Claude.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It's been... ten years since then. Ten years of living in this gilded cage, the Ruby Palace. Ten years of knowing my eventual fate: death at the hands of my father, the tyrant emperor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "All because his 'true' daughter, Jennette, appeared, and I became an inconvenient stain on his perfect family.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Athanasia",
+      "line": "(Muttering to herself) \"Another day, another opportunity to... acquire assets.\"",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Survival isn't about being a good princess. It's about being a rich princess. A princess who can run away and live a long, luxurious life far from the palace.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "These jewels I've been 'borrowing' from the palace decorations won't last forever, but it's a start. Every little bit counts when you're planning a grand escape.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The original Athanasia died when she was eighteen. I'm ten now. Eight years left. Eight years to avoid meeting Claude. Eight years to avoid his wrath. Eight years to escape.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He's a cold-blooded killer. He wouldn't hesitate to kill his own daughter. The novel made that painfully clear. His golden eyes, devoid of warmth, staring down at the trembling princess...",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Just thinking about it makes my heart pound. Even after all these years, the fear is real.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lilian York",
+      "line": "Princess, please don't wander off too far. The Emperor's guards patrol these grounds, and it's best to stay within the Ruby Palace walls.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Athanasia",
+      "line": "Oh, Lily! I was just admiring the flowers. They're so pretty!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lily is one of the few kind souls here. She probably pities me. Good. Pity is useful. It keeps me fed and clothed, at least.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lilian York",
+      "line": "(Sighing softly) Yes, Princess. But still, for your safety...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Stay within the walls? And wait for my execution? No thank you. The original Athanasia waited. I won't make that mistake.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Athanasia",
+      "line": "Understood, Lily! I'll be a good girl.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A good girl who's secretly plotting her escape. I've only ever seen him from afar, a fleeting glimpse of gold and black. And that was enough to send shivers down my spine.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He's like a walking iceberg. Or a ticking time bomb. And I'm the unfortunate soul standing right next to it. But I won't be like the original Athanasia. I won't beg for his love. I'll survive. I have to.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Athanasia",
+      "line": "(Looking out a window, determined) \"I will survive.\"",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The first step is to never, ever cross paths with Emperor Claude. That's my golden rule. My only rule.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLINK",
+    "THUMP-THUMP",
+    "WHOOSH"
+  ],
+  "summary": "Athanasia, a reincarnated woman, reflects on her new life as the abandoned princess destined for execution by her father, Emperor Claude. She resolves to survive and escape her tragic fate by secretly hoarding wealth and avoiding any contact with the Emperor.",
+  "word_count": 625,
+  "confidence": "high"
+}

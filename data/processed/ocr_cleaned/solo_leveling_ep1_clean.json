@@ -1,0 +1,504 @@
+{
+  "title_header": "Solo Leveling, Episode 1: Blood",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "SEOUL, 2033",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NOW, ON TO OUR NEXT STORY. LAST NIGHT, AT AROUND 8:00 PM, SEVERAL PEOPLE WERE INJURED IN AN ATTACK BY THE BUGS. FOLLOWING THIS, THE GOVERNMENT ISSUED A STATEMENT ABOUT HOW THERE AREN'T ENOUGH BUTTERFLIES AT THE MOMENT TO HANDLE THE SITUATION.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MAEHWA BAEK (15).",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HEY, MAEHWA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "ARE YOU ALREADY LEAVING FOR SCHOOL? IT'S STILL EARLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "YEAH. YOU'RE UP EARLY TOO, CONSIDERING IT'S YOUR DAY OFF.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "IT'S BEEN A WHILE SINCE YOU RESTED, SO YOU SHOULD TAKE IT EASY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "THANKS, I HOPE YOU HAVE A GOOD DAY AT SCHOOL. I'LL SEE YOU LATER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "MAEHWA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "YEAH?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "DO YOU LIKE GOING TO SCHOOL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "SCHOOL?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "YEAH! OF COURSE! I LOVE IT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "YOU KNOW WHAT IT WAS LIKE FOR ME BEFORE, AFTER MY ACCIDENT. I LOST MY MEMORIES AND JUST STAYED HOME ALL THE TIME. I ALWAYS FELT SO ALONE. BUT NOW THAT I'M GOING TO SCHOOL... I FEEL LIKE A NORMAL KID AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL'S SISTER",
+      "line": "REMEMBER, YOU NEED TO ALWAYS BE CAREFUL ABOUT YOU-KNOW-WHAT, OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "YEAH, I KNOW. DON'T WORRY, HUINA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "DON'T WORRY, HUINA. I'M JUST LIKE ALL THE OTHER KIDS NOW. I'LL GO TO SCHOOL AND MAKE LOTS OF FRIENDS. AND... FROM NOW ON... I WANT TO BE POPULAR. SOMEONE THAT PEOPLE WILL MISS. I'VE WAITED SO LONG TO FINALLY GET BACK TO A NORMAL LIFE. I WON'T LET ANYTHING RUIN IT.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "NOW, IN OUR LAST CLASS, WE COVERED UP TO THE 2010s, DIDN'T WE? TODAY, WE'RE GOING TO LEARN ABOUT THE 2020s WHEN THE BUGS FIRST APPEARED. IT ALL BEGAN 13 YEARS AGO IN 2020. THE FIRST GIANT BUG APPEARED RIGHT IN THE MIDDLE OF NEW YORK CITY. NO ONE COULD FIGURE OUT WHAT ON EARTH THIS GIANT CREATURE WAS. FINALLY, THROUGH POPULAR CONSENSUS, THE GOVERNMENT DECIDED TO GET RID OF THE BUG. BUT NO MATTER WHAT WEAPONS THEY USED, THE BUG JUST WOULDN'T DIE AND WAS COMPLETELY UNHARMED EVEN AFTER NUMEROUS ATTACKS. THEN, ONE DAY, U-RIBS, THE LARGEST BIOLOGICAL RESEARCH INSTITUTE IN THE WORLD, FINALLY MANAGED TO DEVELOP A BIOCHEMICAL WEAPON CAPABLE OF DESTROYING THE BUG. THEY FIRED THE WEAPON AT THE BUG. BUT NO ONE KNEW THAT IT WOULD LEAD TO THE START OF A DISASTER. THE BUG STUBBORNLY CLUNG TO LIFE AND SPLIT INTO COUNTLESS SMALLER BUGS THAT SPREAD ACROSS THE WHOLE WORLD. ON TOP OF THAT, THE CHEMICAL USED TO ATTACK THE BUG TURNED INTO A TOXIC GAS THAT SPREAD EVERYWHERE IN THE BLINK OF AN EYE. AS A RESULT, MOST OF THE WORLD'S POPULATION DIED OFF PRACTICALLY OVERNIGHT. BUT SIR, HOW DID WE MANAGE TO SURVIVE? YES, THAT'S RIGHT. THAT'S BECAUSE ONE OF THE RESEARCHERS AT K-RIBS (Korean branch of U-RIBS) ANTICIPATED THE SIDE EFFECTS OF THE WEAPON AND COVERED THE WHOLE CITY WITH A PROTECTIVE BARRIER THAT BLOCKED THE POISONOUS GAS. BUT THAT WASN'T THE END OF THE DISASTER. AFTER SPREADING ALL OVER THE WORLD FOLLOWING THE ATTACK, THE BUGS GATHERED IN SEOUL AGAIN. THEY HAD DECIDED AND NO ONE KNEW WHAT TO--",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HEY! BIG NEWS, EVERYONE! THERE'S A BUTTERFLY OUTSIDE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WHAT? REALLY?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "NO WAY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "A BUTTERFLY?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WHICH ONE IS IT? WHERE IS IT?! LET'S GO SEE IT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "I'M COMING TOO!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "HEY! WE'RE IN THE MIDDLE OF A CLASS! SIT DOWN AND--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "AHH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HOLY CRAP! WHAT WAS IT? IT'S A BUG!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "OH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "MY GOD, IT'S HUGE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HEY! LOOK OVER THERE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "FIRST, IT'S THE BUTTERFLY! JAYEONG SHIN!",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "YOU ROCK, JAYEONG!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "YAY, JAYEONG!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "GO, BUTTERFLIES!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "IN THE PAST, WHEN THE BUGS INVADED SEOUL AND STARTED ATTACKING PEOPLE, A GIRL WITH BEAUTIFUL BUTTERFLY WINGS APPEARED. IT WAS LIKE A MIRACLE. SHE HAD THE POWER TO FIGHT THE BUGS. NOBODY KNEW WHERE THIS POWER CAME FROM. BUT WITH THE POWER IN HER BLOOD, SHE WIPED OUT THE BUGS THAT MOST PEOPLE DIDN'T STAND A CHANCE AGAINST AND INSTANTLY ROSE TO FAME AS THE BUTTERFLY GODDESS. HOWEVER, AFTER FIGHTING THE BUGS SINGLE-HANDEDLY FOR A LONG TIME, ONE DAY, THE BUTTERFLY GODDESS WAS BADLY INJURED AND SHE DIED FROM THOSE WOUNDS. UPON HER DEATH, K-RIBS, NOW KNOWN AS THE GARDEN, DEVISED AN EXPERIMENT TO CREATE ANOTHER BUTTERFLY GODDESS: TO EXTRACT HER BLOOD, THE SOURCE OF HER POWER, FROM THE BUTTERFLY GODDESS'S BODY, INJECT IT INTO AN ORDINARY PERSON AND CREATE A HUMAN BEING WITH THE BUTTERFLY GODDESS'S POWER. THE EXPERIMENT WAS A HUGE SUCCESS. THE CHILDREN INVOLVED IN THE EXPERIMENT BECAME KNOWN AS THE BUTTERFLIES.",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WOAH! WAY TO GO, BUTTERFLY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "JAYEONG SHIN (15), THE FIRST BUTTERFLY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "GO JAYEONG!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "YAY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "I ENVY HER.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WOAH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "THE NEXT DAY.",
+      "type": "narration"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "THE GYM TEACHER IS SO EASY TO FOOL, HAHA. ALL YOU HAVE TO DO IS SAY YOU'RE SICK. IT'S SO EASY. HAHAHA. IT WAS ALL THANKS TO MY AMAZING ACTING SKILLS. YOU OWE ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WHY DOES THAT KID ALWAYS... HE'S NOT EVEN SICK. YEAH, YOU'RE RIGHT. HE ALWAYS WHISPERS SOMETHING TO THE TEACHER AND HE JUST LETS HIM OFF THE HOOK. WE HAVE TO WORK SO HARD TO GET OUT OF CLASS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HEY, WHAT HAVE YOU BEEN WATCHING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "THE LIVESTREAM OF THE BUTTERFLY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WOW! IS SHE FIGHTING THE BUGS RIGHT NOW?! ISN'T THAT GANGNAM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "MAN, SHE'S SO BADASS. IT WAS SO EPIC WHEN WE SAW HER HERE THE OTHER DAY. SHE JUST SLASHED RIGHT THROUGH THAT BUG LIKE IT WAS NOTHING--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HUH?! HEY, WHY DID IT TURN OFF?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "MAYBE YOUR PHONE'S OUT OF BATTERY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "RIGHT AT THE BEST PART! I JUST BARELY MANAGED TO GET MY PHONE BACK FROM THE TEACHER WITHOUT HIM NOTICING! UGH, THIS SUCKS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HEY, MAEHWA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "SORRY, BUT I NEED TO BORROW THIS FOR A MINUTE! WE'RE RIGHT IN THE MIDDLE OF WATCHING SOMETHING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "HEY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "I NEED IT. MY TEXTBOOKS ARE ALL ON THERE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "WELL, TOUGH LUCK FOR YOU!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HEY, I'VE BEEN WONDERING. I NOTICED THAT YOU DON'T TOUCH ANYTHING WITH SHARP EDGES LIKE PAPER, PENS AND KNIVES. WHY IS THAT? IT'S SUPER WEIRD!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HUH? WHAT'S THAT SCAR ON YOUR HAND? DO YOU CUT YOURSELF? THAT'S SO MESSED UP, AAA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "KIDS LIKE YOU GIVE THE REST OF US TEENAGERS A BAD REPUTATION!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "NO. I GOT THIS SCAR THROUGH AN ACCIDENT. AND THE REASON I DON'T TOUCH THINGS WITH SHARP EDGES... WHAT? IS BECAUSE OF BLOOD. I'M NOT ALLOWED TO BLEED AT ALL. I'M NOT SURE WHY, BUT THAT'S WHAT MY SISTER TOLD ME--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HA HAHAHAHA! BECAUSE OF BLOOD?! ARE YOU LIKE AN EMO OR SOMETHING? HAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HEY, IF YOU'RE GOING TO LIE, AT LEAST MAKE IT BELIEVABLE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "I-I'M SERIOUS.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "YEAH HAHAHAHA! RIGHT. HAHA. THAT JUST MAKES ME EVEN MORE CURIOUS. HOW ABOUT WE SEE WHAT HAPPENS... IF YOU BLEED?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "WHAT? W-WHAT ARE YOU DO--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "DON'T YOU WANT TO KNOW TOO? MAYBE YOUR SISTER IS LYING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "GET AWAY FROM ME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HEY, DON'T MOVE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "I'M JUST GOING TO MAKE A LITTLE CUT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "HEY! STOP!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "STAY STILL! I MIGHT SLIP AND POKE YOUR EYE OUT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HEY, HE'S BLEEDING!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "DUDE, WHAT IF THE TEACHER CATCHES YOU?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "BUT NOTHING HAPPENED. I THOUGHT HE WAS GOING TO FOAM AT THE MOUTH AND PASS OUT OR SOMETHING. FROM SEEING HIS OWN BLOOD? HAHAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "YEAH, HAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "THAT WAS LAME. YOU'RE WILD, MAN. HAHAHAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "H-HEY, WHAT'S WRONG WITH HIM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HE'S ACTING WEIRD.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "WHY IS HE PANTING LIKE THAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "MAYBE HE'S ALL EXCITED FROM SEEING BLOOD, HAHAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "OH WHAT A FREAK, HAHAHA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "ALL RIGHT, I'M GETTING TIRED OF THIS CRAP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "BULLY",
+      "line": "HEY, KNOCK IT OFF! I KNOW YOU'RE JUST PRETENDING! YOU MAKE ME SICK, YOU GODDAMN--",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HUH?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "AAHHH! W-WHAT THE HELL?! HIS FREAKING HAND IS BLEEDING ALL OVER ME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "HUH?! WAIT, THIS ISN'T BLOOD. IT'S BURNING ME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "TEACHER",
+      "line": "HEY! WHAT'S GOING ON IN HERE?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "M-MAE... MAEHWA?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "STUDENT",
+      "line": "AHH!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "MAEHWA:",
+      "type": "narration"
+    },
+    {
+      "speaker": "MAEHWAL'S SISTER",
+      "line": "YOU NEED TO ALWAYS BE CAREFUL ABOUT YOU-KNOW-WHAT, OKAY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "BECAUSE...",
+      "type": "narration"
+    },
+    {
+      "speaker": "MAEHWAL'S SISTER",
+      "line": "YOU'RE VERY DIFFERENT FROM OTHER PEOPLE.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "HAHA",
+    "CHATTER",
+    "BUSTLE",
+    "AHH",
+    "WRICTLE",
+    "WRIGGLE",
+    "GROSS",
+    "LEAP",
+    "SWING",
+    "SNATCH",
+    "GRAB",
+    "RATTLE",
+    "SQUISH",
+    "FUT",
+    "WIPE",
+    "BA-BUMP",
+    "HUFF",
+    "PANT",
+    "DRIP",
+    "FWOOSH",
+    "GLOW",
+    "SLAM",
+    "GLARE",
+    "FUNCH",
+    "SHUDDER",
+    "GRIM",
+    "BANG",
+    "SHUFFLE",
+    "TREMBLE"
+  ],
+  "summary": "In 2033 Seoul, a news report discusses recent bug attacks and the lack of 'Butterflies' to handle them. Maehwa, a student who recently recovered from an accident and memory loss, expresses her joy about going to school and wanting a normal life, despite her sister's warning to be careful about 'you-know-what'. During a history lesson about the origin of the 'Bugs' and the creation of 'Butterflies' (humans with powers from the original Butterfly Goddess), students get excited about a live Butterfly sighting. Later, Maehwa is bullied by classmates who question her strange aversion to sharp objects and her scar. When they intentionally cut her hand to make her bleed, Maehwa's blood causes a strange, burning reaction, confirming her sister's mysterious warning.",
+  "word_count": 1400,
+  "confidence": "high"
+}

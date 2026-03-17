@@ -1,0 +1,157 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Another Sunday. Another family dinner. And another interrogation.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jia's Mother",
+      "line": "Jia-ya, look at your cousin, Sunmi. She's already planning her second child. And you? Still single at twenty-nine!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jia's Aunt",
+      "line": "It's not that she's not pretty, Jeong-ah. She just needs to lower her standards a little. Or maybe try harder?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Han Jia",
+      "line": "Eommoni, Ajumma. I’m doing perfectly fine. My career is thriving. My new project just got approved.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jia's Mother",
+      "line": "Career, career, career! What's a career if you're going to grow old alone? Who will take care of you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Alone. That word always stings. Not because I'm afraid of it, but because they make it sound like a disease.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My company just promoted me to team lead. I'm finally seeing the fruits of my labor. Why can't they see that's enough?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIGH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Jia",
+      "line": "I'm not 'alone.' I have friends, colleagues, a full life. Marriage isn't the only path to happiness.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jia's Mother",
+      "line": "Oh, for heaven's sake, Jia! Just go on a few blind dates. Meet someone nice. You're not getting any younger!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Blind dates. The endless parade of awkward conversations, forced smiles, and men who just want a trophy wife. No, thank you.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But... what if there was another way? A way to shut them all up, to buy myself some peace and quiet, without actually sacrificing my independence?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The thought, absurd and desperate, flickered through my mind: A contract marriage.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "It was a ridiculous idea, something out of a drama. Who would even agree to such a thing?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then, a face popped into my head. Someone equally plagued by family expectations. Someone I'd known since we were kids.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lee Mincheol. The quiet, reliable son of the Lee Group. Also twenty-nine. Also single. Also, probably, just as fed up as I was.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He was always so calm, so logical. The perfect business partner, even for something as outlandish as this.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RING! RING!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Han Jia",
+      "line": "Oh, excuse me. I need to take this.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I grabbed my phone, eager for an escape. The caller ID made my breath hitch.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lee Mincheol. Speak of the devil.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Jia",
+      "line": "Hello?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Mincheol",
+      "line": "Jia. It's Mincheol. Do you have a moment to talk? There's something important I need to discuss with you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His voice was as calm and steady as ever, but there was an unusual edge to it. A hint of urgency.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Could it be? Was he thinking what I was thinking?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Han Jia",
+      "line": "Mincheol? What's up? Is everything okay?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Mincheol",
+      "line": "I'm fine. But... I have a proposition for you. A rather unconventional one.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "My heart started pounding. This was either going to be the most insane conversation of my life, or the most brilliant.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Maybe... just maybe... we were meant to be partners in crime.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "SIGH",
+    "RING! RING!"
+  ],
+  "summary": "Jia endures another family dinner filled with nagging about her single status. Frustrated and desperate for a solution to escape the pressure, she contemplates a contract marriage. Just as the idea forms, her childhood friend, Lee Mincheol, calls with an 'unconventional proposition.'",
+  "word_count": 605,
+  "confidence": "high"
+}

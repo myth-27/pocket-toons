@@ -1,0 +1,324 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "My body... it was giving up. Terminal stomach cancer. Only a few months left.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Min-hwan... where are you?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Even on my last days... I'm alone.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I mustered all my strength, just to go home. To see him. To be with him one last time.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KEY JINGLE, DOOR CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "What's that sound...?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MOAN, GASP (from inside)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Min-hwan...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRASH (something falls inside)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "No... it can't be.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR SWINGS OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Park Min-hwan! Jung Soo-min!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "Ji-won?! What are you doing here?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jung Soo-min",
+      "line": "Oh my god, Ji-won! It's not what it looks like!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "My best friend... my husband... naked... in my bed.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "How... how could you?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "Why are you home so early? You should be in the hospital!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "So you could do this?! While I'm dying?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jung Soo-min",
+      "line": "Ji-won, please, it's a misunderstanding! He forced me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Lies. All lies. Her eyes... they're full of triumph.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Forced you? You've been eyeing him for years, haven't you, Soo-min?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "Enough! What's the big deal? You're going to die anyway! I need someone to take care of me!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "He said it. He actually said it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "You... you monster! All this time... you were just waiting for me to die so you could get my insurance money!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "And what if I was?! You're useless! A burden! You're just a walking corpse!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jung Soo-min",
+      "line": "Min-hwan, don't say that!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "You two... you deserve each other! I hate you! I hate you both!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLAP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "How dare you hit me, you dying hag!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "You want to die faster?! Fine!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "PUSH, STUMBLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Ah!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He pushed me. Hard. My head hit the marble table.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD, CRACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "G-gasp...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "The pain... it's blinding. My blood... so warm.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jung Soo-min",
+      "line": "Min-hwan! What have you done?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Park Min-hwan",
+      "line": "She deserved it! She was going to tell everyone!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "My life... ending like this? Betrayed by everyone... I just wanted to be happy...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "If only... if only I could go back. I would never make the same mistakes. I would never marry him. I would never trust her.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GURGLE, LAST BREATH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Darkness consumed me. The bitter taste of betrayal, the sting of regret... my last sensations.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP, COUGH (sudden, sharp intake of breath)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "H-huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "What is this? I'm... I'm breathing?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The dull ache in my head... it was gone. The smell of antiseptic... replaced by something familiar. My old room.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "This isn't... the hospital. This isn't... my apartment.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (of bedsheets)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "My body... it feels different. Lighter. Younger.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I rushed to the mirror. A face I hadn't seen in years stared back. My younger self. No gaunt cheeks, no sickly pallor.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "My hair... it's long. My skin... clear.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Is this... a dream? Am I dead? Is this hell?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then I saw it. The calendar on the wall. The date. April 12, 2013.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "2013...? No... it can't be. That was... ten years ago.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Ten years ago... before I married Min-hwan. Before I got sick. Before everything went wrong.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "I... I went back in time?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "This is my chance. My second chance. I won't let them destroy me again.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kang Ji-won",
+      "line": "Park Min-hwan... Jung Soo-min... you will pay. I will marry my husband... but it won't be *my* husband.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "FIST CLENCH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A cold, burning resolve ignited within me. The game had just begun.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "KEY JINGLE",
+    "DOOR CREAK",
+    "MOAN",
+    "GASP",
+    "CRASH",
+    "SLAP",
+    "PUSH",
+    "STUMBLE",
+    "THUD",
+    "CRACK",
+    "GURGLE",
+    "LAST BREATH",
+    "RUSTLE",
+    "FIST CLENCH"
+  ],
+  "summary": "Kang Ji-won, dying of cancer, discovers her husband Park Min-hwan is having an affair with her best friend Jung Soo-min. After a confrontation, she is murdered by her husband, only to wake up ten years in the past, granted a second chance at life and revenge.",
+  "word_count": 712,
+  "confidence": "high"
+}

@@ -1,0 +1,45 @@
+=== Pigpen Episode 1 ===
+
+  (The salt spray kissed his face, a cold, insistent reminder. His head throbbed, a dull, persistent ache.)
+  PROTAGONIST (thinking): My head... it's splitting. Where am I? What happened?
+  (His eyes fluttered open to an unfamiliar stretch of sand, an endless grey sky.)
+  PROTAGONIST (thinking): My name... it's gone. Everything is gone.
+  [WAVES (GENTLE LAPPING)]
+  [HEARTBEAT (THUMP-THUMP, FASTER)]
+  (Panic, cold and sharp, began to claw at his throat. He pushed himself up, limbs aching. In the distance, through sparse trees, a silhouette.)
+  PROTAGONIST (thinking): A house? On an island like this?
+  (It was squat, decaying, its windows dark like vacant eyes. A strange, unsettling presence.)
+  PROTAGONIST (thinking): Maybe someone there can help me.
+  (The walk was long, the ground uneven. The closer he got, the stronger the putrid smell became.)
+  [WIND (WHISTLING FAINTLY)]
+  PROTAGONIST (thinking): What is that smell? Rot... and something else.
+  (The house loomed, larger and more dilapidated. Paint peeled, revealing dark, rotting wood. A broken porch swing creaked.)
+  (He hesitated at the heavy, scarred front door. No knocker. He pushed.)
+  [DOOR (CREAKING LOUDLY)]
+  (The door groaned open with a sound like a dying animal. The air inside was thick, stagnant, heavy with decay. Dust motes danced in slivers of light.)
+  PROTAGONIST (thinking): Hello? Is anyone here?
+  (His voice sounded small, swallowed by oppressive silence. He stepped further in, eyes adjusting. The living room was a chaotic mess of old, stained furniture.)
+  [DRIP (DRIP-DRIP, STEADY, FROM SOMEWHERE DEEP INSIDE)]
+  [FOOTSTEPS (SOFT, CAUTIOUS)]
+  (A sound from deeper within. A low, guttural cough.)
+  [COUGH (HARSH, WET)]
+  PROTAGONIST (thinking): Someone is here.
+  OLD MAN: Well, well, look what the tide dragged in.
+  (An old man emerged from shadows, face a roadmap of wrinkles, eyes sharp. He held a rusty cleaver.)
+  OLD MAN: Lost your way, boy? Or just... lost?
+  PROTAGONIST: I... I don't know. I woke up on the beach. I can't remember anything.
+  OLD MAN: Amnesia, eh? A convenient affliction.
+  [CLEAVER (SCRAPE, GENTLE, AGAINST A WOODEN BLOCK)]
+  (The old man grinned, a wide, unsettling smile that didn't reach his eyes.)
+  OLD MAN: Don't worry, boy. You're safe now. This is a good place for lost things.
+  (From behind him, a woman appeared. Face blank, eyes vacant. She carried a bucket, dripping with something dark.)
+  [DRIP (DRIP-DRIP, FASTER NOW)]
+  PROTAGONIST (thinking): What's in that bucket? And her eyes...
+  OLD MAN: My wife. She's a bit shy. But she'll take good care of you. We all will.
+  (The woman didn't speak, just stared, her gaze unsettlingly empty.)
+  OLD MAN: We've been expecting you.
+  PROTAGONIST (thinking): Expecting me? This is wrong. All of it.
+  [HEARTBEAT (LOUD, POUNDING)]
+  OLD MAN: Come, boy. You must be hungry. We have plenty of... food.
+  (He gestured towards a dark hallway. The woman moved to block the front door.)
+  PROTAGONIST (thinking): I need to get out of here. Now.

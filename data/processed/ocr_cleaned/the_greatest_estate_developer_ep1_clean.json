@@ -1,0 +1,170 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Kim Suho was a man who lived and breathed concrete. A civil engineer, he’d spent his entire life building, designing, and calculating. Bridges, roads, skyscrapers – he built them all, often at the cost of his own sleep and sanity.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Until one fateful night, hunched over blueprints for the Busan Grand Bridge, his world went dark.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "Ugh... my head...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) What... what is this place? And why do I feel so... well-rested, yet also like I’ve been hit by a truck?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) This isn’t my apartment. This isn’t even a modern bed. Is this... a canopy bed? And these clothes... a silk nightshirt? What in the world?",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) I was just pulling an all-nighter on the Busan Grand Bridge project. Did I finally pass out and hit my head? Is this some kind of fever dream?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DOOR CREAKS OPEN",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "Young Master. You are awake.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "Javier! What’s with the long face? Did I do something particularly heinous in my sleep again?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) Wait, 'Young Master'? And this face... it's not mine! This is... Lloyd Frontera! The infamous trash noble from that web novel I read!",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) Oh god, this is bad. This is really, really bad. I'm in a fantasy world, and I'm the villain who gets executed for ruining his family and oppressing his people!",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "The estate's finances are... as dire as ever, Young Master. Perhaps worse. The villagers are restless. The roof of the main hall is leaking again. And the west wall of the granary has collapsed.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP DRIP DRIP (from ceiling)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) Restless? They're probably sharpening their pitchforks! This place is a disaster zone. The roof is leaking, the walls are crumbling, the fields are barren... This isn't an estate, it's a construction site waiting to happen!",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) My predecessor, this 'Lloyd Frontera,' was a lazy, gluttonous, good-for-nothing noble who just let everything fall apart. He spent all the family's money on luxuries while the estate decayed. No wonder he’s hated!",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) And I'm stuck in his body. The body of a future executed villain. This is a nightmare! I need to fix this. But how? I’m a civil engineer, not a fantasy hero!",
+      "type": "thought"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "The breakfast is ready, Young Master. It's just porridge again. We're running low on supplies.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "Porridge? Again? No meat? No eggs? Not even a decent slice of toast?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "We sold the last of the livestock to pay for the repairs on the north fence, which subsequently collapsed last week.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) This is worse than I thought. The Frontera family is practically bankrupt. The land is infertile, the infrastructure is crumbling, and the people are on the verge of revolt. This isn't just a problem; it's a multi-faceted engineering challenge!",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) Wait a minute... a construction site? My specialty! Maybe... just maybe, I can fix this. I know how to build things. I know how to manage projects. I know how to make things efficient!",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "Javier!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "Yes, Young Master?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "Bring me a map of the estate. And some parchment. And a quill. And... a measuring tape, if we have one!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "A... measuring tape, Young Master? For what purpose?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "(thought) This is it. My chance. My chance to avoid execution and maybe, just maybe, build myself a comfortable life in this fantasy world. I'll turn this rundown estate into a marvel of engineering!",
+      "type": "thought"
+    },
+    {
+      "speaker": "LLOYD FRONTERA",
+      "line": "We're going to build, Javier. We're going to build everything.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GULP (Javier)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JAVIER",
+      "line": "As you wish, Young Master.",
+      "type": "dialogue"
+    }
+  ],
+  "sfx_list": [
+    "THUD",
+    "CREAK",
+    "DOOR CREAKS OPEN",
+    "DRIP DRIP DRIP",
+    "GULP"
+  ],
+  "summary": "Kim Suho, a civil engineer, transmigrates into the body of Lloyd Frontera, a lazy and despised noble facing execution. Upon realizing his dire predicament and the crumbling state of the Frontera estate, Lloyd decides to use his engineering knowledge to rebuild his family's fortune and avoid his grim fate.",
+  "word_count": 709,
+  "confidence": "high"
+}

@@ -1,0 +1,202 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The Cave of No Return. A forgotten abyss, carved into the very heart of the underworld. Here, children were brought, not to live, but to be reborn.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Reborn as shadows. As weapons. As reapers.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! SCRAPE!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "Faster, you worms! Do you wish to die a slow, agonizing death in the dark? Or a swift, clean one at the hands of your prey?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHIP! THWACK!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(My body aches. Every muscle screams. But pain is a luxury I cannot afford.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(They took everything. My name, my family, my future. All that remains is this hollow shell, honed into a blade.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "You, boy! Number 7! Your stance is weak! Your eyes betray hesitation!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(Number 7. That is all I am to them. A number. A tool. But a tool can break free from its wielder.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SHING! SWISH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(The 'Thousand Shadow Steps'. Designed to make one disappear, to become one with the darkness. But I will use it to escape the darkness.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! GRUNT!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "FELLOW TRAINEE",
+      "line": "G-Gah! You... you moved like a ghost!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(A ghost. Yes. That is what I must become. Unseen. Untraceable. Until the moment I strike.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "Hmph. Not bad, Number 7. You have potential. A cold heart, a sharp mind. The makings of a true killer.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "But potential is useless without purpose. Remember your purpose, boy. To serve. To eliminate. To be the unseen hand that guides the world.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(My purpose is my own. To reclaim what was stolen. To make them pay.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK! (Sound of bone snapping, from a training dummy)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Years passed in the gloom. Each day, a lesson in death. Each night, a silent vow.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Pyo Wol learned to kill with his bare hands, with a needle, with a whisper. He learned to become a phantom.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH! THWACK! (Rapid, precise strikes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "Excellent, Number 7! Your 'Ghostly Dagger' technique is flawless! No one will see it coming!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(Flawless. Good. Flawless is what I need to survive. Flawless is what I need to escape.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(They believe they control me. They believe they have broken me. But beneath the ice, a fire burns.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! (Pyo Wol moves incredibly fast)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "Incredible! He's faster than any of the others! A true prodigy of the shadows!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(Prodigy or not, I am a prisoner. And prisoners dream of freedom.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The whispers of the outside world were faint, but they reached even the deepest parts of the Cave. Rumors of a great war, of shifting powers in the Murim.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "And with these rumors, a new directive came down from the unseen masters.",
+      "type": "narration"
+    },
+    {
+      "speaker": "MASTER GO",
+      "line": "Listen up, all of you! The time of your deployment draws near! The Murim is in turmoil, and our masters require their finest blades!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "MURMURS (Among the trainees)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(Deployment. To the outside world. My chance.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(They will send me out as their weapon. But I will be my own.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Pyo Wol looked at his reflection in a small, still puddle of water. A boy’s face, but with eyes that held the emptiness of a thousand deaths.",
+      "type": "narration"
+    },
+    {
+      "speaker": "PYO WOL",
+      "line": "(The Reaper of the Drifting Moon. Soon, the Murim will know that name. And it will tremble.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP... DRIP...",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "CLANG",
+    "SCRAPE",
+    "WHIP",
+    "THWACK",
+    "SHING",
+    "SWISH",
+    "THUD",
+    "GRUNT",
+    "CRACK",
+    "WHOOSH",
+    "MURMURS",
+    "DRIP"
+  ],
+  "summary": "Pyo Wol is introduced as a young boy trapped in the 'Cave of No Return', an assassin training facility. He endures brutal training, honing his skills into a lethal weapon while harboring a deep-seated desire for escape and revenge against those who imprisoned him. The episode ends with the announcement of the trainees' imminent deployment to the outside world.",
+  "word_count": 650,
+  "confidence": "high"
+}

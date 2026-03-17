@@ -1,0 +1,226 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The worn-out court behind Seoyun High was Ji-Hoon's sanctuary. Every day, after everyone else had gone home, he was here.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "Just one more.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(My hands are numb, my legs are burning. But the feeling of the ball... it's everything.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BOUNCE. BOUNCE. BOUNCE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(They call me 'bench warmer' for a reason. Too short, too slow, they say. But they don't see this.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHOOSH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He launched a three-pointer from deep, a perfect arc. The ball kissed the rim, hesitated, and then... spun out.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "CLANG!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "Damn it!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "PANT. PANT.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(Another miss. How many has it been today? A hundred? Two hundred? It doesn't matter. I have to make it.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He grabbed the rebound, dribbling instinctively, his eyes scanning an imaginary defense. He wasn't just shooting; he was playing a full game in his head.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "Screen left... drive baseline... crossover!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "sfx",
+      "line": "THWACK! (Ball hitting the ground hard)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He faked a pass, then pulled up sharply, fading away from an invisible defender. It was a shot only a true shooter would attempt.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SWISH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "Yes!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(That feeling... the net swaying, the perfect silence after the shot. It's addicting.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "Not bad, Ji-Hoon.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "Coach Lee?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ji-Hoon froze, his face flushing. He hadn't realized anyone was watching.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "You're still here. Every day. I've been watching.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "I... I just like to practice, Coach.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "You've got a good shot. A real touch. But you lack consistency. And confidence.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(He knows. He sees it all.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "The tryouts for the main team are next week. You're still on the reserve list, right?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "Yes, Coach.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "I saw you hesitate during the last scrimmage. You had an open look, but you passed. Why?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "I... I thought Min-Joon had a better angle.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "Min-Joon is a great player, but this isn't about him. It's about you. When you have the shot, you take it. That's what a 'winning shot' is.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(A winning shot... I've always dreamed of making one. The one that decides the game.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "Show me that shot you just made. The fadeaway. Right now. Imagine it's the final second, game on the line.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Ji-Hoon felt a surge of adrenaline. This wasn't just practice anymore. This was his chance.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "BOUNCE. BOUNCE.",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(Final second... game on the line... my shot.)",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He drove hard, planted his foot, and launched himself upwards, leaning back, the ball leaving his fingertips with a prayer.",
+      "type": "narration"
+    },
+    {
+      "speaker": "sfx",
+      "line": "WHOOSH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "sfx",
+      "line": "SWISH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The net rippled. Pure. Undefended. The sound echoed in the twilight.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Coach Lee",
+      "line": "Good. Now do it when it counts. Next week.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Coach Lee turned and walked away, leaving Ji-Hoon standing under the hoop, the ball still bouncing gently. A new fire ignited in his chest.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Ji-Hoon",
+      "line": "(Next week. I'll show them. I'll make my winning shot.)",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "BOUNCE",
+    "WHOOSH",
+    "CLANG",
+    "PANT",
+    "THWACK",
+    "SWISH"
+  ],
+  "summary": "Kim Ji-Hoon, an undersized basketball enthusiast, secretly practices his impressive shooting skills on a deserted court. When Coach Lee observes his talent but also his lack of confidence, Ji-Hoon is challenged to make his 'winning shot' during the upcoming tryouts for the main team.",
+  "word_count": 654,
+  "confidence": "high"
+}

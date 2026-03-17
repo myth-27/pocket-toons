@@ -1,0 +1,178 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The relentless chirping of the alarm clock. A sound that, for some, signals the start of a new day. For others, it's merely a cruel reminder that sleep is a luxury they can't afford.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP BEEP BEEP!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "Ugh... Five more minutes... just five...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SMACK! (alarm silenced)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) Five minutes turned into twenty. Again. Why do I do this to myself?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! (Rose falls out of bed)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "Ow! Seriously, Rose? You're 29, not 9. Get it together!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A whirlwind of hurried movements, a half-eaten toast, and a dash of morning chaos later, Rose found herself on the bus, battling the morning commute.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE RUMBLE (bus)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) Today's the day. No mistakes. No clumsy moments. Just pure, unadulterated professionalism. I'm an executive assistant, not a walking disaster.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) Especially not in front of Mr. Yoon. He's... perfect. Too perfect.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Arriving at the sleek, modern offices of Yoon Corp, Rose took a deep breath. The scent of expensive coffee and ambition filled the air.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) Okay, Rose. You can do this. Just deliver the reports, schedule the meeting, and try not to trip over your own feet.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (heels)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "She pushed open the door to the executive floor, her eyes immediately drawn to the figure already seated at the large, glass desk in the corner office.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Daniel Yoon",
+      "line": "Good morning, Ms. Choi. You're precisely two minutes late.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "Mr. Yoon! Good morning! My apologies, traffic was... unexpectedly heavy.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) He's already here. And he looks like he stepped out of a magazine. How does he do it? It's 8 AM!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel Yoon",
+      "line": "I see. The reports for the Q3 projections are on your desk. Please review them and prepare a summary for the board meeting at 10. And confirm the catering.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "Yes, Mr. Yoon. Right away.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) Q3 projections? Catering? It's barely past my first coffee! And I haven't even opened my laptop yet!",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (papers)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Rose rushed to her desk, a pile of documents already waiting. She grabbed her coffee mug, but her hand, still trembling slightly from the morning rush, missed the coaster.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLOSH! (coffee spills)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "Oh, no! Not again!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) My life is just a series of minor catastrophes. And of course, it had to be on the Q3 reports. The most important reports!",
+      "type": "thought"
+    },
+    {
+      "speaker": "Daniel Yoon",
+      "line": "Ms. Choi?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "N-nothing, Mr. Yoon! Just... a minor incident with my beverage. Everything is under control!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) He's looking. He's definitely looking. I can feel his perfectly composed gaze burning a hole through my perfectly stained shirt.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIGH (Rose)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "As Rose frantically dabbed at the coffee stain, Daniel Yoon simply returned to his work, a faint, almost imperceptible smirk playing on his lips. Another day, another chaotic start for his assistant.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Rose Choi",
+      "line": "(thought) Twenty-nine and still spilling coffee on myself. He's thirty-five and probably runs a multi-million dollar company in his sleep. Age really does matter, doesn't it?",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "BEEP BEEP BEEP",
+    "SMACK",
+    "THUD",
+    "RUMBLE RUMBLE",
+    "CLICK",
+    "RUSTLE",
+    "SLOSH",
+    "SIGH"
+  ],
+  "summary": "Rose Choi, a perpetually late and clumsy executive assistant, struggles through her morning commute and arrives at work to face her perfectly composed, older boss, Daniel Yoon. She immediately makes a mess, reinforcing her self-perception as a disaster.",
+  "word_count": 709,
+  "confidence": "high"
+}

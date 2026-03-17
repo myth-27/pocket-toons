@@ -1,0 +1,326 @@
+{
+  "title_header": "Episode 6",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "WARNING: THIS EPISODE CONTAINS STRONG LANGUAGE THAT MAY NOT BE SUITABLE FOR SOME READERS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU TOOK A PHOTO OF THAT PART?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YEP, WANNA SEE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "NOPE~ I CAN'T SEE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I WANNA SEE! IF ONLY DANIEL WASN'T HERE!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DON'T BE SO COY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH MY!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "WHAT ARE YOU TALKING ABOUT? BOYS! DO NOT SHOW IT!!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I WAS JUST LISTENING LIKE ALWAYS.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "ZACK'S PUNCH IS LIGHTNING FAST, REALLY. I COULDN'T SEE HIS FIST!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HAHAHA",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HEY, STOP, I'M NOT PROUD OF IT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TALK A LITTLE LOUDER! LOUDER!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "ARE THEY HEARING THIS? NEWBIE? MIRA?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MY STRENGTH! ZACK IS SCARY. I CAN'T COMPETE.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "I REALLY HATE THAT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHY DON'T YOU JUST GO OUT WITH HIM? HE'S NICE TO YOU~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "HE'S ALWAYS FIGHTING.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MIRA",
+      "line": "A WHILE AGO, HE INVITED ME TO A MOVIE, BUT HE GOT IN A FIGHT IN THE STREET AGAIN!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I'M NOT REALLY SHOCKED.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT DO YOU MEAN?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU DON'T KNOW?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HE WAS A RISING BOXER IN MIDDLE SCHOOL.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "I'M NOT PROUD OF USING A STRAIGHT PUNCH TO LEAVE HIM GROGGY. I SHOULD'VE THROWN A JAB.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "ENOUGH; AS A BOXER,",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW~ WHAT A PRO~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH, YEAH; HE WAS FAST.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "WHY DO I HAVE TO SIT NEXT TO HIM OF ALL PEOPLE?",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HEY, DANIEL, GOT A GIRLFRIEND?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "DANNY~ WHAT'S UP? LET'S CHILL~",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "SHE'S ALWAYS PROWLING WITH ME.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BEES!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "NO ONE, HUH? CAN STOP HER, LOL. SHE WORKS HARD, KEKE.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HAHA, COME TO THINK OF IT, THAT PIGGY'S MOM MUST BE A PIGGY TOO. PIGS ARE BORN FROM PIGS. HAHAHA. WHAT IF THE PIGGY BRINGS HIS MOM? LOL. BEES, THEY ARE GROSS. THEN I'M GONNA STRIP BOTH NAKED. HAHA. LOL. YOU LUNATIC!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WAS SHE HAPPY AFTER GIVING BIRTH TO HIM?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "HAHA, CRAZY.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "I WOULD HAVE GIVEN HIM UP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "BECAUSE OF ME, MY MOM WAS BEING INSULTED. WHEN SHE DOES HER BEST... IF YOU WANT TO INSULT SOMEONE, JUST INSULT ME! BEFORE I KNEW IT, 'HEY YOU GUYS, YOU'VE GONE TOO FAR!' THE WORDS CAME OUT OF MY MOUTH.",
+      "type": "narration"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "AGAIN; IN FRONT OF MIRA.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HEY, YOU'RE F***ING FUNNY, YOU KNOW THAT?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "GET UP, YOU F***ING WORM!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "FIGHT! FIGHT IN THE FASHION DEPARTMENT! LET'S GO SEE! THEY SAY IT'S THE NEWBIE! WITH ZACK LEE? HOLY! WHERE IS IT? IS HE THAT HANDSOME? LET'S GO WATCH! PRETTY BOY? WHERE'S THE NEW GUY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YAH, DAMN! CAN'T SEE! THERE'S ZACK LEE! LIGHTNING HANDS! AND THE NEW GUY? WHERE IS HE?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "HE TOLD ME TO GET UP, SO I DID.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "CRAZY! AWESOME! HE'S GORGEOUS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "I'M GONNA GET HIT AGAIN.",
+      "type": "thought"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "HEY WUSS, I TOLD YOU TO COME AT ME! LET'S SEE IF HE KNOWS HOW TO FIGHT.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHY'S HE STANDING THERE? F***, I WAS SCARED FOR NO REASON BEFORE. IS HE SCARED?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "OH MAN, I GUESS THAT GUY IS NOT A FIGHTER. ZACK LEE! STOP! THIS'LL BE SAD TO SEE. HIS POSTURE IS POOR. HE'S JUST A PRETTY BOY?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "NICE! ONE PUNCH KNOCKOUT! LET'S DO THIS! WATCH CLOSE, MIRA.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WHAT THE F*** IS HE? WHAT IS JAY DOING?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOW, FIRST TIME I'VE SEEN HIM.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "STEP UP, HE'S USUALLY LIKE A FLY ON THE WALL, BUT HIS GRIP IS INCREDIBLY STRONG!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "MIRA!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "LET GO, YOU DUMBASS!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "ZACK",
+      "line": "NOW YOU'RE DEAD MEAT!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "EVER SINCE I WAS LITTLE, I GOT HIT A LOT. SO AT SOME POINT, I COULD SEE THE FIST COMING SLOWLY, BUT I WAS TOO SLOW. MY BODY WOULDN'T MOVE AS I INTENDED.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "BUT HE DODGED ZACK'S FIST! HE'S CRAZY FAST! AMAZING!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "WOOOOAH! HOW'D HE DO THAT? DID YOU SEE? F***ING INCREDIBLE! WHO IS THIS GUY? WOW!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DANIEL",
+      "line": "TODAY WAS THE FIRST TIME MY BODY FOLLOWED MY WILL.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "SLAM",
+    "WHAM",
+    "BLIP",
+    "UMP",
+    "WUMP",
+    "CRONK",
+    "BUSTLE",
+    "SQUEEZE",
+    "WHACK",
+    "GULP",
+    "WHOOSH",
+    "RIGHT",
+    "ATTACK",
+    "BAM",
+    "OOF",
+    "YIPS"
+  ],
+  "summary": "This episode begins with a warning about strong language. Students tease each other, and Mira expresses frustration with Zack's constant fighting, revealing a cancelled movie date due to his street brawl. Daniel, an observer, is subjected to cruel bullying about his appearance and his mother. Pushed to his breaking point, Daniel confronts the bullies, leading to a fight with Zack Lee in the fashion department. The crowd is initially dismissive of Daniel but becomes astonished as he skillfully dodges Zack's attacks, a feat Daniel realizes is the first time his body has truly obeyed his will.",
+  "word_count": 778,
+  "confidence": "high"
+}

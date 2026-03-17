@@ -1,0 +1,238 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The air in this place... it's strange. Not thick with dust and the metallic tang of blood, but clean. Almost sweet.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Ten years. Ten years since I last saw this sky. Korea. My home. The place I don't remember.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (airplane engines)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (seatbelt unbuckling)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "After a decade spent in the unforgiving crucible of war, the boy known only as 'Number 001' had returned. Not to a battlefield, but to a family he barely knew.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Grandpa",
+      "line": "Ijin! My boy! Look at you, all grown up! You're so tall!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Grandma",
+      "line": "Oh, my poor grandson! You must be exhausted. Come, come, let's get you home.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dayun",
+      "line": "(shyly, peeking from behind Grandma) Oppa...?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Dayun. My sister. She's even smaller than in the photo. Her eyes... they're so bright. No fear. No shadows.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Hello.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The reunion was awkward, filled with unspoken words and a chasm of lost time. But there was warmth. A fragile, unfamiliar warmth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next day, a new mission began: 'High School Student'.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Teacher",
+      "line": "Alright class, settle down! We have a new student joining us today. Please welcome Yu Ijin.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHISPERS (students)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Student 1",
+      "line": "Whoa, he's kinda intense.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Student 2",
+      "line": "Is he a transfer from some tough school? He looks like he's seen things.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Threat assessment: Low. Environmental hazards: Social interaction. Objective: Integrate. Maintain cover.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Yu Ijin. Please take care of me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The day passed in a blur of unfamiliar routines and strange customs. Then came lunch. Another new battlefield, apparently.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "Hey, new kid. You dropped something.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRASH (plastic tray hitting floor)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Threat detected. Aggressor identified. Provocation level: Minor. Response protocol: Non-lethal, deterrent.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bully 1",
+      "line": "What, you gonna cry? Pick up your trash, peasant.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "No.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "What did you say?! You got a death wish, huh?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK (Ijin's grip on his remaining tray, plastic groans)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Control. Remember the mission. No unnecessary casualties. No drawing attention. Just... normal.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(calmly) Apologize.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "You think you're tough, huh?! I'll teach you some manners!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH (Bully Leader's fist swings)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THWACK (a precise, almost silent interception)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bully Leader",
+      "line": "AGH! My wrist! What the—?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(whispering, eyes cold) Don't touch my things again. Or anyone else's. Understand?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD (Bully Leader crumples, clutching his wrist)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A subtle twist, a precise application of pressure. Enough to send a clear message without leaving a mark. The boy from the battlefield was learning to adapt his skills to a new kind of war.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Was that... 'normal'? I think so. No one died. Good.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Dayun",
+      "line": "Oppa, you're home early!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Yes.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dayun",
+      "line": "Did you make any friends today?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Friends. That's a new concept. A luxury I never had. But for her... maybe.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "Not yet.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Dayun",
+      "line": "It's okay! I can help you! We can be friends!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Ijin Yu",
+      "line": "(thought) Her smile. So innocent. So vulnerable. This is my new mission. Protect her. Protect this family. No matter what.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The world was still new, still strange, and filled with unfamiliar dangers. But with Dayun's hand in his, a small part of Ijin felt like he was finally, truly, home.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "RUMBLE",
+    "CLICK",
+    "WHISPERS",
+    "CRASH",
+    "CRACK",
+    "WHOOSH",
+    "THWACK",
+    "THUD"
+  ],
+  "summary": "Ijin Yu, a former child mercenary, returns to Korea after ten years and reunites with his family. On his first day of high school, he encounters bullies and subtly uses his combat skills to deter them, all while trying to adapt to a normal life and protect his younger sister, Dayun.",
+  "word_count": 758,
+  "confidence": "high"
+}

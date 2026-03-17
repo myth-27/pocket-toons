@@ -1,0 +1,234 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Jinwoo had been searching for an affordable apartment for months. The city was ruthless, and his wallet, even more so.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then, he found it. A small studio, surprisingly spacious for its price, in an older building.",
+      "type": "narration"
+    },
+    {
+      "speaker": "LANDLORD",
+      "line": "Just sign here, and here. First month's rent and deposit, please.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) This is almost too good to be true. The landlord was a bit... eager.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RATTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next day, Jinwoo moved in. The apartment was simple, but clean. Everything seemed fine, until he entered the bathroom.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) Whoa. That's... quite a mirror.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Dominating the small bathroom wall was an antique, full-length mirror with an ornate, dark wood frame. It was far too grand for the space.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) Well, at least I won't have to buy one. It's a bit creepy, but functional.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SPLASH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Days turned into a week. Jinwoo settled into his new routine. The mirror became just another fixture.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BRUSH-BRUSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "One evening, as he brushed his teeth, he noticed something odd.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) Did my reflection just... blink slower than me?",
+      "type": "thought"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "Nah, must be tired. Long day.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He shook his head, dismissing it. But the feeling lingered.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRIP... DRIP...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The next morning, while shaving, he saw it again. A fleeting shadow behind his reflection, in the corner of his eye. But when he turned, nothing was there.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) What the hell? Am I seeing things?",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He started to feel uneasy around the mirror. Its ornate frame seemed to watch him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) Maybe I should just cover it up. It's too big anyway.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He found an old sheet and draped it over the mirror. Immediately, a strange chill filled the room.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Later that night, he woke to a soft scratching sound coming from the bathroom.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) What's that noise?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCRAPE... SCRAPE...",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He slowly approached the bathroom door. The scratching grew louder, more insistent.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He pushed the door open slightly. The sheet was gone. The mirror stood exposed, reflecting the dimly lit bathroom.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) No... I covered it!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He stared at his reflection. It was him, but not quite. The eyes were too wide, the smile too slow to form.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP-THUMP (heartbeat)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JINWOO'S REFLECTION",
+      "line": "Come closer, Jinwoo...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The voice wasn't spoken, but echoed directly in his mind. His reflection's hand slowly lifted, palm pressed against the glass.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "(Thinking) This isn't real. It can't be real!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He stumbled backward, fear seizing him. His reflection's smile widened, revealing too many teeth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "JINWOO'S REFLECTION",
+      "line": "Don't you want to see what's on the other side?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The mirror's surface rippled like water. His reflection's hand reached out, phasing through the glass, its fingers stretching towards him.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RIPPLING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "JINWOO",
+      "line": "GET AWAY FROM ME!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He screamed, turning and scrambling out of the apartment, not bothering to grab anything. He didn't stop running until the building was a distant blur.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Back in the empty apartment, the mirror reflected the silent bathroom. Then, a slow, knowing smirk spread across the reflection's face.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SMIRK",
+      "type": "sfx"
+    }
+  ],
+  "sfx_list": [
+    "RATTLE",
+    "SPLASH",
+    "BRUSH-BRUSH",
+    "DRIP",
+    "SCRAPE",
+    "CREAK",
+    "THUMP-THUMP",
+    "RIPPLING",
+    "SMIRK"
+  ],
+  "summary": "Jinwoo moves into a suspiciously cheap apartment and soon discovers that the antique mirror in his bathroom holds a sinister secret. His reflection begins to act independently, eventually attempting to pull him into its distorted reality, forcing Jinwoo to flee in terror.",
+  "word_count": 687,
+  "confidence": "high"
+}

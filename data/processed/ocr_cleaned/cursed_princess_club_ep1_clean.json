@@ -1,0 +1,229 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The kingdom of Imperia was renowned for many things: its sprawling emerald forests, its towering, majestic castles, and most notably...",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "...its incredibly beautiful royal family.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) And then there's me. Princess Gwendolyn, the 'Cursed Princess'.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CREAK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) Another morning. Another day to face the mirror.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SIGH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) My sisters, Maria and Lorena, wake up looking like goddesses. Their hair perfectly coiffed, skin glowing, eyes sparkling.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) Me? I wake up looking like I wrestled a badger in my sleep. And lost.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) My nose is a bit... prominent. My chin, a tad too strong. And my hair... well, it has a mind of its own. A very chaotic mind.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) Father says it's 'character'. Mother says it's 'unique'. But I know what they really mean. I'm the 'plain' one. The 'unfortunate' one.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "KNOCK KNOCK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Maid",
+      "line": "Princess Gwendolyn? Breakfast is served!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "Coming!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) Time to put on my brave face. Or, at least, a face that won't scare the royal chef.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLINK CLATTER",
+      "type": "sfx"
+    },
+    {
+      "speaker": "King",
+      "line": "Ah, Gwendolyn, my dear! There you are! Just in time for my famous royal pancakes!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "Good morning, Father. Mother. Maria, Lorena.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Queen",
+      "line": "My sweet Gwendolyn, you look... rested.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maria",
+      "line": "Your hair has such... volume today, Gwen! It's like a fluffy cloud!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lorena",
+      "line": "Yes, so... natural! Not like our boring, sleek locks.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) A fluffy cloud. That's one way to put it. A fluffy, untamed, slightly singed cloud.",
+      "type": "thought"
+    },
+    {
+      "speaker": "King",
+      "line": "Nonsense, girls! Gwendolyn has a noble countenance! A face that tells a story!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) The story of a princess who accidentally walked into a beehive.",
+      "type": "thought"
+    },
+    {
+      "speaker": "King",
+      "line": "Speaking of stories, Gwendolyn, I've arranged for you to attend the Royal Ball in the neighboring kingdom of Eldoria next month. Perhaps you'll find a suitor!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CHOKE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "A suitor? Father, you know how these things usually go.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Maria",
+      "line": "Oh, but you're so charming, Gwen! You'll sweep them off their feet with your wit!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lorena",
+      "line": "And your lovely, warm smile!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) They mean the one where my nose wrinkles a bit too much and I look like I'm about to sneeze.",
+      "type": "thought"
+    },
+    {
+      "speaker": "King",
+      "line": "Exactly! Now, eat up! You'll need your strength for all that charming!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GULP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) Later that afternoon, I decided a walk in the gardens might clear my head. Or at least, help me avoid thinking about forced charming.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE RUSTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) The roses were particularly vibrant today. Unlike my prospects.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUMP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "Oh! What's this?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Lying on the path, almost hidden by a patch of lavender, was a small, intricately folded piece of parchment.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) It has a peculiar crest. A broken crown, surrounded by thorns...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(reading) 'To Princess Gwendolyn of Imperia. You are cordially invited to a gathering of kindred spirits. Tonight, under the crescent moon. The Cursed Princess Club.'",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) The Cursed Princess Club? Is this some kind of cruel joke? Or... could it be real?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Gwen",
+      "line": "(thought) My heart is pounding. For the first time, I feel a flicker of something other than resignation. Curiosity. And maybe... a tiny bit of hope.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CREAK",
+    "SIGH",
+    "KNOCK KNOCK",
+    "CLINK CLATTER",
+    "CHOKE",
+    "GULP",
+    "RUSTLE RUSTLE",
+    "THUMP",
+    "GASP"
+  ],
+  "summary": "Princess Gwendolyn, feeling self-conscious about her 'cursed' appearance compared to her beautiful sisters, navigates a well-meaning but oblivious royal family breakfast. Later, during a walk in the palace gardens, she discovers a mysterious invitation to the 'Cursed Princess Club'.",
+  "word_count": 765,
+  "confidence": "high"
+}

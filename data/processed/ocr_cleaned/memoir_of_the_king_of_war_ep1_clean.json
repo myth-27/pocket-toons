@@ -1,0 +1,210 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "For a thousand years, the name 'King of War' echoed across the continent. Lee Gyeol. A man who forged an empire from blood and iron, whose blade knew no equal, whose strategies were flawless. He stood as the pinnacle of martial might, a living legend.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But even legends can fall. Not to a stronger foe, but to the venom of ambition, whispered by those he called brothers.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "The poison... burning through my veins. My own generals... my own blood...",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! CRACK! (Sound of a sword breaking)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "My strength... fading. Is this... the end?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! (A heavy body hitting the ground)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The King of War fell. His empire crumbled, his legacy stained. Darkness consumed him. For what felt like an eternity, there was nothing but cold, empty void.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GASP! (A sharp intake of breath)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "Urgh... My head...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "This isn't... the cold stone of the battlefield. This is... soft earth? And the air... it's different.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His eyes fluttered open, greeted not by the familiar crimson of war, but by the dappled sunlight filtering through a canopy of unfamiliar trees. His body felt... alien. Weak. His once formidable muscles were gone, replaced by a lean, almost frail frame.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "My hands... these aren't my hands. They're smaller, uncalloused. What... what happened?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "The poison... it should have killed me. Did I... reincarnate? After how long?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE... RUSTLE... (Footsteps approaching through bushes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bandit 1",
+      "line": "Hey, look what we got here. A fresh one.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bandit 2",
+      "line": "Looks like he just woke up from a long nap. Must be a traveler separated from his caravan.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "Bandits. Common thugs. How dare they approach me with such insolence?",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bandit 1",
+      "line": "Alright, pretty boy. Hand over your coin, and maybe we'll let you keep your teeth.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "My body... it's so sluggish. My senses are dulled. But the instinct... it's still there.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SWISH! (Bandit 1 lunges with a rusty blade)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "Too slow. Pathetic.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH! THWACK! (Lee Gyeol narrowly dodges, then strikes with an open palm)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bandit 1",
+      "line": "GAAH! My arm!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Bandit 2",
+      "line": "He's got some fight in him! Get him!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "Two more. My old self would have ended this before they even drew breath. Now... I feel every strain.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLANG! (Lee Gyeol blocks a crude sword with his forearm, wincing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "This body is fragile. But the knowledge... the techniques... they remain.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK! (Lee Gyeol finds an opening, delivering a precise kick to Bandit 2's knee)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bandit 2",
+      "line": "AGH! My leg!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "One down. The other is disarmed. This is barely a warm-up.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Bandit 3",
+      "line": "What the hell?! He's just a kid!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "A kid? I am Lee Gyeol, the King of War! Even in this weakened state, you insects dare to mock me?",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLASH! (Lee Gyeol snatches Bandit 1's fallen blade, moving with surprising speed)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Bandit 3",
+      "line": "H-he's fast! Run!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD! THUD! (Bandits fall, not dead, but incapacitated by precise strikes)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "Hmph. Still too much effort. This body... it's a cage. But it will not hold me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Lee Gyeol",
+      "line": "The world has changed. My empire is dust. My betrayers likely sit on thrones. But I am not dead. And as long as I draw breath, the King of War will return.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The legend had fallen, but the flame was not extinguished. It merely smoldered, waiting for the right winds to ignite it once more. The King of War had returned, albeit in a different form, and the continent would soon tremble anew.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "CLANG",
+    "CRACK",
+    "THUD",
+    "GASP",
+    "RUSTLE",
+    "SWISH",
+    "WHOOSH",
+    "THWACK",
+    "CRACK",
+    "SLASH"
+  ],
+  "summary": "The legendary King of War, Lee Gyeol, recounts his betrayal and death, only to awaken in a new, weaker body in an unfamiliar world. He quickly encounters a group of bandits, forcing him to adapt his formidable combat knowledge to his frail new form, reaffirming his resolve to reclaim his past power and status.",
+  "word_count": 765,
+  "confidence": "high"
+}

@@ -1,0 +1,238 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "Jinhyuk",
+      "line": "My head... what the hell happened?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The familiar ceiling above him was gone, replaced by rough-hewn stone. The air, thick with dust and the metallic scent of blood, was definitely not his apartment.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "This isn't my room. This isn't even my apartment building. This... this is the 'Tower of Trials'.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "The game I spent ten years mastering, 'Tower of Trials'. It became reality.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Welcome, Player. The 'Tower of Trials' has begun.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Objective: Conquer the Tower.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Conquer the Tower? Easy for you to say. Most people are probably freaking out right now.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Around him, countless others lay sprawled on the cold ground, just as confused. Some were screaming, others crying, their faces etched with terror.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Pathetic. But understandable. This isn't a game for them. It's a death sentence.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "But for me... this is a second chance. A chance to use everything I learned.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Alright, let's see the damage.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Player: Jinhyuk",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Level: 1",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Strength: 10, Agility: 10, Stamina: 10, Magic: 10, Luck: 10",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Base stats. As expected. But my knowledge... that's my real stat.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A faint, ominous glow emanated from a nearby archway. The first floor. The tutorial area.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GROWL",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A grotesque green-skinned creature, barely taller than a child, lunged forward with a rusty dagger. A Goblin.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Other Player 1",
+      "line": "A-a monster!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Other Player 2",
+      "line": "Help!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Amateurs. They don't even know how to hold a stick.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Goblins. Weak to blunt force, slow reaction time. Standard tutorial fodder.",
+      "type": "thought"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Move.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WHOOSH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRACK",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "No weapons yet. Fine. My fists are enough for these low-level trash.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "THUD",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SMASH",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "You have defeated a Goblin.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "You have gained 10 EXP.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Level Up! Level: 2",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Stat points acquired: 5",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "As expected. The grind begins. Strength: +3, Agility: +2. Prioritize what's needed for early game efficiency.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "More goblins appeared, drawn by the commotion. Jinhyuk moved like a phantom, a blur of calculated strikes, each one precise and lethal.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SLASH! THWACK! CRUNCH!",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Other Player 3",
+      "line": "H-how... he's so fast!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Other Player 4",
+      "line": "Is he... a pro gamer?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Pro gamer? More like a max-level veteran trapped in a newbie's body. And this is just the beginning.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "You have completed the quest 'Clear the First Floor Tutorial Area'.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SYSTEM",
+      "line": "Reward: Skill 'Basic Swordsmanship (F)', 100 EXP, 50 Gold.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Basic Swordsmanship... useful. But I know where the real treasure lies.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "A new portal shimmered, leading deeper into the Tower, beckoning him towards the next challenge.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "Alright, Tower. Let's see if you can still surprise me.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Jinhyuk",
+      "line": "This isn't a game anymore. This is my new reality. And I'm going to dominate it.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GROWL",
+    "WHOOSH",
+    "CRACK",
+    "THUD",
+    "SMASH",
+    "SLASH",
+    "THWACK",
+    "CRUNCH"
+  ],
+  "summary": "Jinhyuk, a former pro gamer, wakes up to find himself in the 'Tower of Trials'—the game he mastered, now a deadly reality. While others panic, Jinhyuk calmly assesses his situation and uses his max-level knowledge to efficiently clear the first floor's goblin tutorial, setting the stage for his dominance.",
+  "word_count": 725,
+  "confidence": "high"
+}

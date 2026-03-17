@@ -1,0 +1,150 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "The year is 2342. The Great Famine of '87 left the world scarred, its once vibrant cities now skeletal monuments to a forgotten era. Humanity clings to existence in scattered enclaves, while the forgotten zones... they belong to the scavengers.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "WIND HOWLS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRUNCH (gravel underfoot)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "(thought) Another day, another dead end. This sector was supposed to be untouched. 'Supposed to be' is a lie I tell myself every morning.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KAI",
+      "line": "Scanner, anything? Just a whisper, a flicker...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "SCANNER BEEPING (faint, then steady)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "Whoa. What's this? Not a power conduit, not a data chip... the energy signature is off the charts. And it's... organic?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUSTLE (Kai pushing aside debris)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "(thought) Deep within the ruins of Sector Gamma, beneath layers of dust and petrified flora, something glows. A soft, pulsing emerald light. It's nestled in a broken server rack, almost like it grew there.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KAI",
+      "line": "Incredible. It looks like... a seed. But no plant I've ever seen. Too perfect, too smooth. And that light...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUMMING (low, resonant)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "It's warm. And it's singing. What are you, little one?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "GLOW INTENSIFIES",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "(thought) My scanner's going wild. It's not just energy; it's... information. A torrent of data, flooding my comms, bypassing my firewalls. Images, symbols, a language I don't understand, but somehow... I feel it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KAI",
+      "line": "This isn't just a discovery. This is... an event.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DISTANT DRONE WHIRRING",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "Damn it. Not alone. Someone else detected the spike.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "KAI",
+      "line": "(thought) The Enclave. They're always watching, always searching for anomalies like this. They won't hesitate to take it, or me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "KAI",
+      "line": "I need to move. Now. Before they pinpoint my location.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "QUICK FOOTSTEPS",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "(thought) The 'Seed' fits perfectly in my hand, its warmth a comforting, yet unsettling, presence. It feels alive. And it feels like it chose me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "SFX",
+      "line": "DRONE WHIRRING (closer, louder)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "KAI",
+      "line": "Alright, little one. Let's see what you're capable of.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "ENERGY PULSE (faint, from the Seed)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "With the mysterious artifact clutched tight, Kai vanishes into the labyrinthine shadows of the forgotten city, unaware that his life, and perhaps the future of humanity, has just been irrevocably altered.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The chase has begun.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "WIND HOWLS",
+    "CRUNCH",
+    "SCANNER BEEPING",
+    "RUSTLE",
+    "HUMMING",
+    "GLOW INTENSIFIES",
+    "DISTANT DRONE WHIRRING",
+    "QUICK FOOTSTEPS",
+    "DRONE WHIRRING",
+    "ENERGY PULSE"
+  ],
+  "summary": "In a desolate future, scavenger Kai discovers a mysterious, glowing 'Seed' with immense power and unknown origins. His find quickly attracts unwanted attention from a powerful organization, forcing him to flee with his incredible discovery.",
+  "word_count": 605,
+  "confidence": "high"
+}

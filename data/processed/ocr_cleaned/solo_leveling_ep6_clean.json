@@ -1,0 +1,316 @@
+{
+  "title_header": "Episode 6: Standing on the Brink",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "Dear researchers of the Garden: Thank you all for attending this briefing on such short notice. Today, we are celebrating the fact that we have finally found our lost Butterfly.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "In the past, we lost a precious Butterfly child in an unforeseen incident. But now, that child has safely returned to the Garden. This child standing right in front of you is the Fourth Butterfly.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "His name is Maehwa Baek.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SARA",
+      "line": "Hey, Maehwa!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Day and night, the Garden is striving tirelessly to exterminate the Bugs.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SARA",
+      "line": "Haha, don't be nervous! You're doing great!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Oh, it's Sara. So she was over there.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But with each passing day, the growing Bug population is proving too much to handle for our Butterflies. And next to him is...",
+      "type": "narration"
+    },
+    {
+      "speaker": "DOCTOR SEO",
+      "line": "Good job, Maehwa.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Ah, Doctor Seo.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOCTOR SEO",
+      "line": "It must have been uncomfortable being on stage like that for the first time, but you handled it very well. Hehe.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "T-Thank you. But all I did was stand there.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOCTOR SEO",
+      "line": "Maehwa, you have no idea how relieved everyone was when they saw you return alive and well. All of us are hoping that in the future, you'll be a big help to us.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Ah. A big help?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Well, to be honest, I don't know if I can do that. I've lived such a normal life until now, so I don't really know anything. I'm not sure how useful I'll be.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOCTOR SEO",
+      "line": "You'll be fine. I know you will. You're going to be a huge help to us.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Uh...",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "DOCTOR SEO",
+      "line": "Anyway, don't stress yourself out. Great job today, get some rest and I'll see you.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Ah, sure. See you later.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SARA",
+      "line": "Maehwa, you did great!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Jeez! Sara?!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Careful, Sara, you might fall over. She's like a child.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SARA",
+      "line": "I-I didn't fall over, so it's fine!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SARA",
+      "line": "Say hi, Maehwa! These are the researchers who work in the Guardhouse.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER",
+      "line": "Nice to meet you! We'll be the ones supporting you and the rest of the Butterflies from now on.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "H-Hello.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER",
+      "line": "Wow, we finally get to meet the Fourth Butterfly! You're so cute! How old are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "I'm 20 years old.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SARA",
+      "line": "Haha, he sure is popular. All right, now that you've met them, are you hungry?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Huh?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SARA",
+      "line": "Let's go and eat!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHERS",
+      "line": "We're heading to work! See you later! Have a nice day!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Whew, what a busy day. I was actually feeling pretty nervous earlier.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Is the dorm this way?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "It's a strange feeling though, laughing and talking to people other than Huina. It's been so long since I've done that. It doesn't even feel real. I've never felt so welcome before.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "I need to quickly catch up with the other Butterflies.",
+      "type": "thought"
+    },
+    {
+      "speaker": "RESEARCHER A",
+      "line": "To be honest, I don't trust him. The Fourth Butterfly, I mean.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Huh? Are they talking about me?",
+      "type": "thought"
+    },
+    {
+      "speaker": "RESEARCHER A",
+      "line": "They keep telling us how he's a great addition to our manpower, but I just don't trust him.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER B",
+      "line": "Same here. I saw footage of him earlier where he lost control of his power and attacked the First Butterfly.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER A",
+      "line": "What if making them work together puts the other Butterflies in danger?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER B",
+      "line": "Yeah, we wouldn't want the other Butterflies to get hurt because of him. How can he not even control his own power?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER A",
+      "line": "There's never been a Butterfly like that before.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER B",
+      "line": "Plus, all the other Butterflies have been training since they were little. It's also suspicious that the Garden kept the very existence of the Fourth Butterfly a secret for so long. If there weren't any serious side effects or potential risks, why would they keep this to themselves and only tell us about him now? Doctor Seo and the other Directors must be hiding something. I'm not sure we should let that kid work as a Butterfly.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER A",
+      "line": "But we're desperate, so we don't really have a choice. All we can do is follow the Directors' orders.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "RESEARCHER B",
+      "line": "Come on, let's go or we'll be late.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "They're right. I don't know anything about myself. I don't know where I was born, or why I'm the only one like this. What if I go on a mission and lose control again like last time?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "In fact, it's not just the missions. What if I was attacked right now or cut myself by accident? Who knows what might happen? But I'm going to have to face situations like that from now on. If I mess up, will they abandon me? Would I have to go back? To an empty apartment without Huina, or anyone else? Avoiding people forever, and not fitting in anywhere. All alone.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "'I know you will.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "'You're going to be a huge help to us.'",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "That's right. I have nowhere to go and I can't go back now. So I'll just have to work extra hard to fit in here.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Huh? What's this? Where did all this mist come from?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Can it even get foggy in an indoor garden?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "I can barely see in front of me.",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Huh?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "Is that... a Bug?",
+      "type": "thought"
+    },
+    {
+      "speaker": "MAEHWAL",
+      "line": "What the heck is a Bug doing in here?",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "GLANCE",
+    "CHATTER",
+    "GULP",
+    "GLARE",
+    "HMPH",
+    "TURN",
+    "SIGH",
+    "SQUEEZE",
+    "PAT",
+    "BEAM",
+    "CLACK CLACK",
+    "MA HA Hehe",
+    "WOAH",
+    "AHAHA",
+    "WHEW",
+    "THUMP THUMP",
+    "FREEZE",
+    "PAUSE",
+    "SWRL SWRL",
+    "FOCCY",
+    "STEP"
+  ],
+  "summary": "Maehwa Baek, the Fourth Butterfly, is formally introduced to the Garden's researchers, who express relief at his return. Despite Doctor Seo's encouragement, Maehwa overhears other researchers expressing distrust due to his past loss of control, leading him to resolve to work harder. The episode concludes with a mysterious fog appearing in the indoor garden, followed by the sudden appearance of a 'Bug'.",
+  "word_count": 1090,
+  "confidence": "high"
+}

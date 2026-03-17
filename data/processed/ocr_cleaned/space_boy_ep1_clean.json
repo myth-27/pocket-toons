@@ -1,0 +1,206 @@
+{
+  "title_header": "Episode 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "They say home is where the heart is. But what if your heart is scattered across a thousand memories, all tied to a place you're about to leave forever?",
+      "type": "narration"
+    },
+    {
+      "speaker": "AMY",
+      "line": "...",
+      "type": "thought"
+    },
+    {
+      "speaker": "AMY",
+      "line": "Just one more box, Dad.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "Almost ready, Amy? The shuttle leaves in an hour.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CRINKLE (of packing paper)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "AMY",
+      "line": "I know.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "It's just... hard to decide what's worth taking.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "We've got plenty of storage on the ship. Don't stress too much about it. What matters is us.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He meant well. He always did. But how do you pack up a lifetime? How do you fit the smell of rain on pavement, the sound of my best friend's laugh, the way the sunlight hit my bedroom window in the mornings... into a box?",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "CLICK (of a box lid closing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "AMY",
+      "line": "Okay. I'm ready.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "That's my girl. Come on, let's get you settled.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The shuttle ramp extended like a metallic tongue, swallowing us whole. The air inside was sterile, recycled. Nothing like the fresh breeze of Earth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HISS (of the ramp closing)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "SFX",
+      "line": "HUM (a low, constant thrum of the ship)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "AMY",
+      "line": "It's... quiet.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "Most of the crew are already in cryo-sleep. It's a long journey, sweetie.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "How long, again?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "Three years. Give or take a few months, depending on the stellar currents.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "Three years.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "(Thought) Three years of nothing but this hum. Three years away from everything I've ever known. And then, a new planet. A new school. A new everything.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I walked through the narrow corridors, past rows of sealed cryo-pods. Each one a silent sleeper, dreaming of a destination I couldn't even picture.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "BEEP (a soft, rhythmic pulse from a console)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "AMY",
+      "line": "Is this our cabin?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "Yep. Compact, but it's home for the next few years. And look!",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "Your very own viewport.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "He gestured to a small, circular window. I peered out, expecting to see stars, or perhaps the receding blue marble of Earth.",
+      "type": "narration"
+    },
+    {
+      "speaker": "AMY",
+      "line": "It's... black.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "(Thought) Just an endless, inky blackness. No stars, no planets, no familiar light. Just the void.",
+      "type": "thought"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "We haven't left the atmosphere yet, sweetie. Give it time.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "But even as he spoke, I felt it. A subtle lurch, a deep, resonant rumble that vibrated through the floor, through my very bones.",
+      "type": "narration"
+    },
+    {
+      "speaker": "SFX",
+      "line": "RUMBLE (deep, powerful engine ignition)",
+      "type": "sfx"
+    },
+    {
+      "speaker": "FATHER",
+      "line": "There we go. Liftoff.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "AMY",
+      "line": "...",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The black outside the viewport began to swirl, then streak. Not with light, but with the blurring speed of our ascent.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "I pressed my hand against the cool glass, watching as Earth, my home, became nothing more than a memory, receding into the vast, indifferent expanse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "AMY",
+      "line": "(Thought) Goodbye, Earth. Hello... nothing.",
+      "type": "thought"
+    }
+  ],
+  "sfx_list": [
+    "CRINKLE",
+    "CLICK",
+    "HISS",
+    "HUM",
+    "BEEP",
+    "RUMBLE"
+  ],
+  "summary": "Amy prepares to leave Earth with her father, packing her last belongings and reflecting on the home she's leaving behind. They board a spaceship, and as the journey begins, Amy feels the profound loneliness of being launched into the vast, unknown expanse of space.",
+  "word_count": 725,
+  "confidence": "high"
+}

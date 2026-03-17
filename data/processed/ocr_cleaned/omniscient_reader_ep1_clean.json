@@ -1,0 +1,109 @@
+{
+  "title_header": "EPISODE 1",
+  "dialogue": [
+    {
+      "speaker": "NARRATOR",
+      "line": "It was a serialized web novel that no one seemed to read: Three Ways to Survive the Apocalypse.",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Dokja",
+      "line": "Why doesn't anyone read this? It is a masterpiece!",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Then again, who would read a web novel that has over 3,000 episodes?",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "RATTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "Kim Dokja",
+      "line": "I'm the only reader and it even took me ten years to get to the last episode.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "RATTLE",
+      "type": "sfx"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Rattle",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "Back then, I had no idea.",
+      "type": "narration"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "On the day I finished the web novel...",
+      "type": "narration"
+    },
+    {
+      "speaker": "Kim Dokja",
+      "line": "No way... This is...",
+      "type": "thought"
+    },
+    {
+      "speaker": "Kim Dokja",
+      "line": "I know how this story goes.",
+      "type": "thought"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "MURMUR",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The story I had been reading alone for the past ten years turned into reality.",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "YOU.",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "Who the hell are you?",
+      "type": "dialogue"
+    },
+    {
+      "speaker": "Kim Dokja",
+      "line": "I can't believe it is the final episode. I'm too nervous to even open it.",
+      "type": "thought"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "The ending...",
+      "type": "narration"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "line": "TAP",
+      "type": "sfx"
+    },
+    {
+      "speaker": "NARRATOR",
+      "line": "...became the only person who knew how the world was going to end: Omniscient Reader.",
+      "type": "narration"
+    }
+  ],
+  "sfx_list": [
+    "RATTLE",
+    "Rattle",
+    "MURMUR",
+    "TAP"
+  ],
+  "summary": "The protagonist, Kim Dokja, is the sole reader of a 3,149-episode web novel called \"Three Ways to Survive the Apocalypse.\" After ten years, he finishes the novel, only for its fictional world to become reality, leaving him as the only one who knows its future.",
+  "word_count": 164,
+  "confidence": "high"
+}
