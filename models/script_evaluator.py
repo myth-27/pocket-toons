@@ -34,7 +34,12 @@ if sys.platform == "win32":
         sys.stdout = codecs.getwriter("utf-8")(sys.stdout.buffer, "strict")
         sys.stderr = codecs.getwriter("utf-8")(sys.stderr.buffer, "strict")
 
-API_KEY = "AIzaSyDjTbMfOBG4XyDvItY2OGGKzgZBoCWAzFI"
+try:
+    import streamlit as st
+    API_KEY = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    API_KEY = os.environ.get("GEMINI_API_KEY", "")
+
 MODEL = "gemini-2.5-flash"
 CLEANED_DIR = Path("data/processed/ocr_cleaned")
 OUTPUT_PATH = Path("data/ml_dataset/script_evaluations.jsonl")
